@@ -27,7 +27,4 @@ RUN pip --version
 RUN pip install spacy
 RUN python -m spacy download en
 
-COPY neo4j-community-3.5.3-unix.tar.gz /
-RUN tar xf /neo4j-community-3.5.3-unix.tar.gz && rm -f /neo4j-community-3.5.3-unix.tar.gz
-
 CMD bash
