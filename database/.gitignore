@@ -1,0 +1,15 @@
+# Python files
+*.egg*
+__pycache__*
+
+# Log files
+*.log
+
+# Instance variables
+instance/*
+# Except for the default config
+!instance/default_config.py
+
+# VirtualEnv
+venv/
+pip-selfcheck.json
