@@ -5,8 +5,3 @@ __pycache__/
 
 # Logs
 *.log
-
-# Emacs files
-.backups/
-\#*
-.\#*
