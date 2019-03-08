@@ -17,6 +17,9 @@ import logging
 from os import environ
 from logging.handlers import RotatingFileHandler
 
+from flask_sqlalchemy import SQLAlchemy
+db = SQLAlchemy()
+
 from .views.api import api
 
 def create_app(config_name):
@@ -26,6 +29,11 @@ def create_app(config_name):
     mode = app.config.get('MODE', 'DEV')
 
     app.register_blueprint(api)
+
+    DB_URI = app.config['DB_URI']
+    app.config['SQLALCHEMY_DATABASE_URI'] = DB_URI
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+    db.init_app(app)
 
     import OSS.views
 
