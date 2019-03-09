@@ -5,3 +5,10 @@ __pycache__/
 
 # Logs
 *.log
+
+# Vim backups
+*~
+**/*~
+
+# mypy cache
+.mypy_cache
