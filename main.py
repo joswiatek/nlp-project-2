@@ -4,6 +4,7 @@ import json
 import functools
 import spacy
 from spacy.symbols import PRON
+import string
 from neo4j import GraphDatabase
 
 
@@ -37,14 +38,14 @@ def substitutePronouns(playText: List[Tuple[str, str]], verbose: bool = False) -
     currchar = None
 
     for i, (character, dialogue) in enumerate(playText):
-        currchar = character
+        currchar = string.capwords(character)
         doc = parser(dialogue)
         subs = ''
         for j, word in enumerate(doc):
             if word.pos == PRON and word.lower_ in ['i', 'me']:
                 if verbose:
-                    print(f'substituting {word.text} to {character.capitalize()}')
-                subs += word.text_with_ws.replace(word.text, character.capitalize())
+                    print(f'substituting {word.text} to {currchar.capitalize()}')
+                subs += word.text_with_ws.replace(word.text, currchar.capitalize())
             elif word.pos == PRON and word.lower_ in ['you', 'thou', 'thee'] and prevchar is not None:
                 if verbose:
                     print(f'substituting {word.text} to {prevchar.capitalize()}')
