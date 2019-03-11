@@ -203,7 +203,44 @@ def extractRelationships(playText: List[Tuple[str, str]], verbose: bool = False)
     """
     return relations
 
-def postProcess(triples: List[Tuple[str, str, str]]) -> List[Tuple[str, str, str]]:
+def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> List[Tuple[str, str, str]]:
+    """
+    This function performs some simple post-processing of the triples by
+    removing triples that are proper subsets of others. We are removing
+    "dominated" relations in the sense that all of their information is
+    contained within another relation.
+    Args:
+        triples: The triples to process
+        verbose: True indicates verbose output should be shown.
+    Returns:
+        This function returns a processed list of relations as triples.
+    """
+    if verbose:
+        print('POST PROCESSING RELATIONS')
+        print('%d triples before removing dominated relations' % len(triples))
+
+    # Compare every relation to every other relation
+    triplesToRemove = set()
+    for i in range(len(triples)):
+        for j in range(i+1, len(triples)):
+            # If both triples are already being removed we don't need to check
+            if i not in triplesToRemove or j not in triplesToRemove:
+                # Check if i is dominated by j
+                if all(set(a.split()).issubset(b.split()) for a, b in zip(triples[i], triples[j])):
+                    if verbose:
+                        print('Found domination: "%s" is dominated by "%s"' % (triples[i], triples[j]))
+                    triplesToRemove.add(i)
+                # Check if j is dominated by i
+                elif all(set(a.split()).issubset(b.split()) for a, b in zip(triples[j], triples[i])):
+                    if verbose:
+                        print('Found domination: "%s" is dominated by "%s"' % (triples[j], triples[i]))
+                    triplesToRemove.add(j)
+
+    if verbose:
+        print('Removed %d dominated relations. %d relations left after removal' % (len(triplesToRemove), len(triples) - len(triplesToRemove)))
+
+    # Remove the triples at the indices in triplesToRemove
+    triples = list(map(lambda i: i[1], filter(lambda v: v[0] not in triplesToRemove, enumerate(triples))))
     return triples
 
 def writeToDB(triples: List[Tuple[str, str, str]]) -> None:
@@ -216,6 +253,7 @@ def main():
     playText = coreferenceResolve(playText, verbose=False)
     playText = spacy(playText, verbose=False)
     relations = extractRelationships(playText, verbose=False)
+    relations = postProcess(relations, verbose=True)
     print(relations)
     return
 
