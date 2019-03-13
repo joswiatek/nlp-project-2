@@ -10,6 +10,8 @@ from OSS import db
 class Characters(db.Model):
     charid = db.Column(db.String(50), primary_key=True)
     charname = db.Column(db.String(255), nullable=False)
+    works = db.Column(db.String(255), nullable=False)
+    description = db.Column(db.String(255), nullable=False)
 
     def __repr__(self):
         return self.charname
