@@ -1,0 +1,3114 @@
+<T>
+ARCHIDAMUS
+Camillo, if you ever happen to accompany your King to Bohemia, as I am accompanying mine to Sicilia, youll see theres a great difference between our countriesand our masters.
+</T>
+<T>
+CAMILLO
+I think the King of Sicilia plans to visit the King of Bohemia this coming summer.
+</T>
+<T>
+ARCHIDAMUS
+If our hospitality is inadequate, well make up for it with our love for you; in fact
+</T>
+<T>
+CAMILLO
+Please
+</T>
+<T>
+ARCHIDAMUS
+Truly, I say it from experience. We cant match the magnificence, the excellenceI dont even know how to describe it. Well give you drinks to dull your senses, so that you wont be aware of our inadequacies, and even if you will be too sleepy to praise us, you wont be able to accuse us of negligence, either.
+</T>
+<T>
+CAMILLO
+You are putting too great a value on something that is given for free.
+</T>
+<T>
+ARCHIDAMUS
+Believe me, I say what my knowledge tells me, and I say it honestly.
+</T>
+<T>
+CAMILLO
+The King of Sicily could never be anything but kind to the King of Bohemia. They were brought up together as children, and so they have a deep-rooted affection for one another that can only grow. Because of their adult responsibilities and their duties as kings, they have not been able to meet personally. Instead their meetings have taken place via royal deputies and through the exchange of presents, letters, and fond words. Through these means theyve stayed in touch despite the great distance between them. May the heavens keep their friendship strong!
+</T>
+<T>
+ARCHIDAMUS
+I dont think there is anything in the world that can shake their friendship. And you have an indescribable comfort in the young prince Mamillius. He has the greatest potential of any young gentleman Ive ever seen.
+</T>
+<T>
+CAMILLO
+I agree with you regarding his potential. He is a noble child, and he is like a medicine for his subjects. The old feel young, and those who were crippled even before he was born now hope to live long enough to see him grow into a man.
+</T>
+<T>
+ARCHIDAMUS
+Would they otherwise want to die?
+</T>
+<T>
+CAMILLO
+Yes, if they didnt have any other reason for them to want to live.
+</T>
+<T>
+ARCHIDAMUS
+If the king didnt have a son, they would want to live as cripples until he had one.
+</T>
+<T>
+POLIXENES
+It has been nine months since I left my throne. I could happily spend another nine months away, but I must leave now, forever in your debt. So, like a zero, which means nothing but adds value when placed beside a numberFor instance, placing a zero next to 1 makes it 10.adds value when placed beside a number, my one thank you will multiply the thousand more Ive already said.
+</T>
+<T>
+LEONTES
+Dont thank me yet. Wait until you leave.
+</T>
+<T>
+POLIXENES
+Sir, I leave tomorrow. Im fearful of what might happen by chance, or what plot may develop, because of my absence, and I worry my fears will be confirmed. Besides, Ive worn you out with my company.
+</T>
+<T>
+LEONTES
+You couldnt wear me out if you tried.
+</T>
+<T>
+POLIXENES
+I cant stay any longer.
+</T>
+<T>
+LEONTES
+Just one more week.
+</T>
+<T>
+POLIXENES
+Really, tomorrow.
+</T>
+<T>
+LEONTES
+Well split the difference, and I wont hear any objections.
+</T>
+<T>
+POLIXENES
+Please, dont plead with me. There is no one who can persuade me like you can, and you could persuade me to stay now if you really needed me to, even if it were necessary that I deny your request. My business does drag me home, so your attempts to keep me here, though done out of love, are painful to me. My staying only costs you and causes you trouble, so for both our sakes, I must go.
+</T>
+<T>
+LEONTES
+My queen, are you mute? Speak.
+</T>
+<T>
+HERMIONE
+I intended to keep quiet until youd made him promise to stay. You argue too mildly. Tell him you are sure that things in Bohemia are finein fact, just the other day it was proclaimed so. Tell him this, and his best argument for leaving is gone.
+</T>
+<T>
+LEONTES
+Well said, Hermione.
+</T>
+<T>
+HERMIONE
+If he says that he wants to see his son, thats a strong argument. But let him say it first, then let him go. If he swears to that, he wont stay. Well chase him off by whacking him with wooden staffs. But Im guessing he will remain in your presence another week. (to Polixenes) When you receive my lord in Bohemia, Ill give him permission to stay a month past his fixed departure day. (to Leontes) Yet, Leontes, I dont love you a jot less than any other woman loves her lord. Polixenes, youll stay?
+</T>
+<T>
+POLIXENES
+No, madam.
+</T>
+<T>
+HERMIONE
+No, but you will?
+</T>
+<T>
+POLIXENES
+I cant, honestly.
+</T>
+<T>
+HERMIONE
+Honestly! You counter me with weak vows, but even if you would try to take the stars out of the sky with your oaths, Ill still say you are not going. Truly, you wont gomy truly is as powerful as yours. Will you still go? Youll force me to keep you like a prisoner, not like a guest, and youll have to pay a fine at the end, rather than give us thanks. What do you think? My prisoner, or my guest? Truly, as you say, youll be one of the two.
+</T>
+<T>
+POLIXENES
+Your guest then, madam. Being your prisoner would suggest Ive offended you, which would be more difficult and painful for me than your punishment.
+</T>
+<T>
+HERMIONE
+I wont be your jailer, then, but your kind hostess. Come, Ill ask you about the tricks you and my husband played when you were boys. You were handsome princes then?
+</T>
+<T>
+POLIXENES
+We were, fair queen, two young boys who thought that tomorrow would be just like today, and that we would be boys forever.
+</T>
+<T>
+HERMIONE
+Was my husband the bigger prankster of you two?
+</T>
+<T>
+POLIXENES
+We were like two lambs that played in the sun and bleated at one another. We were wholly innocent. We didnt know what it was to do harm, or even that anyone did. Had we continued this way, and had our weak spirits never given way to stronger passions, we could have said upon reaching Heaven that we were not guilty, and we would have been cleared even of original sinThe doctrine that all people are born tainted by sin because the first humans, Adam and Eve, disobeyed God.original sin.
+</T>
+<T>
+HERMIONE
+I take it that you have not been so innocent since?
+</T>
+<T>
+POLIXENES
+Most sacred lady! Weve had our temptations since then. In those youthful days my wife was just a girl, and my playfellow had not yet seen you.
+</T>
+<T>
+HERMIONE
+Heaven help me! Dont pursue that train of thought, or youll go on to say that your wife and I are devils. Still, keep going. Well take responsibility for whatever sins weve made you commit, as long as those sins were committed first with us, only with us, and youve never sinned with any other.
+</T>
+<T>
+LEONTES
+Is he won over yet?
+</T>
+<T>
+HERMIONE
+Hell stay, my lord.
+</T>
+<T>
+LEONTES
+When I requested it he would not. Hermione, my dearest, youve never spoken so well.
+</T>
+<T>
+HERMIONE
+Never?
+</T>
+<T>
+LEONTES
+Only once before.
+</T>
+<T>
+HERMIONE
+What! Ive only spoken well twice? When was the last time? Please, tell me. Fill me up with praise and make me as fat as a pet. If one good deed goes unrecognized, the thousand more that might have been inspired by it will never occur. Praise is our motivation and reward. One soft kiss will take you two hundred yards; a sharp kick only gets you an acre. But back to the point: my last good deed was to plead for Polixenes to stay. What was my first good deed? Unless Im misunderstanding what you said, there was an earlier one. Oh, if only my name were Grace! So once before Ive spoken well. When? Tell me, please, I long to know.
+</T>
+<T>
+LEONTES
+Why, it was when three bitter months had passed before I could get you to pledge your love to me with your white hands. And then you said, I am yours forever.
+</T>
+<T>
+HERMIONE
+It is grace, indeed. According to you, I have spoken well twice: once to earn a royal husband and again to keep a friendThe word friend could also mean lover, a meaning Leontes refers to in the speech that follows.friend a while longer.
+</T>
+<T>
+LEONTES
+(aside) That is too much! To take friendship too far is to make it a love affair. My heart is trembling and dancing, but not for joy. This hospitality may have an innocent face, and my wifes generosity may in fact come from warmth, affection, and the fact that it makes her more attractive. Maybe. But to hold hands, as they are doing right now, and flirtatiously smile at each other as though into a mirror, all the while sighing as loud as a horn blastShakespeares original language referred to the horn sounded in hunting to signal the death of a hunted deer.horn blast, that is not entertainment that pleases my heart, or my head. Mamillius, are you my son?
+</T>
+<T>
+MAMILLIUS
+Yes, my good lord.
+</T>
+<T>
+LEONTES
+In faith! Thats my fine fellow. What, have you smudged your nose? They say it looks just like mine. Come on, captain, you must be neatThe term refers to cattle with horns, leading to Leontess comment in the next sentence.neat, that is, clean. Yet the steer, the heifer, and the calf are all called neat. Still playing her fingers up and down his palm! What are you up to, you silly calf? Are you my calf?
+</T>
+<T>
+MAMILLIUS
+Yes, if youd like me to be, my lord.
+</T>
+<T>
+LEONTES
+You need a shaggy head and hornsMen whose wives have been unfaithful, or cuckolds, were often depicted with horns.horns to be just like me. Still, they say we are as alike as a pair of eggs. Women say that, and they will say anything. But even if they were as false as Africans or black fabricA common belief at the time was that Africans were sexually promiscuous and thus false in that they werent faithful. Black fabric, meanwhile, became weak, or false, as a result of the chemicals used to make the black dye.as false as Africans or black fabric, or as fickle as the wind and the water, or fixed as a cheating gambler wants the dice to be, it would still be true that this boy looks like me. Come, sir page, look at me with your sky blue eye. Sweet villain! Dearest! My flesh! Can your mother have? Could it be? Jealousys intensity strikes me through to my heart and makes things that are impossible seem possible. That jealousy speaks in dreams. How can this be? It collaborates with whats unreal and corresponds to nothing in real life. Then its very believable that my jealousy may be real, and shes gone beyond whats permitted, and I would find out and grow insane, and my brow would harden into horns.
+</T>
+<T>
+POLIXENES
+What is Leontes saying?
+</T>
+<T>
+HERMIONE
+He seems upset.
+</T>
+<T>
+POLIXENES
+How are you, my lord?
+</T>
+<T>
+LEONTES
+What news? How are you, my best brother?
+</T>
+<T>
+HERMIONE
+You look distracted. Are you upset, my lord?
+</T>
+<T>
+LEONTES
+No, truly. Sometimes nature shows its weakness, its tenderness, and makes itself a source of amusement for harder hearts. Looking at my boys face, I thought I had gone back twenty-three years and saw myself without trousersLeontes means he saw himself as a young boy who was not yet wearing mens clothing. In England at the time, boys younger than six were dressed in gowns. Putting a boy in trousers, or breeches, signified the boys transition out of childhood.without trousers, in my green velvet coat, with my dagger carefully sheathed so I would not hurt myself on it and so it wouldnt prove too dangerous, as toys often do. I thought how alike I was at that age to this child, this young boy, this gentleman. My honest friend, will you accept something relatively worthless in exchange for something valuable?
+</T>
+<T>
+MAMILLIUS
+No, my lord, Ill fight.
+</T>
+<T>
+LEONTES
+You will! May happiness be his fortune! My brother, are you as fond of your young prince as I seem to be of mine?
+</T>
+<T>
+POLIXENES
+When Im home, sir, hes my occupation, my laughter, all I worry about. First hes my sworn friend, then hes an enemy, a freeloader, a soldier, and a statesman, all together. He makes a long summers day feel as short as a day in the middle of winter. And his childish ways keep me from gloomy thoughts.
+</T>
+<T>
+LEONTES
+This young squire here does the same for me. He and I will walk along, my lord, and leave you to your slower steps. Hermione, show how much you love us in how you entertain our brother. Give him whatever he wants, no matter how expensive. After you and my young son, hes dearest to me.
+</T>
+<T>
+HERMIONE
+If you are looking for us, well be in the garden. Should we wait for you there?
+</T>
+<T>
+LEONTES
+Do whatever pleases you. Ill find you, if you are anywhere under the sky.
+(aside)
+Im fishing now, though no one sees how I set the line. Go on! Look how she holds up her nose and mouth to him, as if to be kissed. She acts with the boldness of a wife toward her husband!
+</T>
+<T>
+Gone already! A little here, knee deep there, then grow horns over my head and behind my ears! Go, boy, play. Your mother plays around, and I play a role, though my part is one of a disgrace, with the result that Ill be hissed on my way to the grave, with contempt as my funeral bells. Go play, boy, play. Unless Im mistaken, there have been cuckolds before. Even now, as I speak, there is many a man who may hold his wife by the arm without suspecting that she has been unfaithful in his absence, and his neighbor, call him Sir Smile, has been with the woman that belongs to him. Theres comfort in the fact that other men have had wives and those wives have been unfaithful, as mine has, against their will. If everyone whose wife strayed were to despair, a tenth of mankind would hang themselves. Theres no remedy for it, since it is a world full of lust, from east to west and north and south. Theres no barricade you can build around the womb, and ones enemy will go in and out as he pleases. Thousands of us have the disease and dont know it. What now, boy?
+</T>
+<T>
+MAMILLIUS
+I look like you, they say.
+</T>
+<T>
+LEONTES
+Thats some comfort. Camillo, are you there?
+</T>
+<T>
+CAMILLO
+Yes, my good lord.
+</T>
+<T>
+LEONTES
+Go play, Mamillius, thats a good boy.
+</T>
+<T>
+Camillo, my friend Polixenes will stay longer.
+</T>
+<T>
+CAMILLO
+You had to go to great lengths to make him stay. No matter what you said, he insisted he would leave.
+</T>
+<T>
+LEONTES
+Did you see it?
+</T>
+<T>
+CAMILLO
+He wouldnt heed your pleas, but said his business was too important.
+</T>
+<T>
+LEONTES
+You saw it?
+(aside) People know my secret already, and they are whispering and murmuring, Sicilia is a such-and-such. It is already so well known while I am just figuring it out. Camillo, how did it happen that he stayed?
+</T>
+<T>
+CAMILLO
+Because the good queen asked him.
+</T>
+<T>
+LEONTES
+True, because of the queen. Good should be an appropriate description, but under the circumstances it isnt. Did anyone else see that it happened this way? Since you notice more than the common idiots, perhaps it is only seen by those intelligent enough, the ones with extraordinary intellects? Perhaps the commoners are blind to what just happened? Tell me.
+</T>
+<T>
+CAMILLO
+What happened, my lord? I think almost everyone understands that Polixenes will stay here longer.
+</T>
+<T>
+LEONTES
+What?
+</T>
+<T>
+CAMILLO
+He will stay here longer.
+</T>
+<T>
+LEONTES
+But why?
+</T>
+<T>
+CAMILLO
+To satisfy your highness and the request of our most gracious mistress.
+</T>
+<T>
+LEONTES
+Satisfy! The request of your mistress! Satisfy her! Thats enough. I have trusted you, Camillo, with everything dearest to my heart, as well as confessed to you in my chamber. I parted from you there feeling repentant and reformed, as though departing from a visit to a priest. But now I feel that I have been deceived by what appears to be your integrity.
+</T>
+<T>
+CAMILLO
+Forbid the thought, my lord!
+</T>
+<T>
+LEONTES
+Now that I think of it, you are either dishonest or, if you are honest, you are a coward, hiding your honesty for fear of having to follow the correct course of action. Perhaps you neglect your duties as a most trusted servant, or perhaps you are a fool who sees the high stakes of a game but thinks its all a joke.
+</T>
+<T>
+CAMILLO
+My gracious lord, I may be negligent, foolish, and cowardly. No man is free from all those vices, and they will occasionally turn up. In your affairs, my lord, if I was ever deliberately negligent, it was because of my foolishness. If I ever pretended to be a fool, it was because of my neglectfulness and my inability to judge the consequences. If ever I was afraid to do something when I was uncertain of the outcomeand the deed was so necessary it had to be doneit was a fear that even wise men feel. My lord, these are acceptable weaknesses that honesty is always plagued by. But I beg your grace to be blunt: tell me exactly what I did wrong. Then if I deny that I did it, it truly is not my fault.
+</T>
+<T>
+LEONTES
+Havent you seen? You have, thats not in doubt, unless you are willfully blind. Or perhaps you have heard, since rumors cant be mute in the face of something so obvious. Or maybe you have thought, since every man who thinks must have thought it. Isnt my wife deceiving me? You must confess, unless you want to shamelessly deny that you have either eyes or ears or thought, that my wife is a whore, and deserves a name as awful as any base woman deserves who sleeps with a man before she is married. Say it and affirm it.
+</T>
+<T>
+CAMILLO
+I wouldnt stand by and listen to my mistress be slandered like that without taking revenge immediately. Curse my heart, Ive never heard you speak in a way that suited you less. To say it again would be as sinful as the crime you are describing, even if it was true.
+</T>
+<T>
+LEONTES
+Is it nothing that they whisper together? Lean their cheeks together? Or touch noses? Or kisses? Or interrupt their laughter with sighs, a certain sign that theyre in love? Or playing footsie? Or lurking in corners? Or wishing that time would run faster, that hours were minutes and noon midnight, and that all eyes were blind with cataracts but theirs, so that they can be wicked without being seen? Is this nothing? Why, then the world and everything in it is nothing. The sky is nothing, Polixenes is nothing, my wife is nothing, and they have nothing, if this is nothing.
+</T>
+<T>
+CAMILLO
+My lord, let go of this terrible opinion, and quickly, because it is dangerous.
+</T>
+<T>
+LEONTES
+Say it is, but it is true.
+</T>
+<T>
+CAMILLO
+No, no, my lord.
+</T>
+<T>
+LEONTES
+It is true, and you lie. I say you lie, Camillo, and I hate you. I call you a horrible oaf, a mindless slave, or else nervous and wishy-washy, whos able to see good and evil in the same thing and is inclined to both. If my wife were as diseased physically as she is morally, she wouldnt survive an hour.
+</T>
+<T>
+CAMILLO
+Who corrupts her?
+</T>
+<T>
+LEONTES
+The one who wears her like a medal around his neck: Polixenes. If I had loyal servants, who saw my honor as their business and personal gain, they would act to prevent any more of this affair. And you, his cupbearerThe man who served wine to the master in a noble household.cupbearerI brought you up from a low rank, have given you some authority, and brought you up to respectability. You should be able to see plainly how upset I am. You could poison his drink to kill him, which would make me feel better.
+</T>
+<T>
+CAMILLO
+My lord, I could do it with a tiny amount of a slow-working potion that isnt as violent as poison. But I cant believe that my noble mistress would be so flawed, having shown herself always so honorable. I have loved you
+</T>
+<T>
+LEONTES
+Make that your problem, and go to hell! Do you think I am so dull-witted, so unsettled, that I would give myself all this trouble and dirty up the pure, clean whiteness of my bed? To preserve that purity gives one peace of mind, but if its tainted it hurts like thorns, nettles, and wasp stings. Do you think I would raise doubt about the legitimacy of my son, who I believe is mine and who I love, without compelling reasons? Would I do this? Could I turn aside from this?
+</T>
+<T>
+CAMILLO
+I must believe you sir, and I do. Ill take care of Polixenes for you, as long as once hes gone you will again treat your wife as your own, at least for your sons sake. That way you will silence all the harmful rumors that might spread to other kingdoms and courts that are allied with you.
+</T>
+<T>
+LEONTES
+You advise me to do what I already determined I would do. I wont tarnish her reputation in any way.
+</T>
+<T>
+CAMILLO
+My lord, then go, and with a face as open and friendly as if you were at a party, keep company with Polixenes and your queen. I am his cupbearer, and I will give him the potion, or no longer think of me as your servant.
+</T>
+<T>
+LEONTES
+Do this and you will have one half of my heart. Dont do it and your own will be split.
+</T>
+<T>
+CAMILLO
+Ill do it, my lord.
+</T>
+<T>
+LEONTES
+Ill act friendly, as youve advised me.
+</T>
+<T>
+CAMILLO
+Oh, unfortunate lady! What have I gotten into? I have to poison good Polixenes, only because I would obey a master who is mad and wants all his servants to be mad, too. If I do this, Ill be promoted. But even if I could find one example of someone who had struck down a chosen king and prospered, I wouldnt do it. Since there isnt such an example recorded anywhere in history, even a villain wouldnt do it. I have to leave the court, since whether I do it or not Im certain to be hanged. Oh, good! Here comes Polixenes.
+</T>
+<T>
+POLIXENES
+This is odd. I think Im losing favor here. He wouldnt speak? Good day Camillo.
+</T>
+<T>
+CAMILLO
+Hello, most royal sir!
+</T>
+<T>
+POLIXENES
+What is the news of the court?
+</T>
+<T>
+CAMILLO
+Nothing unusual, my lord.
+</T>
+<T>
+POLIXENES
+The king looked as though he had lost a part of his kingdom as dear to him as himself. Just now I met him with the usual cordial greetings, but turning his eyes away and sneering in contempt, he walked away from me, leaving me to wonder what happened to make him act this way.
+</T>
+<T>
+CAMILLO
+I dont dare know, my lord.
+</T>
+<T>
+POLIXENES
+What? You dont dare, or you dont know? Do you know, but dont dare? It must be something of the sort, because if you know something for certain, you cant deny it. Good Camillo, your face is like a mirror to me, in which your changed expression shows my own. I must be responsible in some way for Leontess altered behavior, since Im changed, too.
+</T>
+<T>
+CAMILLO
+There is an illness that makes some of us mad, but I cant say exactly what it is. But even though you are still well, you have caught it, too.
+</T>
+<T>
+POLIXENES
+What do you mean, Ive caught it, too? Dont tell me I have the deadly stare of the basiliskA mythical reptile that was able to kill with its stare.basilisk. Ive looked at thousands of people who have been better off by having been seen by me, but Ive never killed anyone that way. Camillo, I know you are a gentleman because you are educated, and that makes one a gentleman as much as having parents who are nobles. I beg you, if you know something I should know, please dont pretend not to know and keep it from me.
+</T>
+<T>
+CAMILLO
+I cant tell you.
+</T>
+<T>
+POLIXENES
+Ive caught an illness, even though I am well! You have to tell me. Do you hear me, Camillo? I appeal to you by all the traits in a man that respond to honor, including this request itself. Tell me why you think Im in danger, how close the danger is, and how I might prevent it. Or if I cant, how I might best endure it.
+</T>
+<T>
+CAMILLO
+Sir, I will tell you, since I am obligated by my honor and since youre an honorable man. Therefore listen to my advice, which must be followed immediately, or both you and I will be doomed and will meet a bad end.
+</T>
+<T>
+POLIXENES
+Go ahead, good Camillo.
+</T>
+<T>
+CAMILLO
+I have been appointed by him to murder you.
+</T>
+<T>
+POLIXENES
+By whom, Camillo?
+</T>
+<T>
+CAMILLO
+By the king.
+</T>
+<T>
+POLIXENES
+Why?
+</T>
+<T>
+CAMILLO
+He thinks, no, he swears with as much confidence as if he had seen it or even helped you do it, that you have touched his queen in a forbidden way.
+</T>
+<T>
+POLIXENES
+If I did, may my blood turn to poison and my name be as despised as Judass! Let my reputation rot and stink so badly that even the least sensitive nose will be overwhelmed, and when I approach theyll turn their backs! Let me be hated more than the worst disease that has ever been heard of!
+</T>
+<T>
+CAMILLO
+No matter how vehemently you swear his suspicions arent true, you are as likely to keep the sea from obeying the moon as you are to change his mind. Neither will oaths or wise words disturb the foundation of his foolish notion, which is built on his faith and will last for the rest of his life.
+</T>
+<T>
+POLIXENES
+How did this come about?
+</T>
+<T>
+CAMILLO
+I dont know, but Im sure its safer to avoid his jealousy than to wonder why he feels that way. So if you trust my honesty, which you shall take as my pledge, then leave tonight! Ill quietly let your followers know and get them out of the back gates of the city two or three at a time. As for me, Ive lost everything I have by revealing this to you, but Ill put what I have to your service. Dont be uncertain. By the honor of my parents, Im telling the truth. If you try to prove it, Ill deny I ever said it. You wont be any safer than a man whom the king himself has condemned to be executed.
+</T>
+<T>
+POLIXENES
+I do believe you. I saw what he felt in his face. Give me your hand. Guide me and our fortunes will remain together. My ships are ready, and my people expected me to depart two days ago. Hes jealous over a very precious woman, and so his jealousy will be as great as she is rare, and as violent as he is powerful. And since he thinks that a man who always professed friendship has deceived him, his revenge will be even more bitter. Im overwhelmed with fear. May my swift exit help me, and may it comfort the good queen, who has no responsibility for his unjustified suspicions. Come, Camillo. I will respect you like a father if you take me away safely. Let us leave.
+</T>
+<T>
+CAMILLO
+I have the authority to pass through all the back gates of the city. Lets go soon. Come, sir, lets leave.
+</T>
+<T>
+HERMIONE
+Take the boy. He is such a pest I cant take it anymore.
+</T>
+<T>
+FIRST LADY
+Come with me, my gracious lord. Shall I play with you?
+</T>
+<T>
+MAMILLIUS
+No, I dont want anything to do with you.
+</T>
+<T>
+FIRST LADY
+Why, my sweet lord?
+</T>
+<T>
+MAMILLIUS
+Youll kiss me too hard and talk baby talk to me. (to Second Lady) I love you better.
+</T>
+<T>
+SECOND LADY
+Why is that, my lord?
+</T>
+<T>
+MAMILLIUS
+Not because your eyebrows are blacker, though they say that black eyebrows suit some women best, as long as there isnt too much hair and they are shaped like a semicircle, or drawn like a half-moon.
+</T>
+<T>
+SECOND LADY
+Who taught you that?
+</T>
+<T>
+MAMILLIUS
+I learned it from looking at womens faces. Tell me, what color are your eyebrows?
+</T>
+<T>
+FIRST LADY
+Blue, my lord.
+</T>
+<T>
+MAMILLIUS
+No, youre joking. Ive seen a ladys nose that was blue, but not her eyebrows.
+</T>
+<T>
+FIRST LADY
+Listen: your mother the queen is getting rounder by the day. Well be serving a fine new prince one day soon, and then youll want to play with us, if well let you.
+</T>
+<T>
+SECOND LADY
+She has become quite big lately. May it come quickly for her!
+</T>
+<T>
+HERMIONE
+What are you talking about now? Come, sir, now Im ready for you again. Sit next to me, and tell me a story.
+</T>
+<T>
+MAMILLIUS
+Should it be happy or serious?
+</T>
+<T>
+HERMIONE
+As happy as youd like.
+</T>
+<T>
+MAMILLIUS
+A sad story is best for the winter. I have one about fairies and goblins.
+</T>
+<T>
+HERMIONE
+Lets hear it, good sir. Come on, sit down, and try to frighten me with your fairies. Youre good at it.
+</T>
+<T>
+MAMILLIUS
+There was a man
+</T>
+<T>
+HERMIONE
+No, sit down, and then tell me.
+</T>
+<T>
+MAMILLIUS
+who lived by a churchyard. Ill tell it quietly, so those other ladies wont hear it.
+</T>
+<T>
+HERMIONE
+Come on then, and tell me in my ear.
+</T>
+<T>
+LEONTES
+Did his men meet him there? Camillo was with him?
+</T>
+<T>
+FIRST LORD
+I ran across them behind the pine grove. Ive never seen men move so quickly along. I saw them go all the way to their ships.
+</T>
+<T>
+LEONTES
+Im so blessed to have such accurate judgment, and such a correct opinion! Alas, if only I knew less! Im cursed to be so blessed! There may be a spider in your cup, and if you drink without realizing it, you arent hurt. But if you see the spider and know you have drunk it, you will wretch and heave violently. I have drunk from the cup, and I know that the spider was in it. Camillo helped him and acted as his pimp. There is a plot to kill me and take my place as king. Everything that I suspected is true. That traitorous villain I employed actually worked for Polixenes. He has discovered my plan, and Im still tormented, a toy for them to play with. How were the gates so easily opened?
+</T>
+<T>
+FIRST LORD
+By Camillos authority, which hes often wielded by your command.
+</T>
+<T>
+LEONTES
+I know it too well. Give me the boy. I am glad you didnt breastfeed him. He may look a bit like me, but he looks too much like you.
+</T>
+<T>
+HERMIONE
+What is this, a joke?
+</T>
+<T>
+LEONTES
+Take the boy away. He wont be near her anymore. Take him away! Let her play with the one shes pregnant with now, since it is Polixeness child.
+</T>
+<T>
+HERMIONE
+Ill say it is not and will swear that you should believe me, whatever you think to the contrary.
+</T>
+<T>
+LEONTES
+My lords, look at her closely. If you are tempted to say, She is a fine lady, the wisdom of your hearts will add, A shame that she isnt virtuous or honorable. Praise her for anything but her outward form, which does deserve praise, and immediately you must shrug or mutter to yourself. Those are the expressions that slander usesno, Im wrongthat mercy uses, because slander only attacks someone who is virtuous. These shrugs and mutterings after you say, Shes goodly interrupt you before you can say, Shes virtuous. Listen to the man who has the most reason to be upset about it: shes an adulteress.
+</T>
+<T>
+HERMIONE
+If a villain said so, the worst in the world, saying so would make him even more of a villain. My lord, you are mistaken.
+</T>
+<T>
+LEONTES
+My lady, you have mistaken Polixenes for me. Oh, you creature! I wont give you the title that goes with your high social status, or Ill set a precedent allowing rudeness to use the same names for everyone and not distinguish between a prince and a beggar. I have said she is an adulteress, and I have said with whom. Even more than that, she is a traitor, and she is in league with Camillo, who knows what she should be ashamed of: that shes an adulteress. Shes as bad as the women that common people give the coarsest name to, and she knew that they were escaping.
+</T>
+<T>
+HERMIONE
+No, I swear on my life I knew none of this. Youll regret publicly shaming me like this when you realize you are wrong! My gentle lord, you can make it all right again by saying you made a mistake.
+</T>
+<T>
+LEONTES
+No. If I am wrong about this, then the Earth isnt big enough to hold a schoolboys topa top for spinning, such as schoolboys would play withtop. Take her to prison! Anyone who would defend her is indirectly as guilty as she is, just by speaking.
+</T>
+<T>
+HERMIONE
+The stars must be aligned in a way that is making everyone mad! I must be patient until their positions change. My good lords, I dont cry as much as other women do, which might make you think Im not deserving of pity. But my honorable grief burns more fiercely than tears can extinguish. I beg you all, my lords, judge me in as measured a manner as your sense of charity will allow. And so carry out the kings will!
+</T>
+<T>
+LEONTES
+Will I be obeyed?
+</T>
+<T>
+HERMIONE
+Who will go with me? Your highness, I beg that my women might go with me, since I need help in my condition. Dont cry, my dear ones. Theres no reason to. If you ever know that your mistress is guilty and deserves to be in prison, then you can cry when I come out. But since Im innocent, this trial Im enduring will make me more virtuous. Goodbye, my lord. I never wanted to see you feeling sorry, but now I know I will. My women, come, you have permission.
+</T>
+<T>
+LEONTES
+Go on, do as I say!
+</T>
+<T>
+FIRST LORD
+Your highness, I beg you, call the queen back.
+</T>
+<T>
+ANTIGONUS
+Be sure of what you are doing, sir, or what you think is justice might prove to be injustice, and three great people might sufferyou, your queen, and your son.
+</T>
+<T>
+FIRST LORD
+My lord, I would lay down my life for the queen in belief that she is virtuous in both the eyes of heaven and to you. She is innocent of what you accuse her of.
+</T>
+<T>
+ANTIGONUS
+If it turns out shes unfaithful, Ill guard my wife as vigilantly as I guard my horsesScholars have generally interpreted Shakespeares original passage in two different ways: the first is the version given here; the second is that Antigonus means he will treat his wifes lodgings as he treats his stables, where mares and stallions are kept apart.Ill guard my wife as vigilantly as I guard my horses, and Ill go about leashed together with her. I will only trust her when I can touch her or see her, because if the queen is lying, then every woman in the world must be a liar.
+</T>
+<T>
+LEONTES
+Be quiet.
+</T>
+<T>
+FIRST LORD
+My good lord
+</T>
+<T>
+ANTIGONUS
+Were speaking for your sake, not our own. Some liar has abused your confidence, and hell be damned for it. If I knew who it was, I would thrash him without pity. If the queen isnt honorable, my three daughters will pay for it, by my honor. The oldest is eleven, the next is nine and the third is about five, and Ill make them all incapable of bearing children. Theyll be unable to have illegitimate children by the time theyre fourteen. They are all my heirs, and Id rather castrate myself than have them bear anything other than legitimate children.
+</T>
+<T>
+LEONTES
+Stop. Say no more. Youre about as perceptive as a dead man, but I see it and feel it as you feel thisLeontes likely performs some action, such as touching an object, to demonstrate.as you feel this. And I also see the fingers that feel.
+</T>
+<T>
+ANTIGONUS
+If it is true, we dont need a grave to bury honesty, because it means that there is not a shred of it on this earth.
+</T>
+<T>
+LEONTES
+What? You dont believe me?
+</T>
+<T>
+FIRST LORD
+My lord, I would rather you be wrong than me in this instance. And Id rather it turn out that she is honorable than that you are right, regardless of how youre blamed for it.
+</T>
+<T>
+LEONTES
+Why do I have to debate this with you, instead of just following my own strong impulse? As king Im not required to seek your advice, though I tell you this information out of natural goodness. But if you, who are either confused or pretend to be, cant understand the truth as I do, then I dont need any more of your advice. The entire affair is in my hands.
+</T>
+<T>
+ANTIGONUS
+My lord, I only wish you had spent more time considering your judgment, without making it public.
+</T>
+<T>
+LEONTES
+How do you mean? Either you have become a fool with age, or you were born that way. Camillos fleeing and their intimacy, which was as obvious as any suspicion that lacked only an eyewitness to confirm it, together push this matter forward. Still, since this is a serious matter and shouldnt be handled rashly, Ive sent Cleomenes and Dion to get further confirmation at Apollos temple in Delphos. You know they are competent. Theyll bring word from the oracle, and Ill heed whatever advice it gives, whether for or against my suspicion. Is that good?
+</T>
+<T>
+FIRST LORD
+Very good, my lord.
+</T>
+<T>
+LEONTES
+Even though I am sure that I am right, the oracle will convince everyone else, such as those who find themselves unable to accept the truth. So I have thought it a good idea to confine her and keep her away from me, so the treachery of Camillo and Polixenes is not left to her to perform. Come, follow me. Im going to speak to the public, since this matter will incite everyone to action.
+</T>
+<T>
+ANTIGONUS
+(aside)
+Incite everyone to laughter, I believe, if the truth were known.
+</T>
+<T>
+PAULINA
+Call the prison overseer. Tell him who I am.
+</T>
+<T>
+No court in Europe is good enough for you, good lady, so why are you in prison?
+</T>
+<T>
+Good sir, you know me, dont you?
+</T>
+<T>
+JAILER
+I know you as a worthy woman and one I have great respect for.
+</T>
+<T>
+PAULINA
+Please, then, take me to the queen.
+</T>
+<T>
+JAILER
+I cant, madam. I have explicit orders not to.
+</T>
+<T>
+PAULINA
+Such a fuss just to keep kind visitors from seeing such an honest and honorable lady! Am I allowed to see her attendants? Any of them? Emilia?
+</T>
+<T>
+JAILER
+If you would please send away your attendants, Ill bring out Emilia.
+</T>
+<T>
+PAULINA
+Please, call her. (to her attendants) Leave me here.
+The gentleman and the attendants exit.
+</T>
+<T>
+JAILER
+Madam, I must be present while you speak with Emilia.
+</T>
+<T>
+PAULINA
+Well, if you must.
+</T>
+<T>
+What a great effort to make the queen guilty beyond justification when she is actually innocent.
+</T>
+<T>
+Dear gentlewoman, how is our gracious lady?
+</T>
+<T>
+EMILIA
+As well as can be expected for one so great and so sad. Because of her overwhelming grief and fright, which are greater than a kind woman has ever suffered, she has delivered her baby prematurely.
+</T>
+<T>
+PAULINA
+A boy?
+</T>
+<T>
+EMILIA
+A strong and healthy daughter. The queen draws comfort from the child, saying, My poor prisoner, I am as innocent as you are.
+</T>
+<T>
+PAULINA
+I swear that the king must give up these dangerous fits of madnesscurse them! He must be told, and Ill do itits a task best suited to a woman. If I am deceitful, let my tongue blister and never be capable of expressing my anger ever again. Please, Emilia, tell the queen that I am her devoted supporter, and if shell trust me with the baby Ill show her to the king and be her loudest advocate. Maybe he will soften up at the sight of the child. Pure silent innocence can sometimes convince when speech fails to do so.
+</T>
+<T>
+EMILIA
+Worthy madam, you are so obviously honorable and good that your generous mission cannot fail to have a positive outcome. There is no lady living more suitable for this great errand. If youll make your way to the next room, Ill tell the queen of your noble offer. Just today she had come up with a similar plan, but was afraid to approach any noble person, fearing shed be rejected.
+</T>
+<T>
+PAULINA
+Emilia, tell her that Ill speak as well as I can. If I have as much intelligence as I have courage, dont doubt that Ill do some good.
+</T>
+<T>
+EMILIA
+Bless you for it! Ill go to the queen. Please, come closer.
+</T>
+<T>
+JAILER
+Madam, if the queen wants to send the baby, I dont know how Ill be punished for allowing it, since I dont have any official approval.
+</T>
+<T>
+PAULINA
+Dont worry, sir. The child was a prisoner of the womb, and now by natural law she is free from it. Shes not part of the kings anger, or guilty of any trespass of the queen, if any even exists.
+</T>
+<T>
+JAILER
+I believe it.
+</T>
+<T>
+PAULINA
+Dont worry. On my honor, I will you defend you myself.
+</T>
+<T>
+LEONTES
+I cant rest night or day. It is a kind of weakness to be so affected by this issue. If only the cause of it were no longer alivepart of the cause, at least, the adulteress. The lecherous king is away from here, which puts him beyond my aim and anything I could do to him. But she, the adulteress, I can keep close. If she were burned at the stakeA punishment for treason against the king.burned at the stake, perhaps I would have some small bit of rest. Whos there?
+</T>
+<T>
+FIRST SERVANT
+My lord?
+</T>
+<T>
+LEONTES
+How is the boy doing?
+</T>
+<T>
+FIRST SERVANT
+He slept well tonight, and we hope that hes gotten over his illness.
+</T>
+<T>
+LEONTES
+Im amazed at his nobility! Recognizing the dishonorable behavior of his mother, he immediately began to decline, to feel the shame himself. He became sad, stopped eating, stopped sleeping, and grew weak. Leave me alone, and go see how hes doing.
+</T>
+<T>
+No! I wont think about Polixenes. I fear taking revenge on him. He himself is too powerful, and he has powerful allies. Let him be until an opportunity comes. Ill have revenge now on her. Camillo and Polixenes laugh at me, and find amusement in my sorrow. They wouldnt laugh if I could reach them, and neither will the woman who is within my power to punish.
+</T>
+<T>
+FIRST LORD
+You must not go in.
+</T>
+<T>
+PAULINA
+No, my good lords, back me. Do you fear his tyrannical anger more than the queens life? Shes a gracious, innocent soul, more innocent than he is jealous.
+</T>
+<T>
+ANTIGONUS
+Thats enough.
+</T>
+<T>
+SECOND SERVANT
+Madam, he hasnt slept tonight and has ordered that he be left alone.
+</T>
+<T>
+PAULINA
+Not so hasty, good sir. Im here to bring him sleep. Its people like you who creep softly around him like shadows and sigh at his unnecessary agitation that feed the cause of his wakefulness. I have something to say to him thats as soothing as it is true, and honest as well, that will rid him of the sickness keeping him from rest.
+</T>
+<T>
+LEONTES
+What is that noise?
+</T>
+<T>
+PAULINA
+Its not noise, my lord, but necessary talk about godparents for your highness.
+</T>
+<T>
+LEONTES
+What! Take this bold woman away! Antigonus, I told you to keep her away from me, because I knew she would come.
+</T>
+<T>
+ANTIGONUS
+My lord, I told her that she shouldnt visit you, or shed risk making us both angry.
+</T>
+<T>
+LEONTES
+What, you cant control her?
+</T>
+<T>
+PAULINA
+He can keep me from dishonesty. Unless he does as youve done and locks me up for being honorable, he wont control me in this matter.
+</T>
+<T>
+ANTIGONUS
+You see, when she wants to take control I give her room, but shell do whats right.
+</T>
+<T>
+PAULINA
+My good lord, I beg you to listen to me. Im your loyal servant, your doctor, your most obedient advisor, though perhaps I dont seem like it because I wont condone your evil actions, as do those servants who only seem most loyal. I come from your good queen.
+</T>
+<T>
+LEONTES
+Good queen!
+</T>
+<T>
+PAULINA
+She is a good queen, my lord. I say she is a good queen, a very good queen. If I were a man I would fight a duel to prove her innocence, even against the most lowly man.
+</T>
+<T>
+LEONTES
+Force her out of here.
+</T>
+<T>
+PAULINA
+The first man who tries to manhandle me better not value his eyes. Ill go by my own accord, but first Ill carry out my errand. The good queen, for she is good, has given birth to a daughter. Here she is. She commends her to you so that you may bless her.
+</T>
+<T>
+LEONTES
+Get out! This furious witch! Take her out of here! Shes a spying pimp!
+</T>
+<T>
+PAULINA
+Not at all. I know nothing about that, while you show your knowledge of it by calling me that name. Im as honest as you are mad, which, I assure you, is as honest as you can expect in this world.
+</T>
+<T>
+LEONTES
+Traitors! Wont you shove her out? Hand her the bastard child! You dolt! You are hen-pecked and kicked out of your place of authority by your hen here. Pick up that bastard. Pick it up, I say, and give it to your hag.
+</T>
+<T>
+PAULINA
+(to Antigonus) Your hands will forever be unworthy of respect if you take up the princess under that terrible name he called her!
+</T>
+<T>
+LEONTES
+He fears his wife.
+</T>
+<T>
+PAULINA
+I wish you did, too, and then you would undoubtedly call your children your own.
+</T>
+<T>
+LEONTES
+A nest of traitors!
+</T>
+<T>
+ANTIGONUS
+Im not one.
+</T>
+<T>
+PAULINA
+Nor am I, nor is anyone else here other than himself, since he has betrayed his own honor, the honor of his wife, of his son, and of his baby with slander, which is sharper than any sword. Its a curse that he cant be forced to revise his opinion, which is as rotten as oak or stone is solid.
+</T>
+<T>
+LEONTES
+A constantly chattering harlot, who has recently beat her husband and now provokes me. This brat isnt mineits Polixeness child. Take it away, and send it and its mother to the fire!
+</T>
+<T>
+PAULINA
+It is yours. It looks so much like you, and for the worse, as the proverb puts it. See, my lords, how the baby has all the features of her father in miniature: the eyes, nose, lips, her fathers frown and forehead, the dimples on his chin and cheeks, his smile. They have the same hands, nails, fingers. And so good goddess Nature has made the baby just like the man who conceived her. If Nature has control over temperament, too, dont let her have any jealousy, or shell suspect, as her father does, that her children are not her husbands!
+</T>
+<T>
+LEONTES
+(to Antigonus) A horrible woman. Scoundrel, you ought to be hanged for not stopping her from speaking.
+</T>
+<T>
+ANTIGONUS
+If you hang all the husbands who cant keep their wives from talking, youll have hardly any subjects left.
+</T>
+<T>
+LEONTES
+Once again, get her out of here.
+</T>
+<T>
+PAULINA
+A most unworthy and unnatural lord can do only that.
+</T>
+<T>
+LEONTES
+Ill have you burnt.
+</T>
+<T>
+PAULINA
+I dont care. It would be a heretic building the fire, not the woman burning in it. I wont call you a tyrant, but your cruel mistreatment of your queen seems something like tyranny, since you cant produce any evidence beyond your own weak imaginings. It will make you dishonorable, even scandalous, to all the world.
+</T>
+<T>
+LEONTES
+Be loyal to me and take her out of the room! If I were a tyrant, would she still be alive? If she knew I was a tyrant, truly, she wouldnt dare call me one. Take her away!
+</T>
+<T>
+PAULINA
+Please dont push me. Ill go. Look at your baby, my lord. Shes yours. May Jove send her a better protector! (to attendants) Why do you put your hands on me? All of you who are so accepting of his misbehavior wont do him any good, not one of you. So, goodbye, Im going.
+</T>
+<T>
+LEONTES
+(to Antigonus) You traitor! You put your wife up to this. My child? Get rid of it! You, who have such a tender heart for it, take it away and see that its burned immediately. You, and no one but you. Do it now. Within the hour I want to hear that it is done, and with witnesses, or Ill have your life, and all else that you call your own. If you refuse and will face my anger, say so. Ill dash the bastards brains out with my own hands. Go, take it to the fire, since you put your wife up to this.
+</T>
+<T>
+ANTIGONUS
+I didnt, sir. These lords, my noble fellows, will clear my name.
+</T>
+<T>
+LORDS
+We can, my royal lord. He isnt responsible for her appearance here.
+</T>
+<T>
+LEONTES
+You are all liars.
+</T>
+<T>
+FIRST LORD
+Please, your highness, we are more honorable than that. We have always served you faithfully and beg you to think of us that way. We beg you on our knees, as repayment for all our services of the past and future, that youll change your mind. This plan is so horrible and bloody that it can only lead to something terrible.
+</T>
+<T>
+LEONTES
+I am asked to follow every opinion I hear. Should I allow this bastard to grow up and call me father? Id rather burn it now than curse it then. But, fine, let it live. (to Anitogonus) You, sir, come here. You have interfered so kindly along with your wench in order to save this bastards lifeand Im as certain its a bastard as I am that your beard is grayso what will you risk to save the brats life?
+</T>
+<T>
+ANTIGONUS
+Anything that my ability will allow and that nobility would demand. Id give what little blood I might have left to save this innocent child. Ill do whatever is possible.
+</T>
+<T>
+LEONTES
+It will be possible. Swear by this sword that you will do what I demand.
+</T>
+<T>
+ANTIGONUS
+I will, my lord.
+</T>
+<T>
+LEONTES
+Make note of what I tell you, and perform it, because if you fail to do any part of it not only will you die, but so will your crudely outspoken wife, whom Ill pardon for now. I command you, as my loyal servant, to take this female bastard away to some deserted place far from my kingdom, and to leave it there without mercy, left to its own abilities and the whims of the weather. Since it came to me because of a foreigner, it is only just that I order you, on pain of death and torture, to take it to a foreign place where luck might nurture or kill it. Pick it up.
+</T>
+<T>
+ANTIGONUS
+I swear to carry out your orders, though killing her right now would have been more merciful. Come on, poor baby. May some powerful angel call on the vultures and ravens to take care of you. They say that wolves and bears have given up their savageness to perform similar acts of pity. Sir, be prosperous in more ways than this act deserves! (to the baby) And may a prayer against this cruel act help you, poor thing, condemned to die!
+</T>
+<T>
+LEONTES
+No, I wont raise another mans child.
+</T>
+<T>
+SERVANT
+Your highness, messages from the men you sent to the oracle arrived an hour ago. Cleomenes and Dion have both arrived safely from Delphos and are hurrying here to the court.
+</T>
+<T>
+FIRST LORD
+Their speed is astonishing.
+</T>
+<T>
+LEONTES
+Theyve been gone twenty-three days. Their speedy return predicts that great Apollo wants the truth of this matter revealed. Prepare yourselves, lords. Convene an open trial for this disloyal lady. Since she was publicly accused, shell have an open and just trial. While she lives my heart is heavy. Leave me, and consider my orders.
+</T>
+<T>
+CLEOMENES
+Delphoss climate is exquisite, the air very sweet, the island fertile, and the temple is even more beautiful than people say.
+</T>
+<T>
+DION
+What most charmed me were the divine clothes and the great respect held by the wise men who wore them. And the sacrifice! The offering was so ceremonious, solemn, and otherworldly!
+</T>
+<T>
+CLEOMENES
+Of everything, the sudden and deafening voice of the oracle, like a clap of thunder, shocked me most and made me feel like I was nothing.
+</T>
+<T>
+DION
+If only the outcome of the journey is as successful for the queen as it was wonderful, pleasant, and quick for us, it would be a worthwhile trip.
+</T>
+<T>
+CLEOMENES
+May great Apollo make all turn out well! I dont like these claims accusing Hermione of faults.
+</T>
+<T>
+DION
+The rash way it has been conducted will either clear up this business or end it. This judgment, sealed by Apollos priest, will reveal some wonderful knowledge to us once it is open.
+</T>
+<T>
+LEONTES
+We call this session with great grief and heartache. The defendant is the daughter of a king, my wife, and one I have loved too much. Let me be cleared of acting like a tyrant, since I have been so open about this course of justice, whether it end in guilt or acquittal. Bring out the prisoner.
+</T>
+<T>
+OFFICER
+It is the kings request that the queen appear in person in the courtroom. Silence!
+</T>
+<T>
+LEONTES
+Read the indictment.
+</T>
+<T>
+OFFICER
+(reads) Hermione, queen of the worthy Leontes, king of Sicilia, you are accused and arraigned for high treason, for committing adultery with Polixenes, king of Bohemia, and conspiring with Camillo to kill our sovereign king, your royal husband. Then, when the plot was accidentally discovered, you, Hermione, against the duty and faith of a loyal subject, advised them to flee by night for safety, and helped them to leave.
+</T>
+<T>
+HERMIONE
+Since what Im going to say must contradict this accusation and the only testimony in my favor comes from me, it hardly helps to say not guilty. Im believed to be a liar, so whatever I say will be considered false. But if the gods watch what we humans do, I dont doubt that innocence will win out against false accusation and tyranny. You, my lord, know that my past life has been faithful, pure, and true, though you seem to know this least of anyone. Those qualities are now matched by my unhappiness, which is greater than history has ever seen, even if it were created and performed to enthrall an audience. Look at me, who has slept in the royal bed, who owns part of the throne as the daughter of a great king, the mother of the prince who will one day take the throne, forced to defend my life and my honor in front of anyone who cares to come and hear. I care as much for life as I do for grief, which I could do without. Honor, though, is passed down from me to my children, so I will make a stand for that. I appeal to your conscience to remember how you held me in good graces before Polixenes came to court, and how I deserved to be regarded so. Since he came to court, think of what was so unacceptable about my behavior that I now appear on trial. If I have acted in any way dishonorably, or even seemed inclined to do so, may all that hear me harden their hearts, and may even my closest relatives curse my grave!
+</T>
+<T>
+LEONTES
+The same audacity that allows someone to perform a terrible deed also lets her deny it.
+</T>
+<T>
+HERMIONE
+Thats true enough, but that has nothing to do with me.
+</T>
+<T>
+LEONTES
+You wont admit it.
+</T>
+<T>
+HERMIONE
+I take full ownership of my faults, but I wont acknowledge any faults that arent mine. I confess that I loved Polixenes in the manner his honor required, and with a love that was befitting a lady like mewith such a love, even, as you yourself commanded. If I hadnt love him in this way, I would have been disobeying you and showing ingratitude to both you and your friend, who has loved you since childhood. Now, as for conspiracy, I dont even know what it is like, even if it is being aimed at me. All I know is that Camillo was an honest man, and the gods know as little as I do about why he left your court.
+</T>
+<T>
+LEONTES
+You knew that he was leaving, and you know what you have tried to do in his absence.
+</T>
+<T>
+HERMIONE
+Sir, I dont understand what you are saying. Ill give up my life, which is the target of your delusions.
+</T>
+<T>
+LEONTES
+My delusions are made of your actions. You had a bastard child with Polixenesmaybe I just dreamed it! You are past any shame, as women like you are, or any truth. Just as Ive cast out your brat, whose lack of a father is more your fault than the childs, Ill devise a punishment for you, the least of which will be death.
+</T>
+<T>
+HERMIONE
+Sir, save your threats. Id seek out the terrible punishment you threaten me with. Life has no value for me now. Having your favor was my highest goal and my comfort, and I give it up as lost now, though I dont know how. My second joy in life, my first son, is kept from me as though I have a disease. My third comfort, that unlucky child with the innocent milk still in its innocent mouth, has been taken from my breast and dragged out to be murdered. Ive been publicly declared a whore, with outrageous hatred denied the rest after childbirth that all women of my rank deserve, and hurried here into the open air before Ive regained my strength. Now, my lord, tell me what I have to live for, and why I should fear death. Go ahead. But listen to what I say, which I say not for the sake of my life but for my honor: if I am condemned on mere guesses and your jealousy without any proof, it is merely severity and not justice. Your honors, I commend myself to the oracle, and let Apollo be my judge!
+</T>
+<T>
+FIRST LORD
+Your request is just. Bring forth the oracle of Apollo.
+</T>
+<T>
+HERMIONE
+If only my father, the Emperor of Russia, were alive and could be here to see his daughters trial! If only he could see my misery with eyes of pity, not revenge!
+</T>
+<T>
+OFFICER
+You will swear upon this sword of justice that you, Cleomenes and Dion, have both been at Delphos and have brought back with you the sealed oracle, delivered by great Apollos priest, and that you have not broken the holy seal nor read the secrets in it.
+</T>
+<T>
+CLEOMENES AND DION
+We swear all this.
+</T>
+<T>
+LEONTES
+Break the seal and read.
+</T>
+<T>
+OFFICER
+(reads) Hermione is chaste, Polixenes is innocent, Camillo is a loyal subject, Leontes is a jealous tyrant, and his innocent baby is legitimately born. The king will live without an heir if the baby that was lost is not found.
+</T>
+<T>
+LORDS
+Blessed be the great Apollo!
+</T>
+<T>
+HERMIONE
+Praise him!
+</T>
+<T>
+LEONTES
+Have you read the truth?
+</T>
+<T>
+OFFICER
+Yes, my lord, exactly as it is written here.
+</T>
+<T>
+LEONTES
+There is no truth in what the oracle says. The trial will proceed. These are simply lies.
+</T>
+<T>
+SERVANT
+My lord the king!
+</T>
+<T>
+LEONTES
+Whats going on?
+</T>
+<T>
+SERVANT
+Sir, youll hate me when I tell you! The prince, your son, imagining and fearing the queens fate, is gone.
+</T>
+<T>
+LEONTES
+What, gone?
+</T>
+<T>
+SERVANT
+Hes dead.
+</T>
+<T>
+LEONTES
+Apollo is angry, and the heavens themselves strike back at my injustice.
+</T>
+<T>
+What now?
+</T>
+<T>
+PAULINA
+The news is deadly to the queen. Look at her and see how she is dying.
+</T>
+<T>
+LEONTES
+Take her out of here. Shes just overwhelmed, shell get better. Ive believed too firmly in my own suspicions. Please, give her something to help her recover.
+</T>
+<T>
+Apollo, forgive how I have insulted your oracle! Ill make it up to Polixenes, court my queen again, and call back good Camillo, whom I declare an honest and merciful man. When I was made mad by my jealousies and plotted bloody revenge, I asked Camillo to poison my friend Polixenes. It would have been done if Camillo hadnt delayed doing it, even though I threatened to kill him if he didnt and to reward him if he did. Even so, he was so humane and honorable that he revealed my plot, left his great fortunes here, and giving himself over to uncertainty, departed with only his honor. How much finer he appears next to me! And how his good deeds make my actions seem even worse!
+</T>
+<T>
+PAULINA
+Alas! Cut my corset, so that my heart, in cracking through it, wont break as well.
+</T>
+<T>
+FIRST LORD
+What is wrong, good lady?
+</T>
+<T>
+PAULINA
+How have you decided to torment me, tyrant? With wheels, racks, fires, or flaying? With lead or oil?All are forms of torture.wheels, racks, fires, or flaying? With lead or oil? What old or new torture must I receive, since my every word deserves the worst you could give me? Think of what your jealousywhich is too silly even for boys, and too immature and foolish for a nine-year-old girltogether with your tyranny has done, and then youll go mad! All of your earlier insanities were just a foretaste of this. Your betrayal of Polixenes was nothingit just showed you to be a fickle and ungrateful fool. Neither was it much that you tried to tarnish Camillos honor by commissioning him to assassinate a king. These are just small misdeeds, with a more monstrous one waiting. I suppose the fact that you threw your baby daughter to the crows is little or nothing beside this, even though a devil would have shed tears from his fiery eyes before he did that. And the death of the young prince isnt directly your fault. His heart tore in two at the thought that his gracious mother had been so disgraced by his vulgar and foolish father. This is not the worst act youll have to answer for. But this last deedOh, lords, when I have told you to grieve, it is because the queen, that dearest, sweetest creature, is dead, and she has not yet been avenged.
+</T>
+<T>
+FIRST LORD
+The gods forbid!
+</T>
+<T>
+PAULINA
+I swear that she is dead. If my word and oath dont convince you, go look. If you can bring any color or life to her lip or her eye, warm her body or cause her to breathe again, Ill serve you as I would serve the gods. But, oh, you tyrant! Dont try to repent now, because all your sorrow wont change it. All you can do now is despair. If you had ten thousand years to spend naked, on your knees, fasting on a barren, wintry mountain in perpetual storms, the gods wouldnt take pity on you.
+</T>
+<T>
+LEONTES
+Go on, you cant say too much. Ive deserved all the bitterest words people can say.
+</T>
+<T>
+FIRST LORD
+Dont say any more. However it happened, you are wrong to speak so boldly.
+</T>
+<T>
+PAULINA
+Im sorry for it. I always repent for my faults once I am aware of them. Alas! I have been too rash, and he feels it in his heart. What has happened and cant be fixed should be past grieving over. Dont let my words make you feel bad. I beg you, instead, to punish me for reminding you of what you should forget. Now, my good and royal sir, forgive a foolish woman. The love I had for your queenah, Im behaving like a fool again!I wont speak about her anymore, or of your children, and I wont remind you of my husband, who is gone, too. Be patient, and Ill be quiet.
+</T>
+<T>
+LEONTES
+You spoke best when you told the truth, and I prefer it to being pitied. Please, take me to the dead bodies of my queen and son. Ill bury them in one grave, and Ill inscribe their gravestone with the cause of their death, to memorialize my shame. Ill visit the chapel where they lie daily, and my pastime will be to shed tears. Ill do it daily, as long as I am able to. Come, take me to this sorrowful sight.
+</T>
+<T>
+ANTIGONUS
+You are sure that our ship has landed at the desert of Bohemia?
+</T>
+<T>
+MARINER
+Yes, my lord, and I fear weve landed at a bad time. The sky is dark, and it looks as though a storm approaches. It seems to me that the heavens are angry at what we are about to do and are unhappy with us.
+</T>
+<T>
+ANTIGONUS
+Let their sacred will be done! Go aboard, and see to your ship. Ill call for you shortly.
+</T>
+<T>
+MARINER
+Go as quickly as you can, and dont venture too far inland. It promises to be a dreadful storm, and this area is famous for its predators.
+</T>
+<T>
+ANTIGONUS
+Go away. Ill be right behind you.
+</T>
+<T>
+MARINER
+Im happy to be done with this business.
+</T>
+<T>
+ANTIGONUS
+Come, poor child. Ive heard but never believed that the spirits of the dead might walk the earth. But perhaps it is true, because last night your mother appeared to me, and no dream ever seemed so real. She comes to me with her head to one side or the other, and Ive never seen anyone so filled with sorrow and so beautiful. Dressed in pure white robes, she came to my room where I was resting. She bowed three times to me, and struggling to speak, she broke into tears. Once her fury was spent, these words came out: Good Antigonus, since fate, against your good nature, has chosen you to cast out my child according to your oath, leave her in the remote places of Bohemia. There you weep, and leave the child crying. Since she is lost forever, I ask you to call her PerditaLatin for lost one.Perdita. Because of this terrible business forced upon you, you will never see your wife Paulina again. And then she disappeared, shrieking. Very frightened, I finally got myself together and decided it had truly happened and wasnt a dream. Dreams are just trifles, but for this once, even if its superstition, Ill be ruled by one. I believe that Hermione has died, and that this child is truly the child of King Polixenes, so Apollo would want her to be left, whether to life or death, on the land of her real father. Blossom, fare you well! (he lays down the child and a scroll) Lie there, and Ill put an account of your parentage with you. (he puts down a box) These jewels and gold will help pay for your upbringing, and if fortune pleases, leave some left over for you. (thunder) The storm is beginning. Poor child, because of your mothers transgressions you are left out to die! I cant weep, but my heart bleeds, and Im cursed for having to do this deed. Farewell! The day gets worse and worse. You are likely to be lulled to sleep with a rough lullaby. Ive never seen the sky look so dark during the day. What a savage noise! Ill be lucky to get on board! This is the hunt! Im gone forever.
+</T>
+<T>
+SHEPHERD
+I wish that the ages between sixteen and twenty-three didnt exist, or that young men would spend them asleep. Otherwise there is nothing between those ages but getting girls pregnant, acting dishonestly toward their elders, stealing, fightinglook at this! Would anyone but an addlebrained nineteen or twenty-two-year-old hunt in this weather? Theyve scared away two of my best sheep, which Im afraid the wolf will find before I do. If I find them anywhere itll be by the shore, eating ivy. What is this here? Mercy, its a baby, a pretty baby! A boy or a girl, I wonder? A pretty one, a very pretty one. Here is the product of some forbidden affair. Im not a scholar, but I can read the signs of a lady-in-waiting behind this. It must have been some secret sexual relationship carried out in back stairs, in large chests, or behind closed doors. The man and woman who conceived this child were more hot-blooded than the poor baby is. Out of pity Ill take it, but Ill wait here until my son comes. I heard him shout just a moment ago. Hallo!
+</T>
+<T>
+YOKEL
+Hallo!
+</T>
+<T>
+SHEPHERD
+What, are you near? If you want to see something to talk about when you are dead and rotten, come here. What is wrong with you?
+</T>
+<T>
+YOKEL
+Ive seen two such sights, on sea and on land! But I wont say it is a sea, since the sky is just as wet from the storm. You couldnt squeeze a needles point between the sky and the sea.
+</T>
+<T>
+SHEPHERD
+Why, boy, whats happening there?
+</T>
+<T>
+YOKEL
+I wish you could see how it rages and rushes up the shore! But thats not the point. Oh, the pitiful cries of the men, coming in and out of sight. Then the ship would rise up so its mast looked like it hit the moon, and the next moment it was swallowed by the frothing waves. And then on land, I saw how the bear tore out his shoulder, and he cried to me for help. He said his name was Antigonus, and he was a nobleman. But to finish telling you about the ship, you should have seen how the sea swallowed it up. But first the poor men roared, and the sea mocked them, and then the poor gentleman roared, and the bear mocked him, and they both roared louder than either the sea or the storm.
+</T>
+<T>
+SHEPHERD
+Goodness me, when did this happen?
+</T>
+<T>
+YOKEL
+Just nowI havent even blinked since I saw these sights. The men arent yet cold under the water, and the bear has only partly dined on the gentlemanhes still eating now.
+</T>
+<T>
+SHEPHERD
+If only Id been close by to help the gentleman!
+</T>
+<T>
+YOKEL
+I wish you had been near the ship so you could have helped iton the water you wouldnt have had a place to stand.
+</T>
+<T>
+SHEPHERD
+Sad affairs, sad affairs! But look here, boy. Say a blessing. While you were watching things dying, I was meeting with things newly born. Heres a sight for you. Look, baby clothes for a squires childA squire was a man of relatively high social standing.squires child! Look here, pick it up, boy, and open it. Lets see whats in it. Ive been told that the fairies would make me rich. This is some changelingA child said to have been swapped for another child by fairies.changeling. Open it. Whats in it, boy?
+</T>
+<T>
+YOKEL
+You are set, old man! As long as the sins of your youth have been forgiven, youll live well. Its gold, all gold!
+</T>
+<T>
+SHEPHERD
+This is fairy gold, boy, and will prove to be. Pick it up, and hold it close. Lets go home. We are lucky, boy, and to keep it that way we have to keep this matter a secret. Let the sheep go. Come, good boy, lets go home.
+</T>
+<T>
+YOKEL
+Go home yourself with what youve found. Ill go see if the bear has left the gentleman and how much of him he ate. They are only vicious when they are hungry. If there is anything left of the gentleman, Ill bury it.
+</T>
+<T>
+SHEPHERD
+Thats a good deed. If you can tell by whats left of him who he was, bring me to the body.
+</T>
+<T>
+YOKEL
+I will, and then you can help me bury him.
+</T>
+<T>
+SHEPHERD
+Its a lucky day, boy, and well do good deeds to mark it.
+</T>
+<T>
+TIME
+I am taking up my wings, in the name of Time, which pleases some, tests all, brings both joy and terror, makes errors and corrects them. Dont see it as a crime that I pass quickly over sixteen years and leave that wide gap unexamined, as I have the power to overthrow the laws of nature and, in one hour, to establish or topple custom. Let me remain as Ive been since before civilization began through what currently is. I saw the times that led to the present, and as I did to the past, Ill make the youngest things old and dim the shine of the present until it, too, is old. If your patience allows, Ill turn my hourglass and move the scene forward as if you had slept through it all. Leontes mourns the terrible results of his foolish jealousy so much that he shuts himself away. Then imagine, dear spectators, that I am now in fair Bohemia, where a son of the king, named Florizel, lives. And quickly Ill speak of Perdita, grown into a young woman so graceful she inspires admiration. I wont prophecy what will happen to her, but let Time reveal it. She is a shepherds daughter, and what pertains to her is the provenance of Time. Allow this leap in time if ever before now youve spent time in a worse way. If you havent, Time himself hopes you never will.
+</T>
+<T>
+POLIXENES
+I beg you, Camillo, stop being so persistent. Its terrible to deny you anything, but it would be death to grant this.
+</T>
+<T>
+CAMILLO
+Its been sixteen years since Ive seen my country. Although Ive lived abroad so long, I want to be buried at home. Besides, my master, the king, regrets his actions and has sent for me. Perhaps I can ease his grief, if Im not too presumptuous in thinking I might, and that makes my departure all the more urgent.
+</T>
+<T>
+POLIXENES
+If you love me, Camillo, dont renounce the rest of your service to me by leaving me now. Its your own excellence that makes me need you so much. It would have been better not to have known you at all than to miss you. Since youve managed matters here in a way that no one can do without you, you must either stay and see them through or take them with you. If I havent been thankful enoughand I cant be too thankfulIll apply myself to it even more and find my profit in your great friendship. Please dont speak of that deadly country, Sicilia, anymore. Its very name hurts by making me remember that remorsefulas you call himand reconciled king, whose loss of his precious queen and children should be mourned anew even now. Tell me, when did you last see my son, Prince Florizel? Kings are just as unhappy when their children are not virtuous as when they lose them after theyve proved their virtues.
+</T>
+<T>
+CAMILLO
+Sir, it has been three days since I saw the prince. I dont know what happiness he might have, but I have noticed that lately hes more often absent from the court and neglectful of his princely duties than in the past.
+</T>
+<T>
+POLIXENES
+I have thought about this, and with some concern, Camillo, so much so that Ive had some of my servants keep an eye on him while hes been absent. From them Ive learned that he is often at the home of a simple shepherd, a man, they say, who has gone from nothing to amazing riches, greater than any of his neighbors could have imagined.
+</T>
+<T>
+CAMILLO
+Ive heard of such a man, sir, who has a most exceptional daughter. What people say of her is beyond what one would expect to have come from such a cottage.
+</T>
+<T>
+POLIXENES
+Ive heard the same thing, and I fear that shes what takes my son there. You shall go with me to that place, and in disguise well question the shepherd, whose simple nature I think will make it easy to find out why my son visits there. Please, be my partner in this matter and forget about Sicilia.
+</T>
+<T>
+CAMILLO
+I willingly obey your command.
+</T>
+<T>
+POLIXENES
+Wonderful Camillo! We must disguise ourselves.
+</T>
+<T>
+AUTOLYCUS
+When daffodils begin to sprout, with the poor wench over the hills, why then its the sweetest part of the year as red blood reigns in flesh made pale by winter. The white sheet airing out on the hedge, and oh, the sweet birds singing, makes my thieving fingers itch, and a quart of beer is a drink for a king! The lark chants tirra-lyra, and the thrush and the jay sing, while my mistress and I tumble about in the hay. I have served Prince Florizel and worn three-piled velvetA luxuriously thick type of velve.three-piled velvet, but now Im unemployed. But should I mourn for that, my dear? The pale moon shines at night, and in wandering here and there, I take the right course through life. If menders of metal pots have the right to live and bear the burden of their tool bag, then I can tell my own story and in the stocksA form of punishment in which a person was locked into a wooden device, called the stocks, in public to be exposed to ridiculethe stocks. I deal in sheets, and when the thieving bird builds his nest, he takes up poorer linen. My father named me AutolycusIn Greek myth, Autolycus was the grandfather of Odysseus and a cunning thiefAutolycus. Like me he was born under MercuryThe god of thieves.Mercury, and like me he would steal those little things left unsecured. By gambling and pimping I bought this outfit, and my income is from little deceptions. Being a highwayman might get me hanged or beat, which are terrors to me, and as for the afterlife, I try not to think about it. Oh, looka prize!
+</T>
+<T>
+YOKEL
+Lets see. Every eleven sheep gives about twenty-eight pounds of wool. Every twenty-eight pounds of wool earns a pound and some shillings. If weve shorn fifteen hundred sheep, how much does that come to?
+</T>
+<T>
+AUTOLYCUS
+(aside)
+If the trap holds, the bird is mine.
+</T>
+<T>
+YOKEL
+I cant do it without something to add it up. Lets see, what do I need to buy for our sheep-shearing feastA traditional summer event in rural England at the time.sheep-shearing feast? Three pounds of sugar, five pounds of currants, rice. What does my sister need rice for? But my father has put her in charge of the feast, and she is doing a good job with it. Shes made twenty-four small bouquets for the shearers, who can all sing three-part songs, and very well. But they are mostly tenors and basses, and one is so saintly he sings psalms for dances. I have to get saffron to color the pear pies. Do I need maceA spice derived from the same fruit as nutmeg.mace and dates? No, thats not on my list. Seven nutmegs, some ginger rootthough I might be able to get that for freeand four pounds each of prunes and raisins.
+</T>
+<T>
+AUTOLYCUS
+Oh, that I was ever born!
+</T>
+<T>
+YOKEL
+What in the world
+</T>
+<T>
+AUTOLYCUS
+Oh, help me! Take off these rags, and then I can die!
+</T>
+<T>
+YOKEL
+Alas, poor soul! You need more rags to cover you, not to take your rags off.
+</T>
+<T>
+AUTOLYCUS
+Oh, sir, their awfulness offends me more than the blows I received, which were numerous and painful.
+</T>
+<T>
+YOKEL
+Alas, poor man! To have suffered a million blows is a serious problem.
+</T>
+<T>
+AUTOLYCUS
+Ive been robbed, sir, and beaten, my money and clothes taken from me, and these horrible rags put on me instead.
+</T>
+<T>
+YOKEL
+What, by a man on horse or on foot?
+</T>
+<T>
+AUTOLYCUS
+A man on foot, sweet sir, on foot.
+</T>
+<T>
+YOKEL
+Indeed, he should be a man on foot, judging by those clothes. If it were the coat of a man on a horse, it has seen some terrible service. Give me your hand, and Ill help you. Here, give me your hand.
+</T>
+<T>
+AUTOLYCUS
+Oh, good sir, be gentle!
+</T>
+<T>
+YOKEL
+Alas, poor soul!
+</T>
+<T>
+AUTOLYCUS
+Oh, good sir, carefully! Im afraid my shoulder might be dislocated.
+</T>
+<T>
+YOKEL
+What else? Can you stand?
+</T>
+<T>
+AUTOLYCUS
+(picking the Yokels pocket) Careful, dear sir, careful. You have done me a charitable deed.
+</T>
+<T>
+YOKEL
+Do you need money? I have a little I can give you.
+</T>
+<T>
+AUTOLYCUS
+No, good kind sir, I beg you. I have a relative less than a mile from here whom I was going to visit. He can give me money or whatever I need. Please, dont offer me money. That kills me.
+</T>
+<T>
+YOKEL
+What did the fellow who robbed you look like?
+</T>
+<T>
+AUTOLYCUS
+A fellow, sir, that I have known to go about with prostitutes. I know he was once a servant of the prince. Im not sure, good sir, for which of his virtues it was, but he certainly got whipped out of court.
+</T>
+<T>
+YOKEL
+Vices, you mean, since virtues arent whipped out of court. They cherish virtues there, and yet they wont stay there long.
+</T>
+<T>
+AUTOLYCUS
+I would say vices, sir. I know this man well. Since he left he has been a performer with a monkey, then a summons server, a bailiff, and then he came up with a puppet show about the Prodigal Son, and then he married a pot-menders wife within a mile of my property. Having entered and abandoned all these disreputable professions, he finally settled on being a rogue. Some call him Autolycus.
+</T>
+<T>
+YOKEL
+A curse on him! A crook, upon my life, a crook. He lingers about funerals, fairs, and bear-baitings.
+</T>
+<T>
+AUTOLYCUS
+Very true, sir, thats him, the rogue that put me in these clothes.
+</T>
+<T>
+YOKEL
+Theres no more cowardly rogue in all of Bohemia. If you had looked large and had spit at him, he would have run.
+</T>
+<T>
+AUTOLYCUS
+I have to confess to you, sir, Im not a fighter. Im too faint at heart, and Im sure he knew it.
+</T>
+<T>
+YOKEL
+How are you now?
+</T>
+<T>
+AUTOLYCUS
+Kind sir, much better now than before. I can stand on my own and walk. Ill even say goodbye to you, and make my way carefully to my relatives home.
+</T>
+<T>
+YOKEL
+Shall I help you there?
+</T>
+<T>
+AUTOLYCUS
+No, pretty sir. No, kind sir.
+</T>
+<T>
+YOKEL
+Then best of luck to you. I have to go buy spices for our sheep-shearing.
+</T>
+<T>
+AUTOLYCUS
+May you prosper, sweet sir!
+</T>
+<T>
+Your purse is not full enough to purchase your spices. Ill join you at your sheep-shearing, too. If I dont make this deception lead to another and prove the shearers as stupid as sheep, let me be removed from the list of thieves and my name become known for virtue!
+</T>
+<T>
+Jog on, jog on, along the foot-path, and merrily grasp the gate. A merry heart can go all day, a sad heart tires after just a mile.
+</T>
+<T>
+FLORIZEL
+Your festival clothes give you a new look. No longer a shepherdess, but the goddess of flowers appearing at the beginning of April. Your sheep-shearing is like a meeting of minor gods, and you are the queen of them.
+</T>
+<T>
+PERDITA
+My gracious lord, it doesnt suit me to rebuke you for exaggerations. Oh, pardon me for naming them! You, the one whose charms make him admired by the public, have hidden yourself in rustic clothing, while I, just a poor lowly girl, am made up like a goddess. If there werent foolishness at every table during our feasts, and if people werent accustomed to such foolishness by now, Id feel embarrassed to see you dressed like that and would faint to see myself in the mirror.
+</T>
+<T>
+FLORIZEL
+I bless the day when my hunting bird flew across your fathers land.
+</T>
+<T>
+PERDITA
+Now may Jove give you reason to be glad! For me the difference in rank between us fills me with dread, though you in your greatness arent used to fear. Even now I tremble to think that your father might by some accident pass this way, like you did. Oh, the Fates! How would he look when he discovered that his noble son was so humbly dressed! What would he say? How should I, in this borrowed finery, look upon his stern presence?
+</T>
+<T>
+FLORIZEL
+Imagine only happiness. The gods themselves have taken on the form of beasts when theyre in love. Jupiter became a bull and bellowed; Neptune became a ram and bleated. And the god of the sun, golden Apollo, became a humble shepherd just as I appear today. But their transformations were never for someone so beautiful, and neither were their loves as chaste as mine, because my desires are secondary to my honor, and my faith burns hotter than my lusts.
+</T>
+<T>
+PERDITA
+But sir, your feelings toward me might falter when they are opposed, as they must be, by the power of the king. Then one of the two must happen: either you will change your feelings or I will lose my life.
+</T>
+<T>
+FLORIZEL
+Dearest Perdita, dont let these farfetched thoughts dampen the high-spirits of the feast. Ill be yours, my fair love, and not my fathers. I cant be myself, or anything to anyone, if Im not yours. My feelings wont change, even if destiny says we are not to be together. Be happy, dearest. Get rid of these thoughts by busying yourself with something else. Your guests are coming. Look happy, as if it were the day were getting married, as weve sworn we will.
+</T>
+<T>
+PERDITA
+Oh, Fortune, remain favorable!
+</T>
+<T>
+FLORIZEL
+See, your guests are approaching. Prepare yourself to entertain them in a lively manner, and lets be red-faced from all our laughter.
+</T>
+<T>
+SHEPHERD
+Oh, daughter, when my old wife was still alive, on this day she was a pantry maid, butler, cook, mistress of the house, and servant. She welcomed all, served all, would sing her song and dance her share. She would sit first at the head of the table, then in the middle. Shed be on this mans shoulder, and then on that ones. Her face would be red from work and what she drank to quench her thirst, and she would drink a toast to each person. You are withdrawn, as if you were a guest and not the hostess of this party. Please, welcome these strangers so that we can become better acquainted. Come, stop blushing and present yourself as that which you are: the mistress of the feast. Come on and welcome us to your sheep-shearing, so that your flock will prosper.
+</T>
+<T>
+PERDITA
+(to Polixenes) Sir, welcome. My father wishes me to be the hostess here today.
+</T>
+<T>
+You are welcome here, sir. Give me those flowers there, Dorcas. Honored sirs, for you there are rosemary and rueRosemary is an herb that symbolizes remembrance, while rue is an herb that symbolizes repentance and grace.rosemary and rue, which keep their appearance and scent all through the winter. May you both have grace and remembrance, and welcome to our shearing!
+</T>
+<T>
+POLIXENES
+Fair shepherdess, since we are old, you do well to pair us with winter flowersRefers to the common metaphor comparing the stages of life to the seasons, with winter being old age.winter flowers.
+</T>
+<T>
+PERDITA
+Sir, the year is growing old, with the summer not yet over and the winter not yet starting. The fairest flowers of this season are carnations and two-toned gillyflowers, which some call natures bastards. But we dont have any of those flowers in our garden, and I dont care to get any cuttings of them.
+</T>
+<T>
+POLIXENES
+Kind maiden, why do you reject them?
+</T>
+<T>
+PERDITA
+Because Ive heard that their many colors are due as much to cross-breeding as to nature.
+</T>
+<T>
+POLIXENES
+Perhaps thats true. But any technique used to improve nature is itself made by nature, so any form of artifice that adds to nature is really a natural artifice. You see, sweet maid, we marry a more noble stem to a wild stem, so that a lesser plant produces one that is superior. This is an art that improves nature, or rather changes it, but the art itself is natural.
+</T>
+<T>
+PERDITA
+So it is.
+</T>
+<T>
+POLIXENES
+Then fill your garden with gillyflowers, and dont call them bastards.
+</T>
+<T>
+PERDITA
+I wont put a shovel in the dirt to plant a single one of them, just as I wouldnt want this youth here to think Im attractive and want to sleep with me only because Im wearing makeup. Here are flowers for you: lavender, mint, savory, marjoram, and the marigold, which sets with the sun and rises with it filled with dew. These are flowers that bloom in the middle of summer, and I think they should be given to men of middle age. Youre very welcome here.
+(She gives them flowers.)
+</T>
+<T>
+CAMILLO
+If I were part of your flock, I would stop grazing and instead gaze on you as my only nourishment.
+</T>
+<T>
+PERDITA
+Oh, not at all! Youd be so skinny that the icy winds of January would blow right through you. (to Florizel) Now, my fairest friend, I wish I had flowers of the spring that would match your age, (to Mopsa and Dorcas) and yours, and yours, who are still in your adolescence. Oh, Proserpina, if only we had the flowers that you, frightened, let fall from Diss chariotIn Greek myth, Proserpina was abducted by Dis, also known as Pluto, while she was collecting flowers.Proserpina, if only we had the flowers that you, frightened, let fall from Diss chariot! Daffodils that bloom before the swallows dare return from the south, and that charm the winds of March with their beauty. Modest violets that are sweeter than Junos eyesJuno was the Roman name for Hera, Zeuss wife and queen of the gods.Junos eyes or Cythereas breathRoman name for Venus, goddess of love.Cythereas breath. Pale primroses that die unmarried, before they can see the bright sun at full strengtha sickness that often affects young women. Bold oxlips and the crown imperial lily, lilies of all kinds, the flower-de-luceOr fleur-de-lis.flower-de-luce being one! Oh, if only I had these flowers to make garlands and to throw over my sweet friend!
+</T>
+<T>
+FLORIZEL
+What, like a corpse?
+</T>
+<T>
+PERDITA
+No, like a riverbank for love to lie and play on. Not like a corpseor, if so, not one to be buried, but one alive and in my arms. Come, take your flowers. I think I am playing as Ive seen them do during WhitsunA religious feast celebrated seven Sundays after Easter.Whitsun festivities. This outfit Im wearing certainly changes my attitude.
+</T>
+<T>
+FLORIZEL
+What you do is always better than what is normally done. When you speak, sweet, Id have you do it forever. When you sing, Id have you buy and sell with songs, and give alms, pray, and arrange your affairs with singing. When you dance, I wish you were a wave in the sea, so that you would only ever do that and have no other purpose in life. Everything you do is so perfect that whatever you do is the best.
+</T>
+<T>
+PERDITA
+Oh, DoriclesThe fake name Florizel is using.Doricles, you praise me too much. If your youth and your noble character didnt shine through your disguise and reveal your purity, I might worry that you were trying to lead me astray.
+</T>
+<T>
+FLORIZEL
+I think you have as little cause to fear as I have intention to make you feel afraid. But come, dance with me please. Give me your hand, my Perdita, just as turtledoves pair for life and never part from one another.
+</T>
+<T>
+PERDITA
+Ill swear to their philosophy.
+</T>
+<T>
+POLIXENES
+She is the prettiest common girl thats ever run across the lawn. Everything she does has an air of something greater than herself, something too noble for this place.
+</T>
+<T>
+CAMILLO
+Hes saying something that makes her blush. Goodness, her complexion is as creamy as milk.
+</T>
+<T>
+YOKEL
+Come on, play the music!
+</T>
+<T>
+DORCAS
+Mopsa will be your dance partner. Give her garlic to make her breath better!
+</T>
+<T>
+MOPSA
+Now, thats enough!
+</T>
+<T>
+YOKEL
+Dont say a word. Well act with manners. Come, play the music!
+</T>
+<T>
+POLIXENES
+Good shepherd, can you tell me who is the handsome young man dancing with your daughter?
+</T>
+<T>
+SHEPHERD
+They call him Doricles and say he has a valuable pasture. Hes told me so himself, and I believe him. He looks honest. He says he loves my daughter, and I think he does. He gazes into my daughters eyes as intently as the moon shines onto water. And, to be blunt, I dont think theres a way to tell from their kiss who loves the other more.
+</T>
+<T>
+POLIXENES
+She dances well.
+</T>
+<T>
+SHEPHERD
+She does everything well. Ill tell you something I shouldnt: if young Doricles does marry her, shell bring him greater fortune than he guesses.
+</T>
+<T>
+SERVANT
+Oh, master, if you had heard the peddler at the door, youd never again dance to a tambourine and a pipe, and a bagpipe wouldnt tempt you. He sings several songs faster than you can count money. He sings them as readily as if he had digested them completely, and all men cant help but listen.
+</T>
+<T>
+YOKEL
+He couldnt have come at a better time. Let him in. I love a ballad almost too much, especially a sad subject set to a happy tune, or a pleasant subject sung mournfully.
+</T>
+<T>
+SERVANT
+He has songs for all men and women. He fits them to his customers closer than gloves. He has pretty love songs for the maid, without any lewdness, which is unusual, and with delicate refrains full of dildos and orgasmsThe servant apparently doesnt understand that the songs are, in fact, full of sexual puns.delicate refrains full of dildos and orgasms, like jump her and thump her. And if an obscene rascal would try to make mischief and interrupt the song, the peddler makes the maid answer, Hey, do me no harm, good man, and puts him off that way.
+</T>
+<T>
+POLIXENES
+This is an excellent fellow.
+</T>
+<T>
+YOKEL
+Believe me, you are talking about a very witty fellow. Does he have any new items to sell?
+</T>
+<T>
+SERVANT
+He has ribbons in all the colors of the rainbow, and countless laces that he gets wholesale. He has linen tape and yarn tape, fine linens, too. Why, he sings about them as if they were gods and goddesses. You would think a ladies undergarment were an angel, the way he sings to the cuff and embroidery about the bodice.
+</T>
+<T>
+YOKEL
+Please, let him in, and have him sing while hes approaching us.
+</T>
+<T>
+PERDITA
+Warn him that he musnt use bad words in his songs.
+</T>
+<T>
+YOKEL
+There are some peddlers who have more bad words in them than you would think.
+</T>
+<T>
+PERDITA
+Ay, good brother, or wish to think.
+</T>
+<T>
+AUTOLYCUS
+Linen as white as wind-whipped snow;
+CrepeA material used for mourning clothes.Crepe as black as a crow;
+Gloves as sweet-smelling as damask roses;
+Masks to cover faces and noses;
+A glittering bracelet, a necklace made of amber;
+Perfume made for a ladies room;
+Golden caps and dress fronts
+For my young men to give to their sweethearts;
+Pins and rods of steel;
+Whatever young woman need from head to toe;
+Come buy them from me, or your ladies will cry. Come buy.
+</T>
+<T>
+YOKEL
+If I werent in love with Mopsa, I wouldnt give you a dime. But being infatuated as I am, Ill have to get a few ribbons and gloves.
+</T>
+<T>
+MOPSA
+You promised them to me in time for the feast, but I guess its not too late.
+</T>
+<T>
+DORCAS
+Hes promised more than that, or he is a liar.
+</T>
+<T>
+MOPSA
+He has given you all he promised, and maybe a baby on top of it. It will shame you to pay him back with that baby in nine months.
+</T>
+<T>
+YOKEL
+Dont you maids have any manners? Will you reveal your most intimate affairs in public? Isnt there a time to tell these secrets while you are milking, or going to bed, or at the fireplace, rather than tattling in front of our guests? Good thing they are whispering among themselves. Bite your tongues, and dont say another word.
+</T>
+<T>
+MOPSA
+I wont. Come on, you promised me a cheap neckerchief and a pair of gloves.
+</T>
+<T>
+YOKEL
+Didnt I tell you I was tricked along my way and lost all my money?
+</T>
+<T>
+AUTOLYCUS
+Its true, sir. There are tricksters out there, so its in a mans best interest to watch out.
+</T>
+<T>
+YOKEL
+Dont fear, man, you wont lose anything here.
+</T>
+<T>
+AUTOLYCUS
+I hope not, sir, since I have so many parcels of value.
+</T>
+<T>
+YOKEL
+What do you have here? Ballads?
+</T>
+<T>
+MOPSA
+Please, buy some. I love having a ballad written out, because then we are sure its true.
+</T>
+<T>
+AUTOLYCUS
+Heres one thats sung to a very mournful tune: how a money lenders wife delivered twenty bags of money in one birth, and she wanted to eat snakes heads and toads grilled.
+</T>
+<T>
+MOPSA
+Do you think its true?
+</T>
+<T>
+AUTOLYCUS
+Very true, and only a month old.
+</T>
+<T>
+DORCAS
+May I never marry a loan shark!
+</T>
+<T>
+AUTOLYCUS
+Heres the name of the midwife who helped at the birth, one Mistress Taleporter, and the five or six who witnessed it. Why should I spread lies around?
+</T>
+<T>
+MOPSA
+Please, buy it.
+</T>
+<T>
+YOKEL
+Come on, put it aside, and lets see more ballads before we buy anything.
+</T>
+<T>
+AUTOLYCUS
+Heres another ballad about a fish that appeared on the shore on Wednesday, the eightieth of April, two hundred and forty thousand feet above sea level, and sang this song to soften the hearts of young women. Some thought it was a woman who had been changed into a cold fish because she wouldnt sleep with the man who loved her. The ballad is as sad as it is true.
+</T>
+<T>
+DORCAS
+You think its true, too?
+</T>
+<T>
+AUTOLYCUS
+Five judges would swear to it, and there are more witnesses statements than I could pack along with me.
+</T>
+<T>
+YOKEL
+Put that one aside, too, and lets see another.
+</T>
+<T>
+AUTOLYCUS
+This is a happy ballad, and very pretty.
+</T>
+<T>
+MOPSA
+Lets have some happy ones.
+</T>
+<T>
+AUTOLYCUS
+Heres a very merry one, which goes to the tune of Two Maids Courting a Man. Theres hardly a woman west of here that doesnt sing it. Its in great demand, I can tell you.
+</T>
+<T>
+MOPSA
+We can both sing it. If you will sing one part, we can do it, since there are three parts and three of us.
+</T>
+<T>
+DORCAS
+We learned the tune for it a month ago.
+</T>
+<T>
+AUTOLYCUS
+I can sing my part. As you know, Im a singer by trade. Go ahead.
+</T>
+<T>
+AUTOLYCUS
+Go away, because I must go to a place that you dont know.
+</T>
+<T>
+DORCAS
+Where?
+</T>
+<T>
+MOPSA
+Oh, where?
+</T>
+<T>
+DORCAS
+Where?
+</T>
+<T>
+MOPSA
+It wouldnt be breaking your promise to tell me your secrets.
+</T>
+<T>
+DORCAS
+Me, too, let me go with you.
+</T>
+<T>
+MOPSA
+Or perhaps you are going to the farmhouse or the mill.
+</T>
+<T>
+DORCAS
+If you are going either place, you are doing wrong.
+</T>
+<T>
+AUTOLYCUS
+Im not going to either one.
+</T>
+<T>
+DORCAS
+What, neither one?
+</T>
+<T>
+AUTOLYCUS
+Neither one.
+</T>
+<T>
+DORCAS
+Youve sworn to be my love.
+</T>
+<T>
+MOPSA
+Youve sworn it more to me. Then where are you going? Tell me, where?
+</T>
+<T>
+YOKEL
+Well finish this song soon by ourselves. My father and the gentlemen are having a serious talk, and we should leave them alone. Come, bring your pack and follow me. Girls, Ill buy things for you both. Peddler, give me first choice. Follow me, girls.
+</T>
+<T>
+AUTOLYCUS
+And you will pay a great deal for them!
+</T>
+<T>
+Will you buy any ribbon,
+Or lace for your cape,
+My dainty little dear,
+Any silk, any thread
+Any ornaments for your head,
+The newest and finest to wear?
+Come to the peddler
+Money is a meddler
+When it offers all a mans items for sale.
+</T>
+<T>
+SERVANT
+Master, three cart drivers, three shepherds, three cowherds, and three swineherds have arrived, dressed up in animal skins. They call themselves jumpers, and they have a dance that the wenches say is filled with many leaps and hops. If it isnt too energetic for those more used to sedate sports like bowling, it will be greatly pleasing.
+</T>
+<T>
+SHEPHERD
+Send them away! Well have none of it. There has been too much vulgar foolishness already. I know, sir, that we are tiring you.
+</T>
+<T>
+POLIXENES
+Youll tire those that entertain us. Please, lets see these four trios of herdsmen.
+</T>
+<T>
+SERVANT
+One trio tells me that they have danced before the king. And even the worst of the three jumps twelve and half feet exactly.
+</T>
+<T>
+SHEPHERD
+Stop your chattering. Since these good men would be pleased to see them, let them in, and quickly.
+</T>
+<T>
+SERVANT
+Why, theyre right at the door, sir.
+</T>
+<T>
+POLIXENES
+Oh, father, youll know more about that soon.
+</T>
+<T>
+Hasnt it gone too far? Its time to separate them.
+Hes nave and tells them too much.
+</T>
+<T>
+Come now, handsome shepherd!
+There is something in your heart that is keeping your mind from enjoying the feast. When I was young and enjoyed love the way you do, I tended to give my girl lots of gifts. I would have ransacked the peddlers silks and treasures and given her them for her approval. Youve let him go without buying a thing. If your lass interprets this as a lack of love or a lack of money, youll have a hard time explaining it, at least if you want her to stay with you.
+</T>
+<T>
+FLORIZEL
+Old sir, I know she doesnt care for such trifles as these. The gifts she wants from me are from my heart, and they are hers already, though I havent delivered them yet. (to Perdita) Oh, listen to me telling my private thoughts to this old man, who it seems has been in love on occasion! I take your hand, as soft and as white as a doves downy feather, or the snow that is blown about by the wind.
+</T>
+<T>
+POLIXENES
+What does this mean? How delicately the young man seems to wash the hand that was already beautiful. Ive interrupted. But back to your declaration. Let me hear more about your love.
+</T>
+<T>
+FLORIZEL
+Do, and witness how I feel.
+</T>
+<T>
+POLIXENES
+And my companion, too?
+</T>
+<T>
+FLORIZEL
+Him, and others, and all men, the earth, the heavens and everything. If I were the most powerful and worthy king, or the most handsome youth to ever draw peoples eyes, or if I had greater strength and knowledge than any other man, they would mean nothing to me without her love. I would dedicate them to her service or sentence them to damnation.
+</T>
+<T>
+POLIXENES
+Well said.
+</T>
+<T>
+CAMILLO
+This shows his strong affection for her.
+</T>
+<T>
+SHEPHERD
+But, my daughter, would you say the same to him?
+</T>
+<T>
+PERDITA
+I cant speak as well, not nearly as well. But I couldnt say anything more. My own thoughts are echoed in his pure words.
+</T>
+<T>
+SHEPHERD
+Shake hands. Its a deal! And, friendly strangers, youll be a witness to this. I give my daughter to him in marriage and will make her dowry equal to his fortune.
+</T>
+<T>
+FLORIZEL
+Then her dowry must be her virtue, since once my father is dead I will inherit more than you can dream of. It will be enough for you to wonder at it. But, come, bind us together before these witnesses.
+</T>
+<T>
+SHEPHERD
+Give me your hand, and daughter, give me yours.
+</T>
+<T>
+POLIXENES
+Gentle young shepherd, wait, please. Do you have a father?
+</T>
+<T>
+FLORIZEL
+I do, but what about him?
+</T>
+<T>
+POLIXENES
+Does he know about this?
+</T>
+<T>
+FLORIZEL
+He doesnt, and he wont.
+</T>
+<T>
+POLIXENES
+I think a father is the best guest at his sons wedding. Please, once more, has your father become incapable of doing normal tasks? Is he senile from age and illness? Can he speak and hear? Does he know one man from another? Can he handle his own estate? Is he confined to his bed and unable to do the things he did when he was younger?
+</T>
+<T>
+FLORIZEL
+No, good sir, he is healthy, and indeed he is even stronger than most people of his age.
+</T>
+<T>
+POLIXENES
+By my white beard, if this is so then you are wronging him in a way unsuitable for a son. Its reasonable that a son should choose a wife, but its just as reasonable that his father should be able to have some say in the matter, since all his joy is in his family.
+</T>
+<T>
+FLORIZEL
+I agree with all youre saying. But there are other reasons, my serious sir, which its best you dont know regarding why I dont tell my father of this.
+</T>
+<T>
+POLIXENES
+Let him know about it.
+</T>
+<T>
+FLORIZEL
+He wont know about it.
+</T>
+<T>
+POLIXENES
+Please, let him.
+</T>
+<T>
+FLORIZEL
+No, he must not.
+</T>
+<T>
+SHEPHERD
+Let him know, my son. He wont grieve when he hears your choice.
+</T>
+<T>
+FLORIZEL
+Come, come, he must not know. Sign our contract.
+</T>
+<T>
+POLIXENES
+Sign your divorce, young sir!
+</T>
+<T>
+I dont dare call you son. You are too lowly for me to acknowledge. You are the heir of a king, and you want to be a shepherd! (to the Shepherd) You old traitor, Im sorry that hanging you will only shorten your life by a week! (to Perdita) And you, you skilled little witch, you must know you are dealing with a royal fool
+</T>
+<T>
+SHEPHERD
+Oh, my heart!
+</T>
+<T>
+POLIXENES
+Ill have your beautiful face scratched with thorns and made worse than your social rank. (to Florizel) As for you, foolish boy, if I ever find out that youve so much as sighed about not seeing this whore againas I mean you wontIll bar you from inheriting the throne. I wont consider you related to me at all. Listen to me: follow me to the court, you delinquent, because this time Ill let you off easy, even though I am full of rage. (to Perdita) And you, witch, youre only good enough for a herdsman, and would be for Florizel, too, who lowers himself to the position of shepherd, if not for the royal blood in his veins. If you ever come near him or put your arms around him again, Ill devise a death for you that is as cruel as you are vulnerable to it.
+</T>
+<T>
+PERDITA
+Were ruined even here! I was not very afraid. Once or twice I was about to speak and tell him bluntly that the same sun that illuminates his court doesnt hide its face from our cottage but looks down here all the same. Will you please leave, sir? I told you what would come of this. Please, take care of yourself. Now that Im awake, I wont act the queen anymore but will milk my ewes and weep.
+</T>
+<T>
+Why, what about you, father? Speak before you die.
+</T>
+<T>
+SHEPHERD
+I cant speak, or think, or dare to know what I know. Oh. sir! You have ruined a man of sixty-three. I thought I would go to my grave in peace, to die in the bed my father died in, and be buried close to his honest bones. But now a hangman will put a burial shroud on me and put me in an unconsecrated grave. (to Perdita) Oh, cursed girl, you knew this was the prince and dared to exchange vows with him! Undone! If I can die within the hour, I will have died when I wish.
+</T>
+<T>
+FLORIZEL
+(to Perdita) Why do you look at me like that? I am only sorry, not afraid. Our plans are delayed, but not altered. I was in love, and I still am. Now Im all the more determined to move forward for having been held back. I wont be pulled against my will.
+</T>
+<T>
+CAMILLO
+My gracious lord, you know your fathers temper. Just now he wont let you speak, which I guess you dont plan to do anyway, and I fear he can hardly stand to look at you yet. So, until his anger settles, dont approach him.
+</T>
+<T>
+FLORIZEL
+I wont try it. Is it you, Camillo?
+</T>
+<T>
+CAMILLO
+It is I, my lord.
+</T>
+<T>
+PERDITA
+How often have I told you it would be this way! How often have I said that my dignity would only last as long we werent discovered!
+</T>
+<T>
+FLORIZEL
+Your dignity will only be hurt if I break my promise to you, and if I do, may nature crush the Earth and any sources of life within it! Lift up your eyes. Let my father disown me as his heir. I am heir to my love.
+</T>
+<T>
+CAMILLO
+Be careful.
+</T>
+<T>
+FLORIZEL
+I am, by my heart. If my reason will obey love, Ill welcome reason. If not, I will be happier with madness and will welcome it gladly.
+</T>
+<T>
+CAMILLO
+This is a desperate act, sir.
+</T>
+<T>
+FLORIZEL
+You may call it that, but it does make good on what I just said, so I think it is an honest act. Camillo, I wont break my promise to Perdita for Bohemia, or all the glamour of being its king, or even for all the world the sun shines on, or the caves under the earth, or the depths hidden by the sea. I dont mean to see my father again. So, please, as you have been his closest friend, speak wise words to him and soothe his anger when he realizes Im gone. Let me wrestle with fortune for some time. You can tell my father that Ive gone to sea with the woman Im not allowed to hold on shore. Luckily for us, a vessel is close by, though it was not there for this purpose. It wont help either of us for me to tell you where were going.
+</T>
+<T>
+CAMILLO
+Oh, my lord! I wish you had a greater inclination to take advice, or that you were stronger.
+</T>
+<T>
+FLORIZEL
+Listen, Perdita.
+</T>
+<T>
+(to Camillo) Camillo, Ill listen to you in a moment.
+</T>
+<T>
+CAMILLO
+Hes made his mind up to flee. I would be happy if I could make this departure serve my own purposes. I can save him from danger and treat him with love and honor, and I can also gain sight of dear Sicilia and that unhappy king who is my master, and whom I long to see again.
+</T>
+<T>
+FLORIZEL
+Now, good Camillo, Im so overwhelmed with this strange undertaking that Ive forgotten my manners.
+</T>
+<T>
+CAMILLO
+Sir, I think you have heard of the modest services and the love I have given your father?
+</T>
+<T>
+FLORIZEL
+The praise is well-deserved. My father delights to speak of your actions, and he hopes that he repays them as much as he praises them.
+</T>
+<T>
+CAMILLO
+Well, my lord, if you do believe that I love the king and what he holds most dear, which is you, take my advice: if your determined course might be altered a bit, I swear Ill show you a place where youll be received in a manner fit for your highness. There youll be able to enjoy life with your sweetheart, from whom I can see there is no chance of separating you exceptheaven forbid!through your ruin. Marry her, and Ill strive in your absence to talk down your unhappy father and turn him to approval.
+</T>
+<T>
+FLORIZEL
+How might this near miracle be accomplished, Camillo? If you can do it, I would say youre something more than a man and would always trust you.
+</T>
+<T>
+CAMILLO
+Have you thought about where youll go?
+</T>
+<T>
+FLORIZEL
+Not any place yet. But since an unforeseen accident caused us to take this course of action, well pledge ourselves to fate and go where the wind blows us.
+</T>
+<T>
+CAMILLO
+Then listen to me. If you wont change your mind and are determined to flee, head to Sicilia, and present yourself and your fair princess before Leontes. She should be dressed in a way suitable for the wife of a prince. I think Leontes will open his arms and will weep as he bids you welcome. Hell ask your forgiveness as though he were your father, and hell kiss your princesss hands. Hes caught between berating himself for his past unkindness to your father and trying to be more kind now.
+</T>
+<T>
+FLORIZEL
+Worthy Camillo, what reason should I give him for my visit?
+</T>
+<T>
+CAMILLO
+Tell him you are sent by your father to greet him and comfort him. Ill write you a note containing things known by the three of us telling you what to say. That and the manner with which you greet him will make him believe that you represent your fathers feelings.
+</T>
+<T>
+FLORIZEL
+I owe you for this. Theres life in this plan.
+</T>
+<T>
+CAMILLO
+Its a much more promising way of doing things than simply throwing yourself on unmarked waters and strange shores, which will certainly lead you to plenty of misery. There would be no hope to help you aside from casting off one shore to find another. Your anchors would be your only certainty, and the best they can do is hold you in a place youll be loath to remain. Besides, you know that good fortune keeps love strong, and that affliction will change the freshness of your affection and the feelings of your heart.
+</T>
+<T>
+PERDITA
+One of those is true. Affliction may make us less fresh, but it wont alter our feelings.
+</T>
+<T>
+CAMILLO
+Do you say so? There wont be anyone like you born at your fathers house for many years.
+</T>
+<T>
+FLORIZEL
+My good Camillo, she is as superior to her upbringing as she is inferior to our noble rank.
+</T>
+<T>
+CAMILLO
+I cant say its a pity shes uneducated, because she seems more intelligent than those that teach.
+</T>
+<T>
+PERDITA
+Pardon me, sir, Ill thank you with my blushing.
+</T>
+<T>
+FLORIZEL
+My pretty Perdita! But, oh, the danger were in! Camillo, youve rescued my father and now me. You heal our family. What will we do? Im not dressed like the kings son, and I certainly wont look like royalty once we reach Sicilia.
+</T>
+<T>
+CAMILLO
+My lord, dont worry about it. I think you know that my fortune is still in Sicilia. Ill make sure you are dressed as royally as if I were dressing you for a play I had written. Let me have a word with you, to reassure you that you wont be left in need.
+</T>
+<T>
+AUTOLYCUS
+Ha ha! Honesty is such a fool, and Trust, his brother, is so nave! I have sold all my goodsnot a fake stone, or a ribbon, glass, brooch, book, ballad, knife, tape, glove, shoelace, bracelet, or ring made of horn remains in my pack. They crowded around me to see who could buy first, as if my trinkets were blessed and brought grace to the buyer. It let me know who had the fullest purse, and what I saw I remembered to put to use later. The yokel, who lacks just one quality to be a reasonable man, loved the girls song so much that he wouldnt leave until he had bought both the tune and the words. And all the others were so entranced that it was as though all their other senses were committed to hearing. You could have stolen a skirt because no one could feel anything. It was easy to strip a purse from a codpiecePart of a mans clothing attached to the front of his hose and covering his genitals.codpiece, and I could have used a file to take keys off a chain. There was no hearing or feeling anything except for that song, and admiration for it. So while they were spellbound I stole most of their purses, which were filled with money for the festival. If the old man hadnt come in wailing about his daughter and the kings son and scared my little birds from the feed, I would have taken purses from every one.
+</T>
+<T>
+CAMILLO
+No, but my letters will be there as soon as you arrive, and theyll clear up that question.
+</T>
+<T>
+FLORIZEL
+And the letter that youll get from King Leontes
+</T>
+<T>
+CAMILLO
+Will set your father at ease.
+</T>
+<T>
+PERDITA
+May you be happy! All your plans are good.
+</T>
+<T>
+CAMILLO
+Who is this?
+</T>
+<T>
+Well use this man, since we should use anything that will help.
+</T>
+<T>
+AUTOLYCUS
+If theyve overheard me, Ill be hanged.
+</T>
+<T>
+CAMILLO
+How are you, good fellow? Why are you shaking? Dont worry, man, we dont intend you any harm.
+</T>
+<T>
+AUTOLYCUS
+I am a poor man, sir.
+</T>
+<T>
+CAMILLO
+Why, be still. No one here will steal from you. But we need your poor-looking clothes. Undress right nowits urgentand swap clothes with this gentleman. The bargain is bad for him, but wait, (giving him money) theres something more in it for you.
+</T>
+<T>
+AUTOLYCUS
+I am a poor man, sir.
+(aside)
+I know you well enough.
+</T>
+<T>
+CAMILLO
+No, please, hurry. The gentleman is already half undressed.
+</T>
+<T>
+AUTOLYCUS
+Are you serious, sir?
+(aside)
+I think its a trick.
+</T>
+<T>
+FLORIZEL
+Hurry, I beg you.
+</T>
+<T>
+AUTOLYCUS
+Indeed, I think it is sincere, but I cant believe it.
+</T>
+<T>
+CAMILLO
+Unbuckle, unbuckle.
+</T>
+<T>
+(to Perdita) Lucky mistressmay you be lucky yet! You must take a disguise. Put on your sweethearts hat and pull it down over your eyes, wrap up your face, take off your outer garments, and, as much as you can, change your appearance as much as possible. That way I hope youll get to the ship without being discovered, for I fear that people are watching for you.
+</T>
+<T>
+PERDITA
+I understand that what were doing means I have to play a role.
+</T>
+<T>
+CAMILLO
+Theres no helping it. Are you done there?
+</T>
+<T>
+FLORIZEL
+If I ran into my father now, he wouldnt know me as his son.
+</T>
+<T>
+CAMILLO
+No, you wont have a hat.
+</T>
+<T>
+Come along, lady, come. Farewell, my friend.
+</T>
+<T>
+AUTOLYCUS
+Goodbye, sir.
+</T>
+<T>
+FLORIZEL
+Oh, Perdita, weve forgotten something now! Please, lets have a word.
+</T>
+<T>
+CAMILLO
+(aside) Next Ill tell the king that theyve escaped and where they are going. Then I hope I can persuade him to follow after them, and in his company Ill then return to Sicilia, which Ive longed to see again.
+</T>
+<T>
+FLORIZEL
+May fortune speed us! So we set forth to sea, Camillo.
+</T>
+<T>
+CAMILLO
+The faster the better.
+</T>
+<T>
+AUTOLYCUS
+I think I understand this matter and am hearing it right. Its necessary for a thief to have an open ear, a quick eye, and a nimble hand. A good nose is needed, too, to find work for the other senses. I see that this is a time when the unfair man thrives. What an exchange this would have been even without payment! What a profit I got through this exchange! Surely the gods are indulging us, and we can do whatever we want on a whim. The prince himself is doing wrong, sneaking away from his father with his girlfriend. If I thought it were an honest deed to tell the king, I wouldnt do it. I think it is more dishonest to conceal it, so Ill remain true to my profession and say nothing.
+</T>
+<T>
+Aha, here is more to do for a sharp mind. Every lane, every shop, church, meeting, or hanging gives a careful man an opportunity.
+</T>
+<T>
+YOKEL
+See, look at the situation you are in now! Theres no way out but to tell the king that shes a changelingA child believed to have been secretly swapped for the parents real child by fairies.changeling and not your flesh and blood.
+</T>
+<T>
+SHEPHERD
+Perhaps, but listen to me.
+</T>
+<T>
+YOKEL
+No, listen to me.
+</T>
+<T>
+SHEPHERD
+Go on, then.
+</T>
+<T>
+YOKEL
+Since shes not actually related to you, your family hasnt offended the king, and so he shouldnt punish your family. Show him what secret things youve found with her, everything but what she has on her. Once thats done, the law will have nothing on you, I guarantee you.
+</T>
+<T>
+SHEPHERD
+Ill tell the king everything, yes, every word, and Ill reveal his sons pranks, too. I must say, his son isnt an honest man to either his father or to me, trying to make me the kings brother-in-law.
+</T>
+<T>
+YOKEL
+Indeed, brother-in-law is the furthest you could be from him, and your blood would have been not at all more valuable.
+</T>
+<T>
+AUTOLYCUS
+(aside) Very wise, gullible men!
+</T>
+<T>
+SHEPHERD
+Well, lets go to the king. There is something in this bundle that will make him reconsider things.
+</T>
+<T>
+AUTOLYCUS
+(aside) I dont know how this complaint might hinder the flight of Florizel, my master.
+</T>
+<T>
+YOKEL
+Lets hope that hes at the palace.
+</T>
+<T>
+AUTOLYCUS
+(aside) Even if Im not naturally honest, sometimes I happen to be. Let me take off my peddlers beard.
+</T>
+<T>
+Hello, countrymen! Where are you going?
+</T>
+<T>
+SHEPHERD
+To the palace, if it pleases your worship.
+</T>
+<T>
+AUTOLYCUS
+Tell me what your business is there, and with whom, whats in that bundle, where you live, your names, ages, what you own and your parents, or anything else that ought to be known.
+</T>
+<T>
+YOKEL
+Were just ordinary fellows, sir.
+</T>
+<T>
+AUTOLYCUS
+Thats a lie. Youre ragged-looking and hairy. Dont lie to me. It only works for tradesmen, and they often call us soldiers liars and cheat us at the same time. But we pay them for it with coins rather than swords, so theyre not really giving us lies since were paying.
+</T>
+<T>
+YOKEL
+You would have given us a lie if you hadnt stopped yourself in the middle.
+</T>
+<T>
+SHEPHERD
+Are you from the court, if you please, sir?
+</T>
+<T>
+AUTOLYCUS
+I am from the court, whether it please me or not. Dont you see an air of the court in my clothes? Dont I walk as though Im from the court? Dont you smell the odor of the court on me? Dont I treat your base rank with the contempt of the court? Do you think that because I subtly draw out your business from you, that Im not from the court? I am a courtier from head to foot. And Ill either push along or prevent your business there, so I command you to tell me what its about.
+</T>
+<T>
+SHEPHERD
+My business, sir, is with the king.
+</T>
+<T>
+AUTOLYCUS
+Do you have an advocate with him?
+</T>
+<T>
+SHEPHERD
+I dont know.
+</T>
+<T>
+YOKEL
+An advocate means a pheasant at the courtThe Yokel thinks advocate means bribe, and game birds like pheasants were supposedly given as bribes at local courts.advocate means a pheasant at the court; say you dont have one.
+</T>
+<T>
+SHEPHERD
+None, sir. I dont have a pheasant, either a male or a female one.
+</T>
+<T>
+AUTOLYCUS
+How blessed are we that are smart! Yet nature could have made me just like them, so I wont treat them with contempt.
+</T>
+<T>
+YOKEL
+He must be a great man at the court.
+</T>
+<T>
+SHEPHERD
+His garments look expensive, but he doesnt wear them well.
+</T>
+<T>
+YOKEL
+His oddness makes him seem even more noble. Ill bet that hes a great man. I know by the toothpicks he usesOrnate toothpicks were fashionable at the time.toothpicks he uses.
+</T>
+<T>
+AUTOLYCUS
+What about that bundle there? What is in the bundle? And in the box?
+</T>
+<T>
+SHEPHERD
+Sir, the bundle and the box hold secrets that only the king may know, and which hell know within the hour if I can speak to him.
+</T>
+<T>
+AUTOLYCUS
+Old man, you have wasted your work.
+</T>
+<T>
+SHEPHERD
+Why, sir?
+</T>
+<T>
+AUTOLYCUS
+The king isnt at the palace. Hes gone on a new ship to ease his sadness and to refresh himself. If you are able to grasp such serious things, you know that the king is full of grief.
+</T>
+<T>
+SHEPHERD
+So it is said, sir, because his son meant to marry a shepherds daughter.
+</T>
+<T>
+AUTOLYCUS
+If the shepherd hasnt been arrested already, he should flee. Hell suffer curses so fierce and tortures so terrible that it would break the back of a man and the heart of even a monster.
+</T>
+<T>
+YOKEL
+Do you think so, sir?
+</T>
+<T>
+AUTOLYCUS
+He wont suffer these harsh and bitter punishments alone, either. All those who are related to him, even if they are very distant relatives, will hang, too. Its a great pity, but its necessary. That an old shepherd and rogue would act as a broker and offer to have his daughter marry into the royal family! Some say hell be stoned, but that manner of death is too soft for someone who tried to drag the throne into a sheeps pen! He cant die too many times, or in too painful a way.
+</T>
+<T>
+YOKEL
+Have you heard if the old man has a son?
+</T>
+<T>
+AUTOLYCUS
+He has a son who will be whipped, then covered with honey and put on a wasps nest until he is three quarters of the way to death. Then hell be revived with liquor or some other hot drink. Then, raw as his flesh is, on the hottest day that can be predicted hell be set against a brick wall with the sun beating down upon him, and where he will be swarmed with flies. But why are we talking about these traitors, whose offences are so terrible that their misery should cause us happiness? Tell me, since you seem to be honest, ordinary men, what business do you have with the king? Since Im well-respected at court, Ill take you to his ship, bring you into his presence, and whisper to him a recommendation on your behalf. If there is any man beside the king who can help your case, thats me.
+</T>
+<T>
+YOKEL
+He seems to have a great deal of authority. Approach him and give his some money. No matter how stubborn and untamable authority may be, a little money can make him docile. Let him put his hand into your purse, and no more fuss. Remember: stoned, and flayed alive.
+</T>
+<T>
+SHEPHERD
+If it pleases you, sir, to take on this business for us, here is all the gold I have. Ill pay you an equal amount more, and Ill leave you this young man as a guarantee until I can bring the rest to you.
+</T>
+<T>
+AUTOLYCUS
+After I have done what I have promised?
+</T>
+<T>
+SHEPHERD
+Yes, sir.
+</T>
+<T>
+AUTOLYCUS
+Well then, give me the first half. Are you part of this deal?
+</T>
+<T>
+YOKEL
+In a way, sir. But even if my skin is pitiful, I hope I wont be whipped out of it.
+</T>
+<T>
+AUTOLYCUS
+Oh no, thats what will happen to the shepherds son. Hell be hanged as an example.
+</T>
+<T>
+YOKEL
+(to the Shepherd) What a comfort! We must go to the king and show him our amazing proof. He must know that Perdita isnt your daughter or my sister, or well be dead. (to Autolycus) Sir, I will give you as much money as this old man does once the business is concluded, and until then, Ill stay with you as a guarantee for payment.
+</T>
+<T>
+AUTOLYCUS
+I trust you. Walk straight ahead toward the sea. Go along the right hand side of the road. I just need to go to the bathroom and Ill follow you.
+</T>
+<T>
+YOKEL
+Were blessed to have this man with us, I say, blessed.
+</T>
+<T>
+SHEPHERD
+Lets go before he has to tell us again. He was put here to help us.
+</T>
+<T>
+AUTOLYCUS
+Even if I wanted to be honest, I see Fate wouldnt let me. She drops profits right in my pocket. I have two opportunities here: to get gold and to do something good for my master the princeand who knows how that will help me in the future. I will bring these two gullible men aboard the ship with him. If he thinks their complaint to the king has nothing to do with him and wants to put them back on shore again, let him call me a rogue for being so interfering. I cant be hurt by that name, or any shame attached to it. Ill present them to him. There might be money in it.
+</T>
+<T>
+CLEOMENES
+(to Leontes) Sir, you have done enough and have shown the sorrow and piety of a saint. You have redeemed every mistake you might have made, and have paid more penance than you have done wrong. At last, forgive your sins as Heaven has forgiven it, and forgive yourself.
+</T>
+<T>
+LEONTES
+As long as I remember her and her virtue, I cant forget how I attacked them, and I still think of the wrong I did. My misbehavior was so terrible that it has left my kingdom without an heir and destroyed the sweetest companion that a man could hope would bear his children.
+</T>
+<T>
+PAULINA
+It is too true, my lord. Even if you wedded every woman in the world one by one, or took the best quality from each and made the perfect woman, the woman you killed couldnt be matched.
+</T>
+<T>
+LEONTES
+I think so, too. Killed! The woman I killed! I did, but you wound me deeply to say it so bluntly. You say it as bitterly as I think it. Now, please, dont say it often.
+</T>
+<T>
+CLEOMENES
+Never say that, good lady. There are a thousand other things you could have said that would have been of greater benefit and would have made you seem kinder.
+</T>
+<T>
+PAULINA
+You are one of the people who want him to marry again.
+</T>
+<T>
+DION
+If you wouldnt have him marry again, you dont care anything for the state, or for the continuance of his royal name. Think about what dangers might befall his kingdom, and how anxious citizens might suffer, if he doesnt have a son. What is more virtuous than to rejoice that the former queen is in heaven? What would be holier than the king producing a child to restore the royal family and to make the realm safe and happy for the present and the future?
+</T>
+<T>
+PAULINA
+There is no one worthy to take the place of the queen who is gone. Besides, the gods are fulfilling their intentions. Didnt divine Apollo say, through the words of his oracle, that King Leontes should not have an heir until his lost child is found? And that seems as unlikely as the notion that my Antigonus, whom I am sure died along with my infant, will rise from his grave and return to me. Your advice is that my lord should go against the heavens and oppose their wills.
+</T>
+<T>
+Dont worry about a son. The crown will find an heir. Great Alexander left his kingdom to the worthiest of his followers, so that his successor would be the best leader possible.
+</T>
+<T>
+LEONTES
+Good Paulina, I know you honor the memory of Hermione. I wish that I had listened to you! Then I would now be able to look into my queens eyes and kiss her treasured lips
+</T>
+<T>
+PAULINA
+And been the richer for having done so.
+</T>
+<T>
+LEONTES
+You speak the truth. No wife such as that exists, so there will be no wife. For me to take a wife less perfect, and to treat her better, would make Hermiones ghost arise again, and shed appear here to me and say, Why insult me like this?
+</T>
+<T>
+PAULINA
+If she were able to, shed be justified.
+</T>
+<T>
+LEONTES
+She would be, and shed drive me to murder the woman I married in her place.
+</T>
+<T>
+PAULINA
+I should think so. If I were Hermiones ghost, Id tell you to look at that new womans eyes and tell me what about their dullness attracted you. Then Id shriek, and your ears would hurt to hear me. And then Id say, Remember my eyes.
+</T>
+<T>
+LEONTES
+They were like stars, and next to them all other eyes look like dead coals! Dont fear, Paulina, I wont take another wife.
+</T>
+<T>
+PAULINA
+Will you swear to never marry unless I give you my permission?
+</T>
+<T>
+LEONTES
+Never, Paulina, on my life!
+</T>
+<T>
+PAULINA
+Then, my good lords, witness his oath.
+</T>
+<T>
+CLEOMENES
+You test him too much.
+</T>
+<T>
+PAULINA
+Unless he sees another woman who looks as much like Hermione as her picture
+</T>
+<T>
+CLEOMENES
+Good madam
+</T>
+<T>
+PAULINA
+Im done. Yet, if my lord decides to marry despite everything, let me choose your queen. She wont be as young as your former wife, but shell be someone who even your first queen would rejoice to see in your arms.
+</T>
+<T>
+LEONTES
+My faithful Paulina, I wont marry until you tell me to.
+</T>
+<T>
+PAULINA
+That will be when your first queen is alive again, not until then.
+</T>
+<T>
+GENTLEMAN
+A man who calls himself Prince Florizel, son of Polixenes, asks to see you. With him is his princess, who is the fairest lady I have ever seen.
+</T>
+<T>
+LEONTES
+What is this? He arrives without the ceremony someone of his station requires. That he appears so suddenly and unexpectedly tells me that it wasnt a planned visit, but one forced by circumstances. How many does he have with him?
+</T>
+<T>
+GENTLEMAN
+Only a few, and those of rather low rank.
+</T>
+<T>
+LEONTES
+You say his princess is with him?
+</T>
+<T>
+GENTLEMAN
+Yes, and she is the most incomparable woman that the sun has ever shone upon.
+</T>
+<T>
+PAULINA
+Oh, Hermione, just as every era thinks its better than the one past, so must you make way for a new woman. Sir, you yourself have said and written that she was never, and never would be, equaled in beauty, but now you change your mind. Your poetry was once filled with reports of her beauty, but it must have declined since you say that you have seen someone more beautiful.
+</T>
+<T>
+GENTLEMAN
+Pardon, madam. Im sorry to say Ive almost forgotten Hermione. When you see this other woman, youll be speechless, too. If she started her own religion, it would put an end to the zeal of any other and make followers of anyone she called.
+</T>
+<T>
+PAULINA
+What? Not women, though?
+</T>
+<T>
+GENTLEMAN
+Women will love her because she is a woman more worthy than any man. Men will love her because she is the most exceptional of women.
+</T>
+<T>
+LEONTES
+Go, Cleomenes. With the help of your friends, bring them back here for my welcome.
+</T>
+<T>
+Still, it is strange that he comes to us so suddenly.
+</T>
+<T>
+PAULINA
+If your prince, the most prized of children, were alive to see this, he would have gotten along well with this lord. They were born less than a month apart.
+</T>
+<T>
+LEONTES
+Please, no more. Stop. You know its like he dies again for me when you talk about him. When I see this gentleman, your words will make me think of that which makes me go mad. They are here.
+</T>
+<T>
+Your mother was a faithful wife, prince, because in bearing you she has produced a copy of your royal father. You look and act so much like your father that if I were twenty-one, Id call you brother just like I called him, and speak of some wild escapade wed gotten into. You are very welcome here, and your fair princess, like a goddess! Oh, alas, Ive lost two who might have stood there, too, in wonderment, as you do. And then through my own folly I lost the company and friendship of your brave father, whom I wish I could see once more in this lifetime, even if it caused me sadness.
+</T>
+<T>
+FLORIZEL
+Ive come to Sicilia at his command, and I bring from him all the greetings that a king and a friend can send to his brother. If it werent for the infirmity of age that somewhat hinders him, he would travel here himself to greet you. He told me to tell you that he loves you, more than all the other kings alive.
+</T>
+<T>
+LEONTES
+Oh, my brother, good gentleman! I feel the wrongs Ive done to him all over again. And your exceptional kindness shows me how slow Ive been in greeting you. You are as welcome here as the spring is to the earth. And has he sent this most lovely woman here, too, across the dangerous and rough sea, to greet an unworthy man?
+</T>
+<T>
+FLORIZEL
+My lord, she came from Libya.
+</T>
+<T>
+LEONTES
+Where the fierce Smalus, that honorable lord, is both feared and loved?
+</T>
+<T>
+FLORIZEL
+Most royal sir, from there, and from her father, who cried at her departure. From there, with a good south wind, we have crossed the sea to carry out my fathers request to visit you. I have sent the best men of my entourage back to Bohemia, to let my father know both that my trip to Libya was successful and that my wife and I arrived here safely.
+</T>
+<T>
+LEONTES
+May the gods keep the air fresh and healthy while you are here! You have a great and graceful father, against whom I have committed a sin. In return, the angry heavens have left me childless, while your father is blessed by heaven with you, as he deserves. What might my life have been like if I had a son and daughter as lovely as you two to look at!
+</T>
+<T>
+LORD
+Most noble sir, if I didnt have such firm proof you wouldnt believe what Im about to tell you. Sir, Polixenes himself greets you through me. He asks you to hold his son, who has abandoned his royal status and responsibilities, and who has fled from his father and his hope of the throne with a shepherds daughter.
+</T>
+<T>
+LEONTES
+Where is Polixenes? Tell me.
+</T>
+<T>
+LORD
+Here in your city. I just came from him. Im astonished, as suits my message. It seems that while he was hurrying here to your court in pursuit of this fair couple, he met the father and brother of the lady, who had both left their country with the prince.
+</T>
+<T>
+FLORIZEL
+Camillo has betrayed me, though his honor and honesty had been steadfast until now.
+</T>
+<T>
+LORD
+You may charge him with that yourself. Hes with the king, your father.
+</T>
+<T>
+LEONTES
+Who? Camillo?
+</T>
+<T>
+LORD
+Camillo, sir. I spoke with him, and he now has the poor men in question. Ive never seen anyone tremble as they do. They kneel, and kiss the earth, and take back what theyve said every time they speak. Polixenes refuses to listen and threatens them with various tortures.
+</T>
+<T>
+PERDITA
+Oh, my poor father! The heavens set spies on us and refuse to let us celebrate our vows.
+</T>
+<T>
+LEONTES
+You are married?
+</T>
+<T>
+FLORIZEL
+We arent, sir, and it seems impossible that we will be. I see that the stars will fall to the earth first. Chance works equally for the high- and the lowborn.
+</T>
+<T>
+LEONTES
+My lord, is this the daughter of a king?
+</T>
+<T>
+FLORIZEL
+She will be, once she is my wife.
+</T>
+<T>
+LEONTES
+I think that once will not be soon, given your fathers speed in coming here. I am very sorry that you have gone against his wishes and your duty, and as sorry that your lady isnt as rich in rank as she is in beauty, so that you could marry her.
+</T>
+<T>
+FLORIZEL
+Dear, cheer up. Even if Fate, which is apparently our enemy, has chased us with my father, she has no power to change our love for each other. Please, sir, remember when you were my age. Thinking of such love, come forward in my defense. If you request it, my father will grant precious things as though they were nothing.
+</T>
+<T>
+LEONTES
+Id beg your precious mistresss pardon if he counted her as nothing.
+</T>
+<T>
+PAULINA
+My lord, you are too dazzled by youth. Your queen deserved those admiring glances more than this woman only a month before she died.
+</T>
+<T>
+LEONTES
+I thought of her, even as I looked upon this woman.
+</T>
+<T>
+But I havent answered your request. I will tell your father that you havent let your desire to marry this girl overwhelm your honor. I support both you and your wish. Ill go to him now on this errand. Follow me, and watch where I go. Come, my lord.
+</T>
+<T>
+AUTOLYCUS
+Please, sir, were you there when it was revealed?
+</T>
+<T>
+FIRST GENTLEMAN
+I was there when the bundle was opened, and heard the old shepherd tell how he found it. Then, after some shock, we were all told to leave the room. But as I went, I thought I heard the shepherd say he found the child.
+</T>
+<T>
+AUTOLYCUS
+I would love to know the result of it.
+</T>
+<T>
+FIRST GENTLEMAN
+I could only hear bits and pieces of the conversation. But I could hear the king and Camillo speaking in tones of admiration. They looked at each other so intently and with such astonishment that it seemed as if their eyes might pop out. Even their inability to speak communicated something, and so did their gestures. They looked as if the world had been taken hostage, or destroyed. They were obviously amazed. But even the most astute observer would be unable to say if it was joy or sorrow they felt, though obviously a great deal of one or the other.
+</T>
+<T>
+Here comes a gentleman who perhaps knows more. Any news, Rogero?
+</T>
+<T>
+SECOND GENTLEMAN
+Only of celebration. The oracle is fulfilled. The kings daughter is found. So many amazing things have happened this hour that ballad-makers wont be able to express themBallads were often composed about sensational events.ballad-makers wont be able to express them.
+</T>
+<T>
+Here comes Lady Paulinas servant. He can tell you more. Whats happening now? This true story seems so much like a fable that its hard to believe. Has the king found his heir?
+</T>
+<T>
+THIRD GENTLEMAN
+Its very true, if truth was ever proven by evidence. All the stories match up and are consistent. It all shows that Perdita is certainly the kings daughter the cloak of Queen Hermione, the jewel that was found around her neck, letters in Antigonuss handwriting found with her, how much she looks like her mother, her noble bearing, which shows her to be more than a shepherds daughter, and many other things. Did you see the meeting of the two kings?
+</T>
+<T>
+SECOND GENTLEMAN
+No.
+</T>
+<T>
+THIRD GENTLEMAN
+Then youve missed something indescribable. You would have seen one joy upon another. It was so emotional that they both wept. They raised their eyes to heaven, clasped hands, and their faces were so contorted with emotion that you could only recognize them by their clothing. Our king, overcome with joy at having found his daughter, cried out, Oh, your mother, your mother, as if that joy had become a loss. Then he asked Polixenes for forgiveness, then embraced his son-in-law, and then harassed his daughter with embraces. Then he thanks the old shepherd, who stands there weeping like a stone statue. Ive never heard of such an event. Its impossible to tell what happen, or to describe it.
+</T>
+<T>
+SECOND GENTLEMAN
+What became of Antigonus, who carried away the child?
+</T>
+<T>
+THIRD GENTLEMAN
+That itself is like an old story, which will take effort to recount and is hard to believe. He was torn to pieces by a bear. The shepherds son swears so, and not only does he seem innocent enough to be believed, but he also has a handkerchief and rings that Paulina recognized as belonging to Antingonus.
+</T>
+<T>
+FIRST GENTLEMAN
+What happened to his ship and his companions?
+</T>
+<T>
+THIRD GENTLEMAN
+They were wrecked at the same time their master was killed. The shepherd saw it happen. So all those who helped exile the child were lost. Paulina was caught between joy and sorrow! She was saddened at the loss of her husband but elated that the oracle was fulfilled. She lifted the princess in a hug, as if she could pin her to her heart so as never to lose her again.
+</T>
+<T>
+FIRST GENTLEMAN
+This is a scene worthy of an audience of kings and princes, who were also the actors in it.
+</T>
+<T>
+THIRD GENTLEMAN
+One of the most moving things of all, which brought me to tears, was when the king bravely and sadly told his daughter how the queen died. How intently Perdita listened! She went from sorrow to sorrow, and finally said, Alas, and seemed to bleed tears. I would say my heart nearly broke. Even the most hardened onlooker was affected. Some fainted, and all mourned. If the world could have seen it, everyone would have felt sorrow.
+</T>
+<T>
+FIRST GENTLEMAN
+Have they returned to the court?
+</T>
+<T>
+THIRD GENTLEMAN
+No. The princess heard that Paulina keeps a statue of her mother that was made over many years and just recently finished. It was done by that Italian master, Julio Romano, who makes his subjects so close to life that, if he could breathe life into his statues, he would replace Nature. He has replicated Hermione so closely that they say that you might speak to her and expect an answer. Theyve gone to see it, and they intend to dine there.
+</T>
+<T>
+SECOND GENTLEMAN
+I thought Paulina had some important business there. Ever since Hermione died, she has visited that remote place privately two or three times a day. Shall we go there and join the celebration?
+</T>
+<T>
+FIRST GENTLEMAN
+Who wouldnt go who has access? Every moment you look will show a new wonder. Our absence will make us poorer in knowledge. Lets go.
+</T>
+<T>
+AUTOLYCUS
+Now, if I didnt have a trace of my former life in me, the king would favor me. I brought the old man and his son aboard with the prince, and told him I heard them talk about a bundle and so on. But he was distracted by his fondness for the shepherds daughter, who he still thought her to be at the time, and with the bad weather they both began to suffer from sea-sickness. The mystery remained undiscovered. But its all the same to me. If I had revealed this secret, it wouldnt have gone well with my other misdeeds.
+</T>
+<T>
+Here come those men I have helped against my will, and they already are enjoying their good fortune.
+</T>
+<T>
+SHEPHERD
+Come, my boy. I wont have any more children, but your sons and daughters will be the children of a gentleman.
+</T>
+<T>
+YOKEL
+(to Autolycus) Good to see you, sir. You refused to fight me the other day because I wasnt a gentlemans son. Do you see these clothes? Tell me you dont see them and still think Im not a gentlemans son. Youd be better off saying these clothes arent from a gentleman. Lie to me, and see whether Im not a gentlemans son.
+</T>
+<T>
+AUTOLYCUS
+Now I know you are a gentleman, sir.
+</T>
+<T>
+YOKEL
+Yes, and have been so for these past four hours.
+</T>
+<T>
+SHEPHERD
+And Ive been, too, boy.
+</T>
+<T>
+YOKEL
+You have. But I became a gentleman before my father, because the kings son took me by the hand and called me brother. Then the two kings called my father brother. And then my brother the prince, and my sister the princess called my father father. And so we all wept, and those were the first tears we shed as gentlemen.
+</T>
+<T>
+SHEPHERD
+May we live to shed many more, son.
+</T>
+<T>
+YOKEL
+Yes, or it would be tough luck, being in such preposterous stateThe Yokel confuses preposterous with prosperous, thus inadvertently mocking his rise in social rank.preposterous state as we are.
+</T>
+<T>
+AUTOLYCUS
+I humbly beg you, sir, to forgive me for all the ways I have offended you, and to speak well of me to the prince, my master.
+</T>
+<T>
+SHEPHERD
+Yes, son, do so. We have to be gentle, now that we are gentlemen.
+</T>
+<T>
+YOKEL
+Youll reform yourself?
+</T>
+<T>
+AUTOLYCUS
+Yes, as it pleases you.
+</T>
+<T>
+YOKEL
+Give me your hand. I will swear to the prince that you are as honest as any man in Bohemia.
+</T>
+<T>
+SHEPHERD
+You may say it, but dont swear it.
+</T>
+<T>
+YOKEL
+Dont swear it, now that I am a gentleman? Let peasants and farmers simply say it. Ill swear it.
+</T>
+<T>
+SHEPHERD
+What if it turns out to be untrue, son?
+</T>
+<T>
+YOKEL
+Even if its untrue, a true gentleman will swear it on behalf of his friend. (to Autolycus) And Ill swear to the prince that you are a brave man of action and that you wont be drunk. I know you arent a brave man of action and that you will be drunk. But Ill swear it, and I hope youll be a brave man of action.
+</T>
+<T>
+AUTOLYCUS
+Ill do my best to prove so, sir.
+</T>
+<T>
+YOKEL
+Yes, prove yourself a brave fellow. If Im not amazed how you dare to be drunk, not being a brave man myself, dont trust me. (noise off-stage) Look! The kings and the princess, our family, are going to see the queens statue. Come, follow us. Well be your kind masters.
+</T>
+<T>
+LEONTES
+Oh, serious and good Paulina, you have given me great comfort.
+</T>
+<T>
+PAULINA
+Sir, even if I didnt always succeed in doing well, I always meant well. Youve repaid all my services. The fact that youve vowed to visit my poor house with your royal brother and the heirs of each of your kingdoms shows your immense grace, which Ill never be able to repay.
+</T>
+<T>
+LEONTES
+Oh, Paulina, we honor you by disturbing you. But we came to see the statue of my queen. Weve passed through your gallery, which has many amazing items, but we didnt see what my daughter came to see: the statue of her mother.
+</T>
+<T>
+PAULINA
+Just as she was without peer in life, I believe that her dead statue is more beautiful that anything youve seen or that man has created. So I keep it apart from the others. But here it is. Prepare to see life mimicked as well as sleep mimics death. Look, and say it is beautiful.
+</T>
+<T>
+I like your silence. It shows how awed you are. But you, my lord, answer firstdoesnt it look like her?
+</T>
+<T>
+LEONTES
+Just as she stood! Reprimand me, dear stone, that I say that you are indeed Hermione. Or rather, dont reprimand me, since you are so like her and she had a tender nature. But still, Paulina, Hermione wasnt this wrinkled and not as old as this statue appears.
+</T>
+<T>
+POLIXENES
+Oh, not at all.
+</T>
+<T>
+PAULINA
+That shows how excellent the sculptor is. He thinks about what she would look like now, sixteen years having passed, and makes her look as though she lived now.
+</T>
+<T>
+LEONTES
+This statue comforts me now, as she might have done, as much as it pains me to look at it. Oh, when I first courted her she stood just this way, with as much majesty and warmth as this stone has coldness. I am ashamed. Doesnt the stone chastise me for being colder than it is? Oh, royal piece of art, theres magic in your regal appearance, which has brought all my foul deeds to mind and has made your admiring daughter stand as still as stone like you.
+</T>
+<T>
+PERDITA
+Let me kneel and implore her blessing, and dont say it is superstition. Lady, dear queen, who died just as I was beginning to live, give me your hand to kiss.
+</T>
+<T>
+PAULINA
+Oh, wait! The statue is still new, and the paint isnt dry.
+</T>
+<T>
+CAMILLO
+My lord, your sorrow is too deep. Sixteen winters havent blown it away, and many summers havent dried it. No joy lives that long, and neither has any sorrow.
+</T>
+<T>
+POLIXENES
+My dear brother, since I was a cause of this situation, let me take some grief from you to make a part of myself.
+</T>
+<T>
+PAULINA
+Indeed, my lord, if I had thought seeing this poor statue would have made you so distraught, I wouldnt have shown it to you. (She moves to close the curtain.)
+</T>
+<T>
+LEONTES
+Dont draw the curtain.
+</T>
+<T>
+PAULINA
+Dont look at it any longer, or youll imagine soon that it moves.
+</T>
+<T>
+LEONTES
+Let it be. If only I were dead, but I think already Who made it? Look, my lord, wouldnt you say it took a breath? And that those veins were filled with blood?
+</T>
+<T>
+POLIXENES
+Its masterfully done. Her mouth seems warmed with breath.
+</T>
+<T>
+LEONTES
+Her eyes seem to move, as though we are mocked by art.
+</T>
+<T>
+PAULINA
+Ill draw the curtain. My lord is so overwhelmed that soon hell think it lives.
+</T>
+<T>
+LEONTES
+Oh, sweet Paulina, make me think so for twenty more years! No sanity would match the pleasure of that madness. Leave it alone.
+</T>
+<T>
+PAULINA
+Im sorry, sir, that Ive made you so agitated, but to leave it would make it worse.
+</T>
+<T>
+LEONTES
+Do leave it, Paulina. This agitation is as sweet as any revitalizing comfort. Still, I think air is coming from her. What amazing artist could cut breath from stone? Dont let anyone make fun of me, but I will kiss her.
+</T>
+<T>
+PAULINA
+Dont do it, my lord. The red of her lips is wet. Youll ruin it if you kiss it, and youll get your own lips covered in oil paint. Shall I draw the curtain?
+</T>
+<T>
+LEONTES
+No, not for twenty years.
+</T>
+<T>
+PERDITA
+I could stand here that long, looking at her.
+</T>
+<T>
+PAULINA
+Either resist the temptation and leave the chapel, or prepare yourselves for more amazement. If you can take it, Ill make the statue move, step down from her pedestal, and take you by the hand. But then youll think Im a witch, though I swear I am not.
+</T>
+<T>
+LEONTES
+Whatever you can make her do, Im happy to watch. Whatever you can make her say, Im happy to hear, because it must be as easy to make her speak as it is to make her move.
+</T>
+<T>
+PAULINA
+Its necessary that you have faith. So everyone hold still, and anyone who thinks this is bad business should leave now.
+</T>
+<T>
+LEONTES
+Go ahead. No one will move.
+</T>
+<T>
+PAULINA
+Music, wake her!
+</T>
+<T>
+Its time. Come down, and no longer be stone. Come forward. Make everyone who looks at you be amazed. Come, Ill fill up your grave. Move, no, move away, let Death have your numbness since life is taking you from himThat is, from Death.him. You see she moves.
+</T>
+<T>
+Dont jump. Her actions are pure, and this spell is no evil enchantment. Dont shun her, because if you do, youll kill her all over again. No, put your hand forward. You courted her when she was young. Now in old age does she have to court you?
+</T>
+<T>
+LEONTES
+Oh, shes warm! If this is magic, it should be as ordinary as eating.
+</T>
+<T>
+POLIXENES
+She embraces him.
+</T>
+<T>
+CAMILLO
+She hugs him. If she is really alive let her speak, too.
+</T>
+<T>
+POLIXENES
+Yes, and tell us where she has lived, or how shes come back to life.
+</T>
+<T>
+PAULINA
+If you were told she was alive, you would consider it a fable. But it seems she is alive, even though she doesnt speak. Look for a while. (to Perdita) Please, intervene, fair madam. Kneel down and ask for your mothers blessing. Look, good ladyour Perdita is found.
+</T>
+<T>
+HERMIONE
+You gods, look down and pour your blessings upon my daughters head! Tell me, my child, where have you been kept safe? Where have you lived? How did you find yourself in your fathers court? Paulina told me the oracle gave hope that you were still alive, so I stayed alive to see you someday.
+</T>
+<T>
+PAULINA
+Theres enough time for that later, and they might want you to answer the same questions. Go together, you happy people, and all rejoice. Like an old turtledove, Ill take myself off to a solitary bough and mourn my husband, who will never be found again.
+</T>
+<T>
+LEONTES
+Oh, peace, Paulina! You should take a husband that I approve of, as I take a wife that you approve of. This is a contract, vowed between us. You have found mine, though I dont know how, since I saw her and believed her to be dead, and Ive futilely said several prayers on her grave. I wont have to look far to find you an honorable husband, since I know his mind already. Come, Camillo, take her by the hand. Her worth and honesty is well known and affirmed by both Polixenes and me. Lets leave this place. (to Hermione) Look at my brother! I beg both your pardons for having suspected sin in your innocent glances. This is your son-in-law, the son of Polixenes, who is engaged to your daughter. Good Paulina, lead us away from here, and well each answer for what weve all done in this wide expanse of time since we first separated. Quickly, lead us away.
+</T>

@@ -1,0 +1,2800 @@
+<T>
+MASTER
+Boatswain!
+</T>
+<T>
+BOATSWAIN
+Im here, sir. How can I help you?
+</T>
+<T>
+MASTER
+My good boy, give the other sailors a pep talkand do it fast, before were shipwrecked. Hurry, hurry!
+</T>
+<T>
+BOATSWAIN
+Come on, men! Thats the way to do it! Quickly! Quickly! Take in the upper sail. Listen to the masters orders. Blow your heart out, storm! So long as we have enough room to avoid running aground!
+</T>
+<T>
+ALONSO
+Be careful, good Boatswain! Wheres the Master? Make these men work.
+</T>
+<T>
+BOATSWAIN
+Please stay below deck, sir.
+</T>
+<T>
+ANTONIO
+Wheres the Master, Boatswain?
+</T>
+<T>
+BOATSWAIN
+Hes busy, cant you hear him giving orders? Youre getting in the way of our work. Stay in your cabins. Youre helping the storm, not us.
+</T>
+<T>
+GONZALO
+Dont get wound up, my good man.
+</T>
+<T>
+BOATSWAIN
+Im only wound up because the seas wound up. Now get out of here! Do you think these waves care anything about kings and officials? Go to your cabins and be quiet! Dont bother us up here.
+</T>
+<T>
+GONZALO
+Just remember who youve got on board with you, good man.
+</T>
+<T>
+BOATSWAIN
+Nobody I care about more than myself. Youre a kings advisor. If you can order the storm to calm down, we can all put down our ropes and rest. Go ahead, use your authority. If you cant do it, be grateful youve lived this long and go wait to die in your cabin, if it comes to that.Harder, men!Now get out of our way, Im telling you.
+</T>
+<T>
+GONZALO
+I feel a lot better after talking to this guy. He doesnt look like a person who would drownhe looks like he was born to be hangedGonzalo implies that the Boatswain looks and acts like a dangerous criminal.hanged. I hope he lives long enough to be hanged. The rope that hangs him will do more good than all the ropes on this ship, since itll guarantee he stays alive through this storm. But if hes not destined to die by hanging, then our chances dont look too good.
+</T>
+<T>
+BOATSWAIN
+Bring down that top sail! Fast! Lower, lower! Let the ship sail close to the wind.
+</T>
+<T>
+Damn those men shouting down there! Theyre louder than the storm or us sailors.
+</T>
+<T>
+Oh, not you again. What do you want? Should we all give up and drown? Do you want to sink?
+</T>
+<T>
+SEBASTIAN
+Oh, go to hell, you loud-mouthed bastard!
+</T>
+<T>
+BOATSWAIN
+Well, get to work, then.
+</T>
+<T>
+ANTONIO
+Just die, you lowlife! Go ahead and die, you nasty, rude bastard!Youre more scared of drowning than we are.
+</T>
+<T>
+GONZALO
+Yes, I guarantee he wont drowneven if this ship were as fragile as an eggshell and as leaky as a menstruating woman.
+</T>
+<T>
+BOATSWAIN
+Turn the ship to the wind! Set the sails and let her go out to sea again!
+</T>
+<T>
+SAILORS
+Its no use! Pray for your lives! Were done for!
+</T>
+<T>
+BOATSWAIN
+What, were going to die?
+</T>
+<T>
+GONZALO
+The king and the prince are praying. Lets go join them, since whatever happens to them happens to us too.
+</T>
+<T>
+SEBASTIAN
+Im out of patience.
+</T>
+<T>
+ANTONIO
+Yes, weve been cheated out of our lives by a bunch of drunken, incompetent sailors. This bigmouth jerk here(to BOATSWAIN) I hope you drown ten times over!
+</T>
+<T>
+GONZALO
+Hell still die by hanging, not drowning, even if every drop of water in the sea tries to swallow him.
+</T>
+<T>
+VOICES
+God have mercy on us!The ships breaking up!Goodbye, wife and kids!Goodbye, brother!Were breaking up, were breaking up!
+</T>
+<T>
+ANTONIO
+Lets all sink with the king.
+</T>
+<T>
+SEBASTIAN
+Lets say goodbye to him.
+</T>
+<T>
+GONZALO
+Right now Id give a thousand furlongs1 furlong = 220 yardsfurlongs of sea for one little acre of dry ground: barren weed patch, anything at all. Whats destined to happen will happen, but Id give anything to be dry when I die.
+</T>
+<T>
+MIRANDA
+Dear father, if you caused this terrible storm with your magic powers, please put an end to it. The skys so dark it looks like it would rain down boiling hot tar if the sea werent swelling up to the sky to put its fire out. Oh, I suffered along with all the men I watched suffer! A fine ship, with some good people in it, Im sure, smashed to pieces. Their dying shouts broke my heart! The poor people died. If Id been a god I wouldve let the sea sink inside the earth before it had a chance to swallow up that ship and all the people it was carrying.
+</T>
+<T>
+PROSPERO
+Calm down. Theres nothing to get upset about. No harm was done.
+</T>
+<T>
+MIRANDA
+Oh, what a horrible day!
+</T>
+<T>
+PROSPERO
+There was no harm, Im telling you. Everything Ive done has been for you, my dear daughter. You dont know what you are, since you dont know who I am or where I come from, or that Im better than merely Prospero, your humble father who lives in a poor little shack.
+</T>
+<T>
+MIRANDA
+It never occurred to me to imagine there was anything more to know.
+</T>
+<T>
+PROSPERO
+Its time for you to know the whole story. Give me a hand and help me off with this magic cloak.
+</T>
+<T>
+(to the cloak) So, lie there, my magic. (to MIRANDA) Wipe your eyes. Take comfort. I arranged the horrible sight of this shipwreck, which moved you to such pity, so carefully that not a single person was hurtno, not so much as a hair on anyones head was destroyed in the ship that you saw sink. Sit down. Its time for you to know more. (they sit)
+</T>
+<T>
+MIRANDA
+Youve often started to tell me who I am, but then suddenly stopped, leaving me asking questions that never get answered, telling me, Wait. Not yet.
+</T>
+<T>
+PROSPERO
+Well, the time has come. This is the moment for you to listen hard and pay close attention. Can you remember the time before you came to live in this shack? I doubt it, since you werent even three at the time.
+</T>
+<T>
+MIRANDA
+Sure I can, father.
+</T>
+<T>
+PROSPERO
+What do you remember? A house, a person? Tell me anything you remember.
+</T>
+<T>
+MIRANDA
+My memory is hazy, more like a dream than a recollection. Didnt I use to have four or five women taking care of me?
+</T>
+<T>
+PROSPERO
+Indeed you did, and more besides, Miranda. But how is it possible that you still remember this, through all the darkness of the past? If you remember your life before you came here, you may also remember how you got here.
+</T>
+<T>
+MIRANDA
+No, that I dont remember.
+</T>
+<T>
+PROSPERO
+Twelve years ago, Miranda, twelve years ago your father was the Duke of Milan, a powerful prince.
+</T>
+<T>
+MIRANDA
+Arent you my father?
+</T>
+<T>
+PROSPERO
+Your mother was extremely virtuous, and she said you were my daughter. And your father was Duke of Milan, and you were his heir, a princess.
+</T>
+<T>
+MIRANDA
+Good lord! What evil things were done to us that we were driven here? Or was it a blessing that we came here?
+</T>
+<T>
+PROSPERO
+Both, both, my girl. We were pushed out of power by evil deeds, as you call them. But we were blessed in being helped toward this island.
+</T>
+<T>
+MIRANDA
+Oh, it breaks my heart to think how painful it must be for you to recall all this, things that I cant remember. But please tell me more.
+</T>
+<T>
+PROSPERO
+My brother, your uncle Antoniojust listen to this (I still cant believe a brother could be so disloyal!)My brother whomaside from youI loved more than anyone else in the world, I trusted to run my state, which at that time was the strongest in the land, and Prospero the number one duke, famous for my dignity and my education. Since I was so drawn to studying things like logic, grammar, geometry, and astronomy, I let my control of the government slide a bit, being too wrapped up in my occult books. Your disloyal uncleare you paying attention?
+</T>
+<T>
+MIRANDA
+Im hanging on every word.
+</T>
+<T>
+PROSPERO
+Once Antonio got the knack of granting certain requests, denying others, promoting some officials and keeping down those who were getting too ambitious, he won over the people who used to be mine, or changed themremade them, you might say. Since he had control over the whole government and everyone in it, he soon made everyone sing his own songwhichever song he happened to like. He became like the ivy that sticks to the side of the tree, and sucked my vitality out of me.Youre not paying attention.
+</T>
+<T>
+MIRANDA
+Oh, yes I am, father.
+</T>
+<T>
+PROSPERO
+Please listen to me carefully. As I neglected practical matters, being totally dedicated to solitude and to improving my mind with subjects more valuable than most people imagine, I was so shut away from the world that I unwittingly stirred up evil wishes in my disloyal brother. My deep trust in him made him deeply untrustworthy, arousing in him a treachery as big as my trust wasmy trust which had no limit, an infinite confidence. With Antonio possessing such powers and wealth, coming not only from my income but also from his ability to take whatever my authority allowed him to take, Antonio started to believe that he was the duke, like some liar who begins to believe in his own lie. He put on the face of royalty, with all the rights that go along with it. With his ambition growing like thisdo you hear what Im saying?
+</T>
+<T>
+MIRANDA
+What youre saying could cure deafness, father. Of course I hear it.
+</T>
+<T>
+PROSPERO
+To make his political performance absolutely perfect, he simply had to become the Duke of Milan himself. My library was a large enough dukedom for me. So, now Antonio judges me incapable of carrying out my duties. Hes so power-hungry that he allies himself with the King of Naples, agreeing to pay him a regular annual sum, swear subservience to him, and put the dukedom of Milannever subservient to anyone before!under the humiliating control of Naples.
+</T>
+<T>
+MIRANDA
+Good heavens!
+</T>
+<T>
+PROSPERO
+Think about that, and about what followed afterward. Then tell me if Antonio can be called a brother.
+</T>
+<T>
+MIRANDA
+It would be wrong for me to think poorly of my grandmother. Good women sometimes give birth to bad sons.
+</T>
+<T>
+PROSPERO
+Now listen to the agreement they made. The king of Naples, my arch-enemy, listens to my brothers request, which was that the king, in exchange for the respect and money paid to him, would get rid of me and make my brother Duke of Milan instead. A treacherous army was gathered, and one fateful night at midnight, Antonio opened the gates of Milan, and in the pitch black had his officers rush out me and you, my dear daughter. You were crying.
+</T>
+<T>
+MIRANDA
+How awful! I cant remember how I cried then, but Ill cry all over again. This story breaks my heart.
+</T>
+<T>
+PROSPERO
+Just listen a little more, and Ill bring you up to date about the present situation, which is the whole reason Im telling you this story in the first place.
+</T>
+<T>
+MIRANDA
+Why didnt they just kill us that night?
+</T>
+<T>
+PROSPERO
+Good question, my girl. My story does raise that question. The answer, my dear, is that they didnt dare, because the people of Milan loved me too much. The had to disguise their bloody intentions. So, to make a long story short, they hurried us onto a ship and carried us a number of miles out to sea, where they prepared a rotten carcass of a boat, with no sails or masts or ropes, which even the rats had abandoned. They tossed us in the water to cry to the sea that roared back at us, to sigh into the winds that sighed right back at us in pity.
+</T>
+<T>
+MIRANDA
+God, what a burden on you I must have been!
+</T>
+<T>
+PROSPERO
+No, my dear, you were a little angel who kept me going. You smiled with a strength you must have gotten from heaven, while I cried salty tears into the salty sea, and groaned at our situation. Your smile sustained my spirits against whatever would come our way.
+</T>
+<T>
+MIRANDA
+How did we manage to get ashore?
+</T>
+<T>
+PROSPERO
+With Gods help. We had a little food and fresh water that a nobleman from Naples, Gonzalo, had given us out of the kindness of his heart. He had been chosen to carry out the plan of putting us to sea. He also gave us clothes, linen, and other necessities that have been of great help. Knowing how much I loved my books, he gave me some books from my library that I value more than my dukedom.
+</T>
+<T>
+MIRANDA
+I wish I could see that man someday!
+</T>
+<T>
+PROSPERO
+Now Ill stand up. (he stands and puts on his magic cloak) Sit still and listen to the last of our sad sea adventures. We arrived here on this island, where I, acting as your teacher, have given you a better education than most princesses get, princesses who have less careful tutors, who spend their time instead on empty fun.
+</T>
+<T>
+MIRANDA
+May God thank you for it. But please, fatherthe question is still nagging at mewhy did you conjure up this storm?
+</T>
+<T>
+PROSPERO
+You should know this: much luck is on my side, and my enemies have happened to wreck their ship on this island. As I see it, my fate hangs on this lucky event, and if I handle it wrong, Ill suffer for the rest of my life. Now, no more questions.
+</T>
+<T>
+You look sleepy. Its a nice hazy feeling, so give in to it. I know you have no choice.
+
+</T>
+<T>
+Come on, servant, come. Im ready now. Come here, Ariel.
+</T>
+<T>
+ARIEL
+Humble greetings, great master! Worthy sir, greetings! Your wish is my command, whatever you want. If you want me to fly, to swim, to jump into fire, to ride the clouds in the sky, Ariel will get right to the task.
+</T>
+<T>
+PROSPERO
+Spirit, did you carry out the storm just as I ordered?
+</T>
+<T>
+ARIEL
+Down to the last detail. I boarded the kings ship, and in every corner of it, from the deck to the cabins, I made everyone astonished and terrified. Sometimes I appeared in many places at once. On the top sail and main mast I flamed in different spots, then I came together into a single flame. I flashed about faster than lightning. The fire and deafening cracks seemed to overwhelm even the god of the sea himself, making him tremble underwater.
+</T>
+<T>
+PROSPERO
+Good spirit! Who could ever be so steady and strong that a disturbance like that wouldnt make him crazy?
+</T>
+<T>
+ARIEL
+Everyone there got a little crazy and pulled some desperate stunts. Everyone except the sailors dove into the sea, leaving behind the ship that I had set on fire. The kings son, Ferdinand, with his hair standing straight upit looked like reeds, not hairwas the first person to jump, shouting, Hell is empty, and all the devils are here!
+</T>
+<T>
+PROSPERO
+Good job! But was this near the shore?
+</T>
+<T>
+ARIEL
+Very near, my master.
+</T>
+<T>
+PROSPERO
+But are they all safe, Ariel?
+</T>
+<T>
+ARIEL
+Nobody was hurt in the slightest. Even their clothes are unstained, and look fresher than before the storm. Ive separated them into groups around the island, just as you ordered. I sent the kings son off by himself to a faraway nook on the island, where hes sitting now sighing, with his arms crossed like this. (he folds his arms.)
+</T>
+<T>
+PROSPERO
+Tell me what you did with the kings ship, the sailors, and the other ships.
+</T>
+<T>
+ARIEL
+The kings ship is safely in the harbor, hidden in that deep cove where you once summoned me to bring back dew from the stormy Bermuda islands.
+</T>
+<T>
+The sailors are all below deck, sleeping both from their labor and from a magic spell I cast over them. As for the rest of the ships, I scattered them, and theyve gathered again in the Mediterranean, sailing sadly home to Naples, believing that they witnessed the shipwreck and death of their great king.
+</T>
+<T>
+PROSPERO
+Ariel, youve done your work exactly as I ordered. But theres more work to be done. What time is it?
+</T>
+<T>
+ARIEL
+Past noon.
+</T>
+<T>
+PROSPERO
+At least two hours past. We cant waste time between now and six o'clock.
+</T>
+<T>
+ARIEL
+Is there more work to do? Since youre giving me new assignments, let me remind you what you promised me but havent come through with yet.
+</T>
+<T>
+PROSPERO
+What? Youre in a bad mood? What could you possibly ask for?
+</T>
+<T>
+ARIEL
+My freedom.
+</T>
+<T>
+PROSPERO
+Before your sentence has been completed? Dont say anything else.
+</T>
+<T>
+ARIEL
+I beg you, remember the good work Ive done for you, and how Ive never lied to you, never made mistakes, and never grumbled in my work. You promised to take a full year off my sentence.
+</T>
+<T>
+PROSPERO
+Have you forgotten the torture I freed you from?
+</T>
+<T>
+ARIEL
+No.
+</T>
+<T>
+PROSPERO
+You have forgotten, and you think its a burden when I ask you to walk through the ocean, or run on the north wind, or do business for me underground when the earths frozen solid.
+</T>
+<T>
+ARIEL
+No, I dont, sir.
+</T>
+<T>
+PROSPERO
+You lie, you nasty, ungrateful thing! Have you forgotten the horrid witch Sycorax, stooped over with old age and ill will? Have you forgotten her?
+</T>
+<T>
+ARIEL
+No, sir.
+</T>
+<T>
+PROSPERO
+You have. Where was she born? Speak. Tell me.
+</T>
+<T>
+ARIEL
+In Algiers, sir.
+</T>
+<T>
+PROSPERO
+Oh, was she now? Ill have to tell the story again every month, since you seem to forget it. This damned witch Sycorax was kicked out of Algiers for various witching crimes too terrible for humans to hear about. But for one reason they refused to execute her. Isnt that true?
+</T>
+<T>
+ARIEL
+Yes, sir.
+</T>
+<T>
+PROSPERO
+This sunken-eyed hag was brought here pregnant and left by the sailors. You, my slave, were her servant at the time, as you admit yourself. You were too delicate to carry out her horrible orders, and you refused. In a fit of rage she locked you up in a hollow pine tree, with the help of her powerful assistants, and left you there for twelve years. During that time she died, and you were trapped, moaning and groaning as fast as the blades of a millA mill is a building with machinery for grinding grain into flour. If built next to a river, the machinery would be driven by a paddled wheel propelled by the river.mill wheel strike the water. At that time there were no people here. This island was not honored with a human beingexcept for the son that Sycorax gave birth to here, a freckled baby born of an old hag.
+</T>
+<T>
+ARIEL
+Yes, Caliban, her son.
+</T>
+<T>
+PROSPERO
+Thats right, you stupid thing. Caliban, who now serves me. You know better than anyone how tortured you were when I found you. Your groans made wolves howl, and even made bears feel sorry for you. Nobody but the damned souls of hell deserves the spell that Sycorax put on you and couldnt undo. It was my magic that saved you when I arrived on the island and heard you, making the pine tree open and let you out.
+</T>
+<T>
+ARIEL
+Thank you, master.
+</T>
+<T>
+PROSPERO
+If you complain any more, Ill split an oak tree and lock you up in it till youve howled for twelve years.
+</T>
+<T>
+ARIEL
+Please forgive me, master. Ill be obedient and do all my tasks without complaining.
+</T>
+<T>
+PROSPERO
+Do that, and Ill set you free in two days.
+</T>
+<T>
+ARIEL
+Thats noble of you, master. What shall I do for you? Just tell me. What shall I do?
+</T>
+<T>
+PROSPERO
+Go disguise yourself as a sea nymph. Be invisible to everyone except yourself and me. Take this garment, put it on, and then come back here. Hurry, go!
+</T>
+<T>
+(to MIRANDA) Wake up, my dear. Wake up. Youve slept well. Wake up.
+</T>
+<T>
+MIRANDA
+(waking up)Your strange story made me groggy.
+</T>
+<T>
+PROSPERO
+Shake off your sleepiness. Come on. Well go visit Caliban, my slave who always talks to us so nastily.
+</T>
+<T>
+MIRANDA
+HesProspero hands Ariel a garment that makes him invisible. For the rest of the play, when we see him in the garment, we know hes invisible.Hes an evil one, father. I dont like him.
+</T>
+<T>
+PROSPERO
+But even so, we cant do without him. He builds our fires, gets our firewood, and does all kinds of useful things for us.Hey! Caliban! Pile of dirt! Say something.
+</T>
+<T>
+CALIBAN
+(offstage) Youve got enough firewood already.
+</T>
+<T>
+PROSPERO
+Come out, I order you. Theres other work for you to do. Come on, you turtle!
+</T>
+<T>
+What a fine sight! My dear clever Ariel, listen carefully. (he whispers to ARIEL)
+</T>
+<T>
+ARIEL
+My lord, Ill do it right away.
+</T>
+<T>
+PROSPERO
+(to CALIBAN) You horrible slave, with a wicked hag for a mother and the devil himself for a father, come out!
+</T>
+<T>
+CALIBAN
+I hope you both get drenched with a dew as evil as what my mother used to collect with a crows feather from the poison swamps. May a hot southwest wind blow on you and cover you with blisters all over.
+</T>
+<T>
+PROSPERO
+Ill give you cramps for saying thathorrible pains in your sides that will keep you from breathing. Ill send goblins out at night to work their nasty deeds on you. Youll be pricked all over, and itll sting like bees.
+</T>
+<T>
+CALIBAN
+I have to eat my dinner now. This island belongs to me because Sycorax, my mother, left it to me. But youve taken it from me. When you first got here, you petted me and took care of me, you would give me water with berries in it, and you taught me the names for the sun and the moon, the big light and the smaller light that burn in daytime and nighttime. I loved you back then. I showed you all the features of the island, the freshwater springs, the saltwater pits, the barren places and the fertile ones. I curse myself for doing that! I wish I could use all the magic spells of Sycorax against you and plague you with toads, beetles, and bats. Im the only subject you have in your kingdom, and you were my first king, and you pen me up in this cave and dont let me go anywhere else on the island.
+</T>
+<T>
+PROSPERO
+You liar, you respond better to the whip than to kindness! I took good care of youpiece of filth that you areand let you stay in my own hut until you tried to rape my daughter.
+</T>
+<T>
+CALIBAN
+Oh ho, oh ho! I wish I had! You stopped me. If you hadnt, I would have filled this island with a race of Calibans.
+</T>
+<T>
+MIRANDA
+You horrid slave, you cant be trained to be good, and youre capable of anything evil! I pitied you, worked hard to teach you to speak, and taught you some new thing practically every hour. When you didnt know what you were saying, and were babbling like an animal, I helped you find words to make your point understandable. But you had bad blood in you, no matter how much you learned, and good people couldnt stand to be near you. So you got what you deserved, and were locked up in this cave, which is more fitting for the likes of you than a prison would be.
+</T>
+<T>
+CALIBAN
+You taught me language, and all I can do with it is curse. Damn you for teaching me your language!
+</T>
+<T>
+PROSPERO
+Get out of here, you son of a bitch! Bring us wood, and be quick about it. Are you shrugging and making faces, you evil thing? If you neglect my orders or do them grudgingly, Ill double you up with pains and cramps, and make all your bones ache, and make you scream so loud that the wild animals will tremble when they hear you.
+</T>
+<T>
+CALIBAN
+No, please. (to himself) I have to obey. Hes got such strong magic powers that he could conquer and enslave the god, Setebos, that my mother used to worship.
+</T>
+<T>
+PROSPERO
+Go then, slave.
+</T>
+<T>
+ARIEL
+(singing)
+Come onto these yellow sands,
+And well join hands,
+When youve curtsied and kissed
+The waves into silence.
+Prance lightly here and there,
+And the sweet spirits bear
+The burden. Listen, listen!
+</T>
+<T>
+SPIRITS
+(refrain of the song is heard offstage, from different places, not in unison) Bow-wow.
+</T>
+<T>
+ARIEL
+The watchdogs bark.
+</T>
+<T>
+SPIRITS
+(offstage) Bow-wow.
+</T>
+<T>
+ARIEL
+Listen, listen! I hear
+The tune of the strutting rooster
+Who cries cock-a-doodle-doo.
+</T>
+<T>
+FERDINAND
+Wheres that music coming from? From the earth, or the air? Its stopped nowit must be played for some local god of the island. As I sat on the shore crying over my fathers shipwreck, I heard the music creep over the wild waves, calming their fury and soothing my own grief with its sweet melodies. I followed it here, or I should say it dragged me here. But now its stopped. No, there it is again.
+</T>
+<T>
+ARIEL
+(singing)
+Your father lies five whole fathoms1 fathom = 6 feetfathoms below,
+His bones have turned to coral now.
+His eyes have turned to pearls.
+Theres nothing left of him,
+Hes undergone a complete sea change
+And become something rich and strange.
+Sea nymphs ring his death bell every hour.
+</T>
+<T>
+SPIRITS
+(refrain, offstage)Ding-dong.
+</T>
+<T>
+ARIEL
+Listen, I hear them.
+</T>
+<T>
+SPIRITS
+Ding dong, bell.
+</T>
+<T>
+FERDINAND
+This songs about my dead father. It couldnt be sung by mere mortals. I hear it now overhead.
+</T>
+<T>
+PROSPERO
+(to MIRANDA) Raise the curtains of your eyelids and go take a peek at what you can see out there.
+</T>
+<T>
+MIRANDA
+What is it? A spirit? Lord, its glancing every which way! How handsome it is. It must be a spirit.
+</T>
+<T>
+PROSPERO
+No, girl! It eats and sleeps and has the same five senses we do. The gentleman you see now was in the shipwreck, and if he werent a little spoiled by grief, which always ruins good looks, you could call him handsome. Hes lost his comrades and is wandering around looking for them.
+</T>
+<T>
+MIRANDA
+I could imagine hes divine, since I never saw anything so noble-looking on earth before.
+</T>
+<T>
+PROSPERO
+(to himself) Its all happening according to plan, just as my soul wanted it to happen. (to ARIEL) Spirit, you fine spirit, Ill set you free in two days for doing such a good job here.
+</T>
+<T>
+FERDINAND
+(seeing MIRANDA) This must surely be the goddess that the music is being played for!Please, I beg you to answer me, tell me if you live on this island, and tell me how I should behave here. My main question, which I save for the last, isOh, you marvelous creature!are you a maiden or a goddess?
+</T>
+<T>
+MIRANDA
+Im not marvelous, sir, but Im certainly a maiden.
+</T>
+<T>
+FERDINAND
+She speaks my language! My God, Im the highest-ranking person who speaks this languageif only we were back where its spoken.
+</T>
+<T>
+PROSPERO
+Whats that? The highest-ranking? What would the King of Naples do if he heard you say that?
+</T>
+<T>
+FERDINAND
+He would just see me for what I am, a person amazed to hear you talking about Naples. He does hear me, and that makes me cry. I myself am the King of Naples, since I saw with my own eyesthese eyes that havent been dry sincemy father killed in a shipwreck.
+</T>
+<T>
+MIRANDA
+Ah, how pitiful!
+</T>
+<T>
+FERDINAND
+Yes, indeed, and all the Kings men, the Duke of Milan and his fine son too.
+</T>
+<T>
+PROSPERO
+(to himself) The real Duke of Milan and his far finer daughter could beat you in a heartbeat, if it were the right time. Theyve fallen in love at first sight!Wonderful Ariel, Ill set you free for doing such good work here. (to FERDINAND) Could I have a word with you, sir? Im afraid youve made a mistake. Just a word.
+</T>
+<T>
+MIRANDA
+(to herself) Why is my father speaking to him so rudely? This is the third man Ive ever seen in my life, and the first one Ive felt romantic feelings for. I hope my father takes pity on me and treats him well for my sake!
+</T>
+<T>
+FERDINAND
+Oh, if youre a virgin, and you havent given your heart to another man, then Ill make you the queen of Naples.
+</T>
+<T>
+PROSPERO
+Hang on, sir! Just a moment. (to himself) Theyre both in love. But I need to cause a little trouble between them, or else theyll never appreciate the value of their love. (to FERDINAND) I need a word with you, sir. I order you to listen to me. Youre calling yourself by a name that doesnt belong to you. Youve come onto this island as a spy, to snatch it away from meIm the rightful lord of it.
+</T>
+<T>
+FERDINAND
+No, I swear, thats not true!
+</T>
+<T>
+MIRANDA
+A man as handsome as that cant have anything evil in him. If the devil had such a beautiful house as his body, then good things would fight to live in it.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) Follow me. (to MIRANDA) Dont defend him. Hes a traitor. (to FERDINAND) Come on, Ill chain your neck and feet together, and Ill give you sea water to drink. Your food will be slugs, dry roots, and acorn shells. Come on.
+</T>
+<T>
+FERDINAND
+No, Ill have to decline that offerat least as long as Im stronger than you are.
+</T>
+<T>
+MIRANDA
+Oh, dear father, dont judge him too quickly. Hes a good man, and brave too.
+</T>
+<T>
+PROSPERO
+Whats that? The daughter knows more than the father?Put away your sword, traitor. You make quite a show there, but youre too scared to strike at me, since you feel too guilty. Get out of that position, because I can disarm you with my magic wand and make your sword drop.
+</T>
+<T>
+MIRANDA
+Please, father, I beg you.
+</T>
+<T>
+PROSPERO
+Let go of me! Dont tug on my clothes.
+</T>
+<T>
+MIRANDA
+Father, take pity on him. Ill guarantee his goodness myself.
+</T>
+<T>
+PROSPERO
+Quiet! If you say one more word, Ill punish you, maybe even hate you. Youre defending an impostor? Be quiet. You think hes special, since youve only ever seen him and Caliban. Foolish girl, in the eyes of most people this mans a Caliban, and compared to him, theyre angels.
+</T>
+<T>
+MIRANDA
+Then my love is humble. I dont feel any urge to see a more handsome man than this one.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) Come on. Obey my orders. Your muscles are all limp and lifeless.
+</T>
+<T>
+FERDINAND
+Thats true, they are. My strength is all gone, as if in a dream. The death of my father, my physical weakness, the loss of all my friends, the threats of this man whos taken me prisonerall that would be easy for me to take, if only I could look through my prison windows once a day and see this girl. I dont need any more freedom than that. A prison like that would give me enough liberty.
+</T>
+<T>
+PROSPERO
+(to himself) Its working! (to FERDINAND) Come on. (to himself) Youve done well, Ariel. (to FERDINAND) Follow me. (to ARIEL) Listen to what youll do for me next.
+</T>
+<T>
+MIRANDA
+(to FERDINAND) Dont worry, my fathers kinder than his words just now make him sound. What he said didnt sound like him at all.
+</T>
+<T>
+PROSPERO
+(to ARIEL) Youll be free as a bird. But you have to do exactly what I order.
+</T>
+<T>
+ARIEL
+Down to the last detail.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) Come, follow me. (to MIRANDA) Dont defend him.
+</T>
+<T>
+GONZALO
+(to ALONSO) Please cheer up, sir. Like all of us, you have a good reason to be happy. The fact that were alive outweighs our losses. Many people every day feel the sadness we feel now. Every day some sailors wife, a ships crew, the merchant who hired the ship all experience the same loss weve undergone. But the miraclethe fact that we were savedonly happens to a few people out of millions. So remember that, and take comfort in it, to counterbalance our sadness.
+</T>
+<T>
+ALONSO
+Please say no more.
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) Alonso enjoys these comforting words about as much as cold oatmeal.
+</T>
+<T>
+ANTONIO
+(to SEBASTIAN) But the goodwill ambassador wont give up that easily.
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) Look. Hes like a clock winding up to strike the hour.
+</T>
+<T>
+GONZALO
+(to ALONSO) Sir
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) There he goes! Now we can tell what time it is.
+</T>
+<T>
+GONZALO
+If we let every sad thing that happens to us get us down, then we would find ourselves
+</T>
+<T>
+SEBASTIAN
+What a pain.
+</T>
+<T>
+GONZALO
+Pain, yes indeed. We would find ourselves in pain. You thought you were being funny, but you said the truth.
+</T>
+<T>
+SEBASTIAN
+Youre taking it more seriously than I meant it.
+</T>
+<T>
+GONZALO
+(to ALONSO) Therefore, sir
+</T>
+<T>
+ANTONIO
+(to SEBASTIAN) God, doesnt he ever shut up?
+</T>
+<T>
+ALONSO
+(to GONZALO) Please, no more.
+</T>
+<T>
+GONZALO
+Well, Im nearly finished. But just one last thing
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) He insists on talking.
+</T>
+<T>
+ANTONIO
+Hey, lets bet. Which one will start yammering first, Gonzalo or Adrian?
+</T>
+<T>
+SEBASTIAN
+The old guy.
+</T>
+<T>
+ANTONIO
+I pick the younger one.
+</T>
+<T>
+SEBASTIAN
+Youre on. Whats the prize?
+</T>
+<T>
+ANTONIO
+A good laugh.
+</T>
+<T>
+SEBASTIAN
+Its a deal!
+</T>
+<T>
+ADRIAN
+Though this island may appear desolate
+</T>
+<T>
+ANTONIO
+(to SEBASTIAN) Ha, ha, ha!
+</T>
+<T>
+SEBASTIAN
+Fine, you win.
+</T>
+<T>
+ADRIAN
+Uninhabitable and almost inaccessible, as it were
+</T>
+<T>
+SEBASTIAN
+Now hes going to say but
+</T>
+<T>
+ADRIAN
+But
+</T>
+<T>
+ANTONIO
+He had to say it, it was unavoidable.
+</T>
+<T>
+ADRIAN
+The island must be mild, and have a temperate climate.
+</T>
+<T>
+ANTONIO
+I knew Temperanceshe was a fine girl.
+</T>
+<T>
+SEBASTIAN
+Yes, and she was mild too.
+</T>
+<T>
+ADRIAN
+Theres always a breath of fresh air here.
+</T>
+<T>
+SEBASTIAN
+A breath from rotten lungs, maybe.
+</T>
+<T>
+ANTONIO
+Stinking like a swamp.
+</T>
+<T>
+GONZALO
+This island contains everything beneficial to life.
+</T>
+<T>
+ANTONIO
+True. Everything except something to live on.
+</T>
+<T>
+SEBASTIAN
+Theres little or nothing of that.
+</T>
+<T>
+GONZALO
+Look how lush and healthy the grass is! How green!
+</T>
+<T>
+ANTONIO
+The ground is brown.
+</T>
+<T>
+SEBASTIAN
+With a touch of green in it.
+</T>
+<T>
+ANTONIO
+He doesnt miss a thing.
+</T>
+<T>
+SEBASTIAN
+No, he just gets reality completely wrong.
+</T>
+<T>
+GONZALO
+But the really unbelievable thing isand this is incredible
+</T>
+<T>
+SEBASTIAN
+As most unbelievable things are.
+</T>
+<T>
+GONZALO
+That our clothes were drenched with sea water, but they came out looking brand-new.
+</T>
+<T>
+ANTONIO
+Listen to him. If his clothes could talk, theyd call him a liar.
+</T>
+<T>
+SEBASTIAN
+Or stuff what he says into their pockets.
+</T>
+<T>
+GONZALO
+Seriously, I think our clothes are as fresh now as they were the day we put them on in Africa, when we attended the marriage of the kings daughter Claribel to the King of Tunis.
+</T>
+<T>
+SEBASTIAN
+It was a lovely wedding, and were doing really well on our trip home.
+</T>
+<T>
+ADRIAN
+Tunis has never had such a beautiful queen.
+</T>
+<T>
+GONZALO
+Not since the days of widow DidoAccording to Greek legend, Dido was the founder of the city of Carthage, on the coast of Africa Dido.
+</T>
+<T>
+ANTONIO
+Widow? Why the hell is he calling her widow Dido?
+</T>
+<T>
+SEBASTIAN
+Next thing you know, hell be saying widower Aeneas.
+</T>
+<T>
+ADRIAN
+Widow Dido, did you say? Im not sure about that. Dido was from Carthage, not Tunis.
+</T>
+<T>
+GONZALO
+TunisGonzalo is mistaken in identifying Carthage with Tunis.Tunis was Carthage, sir.
+</T>
+<T>
+ADRIAN
+Carthage?
+</T>
+<T>
+GONZALO
+Im telling you, it was Carthage.
+</T>
+<T>
+SEBASTIAN
+Gonzalo is a miracle-worker. If he says Carthage was here, then Carthage must be here.
+</T>
+<T>
+ANTONIO
+What miracle will he work next?
+</T>
+<T>
+SEBASTIAN
+I think hell carry this island home in his pocket and give it to his son like an apple.
+</T>
+<T>
+ANTONIO
+And then throw the seeds in the sea, to make more islands grow.
+</T>
+<T>
+GONZALO
+Yes indeed.
+</T>
+<T>
+ANTONIO
+Absolutely, yes indeed.
+</T>
+<T>
+GONZALO
+(to ALONSO) Sir, we were saying that our clothes seem just as fresh as they did when we attended the wedding of your daughter, whos now queen of Tunis.
+</T>
+<T>
+ANTONIO
+The most beautiful queen they ever had.
+</T>
+<T>
+SEBASTIAN
+I beg your pardon, except for the widow Dido.
+</T>
+<T>
+ANTONIO
+Oh, except for the widow Dido? Thats right, except for the widow Dido.
+</T>
+<T>
+GONZALO
+Isnt my vest just as clean and fresh as the day I put it on? In a way, I mean.
+</T>
+<T>
+ANTONIO
+In a way is the right way to go.
+</T>
+<T>
+GONZALO
+I mean when I wore it at your daughters wedding.
+</T>
+<T>
+ALONSO
+You keep cramming words into my ears that I dont want to hear. I wish that wedding had never happened, since I lost my son because of it, and I lost my daughter too in a way, since shes moved so far from Milan that Ill never see her again.Oh, dear son of mine and heir of Naples and Milan, what strange fish has made a meal of you?
+</T>
+<T>
+FRANCISCO
+Sir, he may still be alive. I saw him swimming strongly, almost as if he was riding the waves. He treaded water and kept his head well above the wild waters coming at him, swimming with his strong arms toward the shore, which almost seemed eager to welcome him. I have no doubt he got ashore alive.
+</T>
+<T>
+ALONSO
+No, no, hes dead.
+</T>
+<T>
+SEBASTIAN
+Sir, you can thank yourself for this great loss, because you wouldnt bless Europe with your daughter, but instead pimped her out to an African. At least you can be thankful that she wont be around to remind you of your loss.
+</T>
+<T>
+ALONSO
+Please be quiet.
+</T>
+<T>
+SEBASTIAN
+We all begged you not to go ahead with those marriage plans, and your lovely daughter struggled between disgust at marrying an African and the desire to obey you. Now Im afraid weve lost your son forever. Our shipwreck has made more women widows in Milan and Naples than there are survivors to comfort them. And its all your fault.
+</T>
+<T>
+ALONSO
+And the greatest sorrow is mine too.
+</T>
+<T>
+GONZALO
+My lord Sebastian, even though what you say is true, your way of saying it is tactless and comes at the wrong time. Youre rubbing salt in his wounds when you should be applying bandages.
+</T>
+<T>
+SEBASTIAN
+All right, Ill stop.
+</T>
+<T>
+ANTONIO
+Like a good doctor.
+</T>
+<T>
+GONZALO
+(to ALONSO) Its bad times for all of us, sir, when youre feeling gloomy.
+</T>
+<T>
+SEBASTIAN
+Bad times?
+</T>
+<T>
+ANTONIO
+Yes, very bad.
+</T>
+<T>
+GONZALO
+If I could colonize this island, my lord
+</T>
+<T>
+ANTONIO
+Hed cultivate weeds on it.
+</T>
+<T>
+SEBASTIAN
+Or thorn-bushes.
+</T>
+<T>
+GONZALO
+And if I were king of it, you know what Id do?
+</T>
+<T>
+SEBASTIAN
+He wouldnt get drunk much, since theres no wine here.
+</T>
+<T>
+GONZALO
+In my kingdom Id do everything differently from the way its usually done. I wouldnt allow any commerce. Thered be no officials or administrators. Thered be no schooling or literature. Thered be no riches, no poverty, and no servantsnone. No contracts or inheritance laws; no division of the land into private farms, no metal-working, agriculture, or vineyards.
+Thered be no work. Men would have nothing to do, and women alsobut theyd be innocent and pure. Thered be no kingship
+</T>
+<T>
+SEBASTIAN
+He wants to be king in a place with no kingship.
+</T>
+<T>
+ANTONIO
+Yes, hes getting a bit confused.
+</T>
+<T>
+GONZALO
+Everything would be produced without labor, and would be shared by all. Thered be no treason, crimes, or weapons. Nature would produce its harvests in abundance, to feed my innocent people.
+</T>
+<T>
+SEBASTIAN
+Thered be no marriage?
+</T>
+<T>
+ANTONIO
+No. Everyone would have nothing to do. Theyd all be whores and slackers.
+</T>
+<T>
+GONZALO
+I would rule so perfectly that my country would outshine the Golden Age they had in ancient times.
+</T>
+<T>
+SEBASTIAN
+Long live his Majesty!
+</T>
+<T>
+ANTONIO
+All hail Gonzalo!
+</T>
+<T>
+GONZALO
+(to ALONSO) Are you listening to me, sir?
+</T>
+<T>
+ALONSO
+Oh, please be quiet. Youre spouting empty words.
+</T>
+<T>
+GONZALO
+Youre absolutely right, your highness. I talked like that to give these gentlemen here a chance to have a good laugh. They love to laugh at empty words.
+</T>
+<T>
+ANTONIO
+Its you we were laughing at.
+</T>
+<T>
+GONZALO
+But from your perspective I dont matter, so Im just an empty nobody for you. Go ahead and laugh at my empty words some more.
+</T>
+<T>
+ANTONIO
+Ouch, what a comeback!
+</T>
+<T>
+SEBASTIAN
+He sure did. Too bad it fell flat.
+</T>
+<T>
+GONZALO
+Youre brave gentlemen. Youd give the moon a shove if it got stuck five weeks in its orbit.
+</T>
+<T>
+SEBASTIAN
+Thats right, and then after we fixed the moon, wed go bird-hunting.
+</T>
+<T>
+ANTONIO
+(to GONZALO) Dont be angry with us, my lord.
+</T>
+<T>
+GONZALO
+Im not. Ive got good judgment, and I know youve got nothing against me. Will you laugh me to sleep? Im feeling very sleepy.
+</T>
+<T>
+ANTONIO
+Go to sleep, and listen to us laughing.
+</T>
+<T>
+ALONSO
+What, everybody falls asleep so fast? I wish I could sleep tooit would stop me from thinking. Come to think of it, I am feeling sleepy.
+</T>
+<T>
+SEBASTIAN
+In that case you should sleep. People in grief need a good sleep. It doesnt come to them often, but when it does come they should enjoy it.
+</T>
+<T>
+ANTONIO
+The two of us will guard you while you sleep, my lord, and keep you safe.
+</T>
+<T>
+ALONSO
+Thank you. Im terribly sleepy.
+</T>
+<T>
+SEBASTIAN
+How strange that they all got so sleepy!
+</T>
+<T>
+ANTONIO
+There must be something in the air here.
+</T>
+<T>
+SEBASTIAN
+So why arent our eyelids heavy? Im not sleepy at all.
+</T>
+<T>
+ANTONIO
+Me neither. Im wide awake. They all fell asleep together, as if theyd planned it. Like theyd all been struck by lightning. What might happen, Sebastian, what might happen ifNo, its time for me to shut up. But still, I think I can see in your face what you ought to be. Opportunitys knocking for you, and in my imagination I see a crown dropping onto your head.
+</T>
+<T>
+SEBASTIAN
+Are you dreaming or awake?
+</T>
+<T>
+ANTONIO
+Dont you hear me speaking?
+</T>
+<T>
+SEBASTIAN
+I do, and it sounds like youre talking in your sleep. What did you say? Its weird for you to be dreaming with your eyes wide openstanding, talking, moving, but sound asleep.
+</T>
+<T>
+ANTONIO
+Good Sebastian, youre the one whos sleeping if you let this opportunity pass you by without acting on it.
+</T>
+<T>
+SEBASTIAN
+Youre snoring, but it sounds like youre talking. Theres meaning in your snoring.
+</T>
+<T>
+ANTONIO
+Im not kidding when I say this, Im not joking around like usual. You should be serious too when you listen to what Im saying. You can become a great man if you listen to me.
+</T>
+<T>
+SEBASTIAN
+Im hanging on every word you say.
+</T>
+<T>
+ANTONIO
+You need to do more than hang aroundyou have to act. Ill show you how.
+</T>
+<T>
+SEBASTIAN
+You need to. Im lazy by nature.
+</T>
+<T>
+ANTONIO
+Oh, if you only knew how close to success you are, even while you make fun of what Im telling you! The more you joke about it, the more clearly I feel how serious it is! Lazy people end up at the bottom, and you deserve to be at the top.
+</T>
+<T>
+SEBASTIAN
+Please, tell me more. Theres something in your expression that tells me you have something serious to say, and youre having a lot of difficulty saying it.
+</T>
+<T>
+ANTONIO
+This is what Im saying. (points at GONZALO) Although this lord who has such a bad memoryand who will be forgotten by the world when hes dead and buriedalmost succeeded in convincing the king that his sons alive, its impossible that he survived. Its as far from the truth as saying this sleeping man is swimming.
+</T>
+<T>
+SEBASTIAN
+Yes, Im sure hes dead. Ive got no hope that he survived.
+</T>
+<T>
+ANTONIO
+But in that no hope there are great hopes for you! That no hope means youre on the way to glory so brilliant you couldnt even imagine it, no matter how ambitious you were. Do you agree that Ferdinand must have drowned?
+</T>
+<T>
+SEBASTIAN
+Hes dead.
+</T>
+<T>
+ANTONIO
+So, in that case, tell me whos next in line to inherit the kingdom of Naples?
+</T>
+<T>
+SEBASTIAN
+Claribel, his daughter.
+</T>
+<T>
+ANTONIO
+The one whos now Queen of Tunis, living at the edge of the world, out of reach of mail service. It takes a letter longer to reach her than it takes a baby boy to grow old enough to shave. Claribel who was the cause of our shipwreck, which a few of us survivedshe was destined to give us an opportunity that we are destined to act on.
+</T>
+<T>
+SEBASTIAN
+What in the world are you talking about? Its true that my brothers daughter is Queen of Tunis, and heir of Naples. And its true those two places are far apart.
+</T>
+<T>
+ANTONIO
+So far that every foot of distance between them seems to shout, Its too far for Claribel to come back to Naples. Let her stay in Tunis and give Sebastian a
+</T>
+<T>
+chance to start living. If these sleeping men were dead instead of sleeping, theyd be no worse off than they are now. There are a lot of men who can rule Naples just as well as this sleeping guy here can. There are a lot of men who babble nonsense as well as Gonzalo. I could do it myself. Oh, I wish you understood what Im sayingyoud see how youre missing out on a great opportunity for yourself! Do you even get what Im saying?
+</T>
+<T>
+SEBASTIAN
+I think I do.
+</T>
+<T>
+ANTONIO
+And does this prospect of good fortune make you happy?
+</T>
+<T>
+SEBASTIAN
+I remember you took the throne from your brother Prospero.
+</T>
+<T>
+ANTONIO
+Yes I did, and look how good I look in my new rolemuch better than before. My brothers servants used to be my equals. Now they work for me.
+</T>
+<T>
+SEBASTIAN
+But what about your guilty conscience?
+</T>
+<T>
+ANTONIO
+Yes. What guilty conscience? I dont feel anything. If my feet were cold, Id put my slippers on, but I dont feel any pangs of guilt. If there were twenty guilty consciences between me and the dukedom, theyd melt away to nothing before they caused me any trouble. Heres your brother sleeping, worth no more than the dirt hes lying on. If he were as dead as he appears to be nowand I could quickly make him dead with this sword of minehe wouldnt stand in our way. As
+</T>
+<T>
+for the other men, we can make them believe anything we choose. Theyll set their watches to whatever time we say.
+</T>
+<T>
+SEBASTIAN
+Youll be my role model. Just as you got Milan, Ill get Naples. Take out your sword. With one cut you can be through paying money to Naples. And as king Ill love you forever.
+</T>
+<T>
+ANTONIO
+You take out your sword too. When I raise my hand, you do the same, and bring it down on Gonzalos head.
+</T>
+<T>
+SEBASTIAN
+Oh, but theres one more thing to tell you. (he speaks quietly to ANTONIO)
+</T>
+<T>
+ARIEL
+(to GONZALO) With his magic powers my master can see the dangers that you are in, my friend. So he sent me to make sure these men surviveand to guarantee his plans succeed. (sings in GONZALO s ear)
+While you lie here snoring,
+Men are plotting against you.
+If you want to stay alive,
+Wake up and beware.
+Wake up, wake up!
+</T>
+<T>
+ANTONIO
+Lets act quickly.
+</T>
+<T>
+GONZALO
+(waking and seeing them) God help the king! Save him!
+</T>
+<T>
+ALONSO
+(waking up) Hey, whats this, whats going on? Wake up!
+</T>
+<T>
+Why are your swords out? Why do you look like that?
+</T>
+<T>
+GONZALO
+Whats this all about?
+</T>
+<T>
+SEBASTIAN
+While we were here guarding you as you slept, we heard a loud roar that sounded like bulls, or lions. Didnt you hear it? We heard it very clearly.
+</T>
+<T>
+ALONSO
+I didnt hear anything.
+</T>
+<T>
+ANTONIO
+Oh, it was a monstrous roar, to make the earth tremble! Im sure there was a herd of lions nearby.
+</T>
+<T>
+ALONSO
+Did you hear this, Gonzalo?
+</T>
+<T>
+GONZALO
+Its true I heard a humming sound, a strange one, which woke me up. I shook you and shouted at you, sir. When I opened my eyes, I saw their swords out. There was a noise, thats certainly true. We should either be on guard here constantly or move to a different camp. Lets draw our own swords too.
+</T>
+<T>
+ALONSO
+Lead us away from this area. We can search for my poor son while were at it.
+</T>
+<T>
+GONZALO
+I hope those lions stay far away from him. Im sure hes somewhere on the island.
+</T>
+<T>
+ALONSO
+Get us out of here.
+</T>
+<T>
+ARIEL
+(to himself) My lord Prospero will know what Ive done. So go ahead, King, and look for your son.
+</T>
+<T>
+CALIBAN
+I hope all the diseases that breed in swamps and marshes infect Prospero, inch by inch, until hes nothing but a walking disease! His spirits are listening to me, but I cant help cursing him anyway. They wont pinch me, frighten me, push me in the mud, or mislead me unless he tells them to. But he sends them to punish me for every little thing. Sometimes his spirits take the form of apes, grimacing and chattering at me and then biting me; sometimes they come like porcupines, my feet as I walk. Sometimes snakes wrap around me, hissing at me with their forked tongues till I go crazy.
+</T>
+<T>
+Hey, look over there! Here comes one of his spirits to torture me for taking so long to bring the wood back. Ill lie down and hide. Maybe he wont see me. (he lies down and covers himself with his cloak)
+</T>
+<T>
+TRINCULO
+There are no bushes or shrubs to protect me from the weather here. And theres another storm brewingI can hear it in the way the wind whistles. That huge black cloud over there looks like a filthy liquor jug thats about to pour out its contents. It wont be able to help pouring rain down by the bucket-full. (he sees CALIBAN)
+</T>
+<T>
+What do we have here, a man or a fish? Whew, he stinks like a fishan old salted fish, not a fresh-caught one. A strange fish. If I were in England now, like I was once, and I had even a painted picture of this fish, every fool there would give me a piece of silver to look at it. In England this strange monster would be just like a man. Any strange beast there can be considered a man. The men there wont give a penny to a lame beggar, but theyll pay ten cents to look at a freak show exhibit. This guy has legs like a man but fins for arms! And hes still warm, by God. I guess this is not a fish, but a native who got struck by lightning just now.
+</T>
+<T>
+Oh, here comes the storm again. The best thing to do is crawl under his cloak. Theres no other shelter around here. In emergencies you meet the strangest folks. Ill just stay here till the storm passes. (he crawls under CALIBAN s cloak)
+</T>
+<T>
+STEPHANO
+(sings)
+Ill never go to sea again,
+Ill die here on shore
+This is a rotten song to sing at a mans funeral. At least Ive got some booze to comfort me. (he drinks and sings)
+The master, the deck-washer, the boatswain, and I,
+The gunman and his friend,
+We loved Moll, Meg, Marian, and Margery
+But none of us cared for Kate.
+Kate had a gutter mouth,
+</T>
+<T>
+And would shout to sailors, Go to hell!
+She didnt like ship smells like tar,
+But liked it okay when a tailor took her to bed.
+So go to sea, boys, and let her go to hell!
+Thats a rotten song too. But heres something to comfort me.
+</T>
+<T>
+CALIBAN
+Dont hurt me. Oh!
+</T>
+<T>
+STEPHANO
+Whats going on? Do we have devils on the island? Are you playing tricks on me by showing me savages and uncivilized men from the Indies, ha? I didnt survive a shipwreck so I could be scared of your four legs now. Ill never run away from any ordinary man who walks on four legs like the rest of us.Stephano speaks nonsense because he is drunk.
+</T>
+<T>
+CALIBAN
+The spirit is torturing me. Oh!
+</T>
+<T>
+STEPHANO
+This is some monster of the island, with four legs, who seems to me to have some kind of ache. How the hell does he know our language? Ill help out, if only because he speaks the same language as me. If I can cure him from his fever and tame him, and get him back to Naples, hed make a great present for any emperor.
+</T>
+<T>
+CALIBAN
+Dont hurt me, please. I promise Ill carry the wood faster.
+</T>
+<T>
+STEPHANO
+Hes having a fit and talking nonsense. Ill give him some liquor. If hes never drunk it before, itll help soothe his fever. If I can tame him, Ill charge as much as I can get for him. Hell bring a lot of money to the person who owns him, thats for sure.
+</T>
+<T>
+CALIBAN
+You havent hurt me much yet, but you will soon, I can tell by your trembling. Prospero sent you here.
+</T>
+<T>
+STEPHANO
+(trying to make CALIBAN drink) Come on, open your mouth. Thisll help you talk. Open up. Thisll stop you from tremblingI can tell you that for sure. (CALIBAN drinks) You dont even know who your friends are. Open up that mouth again.
+</T>
+<T>
+TRINCULO
+I almost recognize that voice. ItsBut hes drowned, and these guys are devils. Oh, God help me!
+</T>
+<T>
+STEPHANO
+Four legs and two voicesa very special monster. One voice speaks well and talks about his friend. The other voice is harsh and abusive. I can charge even more for this. If it takes all the wine in my bottle, Ill cure him. Come on. CALIBAN drinks Thats good! Now Ill pour some in your other mouth.
+</T>
+<T>
+TRINCULO
+Stephano!
+</T>
+<T>
+STEPHANO
+Is your other mouth calling my name? Mercy, mercy! This isnt a monster, its a devil. Ill leave him alone. I have no interest in getting mixed up with the devil.
+</T>
+<T>
+TRINCULO
+Stephano! If youre Stephano, touch me and speak to me. Im Trinculodont be scaredyour good friend Trinculo.
+</T>
+<T>
+STEPHANO
+If youre Trinculo, then come out. Ill pull on these smaller legs. If any legs here are Trinculos, these are. (he pulls TRINCULO out from under the cloak) Well,
+</T>
+<T>
+what do you know, you are Trinculo! How did you end up as this monsters dung? Does he crap Trinculos?
+</T>
+<T>
+TRINCULO
+I thought he was dead, struck by lightning. But arent you drowned, Stephano? I hope youre not drowned. Has the storm passed? I hid under this monsters cloak to get out of the storm. Are you really alive, Stephano? Oh, Stephano, two men from Naples survived! (TRINCULO dances STEPHANO around.)
+</T>
+<T>
+STEPHANO
+Please stop turning me around. My stomachs a little upset.
+</T>
+<T>
+CALIBAN
+(to himself) These are beautiful creatures, if theyre not spirits. Hes a good god, who brings liquor from the heavens. I will worship him.
+</T>
+<T>
+STEPHANO
+(to TRINCULO) How did you survive? How did you get here? Tell me the truth, swear on this bottle of wine. I made it out of tree bark after I washed ashore. I myself floated here on a barrel of wine that the sailors tossed overboard.
+</T>
+<T>
+CALIBAN
+(to STEPHANO) Ill swear by that wine bottle to be your true subject. You must be a god, since your liquor is out of this world.
+</T>
+<T>
+STEPHANO
+(to TRINCULO) Here. Swear, and tell me how you survived.
+</T>
+<T>
+TRINCULO
+I swam ashore like a duck. I can swim like a duck, I swear.
+</T>
+<T>
+STEPHANO
+Here, kiss the BibleStephano jokingly describes taking a drink from the bottle as kissing the Bible.kiss the Bible and swear. You may swim like a duck, but you look more like a goose.
+</T>
+<T>
+TRINCULO
+Oh Stephano, do you have any more of that wine?
+</T>
+<T>
+STEPHANO
+Ive got the whole barrel, man. I live in a cave by the seaside, where I keep the barrel hidden.Hey, monster, hows your fever?
+</T>
+<T>
+CALIBAN
+You come from heaven, dont you?
+</T>
+<T>
+STEPHANO
+No, from the moon, Im telling you. I used to be the man in the moon a long time ago.
+</T>
+<T>
+CALIBAN
+Oh, Ive seen you in the moon, and I worship you. My mistress showed me you in the moon and your dog and your bush.
+</T>
+<T>
+STEPHANO
+Come on, swear to it. Kiss the Bible and swear it. Im going to fill the bottle up again soon.
+</T>
+<T>
+TRINCULO
+When you get a good look at him, you see hes not much of a monster. I cant believe I was scared of him! A pretty pathetic monster. The man in the moon! What a poor, gullible monster.That was a nice big gulp, monster!
+</T>
+<T>
+CALIBAN
+(to STEPHANO) Ill show you every inch of the island, and Ill kiss your feet. I beg you, please be my god.
+</T>
+<T>
+TRINCULO
+What a lying, drunken monster. When his god falls asleep, the monster will snatch his wine bottle.
+</T>
+<T>
+CALIBAN
+(to STEPHANO) Ill kiss your feet. Ill vow to be your faithful subject.
+</T>
+<T>
+STEPHANO
+Come on, then. Get down and swear it.
+</T>
+<T>
+TRINCULO
+Im going to laugh myself to death over this silly monster. A rotten, foolish monster. I could find it in my heart to beat him
+</T>
+<T>
+STEPHANO
+Come on, kiss my feet.
+</T>
+<T>
+TRINCULO
+Except the poor monsters drunk. An awful monster!
+</T>
+<T>
+CALIBAN
+Ill show you where to get fresh water. Ill pick berries for you. Ill fish for you and get you plenty of firewood. The tyrant Im serving now can go to hell! I wont get any more wood for him. Im serving you now, you wonderful man.
+</T>
+<T>
+TRINCULO
+What a silly monster, to think a poor drunk is wonderful.
+</T>
+<T>
+CALIBAN
+(to STEPHANO) I beg you, let me show where you can find crabs to eat. Ill use my long fingernails to dig edible roots for you, find you a birds nest, and teach you how to catch a nimble monkey. Ill take you to clusters of hazelnuts, and sometimes Ill catch birds for you on the rocks. Will you come with me?
+</T>
+<T>
+STEPHANO
+Show us the way without further delay.Trinculo, since the king and all our comrades are drowned, were the heirs of this place.Here, carry my wine bottle.Trinculo, my buddy, well get that bottle refilled soon enough.
+</T>
+<T>
+CALIBAN
+(sings drunkenly)
+Goodbye, master! Goodbye, goodbye.
+</T>
+<T>
+TRINCULO
+A loud-mouthed, drunken monster.
+</T>
+<T>
+CALIBAN
+(sings)
+I wont build you any more dams to catch fish,
+Or fetch you firewood when you order me to,
+Or clean the plates, or wash dishes.
+'Ban, 'ban, Ca-caliban
+Has a new master. So get a new servant.
+Freedom, what a wonderful day, wonderful day, freedom, freedom, wonderful day, freedom!
+</T>
+<T>
+STEPHANO
+Good monster! Show us the way.
+</T>
+<T>
+FERDINAND
+Some games are painful, but their discomfort makes them more fun. Some kinds of lowly activities are done for noble reasons. And you can do poor things that lead to rich results. This hard work would be boring and nasty to me, but Im working for a mistress who makes me enjoy my labor. Oh, shes ten times nicer than her father is mean, and hes the height of crabbiness. I have thousands of logs to take away and pile up, on strict orders from him. My sweet darling cries when she sees me work and tells me that such a wonderful man never performed such lowly tasks before. These sweet thoughts relieve me and refresh me, especially when Im slaving away busily.
+</T>
+<T>
+MIRANDA
+Now, please, I beg you, dont work so hard. I wish the lightning had burned up all those logs that youve been ordered to stack! Please put that log down and rest a while. When this wood burns, itll weep for making you tired. My fathers studying hard, so he wont see you. So please rest. Were safe from my father for at least three hours.
+</T>
+<T>
+FERDINAND
+Oh, my dear mistress, I wont be able to finish this work until sunset at the earliest.
+</T>
+<T>
+MIRANDA
+If you sit down, Ill carry your logs a while. Please give me that. Ill take it over to the pile.
+</T>
+<T>
+FERDINAND
+No, my darling, Id rather strain all my muscles and break my back than let you do work like this while I lounge around nearby.
+</T>
+<T>
+MIRANDA
+Id be as right for the job as you are, and Id do it more easily, since Id have good will on my side.
+</T>
+<T>
+PROSPERO
+(to himself) You poor weak thing, youre in love! I can see it clearly now.
+</T>
+<T>
+MIRANDA
+You look tired.
+</T>
+<T>
+FERDINAND
+No, noble mistress, Im as fresh as morning when youre near me, even at night. I beg you to tell me your name so I can use it in my prayers.
+</T>
+<T>
+MIRANDA
+Miranda.Oh father, Ive disobeyed you by telling him that!
+</T>
+<T>
+FERDINAND
+Mirandathe very name means admired! You are indeed admired, more than anything else in the world! Ive looked at many ladies with pleasure, and been
+</T>
+<T>
+seduced by the sweet nothings they said to me. Ive liked several women for their good qualities, but there was something wrong with each one that blotted her excellent qualities and cancelled them out. But with you its different. Youre perfect, without a rival in the world, made up of the best qualities of every creature.
+</T>
+<T>
+MIRANDA
+Ive never known any woman or seen a womans faceexcept my own in the mirror. And Ive never met any men besides you and my father. I have no idea what people look like in other places, but I swear by my modesty, which I value above everything else, that Id never want any companion in the world but you. I cant even imagine one. But listen to me chattering like crazy, and father always told me not to.
+</T>
+<T>
+FERDINAND
+Im a prince by birth, Mirandamaybe even a king now; though I wish I werentand normally I wouldnt put up with carrying these logs any more than Id let flies breed in my mouth. But Ill tell you something from my soul. The second I saw you, my heart rushed to serve you and be your slave, so here I am now, a patient log-man.
+</T>
+<T>
+MIRANDA
+Do you love me?
+</T>
+<T>
+FERDINAND
+Oh heaven, oh earth, witness what Im about to say, and reward me if I tell the truth! If Im lying, then
+</T>
+<T>
+destroy all my prospects in life! More than anything else in the world, I love you, value you, and honor you.
+</T>
+<T>
+MIRANDA
+Look at me cryingwhat a fool I am to cry at what makes me happy.
+</T>
+<T>
+PROSPERO
+(to himself) What a pleasant meeting between two people truly in love! May heaven bless the feelings growing between them!
+</T>
+<T>
+FERDINAND
+Why are you crying?
+</T>
+<T>
+MIRANDA
+Im crying at how unworthy I am to give you what I want to give you and to take what Im dying to have. But its a waste of time to say so. The more I try to hide what Im feeling, the bigger it gets. Oh, stop being so bashful and tricky, Miranda, just be straightforward and innocent! Ill be your wife if youll have me. Otherwise, Ill die a virgin, devoted to you. You can refuse to make me your spouse, but Ill be your servant whether you want me to or not.
+</T>
+<T>
+FERDINAND
+Youll be my wife, dearest, and Ill serve you forever.
+</T>
+<T>
+MIRANDA
+Will you be my husband, then?
+</T>
+<T>
+FERDINAND
+Yes, with a heart more eager to bear a husbands responsibilities than a slave ever wanted freedom. Take my hand, darling.
+</T>
+<T>
+MIRANDA
+Heres my hand, and my heart. And now goodbye. Ill see you again in half an hour.
+</T>
+<T>
+FERDINAND
+A million goodbyes to you.
+</T>
+<T>
+PROSPERO
+I cant be as happy as they are at this moment, but nothing could make me any happier. Now its time to get back to my studying, since I have a lot of serious business to take care of before dinner.
+</T>
+<T>
+STEPHANO
+Dont tell me that. When the barrels empty, well drink water. Not one drop sooner. Therefore, drink up.Servant-monster, drink a toast to me.
+</T>
+<T>
+TRINCULO
+Servant monster? What a crazy island this is. They say there are only five people on it. Were three of them. If the other two are as loopy as we are, our countrys in bad shape.
+</T>
+<T>
+STEPHANO
+Drink when I order you, servant-monster. Your eyes look like theyve sunk into your head.
+</T>
+<T>
+TRINCULO
+Where else should his eyes be, if not in his head? Hed be quite a monster if his eyes were in his tail.
+</T>
+<T>
+STEPHANO
+My manmonster is so drunk he cant talk. As for me, no liquid can harm me, neither booze nor the whole sea itself. Before I could get to shore, I swam thirty-five leagues1 league = 3 milesleagues in it and still survived.Monster, youll be my lieutenant, or my flag-bearer.
+</T>
+<T>
+TRINCULO
+Lieutenant is better. Hes not standing straight enough to hold a flag.
+</T>
+<T>
+STEPHANO
+Were not going to run in our army, Monsieur Monster.
+</T>
+<T>
+TRINCULO
+Or walk either. Youll just lie there like sleeping dogs and say nothing.
+</T>
+<T>
+STEPHANO
+Monster sweetie, be a good monster and just speak once.
+</T>
+<T>
+CALIBAN
+How is your Highness? Let me lick your shoe. (he points to TRINCULO) Ill never serve that guy there. Hes not courageous like you.
+</T>
+<T>
+TRINCULO
+(to CALIBAN) Youre a liar, you ignorant monster. Im courageous. I could shake up a police officer right now. You drunken fish, you, how could you call me a coward after all the booze Ive drunk today? Do you tell such monstrous lies because youre half fish and half monster?
+</T>
+<T>
+CALIBAN
+(to STEPHANO) Look how hes making fun of me! Will you let him talk to me like, my lord?
+</T>
+<T>
+TRINCULO
+Lord, he calls you? What an idiot that monster is!
+</T>
+<T>
+CALIBAN
+(to STEPHANO) There he goes again! Please, bite him to death, Im begging you.
+</T>
+<T>
+STEPHANO
+Trinculo, speak politely. If you mutiny against me, Ill hang you from the next tree. This poor monster is my subject, and I will not allow him to be insulted.
+</T>
+<T>
+CALIBAN
+Thank you, my noble lord. Now would you please listen once again to the request I made to you earlier?
+</T>
+<T>
+STEPHANO
+Indeed, I will. Kneel and tell me again. Ill stand, and so will Trinculo.
+</T>
+<T>
+CALIBAN
+(kneeling) As I told you before, Im enslaved to a tyrant, a magician who tricked me with magic spells and took my island from me.
+</T>
+<T>
+ARIEL
+You lie.
+</T>
+<T>
+CALIBAN
+(to TRINCULO) Youre the liar, you big fat monkey. I wish my courageous master would kill you. Im not lying.
+</T>
+<T>
+STEPHANO
+Trinculo, if you interrupt him any more, I swear Ill knock some teeth out of your head.
+</T>
+<T>
+TRINCULO
+I didnt say anything.
+</T>
+<T>
+STEPHANO
+Okay, just stay quiet. Go on.
+</T>
+<T>
+CALIBAN
+I was telling you he used witchcraft to take this island. He stole it from me. If your highness is willing, take revenge on him for thatbecause I know youre brave enough, I dont dare to
+</T>
+<T>
+STEPHANO
+Thats for sure.
+</T>
+<T>
+CALIBAN
+Youll be lord of the island then, and Ill be your servant.
+</T>
+<T>
+STEPHANO
+And how would we go about doing that? Can you bring me to him?
+</T>
+<T>
+CALIBAN
+Yes, yes, my lord. Ill take you to where he sleeps, and you can pound a nail into his head.
+</T>
+<T>
+ARIEL
+You lie. You cant do that.
+</T>
+<T>
+CALIBAN
+What an idiot this guy is!Youre a rotten piece of work!I beg your highness, beat him up and take his wine bottle from him. When he loses that, hell be drinking salt water, since Ill never tell him where the freshwater springs are.
+</T>
+<T>
+STEPHANO
+Trinculo, watch out. If you interrupt this monster with one more word, Ill beat you like a piece of salted fish.
+</T>
+<T>
+TRINCULO
+What did I do? I didnt do anything. I need to get away from you.
+</T>
+<T>
+STEPHANO
+Didnt you call him a liar?
+</T>
+<T>
+ARIEL
+You lie.
+</T>
+<T>
+STEPHANO
+(to TRINCULO) Oh, I did? Take that, then. (he beats TRINCULO) If you want more beatings like that, just accuse me of lying again.
+</T>
+<T>
+TRINCULO
+I didnt accuse you of lying. Are you out of your mind and deaf too? Damn your wine! This is what happens when you drink too much. Your monster can go to hell, and you can too!
+</T>
+<T>
+CALIBAN
+Ha, ha, ha!
+</T>
+<T>
+STEPHANO
+Now go ahead and tell me the rest of your story.Please go stand farther away.
+</T>
+<T>
+CALIBAN
+Beat him up. After a little while, Ill beat him too.
+</T>
+<T>
+STEPHANO
+Stand farther away. Come on, continue your story.
+</T>
+<T>
+CALIBAN
+Just as I told you, he usually sleeps in the afternoon. At that time you can smash in his skull after seizing his books; or you can bash his skull with a log; or you can stab him in the belly; or cut his windpipe. Just remember to grab his books first, since without them hes just a poor fool like me, and cant command a single spirit. All the spirits hate him as much as I do. Be sure to burn his magic books. He has some wonderful home furnishingsthats what he calls themthat hell use to decorate his house when he gets one. The most important thing for you to think about is how beautiful his daughter is. He says she has no equal. I never saw a woman except her and Sycorax, my mother. But Miranda is so much more beautiful, you cant even compare the two.
+</T>
+<T>
+STEPHANO
+Is she really that wonderful?
+</T>
+<T>
+CALIBAN
+Yes, my lord. Shell look good in your bed, and shell produce some fine children too.
+</T>
+<T>
+STEPHANO
+Monster, Ill kill this man. His daughter and I will be king and queenGod protect us!and you and Trinculo will be our governors.Do you like that idea, Trinculo?
+</T>
+<T>
+TRINCULO
+Excellent.
+</T>
+<T>
+STEPHANO
+Give me your hand. Im sorry I hit you. But try to control your speech.
+</T>
+<T>
+CALIBAN
+In a half an hour hell be asleep. Will you kill him then?
+</T>
+<T>
+STEPHANO
+Yes, I swear.
+</T>
+<T>
+ARIEL
+(to himself) Ill tell my master this.
+</T>
+<T>
+CALIBAN
+You make me so happy. Im full of joy. Lets be light-hearted. Will you sing the tune you taught me just a little while ago?
+</T>
+<T>
+STEPHANO
+Ill do anything you ask, monster, anything reasonable.Come on, Trinculo, lets sing. (he sings)
+Dismiss 'em and ziss 'em
+And diss 'em and dismiss 'em.
+Thought is free.
+</T>
+<T>
+CALIBAN
+Thats not the tune I had in mind.
+</T>
+<T>
+STEPHANO
+Whats this song?
+</T>
+<T>
+TRINCULO
+Thats the melody, played by Nobody.
+</T>
+<T>
+STEPHANO
+(to the invisible musician) If youre a man, then let us see what you look like. If youre a devil, then go to hell.
+</T>
+<T>
+TRINCULO
+Oh, forgive all my sins!
+</T>
+<T>
+STEPHANO
+Dead men have to pay their debts.I challenge you!God help us.
+</T>
+<T>
+CALIBAN
+Are you scared?
+</T>
+<T>
+STEPHANO
+No, monster, not me.
+</T>
+<T>
+CALIBAN
+Dont be scared. This island is full of noises, strange sounds and sweet melodies that make you feel good and dont hurt anyone. Sometimes I hear a thousand twanging instruments hum at my ears, and sometimes voices that send me back to sleep even if I had just woken upand then I dreamed of clouds opening up and dropping such riches on me that when I woke up, I cried because I wanted to dream again.
+</T>
+<T>
+STEPHANO
+Thisll be a wonderful kingdom to live in, where they play music for free.
+</T>
+<T>
+CALIBAN
+As soon as you kill Prospero.
+</T>
+<T>
+STEPHANO
+Thatll happen soon enough. I remember the plan.
+</T>
+<T>
+TRINCULO
+The sound is going away. But lets follow it, and then do our dirty work afterward.
+</T>
+<T>
+STEPHANO
+Lead us, monster; well follow. I wish I could see this invisible drummer. He really plays well.
+</T>
+<T>
+TRINCULO
+Im right behind you, Stephano. Are you coming monster?
+</T>
+<T>
+GONZALO
+I swear, I cant go any further, sir. My old bones are tired. Were wandering in a maze. If you dont mind, I need to rest a bit.
+</T>
+<T>
+ALONSO
+I cant blame you, old lord. Im so tired myself that its bringing me down. Sit down and rest. Im losing hope. The one were looking for is dead. Were searching on land, but hes lost in the sea. We have to give up and let him go.
+</T>
+<T>
+ANTONIO
+(speaking so that only SEBASTIAN can hear) Im glad hes so depressed. Dont back out of our plan just because it didnt work the first time.
+</T>
+<T>
+SEBASTIAN
+(speaking so that only ANTONIO can hear) The next chance we get, well do the deed.
+</T>
+<T>
+ANTONIO
+(speaking so that only SEBASTIAN can hear) Lets do it tonight. The men are so tired from traveling that they cant be as careful as they are when theyre fresh.
+</T>
+<T>
+SEBASTIAN
+(speaking so that only ANTONIO can hear) Yes, tonight. No more talking about this now.
+</T>
+<T>
+ALONSO
+Whats that music? My friends, listen.
+</T>
+<T>
+GONZALO
+What marvelous music!
+</T>
+<T>
+ALONSO
+Heaven help us! What were those things?
+</T>
+<T>
+SEBASTIAN
+A puppet show in real life. Now Ill believe that unicorns exist, and that theres a tree in Arabia where the phoenix lives.
+</T>
+<T>
+ANTONIO
+Me too. And anything else thats hard to believe, just ask me and Ill swear its true. Travelers have never told lies, no matter what the fools at home accuse them of.
+</T>
+<T>
+GONZALO
+If I told them about this back in Naples, would they believe me? Id tell them that I saw natives like thesesince they must be nativeswho are graceful and well-mannered even if theyre monstrous to look at, kinder than most human beings you might find kinder than almost any human.
+</T>
+<T>
+PROSPERO
+(to himself) My good lord, youre absolutely right, since some of you are worse than devils.
+</T>
+<T>
+ALONSO
+I cant stop being amazed by these shapes, sounds, and gestures, which express, even without saying anything, a wonderful kind of silent language.
+</T>
+<T>
+PROSPERO
+(to himself) Time to go.
+</T>
+<T>
+FRANCISCO
+They vanished strangely.
+</T>
+<T>
+SEBASTIAN
+Its all right, since they left their food behind, and were hungry. Would you like to taste the banquet?
+</T>
+<T>
+ALONSO
+Not me.
+</T>
+<T>
+GONZALO
+I assure you, sir, theres nothing to be afraid of. When we were boys, whod believe that there were mountain people with rolls of skin around their necks, with their throats hanging down? Or that there were men with heads in their chests?Nowadays travelers commonly report that these things exist.
+</T>
+<T>
+ALONSO
+Ill start eating, even if this is my last supper. Its all right, since the best part of my life was over anyway. Brother, Duke, please have some food.
+</T>
+<T>
+ARIEL
+(to ALONSO, ANTONIO, and SEBASTIAN) The three of you are sinners, and Destiny made the sea belch you up onto this islandwhere no men live, since none of you deserve to live. Ive driven you crazy, and many mad people are driven to kill themselves in desperation. (some of the courtiers draw their swords) Listen, you fools, my fellow harpiesA harpy is a mythological creature with a womans face and breasts and the wings and claws of a bird. Shakespeare apparently intended to have Ariel appear together with two other harpies.harpies and I carry out Fates orders. Your swords are useless against usyoud be more successful swinging them at the empty air, or stabbing at water, than trying to cut off even one of my feathers. My two companions are just as invulnerable as I am. Even if you had the power to hurt us, youd find your swords far too heavy to lift. But rememberand its my job to remind you of thisthat in Milan the three of you stole Prosperos throne and threw him and his innocent child into the sea, which has now taken revenge on you. To punish you for this horrible crime, the higher powersdelaying their punishment, not forgetting about ithave stirred up the seas and all the creatures of earth against you.Theyve taken your only son from you, Alonso, and theyve ordered me to destroy you slowly, in a way worse than sudden death could ever be. Ill stay with you every step of your way. The only way to protect yourselves from the angry higher powerswhich are ready to fall upon your head on this empty islandis for you to be sincerely sorry in your hearts for what youve done, and to live innocent lives from this time forward.
+</T>
+<T>
+PROSPERO
+(to himself) Youve played the role of harpy very well, my Ariel. You were fierce but graceful. You said everything I told you to say.In the same lifelike way, and with the same attention to detail, my lower-ranking servants have done what they were supposed to do. My magic powers are all in full swing, and my enemies are confused and running around in circles. Theyre under my control, and Im keeping them in their crazy fits while I go visit Ferdinand, whom they think has drowned, and the young woman he and I both love.
+</T>
+<T>
+GONZALO
+(to ALONSO) For the love of God, sir, why are you standing here staring into space like this?
+</T>
+<T>
+ALONSO
+Oh, its horrible, horrible. I thought the clouds were talking to me, the winds were singing to me, and the thunder, like an awful organ pipe, roared Prosperos name. It sang about my crimes. Because of my crimes my son is dead on the ocean floor. Ill go join him there, going down deeper than any anchor ever sank, and lie with him dead in the mud.
+</T>
+<T>
+SEBASTIAN
+Ill fight every one of these devils if I have to, one at a time.
+</T>
+<T>
+ANTONIO
+Ill back you up.
+</T>
+<T>
+GONZALO
+All three of them are crazy with despair. Their guilt is finally starting to gnaw at them, like a slow-acting poison. Those of you who are young and active, I beg you to follow them and keep them from doing the crazy things their guilt might push them to do.
+</T>
+<T>
+ADRIAN
+Follow them, please.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) If Ive punished you too harshly, Im ready to make it up to you now, since Ive given you a third of my lifeeverything I live formy daughter Miranda. I put her in your hands. All the trouble I put you through was to test your love for her, and youve passed the test remarkably well. As heaven is my witness, I give you this valuable gift. Oh Ferdinand, dont smile at me for bragging about Miranda, for youll see soon enough that she outshines any praise of her.
+</T>
+<T>
+FERDINAND
+Id believe it even if oraclesAn oracle is someone who delivers messages from the gods.oracles told me differently.
+</T>
+<T>
+PROSPERO
+Then take my daughter, both as my gift to you and as something you have earned. But if you have sex with her before the marriage ceremony takes place, the heavens will not bless your relationship, but will overwhelm you with hate, contempt, and discord, and will poison your marriage bed so that you both grow to loathe it. So be careful, and make sure you respect the holy institution of marriage.
+</T>
+<T>
+FERDINAND
+I want peace, good kids, and a long life. To protect the love I cherish, I wont be tempted by any opportunity to forget my honor and give in to lust. I refuse to give up the joys of my wedding day, when Ill be so eager for my first night of love that Ill wonder whether evening will ever come.
+</T>
+<T>
+PROSPERO
+Youve said it well. So have a seat and talk to her. Shes yours.Come, Ariel! My trusty servant, Ariel!
+</T>
+<T>
+ARIEL
+What does my powerful master wish for? Im here.
+</T>
+<T>
+PROSPERO
+You and your fellow spirits did your last assignment well, and now I need your help again. Go bring them all here; I give you power over them. Make them act quickly. I have to give this young couple here a small display of my magic powers. Ive promised them I would, and theyre expecting it.
+</T>
+<T>
+ARIEL
+Right now?
+</T>
+<T>
+PROSPERO
+Yes, right away.
+</T>
+<T>
+ARIEL
+Before you can say Come and Go,
+And breathe twice, and shout So, so!
+Each one of your servants will rush here,
+</T>
+<T>
+Tripping over his own toes, making funny faces.
+Do you love me, master? No?
+</T>
+<T>
+PROSPERO
+I love you dearly, Ariel. Dont come near till you hear me call you.
+</T>
+<T>
+ARIEL
+All right, I understand.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) Make sure you behave honorably. Dont go too far with her. If you let yourself get stirred up, youll forget your promise of good behavior. Calm yourself down or youll forget your vow.
+</T>
+<T>
+FERDINAND
+I assure you, sir, the tender love I feel in my heart is stronger than the sexual passions stirring down below.
+</T>
+<T>
+PROSPERO
+Good.Now come, Ariel! Better to have an extra servant on hand than be understaffed. Appear before me now quickly
+</T>
+<T>
+No talking. Just watch! Be quiet.
+</T>
+<T>
+IRIS
+I am the rainbow-bearing messenger sent by my mistress Junothe Queen of the Sky. I have come to announce that Juno has asked you, Ceres, goddess of the fields and the earth, to leave your rich farms of wheat, rye, barley, oats, and peas, the hills where the
+</T>
+<T>
+sheep nibble, the furrows that April covers with flowers for nymphs to make crowns with. You must leave the groves where the disappointed bachelor lurks, rejected by his love, and the well-pruned vineyards, and the rocky seashore.
+</T>
+<T>
+You must leave these places and hurry here to this grassy spot, to entertain Juno.
+</T>
+<T>
+CERES
+Greetings to you, rainbow messenger, who never disobeys Juno, wife of Jupiter; with your golden wings you sprinkle dewdrops and refreshing showers on my flowers, and arch your colored bow over my wooded fields and grassy meadows, like a beautiful scarf to decorate my earth. Why has your queen, Juno, called me here to this grassy spot?
+</T>
+<T>
+IRIS
+To celebrate a marriage of true love, and give a gift to the lovers.
+</T>
+<T>
+CERES
+Tell me, rainbow, do you know if either Venus, the goddess of love, or her son, Cupid, is accompanying Queen Juno? Ever since Venus and her blind son plotted a way for the god of the underworld to steal my daughter away for half the year, I swore Id never speak to them again.
+</T>
+<T>
+IRIS
+Dont be afraid of her company. I met Venus as she was with her son on her way to her home on Paphos, in a carriage pulled by doves. They were planning to pull a mischievous trick on Ferdinand and Miranda, who have sworn not to sleep together till their wedding day. But their trick failed. Venus went home again, and her little son broke all his arrows, swearing hell never shoot them again, but play with birds like other little boys.
+</T>
+<T>
+CERES
+Great Queen Juno is coming. I know her by her walk.
+</T>
+<T>
+JUNO
+How is my generous sister? Come help me bless this couple, so they will be prosperous and have many children.
+</T>
+<T>
+JUNO
+(singing)
+May honor, riches, marriage blessings,
+Long life, and unending joys come to you.
+Juno sings her blessings onto you.
+</T>
+<T>
+CERES
+(singing)
+Growing crops and large harvests,
+Barns and silos full of grain,
+Vines heavy with clustered grapes,
+Plants straining under their fruit
+May spring follow directly autumns harvest,
+With none of winters hardships to endure,
+You will have plenty and want nothing,
+Ceress blessings on you.
+</T>
+<T>
+FERDINAND
+This is a majestic and harmonious vision. Are these spirits we see before us?
+</T>
+<T>
+PROSPERO
+Yes, theyre spirits that Ive called out of their prisons to perform my whims.
+</T>
+<T>
+FERDINAND
+Let me live here forever. Such a wonderful father-in-law and wife make this place a paradise.
+</T>
+<T>
+PROSPERO
+Now be quiet. Juno and Ceres are whispering about something serious. Theres something else to be done. Be silent, or else my magic spell will be broken.
+</T>
+<T>
+IRIS
+You nymphs who live in the wandering brooks, with seaweed crowns and innocent looks, step out of the water and come join us here on this grassy field. Juno
+</T>
+<T>
+orders you. Come, sweet nymphs, and help us celebrate the wedding of two true lovers. Dont be late.
+</T>
+<T>
+Now, you tanned fieldworkers who are so tired of Augusts labors, get out of the dirt and come rejoice with us here. Put your straw hats on, have some fun, and dance with these young nymphs.
+</T>
+<T>
+PROSPERO
+I almost forgot about Calibans horrible conspiracy to kill me. The moment they planned to act is almost here. (to the spirits)Good job. Leave now, no more!
+</T>
+<T>
+FERDINAND
+(to MIRANDA) This is strange. Something has really upset your father.
+</T>
+<T>
+MIRANDA
+Ive never seen him like this. Hes never been as angry and upset as he is now.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) You look like somethings bothering you. Cheer up. Our music-and-dance spectacle is over. These actors were all spirits, as I told you, and theyve all melted into thin air. And just like the whole empty
+</T>
+<T>
+and ungrounded vision youve seen, with its towers topped with clouds, its gorgeous palaces, solemn temples, the world itselfand everyone living in itwhich will dissolve just as this illusory pageant has dissolved, leaving not even a wisp of cloud behind. We are all made of dreams, and our life stretches from sleep before birth to sleep after death. Sir, Im upset. Please put up with my weakness. My old brain is troubled. Dont be disturbed by my illness. If you like, you can rest a while in my room. Ill go for a short walk to calm down my feverish mind.
+</T>
+<T>
+FERDINAND, MIRANDA
+We hope you feel better and find some peace.
+</T>
+<T>
+PROSPERO
+Come, ArielI summon you with a thought. Thank you, Ariel. Come.
+</T>
+<T>
+ARIEL
+I obey all your thoughts. What do you wish?
+</T>
+<T>
+PROSPERO
+Spirit, we have to get ready to meet with Caliban.
+</T>
+<T>
+ARIEL
+Yes, my master. When I was putting on the Ceres show, I thought of reminding you about Caliban, but I was afraid of upsetting you.
+</T>
+<T>
+PROSPERO
+Tell me again, where did you leave those lowlifes?
+</T>
+<T>
+ARIEL
+I told you, sir, they were totally drunk, so puffed up with courage that they were getting angry at the air for blowing in their faces, and beating the ground for touching their feetyet even when drunk, they kept their plan firmly in mind. Then I beat my drum, at which point they pricked up their ears and opened their eyes, looking around for the source of my music. I enchanted them so thoroughly that they followed me through thorn bushes and prickly shrubs that tore up their shins. In the end I left them standing in the smelly pond behind your room, with the stinking water covering them up to their chins.
+</T>
+<T>
+PROSPERO
+Good job, my little one. Stay invisible. Bring the fancy clothes out of my house, to use as bait to catch these thieves.
+</T>
+<T>
+ARIEL
+Im going, Im going.
+</T>
+<T>
+PROSPERO
+Hes a devil, a born devil, who can never be trained. All my attempts to help him, undertaken with the best intentions, have been wasted. As his body grows uglier with age, his mind rots away as well. Ill torment them all till they roar with pain.
+</T>
+<T>
+Here, hang them on this clothesline.
+</T>
+<T>
+CALIBAN
+Please walk softly, so not even a mole hears us approach. Were near his room now.
+</T>
+<T>
+STEPHANO
+Hey monster, the spirit youve been talking about, the one you call harmless, has been playing tricks on us.
+</T>
+<T>
+TRINCULO
+Monster, I smell like horse piss, which is making my nose pretty upset.
+</T>
+<T>
+STEPHANO
+Mine too.Are you listening, monster? If I decide to get angry at you, just watch out
+</T>
+<T>
+TRINCULO
+Youd be done for then, monster.
+</T>
+<T>
+CALIBAN
+My good lord, I still need you to like me. Be patient, because the prize Im leading you to will make you forget how smelly you are now. So be quiet. Its as silent as a graveyard here.
+</T>
+<T>
+TRINCULO
+All right, but I cant get over how we lost our wine bottles in the pond
+</T>
+<T>
+STEPHANO
+Yes, monster, its worse than the disgrace of getting drenched and smelly. We lost more than our honor when we lost our wine.
+</T>
+<T>
+TRINCULO
+That upsets me much more than getting wet. And you called the fairy creature harmless, monster.
+</T>
+<T>
+STEPHANO
+Ill get my bottle back if its the last thing I do.
+</T>
+<T>
+CALIBAN
+Please, my king, be quiet. Look here, this is the entrance to his room. Be silent and go in. Do the deed that will make this island yours forever, and will make me, Caliban, your worshipful foot-licker.
+</T>
+<T>
+STEPHANO
+Give me your hand. Im starting to feel murderous urges.
+</T>
+<T>
+TRINCULO
+(seeing the clothes) Oh, King Stephano! Worthy Stephano, look at the fabulous wardrobe waiting for you here!
+</T>
+<T>
+CALIBAN
+Leave it alone, you fool. Its worthless.
+</T>
+<T>
+TRINCULO
+Oh, monster, we know secondhand clothes when we see them.(he puts on one of the gowns) Oh, King Stephano!
+</T>
+<T>
+STEPHANO
+Take off that gown, Trinculo. I swear that gowns for me.
+</T>
+<T>
+TRINCULO
+You can have it then, your highness.
+</T>
+<T>
+CALIBAN
+To hell with this idiot! Why are you going crazy over these trashy clothes? Leave them alone, and do the murder first. If he wakes up before we kill him, hell never stop punishing us.
+</T>
+<T>
+STEPHANO
+Shut up, monster.Madame tree, is this jacket for me? Thank you kindly. The trees lost its jacket. (he takes a jacket hanging on the tree)Now the jacket might lose its fur trim and become a bald jacket. Stephano makes an elaborate (and untranslatable) pun about the shirt being like a sailor who goes to the tropics and gets a venereal disease.
+</T>
+<T>
+TRINCULO
+Go ahead, take it. Were stealing things the right way here.
+</T>
+<T>
+STEPHANO
+Thank you for that joke. Here, Ill give you some clothes to show my gratitude. As king of this country I like to reward wit when I hear it. Stealing things the right way is a great line. Heres another jacket to say thanks.
+</T>
+<T>
+TRINCULO
+Come here, monster, put some glue on your fingers, and carry away the rest of these clothes for us.
+</T>
+<T>
+CALIBAN
+I wont have any of this. Were wasting our time. Well miss our chance and be turned into geese or apes with low foreheads.
+</T>
+<T>
+STEPHANO
+Monster, use your fingers. Help us carry these clothes to where my barrel of wine is hidden, or Ill kick you out of my kingdom. Go on, take them.
+</T>
+<T>
+TRINCULO
+Take these too.
+</T>
+<T>
+STEPHANO
+Yes, and these.
+</T>
+<T>
+PROSPERO
+Hey, Mountain, hey!
+</T>
+<T>
+ARIEL
+Silver. There they go, Silver!
+</T>
+<T>
+PROSPERO
+Fury, Fury!Get over there, Tyrant, there. Listen, listen!
+</T>
+<T>
+Ariel, go order my goblin servants to make these fellows' bones ache, give them muscle cramps all over, and give them more bruises than leopards have spots.
+</T>
+<T>
+ARIEL
+Listen theyre howling.
+</T>
+<T>
+PROSPERO
+Hunt them down. Now all my enemies are at my mercy. Soon all my work will be done, and youll be free. Just obey me a little bit longer.
+</T>
+<T>
+PROSPERO
+My plans are almost at their climax. My spells are working well, my spirits are obeying me, and everything is right on schedule. What time is it?
+</T>
+<T>
+ARIEL
+Its after six o'clock, my lord, when you said our work would be finished.
+</T>
+<T>
+PROSPERO
+Thats what I said when I first conjured the tempest. Tell me, spirit, hows the king and his entourage?
+</T>
+<T>
+ARIEL
+All cooped up together, just as you ordered, all imprisoned in the grove of linden trees that protects your room from bad weather. They cant move till you release them. The king, his brother, and your brother are all waiting there in a crazed state of mind, and the rest are grieving over them, sad and astonished. Good old lord Gonzalo, as you call him, is saddest of all, with tears running down his beard. Your magic spell has such an effect on them that if you saw them now, youd feel sorry for them.
+</T>
+<T>
+PROSPERO
+Do you think so, spirit?
+</T>
+<T>
+ARIEL
+Id feel sorry for them, if I were human.
+</T>
+<T>
+PROSPERO
+I will too. Youre made of air, so if even you feel sorry for them, imagine the pity that Ill feel, being one of their own human race. I suffer pain just as much as they do, so Ill sympathize far more than you. Though Im indignant about their evil deeds, Ill go with my nobler instincts, which tell me to feel some compassion for them. Its better to act virtuously rather than vengefully. Now that theyre sorry, I dont want anything more. Go release them, Ariel. Ill break my spells and bring them back to their senses, and theyll feel like themselves again.
+</T>
+<T>
+ARIEL
+Ill go get them, sir.
+</T>
+<T>
+PROSPERO
+(drawing a large circle on the stage with his staff) Ive darkened the noontime sun with the aid of you elves who live in the hills and brooks and groves, and you who chase the sea on the beach without leaving footprints in the sand, and run away when the waves come back; and you who make toadstools while the moon shines; who make mushrooms as a hobby after the evening bell has rung. With your help Ive called up the angry winds, and set the green sea and blue sky at war with each other. Ive given lightning to the thunderclouds, and burned up Jupiters beloved oak.
+</T>
+<T>
+With his own lightning bolts; Ive shaken up the sturdy cliffs and uprooted pines and cedars; Ive opened up graves and awakened the corpses sleeping in them, letting them out with my powerful magic. But I surrender all this magic now, when Ive summoned some heavenly music to cast a spell, as Im doing now, Ill break my staff and bury it far underground, and throw my book of magic spells deeper into the sea than any anchor ever sank.
+</T>
+<T>
+Let this solemn melody comfort your fevered minds, which are now useless, seething inside your skulls.All of you stand there in my spell.(to GONZALO) Good Gonzalo, you honorable man, my eyes weep for you, since I feel what you must feel now. (to himself) The spell is breaking gradually, and just as dawn creeps in and melts away the darkness, they will slowly return to their senses.(to GONZALO) Oh, my dear Gonzalo, youre my savior and loyal to your lord, Ill reward you fully, not just with praise but with actions too.
+</T>
+<T>
+(to ALONSO) You, Alonso, manipulated me and my daughter cruelly, and your brother helped you.(to SEBASTIAN) Youre paying the price for it now, Sebastian.(to ANTONIO) My brother, you were so greedy for power that you forgot natural compassion and our bond as brothers, and were ready to kill your kingI forgive you, though youre a monster.(to himself) Look at them, theyre starting to understand. Soon their confused minds will clear up. But at this point not a single one of them recognizes me.(to ARIEL) Ariel, get me my hat and sword from my room. Ill take off the clothes Im wearing now, and put on the ones I used to wear in Milan.Soon, spirit, youll be free.
+</T>
+<T>
+ARIEL
+
+(he sings and helps PROSPERO dress)
+Where the bee drinks, I drink dew.
+I lie in the cup of a cowslip flower.
+I sleep there when the owls hoot.
+I fly on a bats back,
+following the summer around the globe.
+Happily, happily I will live now
+Under the blossom that hangs on the bough.
+</T>
+<T>
+PROSPERO
+Why, thats my dainty Ariel singing now. Ill miss you, Ariel, but youll be free.Yes, you will, yes.Go to the kings ship in your invisible state. There youll find the sailors asleep below deck. Find the Master and
+</T>
+<T>
+Boatswain, who will be awake, and bring them here right away, please.
+</T>
+<T>
+ARIEL
+Ill go so fast Ill burn up the air, and come back in two heartbeats.
+</T>
+<T>
+GONZALO
+This place is full of trouble, torments, and amazements. Please come, heavenly powers, and guide us out of this godforsaken country!
+</T>
+<T>
+PROSPERO
+(to ALONSO) Your Highness, you see before you the Duke of Milan, Prospero, whos been wronged. Ill embrace you now so you will know its really me, a living prince, talking to you. I heartily welcome you and your entourage here. (he embraces ALONSO)
+</T>
+<T>
+ALONSO
+Whether youre really him or whether this is some magic trick like I was recently subjected to, I dont know. Your heart beats like you were real, and ever since I saw you, I feel my mind becoming sane again, released from its earlier insanity. There must be a strange explanation for thisif its true. I surrender your dukedom and beg you to forgive me all my crimes. But how is it possible that Prosperos alive and well and living on this island?
+</T>
+<T>
+PROSPERO
+(to GONZALO) First, my noble old friend, let me embrace you, who are more honorable than I can say.
+</T>
+<T>
+GONZALO
+I wont bet on whether or not any of this is real.
+</T>
+<T>
+PROSPERO
+Youre still experiencing some of the little quirks of this island, which makes so many things seem uncertain. Welcome, my friends. (speaking so that only SEBASTIAN and ANTONIO can hear) But you two lords, if I felt like it, I could turn you in as the traitors you are. But as for now, I wont say a word.
+</T>
+<T>
+SEBASTIAN
+Its the devil speaking through him.
+</T>
+<T>
+PROSPERO
+No.(to ANTONIO) As for you, you evil man that I cant even call brother, I forgive you for even your worst sin, all your sins. I demand my dukedom back from you, which I know you have to give me.
+</T>
+<T>
+ALONSO
+If youre Prospero, give us the details of how you were saved, how you met us here, when we were just shipwrecked here three hours ago, when I lostHow painful the memory is!my dear son Ferdinand
+</T>
+<T>
+PROSPERO
+Im sorry about that, sir.
+</T>
+<T>
+ALONSO
+No one can undo this loss of mine, and trying to endure it patiently doesnt help.
+</T>
+<T>
+PROSPERO
+I dont think youve tried to endure it. Being patient has helped me a lot, for I have suffered a loss similar to yours.
+</T>
+<T>
+ALONSO
+You suffered a loss like mine?
+</T>
+<T>
+PROSPERO
+Yes, just as great and just as recent. And I have much less to comfort me than you do, since Ive lost my daughter.
+</T>
+<T>
+ALONSO
+A daughter? Oh God, I wish the two of them were alive and living in Naples, as king and queen! Id give up my life and take my sons place in the mud on the ocean floor if I could see them alive in Naples.When did you lose your daughter?
+</T>
+<T>
+PROSPERO
+In this recent storm. These lords seem so astonished that theyve lost their use of reason and can hardly believe what they see with their own eyes.But whatever the reason for your losing your senses, you can know for sure that Im Prospero, that same duke who was kicked out of Milan and landed on this same island where you landed, and became the lord of it. No more of this story now, for it takes days to tell, not just a chat over breakfast or during this first meeting of ours.
+</T>
+<T>
+(to ALONSO) Welcome, sir. This rooms my royal court. I have hardly any servants and no subjects outside this room. Please, have a look. Since youve given my dukedom back to me, Ill give you something equally nice, or at least Ill give you an amazement to satisfy you as much as my dukedom satisfies me.
+</T>
+<T>
+MIRANDA
+(to FERDINAND) My sweet lord, youre cheating.
+</T>
+<T>
+FERDINAND
+No, my dearest love, I wouldnt cheat you for the whole world.
+</T>
+<T>
+MIRANDA
+Maybe not the whole world, but youd cheat for twenty kingdoms. But even then Id still lie and say you were playing by the rules.
+</T>
+<T>
+ALONSO
+If this dream vision is typical of what this island conjures up, then Ill lose my son twice.
+</T>
+<T>
+SEBASTIAN
+A wonderful miracle!
+</T>
+<T>
+FERDINAND
+(seeing ALONSO and kneeling) The seas may threaten us, but they show mercy sometimes too. I cursed them for no reason.
+</T>
+<T>
+ALONSO
+Receive all the blessings of a happy father. Get up and tell me how you came here.
+</T>
+<T>
+MIRANDA
+How amazing! How many wonderful creatures there are here! Mankind is so beautiful! Oh, what a wonderful new world, that has such people in it!
+</T>
+<T>
+PROSPERO
+Its new to you.
+</T>
+<T>
+ALONSO
+(to FERDINAND) Who is this girl you were playing chess with? You cant have known her for more than three hours. Is she the goddess that separated us and then brought us back together?
+</T>
+<T>
+FERDINAND
+No, sir, shes human. But by the grace of God, shes mine. I chose her for my wife when I thought I had no father to ask advice of. Shes the daughter of this famous Duke of Milan I heard so much about but never saw before. Hes given me a second life, and marrying her makes him a second father to me.
+</T>
+<T>
+ALONSO
+And Im her father as well. But oh, how odd it is to have to ask for my childs forgiveness!
+</T>
+<T>
+PROSPERO
+Stop right there, sir. Lets not get gloomy in our reminiscing, since theres no reason for sadness anymore.
+</T>
+<T>
+GONZALO
+Ive been crying to myself just now, or I wouldve said the same thing. Dear gods, bless this couple, since youre the ones who have shown us the path that led us here.
+</T>
+<T>
+ALONSO
+Amen to that, Gonzalo.
+</T>
+<T>
+GONZALO
+Was the Duke of Milan kicked out of Milan so his children could become kings of Naples? Oh, this is cause for an extraordinary joy that should be engraved in gold on pillars to last forever. On one and the same trip Claribel found a husband in Tunis, and Ferdinand, her brother, found a wife where he was shipwrecked; Prospero found his dukedom on a poor island; and all of us found ourselves when we lost control of ourselves.
+</T>
+<T>
+ALONSO
+(to FERDINAND and MIRANDA) Give me your hands. May anyone who doesnt wish you joy feel grief and sorrow.
+</T>
+<T>
+GONZALO
+So be it. Amen.
+</T>
+<T>
+Oh, look, sir, look, sir! More of us are here. I remember I predicted that this guy could never drown, as long as there are gallows around on the land. (to BOATSWAIN) Hey, you curser, who defiled our ship with your foul language, dont you have any gutter talk for us on shore? Whats going on?
+</T>
+<T>
+BOATSWAIN
+The best news of all is that weve located our king and our men. The next bit of good news is that our shipwhich we gave up for ruined only three hours agois as well-outfitted and seaworthy as it was when we first set sail.
+</T>
+<T>
+ARIEL
+(speaking so that only PROSPERO can hear) Sir, Ive done all this work for you since I left you last.
+</T>
+<T>
+PROSPERO
+(speaking so that only ARIEL can hear) My clever spirit!
+</T>
+<T>
+ALONSO
+These are unnatural events. They get stranger all the time.(to BOATSWAIN) Tell me, how did you get here?
+</T>
+<T>
+BOATSWAIN
+If I were sure I was wide awake, Id try to tell you. We were fast asleep and somehowwe dont know howwe were stowed below deck, where we heard lots of roaring, shrieking, howling, and jingling chains. The sounds were so horrible that we woke up liberated, and saw our wonderful ship safe and sound. The master was dancing with joy to see it. In an instant we were separated from them, as if in a dream, and brought here in a daze.
+</T>
+<T>
+ARIEL
+(speaking so that only PROSPERO can hear) Did I do it right?
+</T>
+<T>
+PROSPERO
+(speaking so that only ARIEL can hear) You did it perfectly, my little worker. Youll get your freedom.
+</T>
+<T>
+ALONSO
+This is a stranger business than men have ever set foot in before, and its not natural either. We need some oracle to tell us whats going on.
+</T>
+<T>
+PROSPERO
+Sir, my king, dont waste your time mulling over how strange this business is. When the time is right, and itll be soon, I promise I alone will explain everything thats happened. Until then, be cheerful and keep an open mind. (speaking so that only ARIEL can hear) Come here, spirit; set Caliban and his fellow slaves free. Break the spell that enslaves them to me.
+</T>
+<T>
+How is my lord? There are a few men still missing from the ship, a few odd guys youve forgotten about.
+</T>
+<T>
+STEPHANO
+Look out for the other guy, and dont put yourself first, since everything happens randomly. Courage! Courage, you fine old monster.
+</T>
+<T>
+TRINCULO
+If I can believe my eyes, this is a fine sight to see.
+</T>
+<T>
+CALIBAN
+Oh Setebos, these are handsome spirits! How wonderful my master is! Im afraid hell punish me.
+</T>
+<T>
+SEBASTIAN
+Ha, ha! What are these things were looking at, my lord Antonio? Can you buy them with money?
+</T>
+<T>
+ANTONIO
+Definitely. The one that looks like a fish is very marketable.
+</T>
+<T>
+PROSPERO
+Take a look at their servants' name tags, my lords, then tell me what they are. (he points at CALIBAN) This misshapen monster, his mother was a witch so powerful she could control the moon and the tides. These three have robbed me, and this bastard half-devil plotted with them to kill me. Two of these men you must recognize and claim as your own. This evil monster I acknowledge is mine.
+</T>
+<T>
+CALIBAN
+Hell kill me with tortures.
+</T>
+<T>
+ALONSO
+Isnt this Stephano, my drunken butler?
+</T>
+<T>
+SEBASTIAN
+Hes definitely drunk now. Where did he get wine?
+</T>
+<T>
+ALONSO
+And Trinculos drunk. Where did they find the liquor to get drunk on?(to TRINCULO) How did you get this way?
+</T>
+<T>
+TRINCULO
+Ive been so wasted since I saw you last that Im worried Ill never be sober again. But at least I wont rot, being so full of alcohol.
+</T>
+<T>
+SEBASTIAN
+How are you doing, Stephano?
+</T>
+<T>
+STEPHANO
+Oh, dont touch me. Im not Stephano, Im a walking cramp.
+</T>
+<T>
+PROSPERO
+You wanted to be king of the island, sir?
+</T>
+<T>
+STEPHANO
+I wouldve been a sore king then.
+</T>
+<T>
+ALONSO
+(pointing at CALIBAN) This is the strangest thing I ever saw in my life.
+</T>
+<T>
+PROSPERO
+Hes as ugly in his manners as he is in appearance.(to CALIBAN) Go, sir, to my room, and take your companions with you. If you want me to forgive you, make it neat and tidy.
+</T>
+<T>
+CALIBAN
+I will indeed. And after this Ill be good and hope you forgive me. What an idiot I was to think this drunkard was a god and to worship such a stupid fool!
+</T>
+<T>
+PROSPERO
+Go away, now.
+</T>
+<T>
+ALONSO
+(to STEPHANO and TRINCULO) Go, and put your garbage back where you found it.
+</T>
+<T>
+SEBASTIAN
+Or stole it, rather.
+</T>
+<T>
+PROSPERO
+Sir, I invite your highness and your entourage to my little room, where you can sleep tonight. But for this eveningpart of it, at leastIll tell you tales to make the time pass quickly. Ill narrate the story of my life, and give you all the details of what happened to me since I first came to this island. And in the morning Ill take you to your ship and well sail to Naples, where I hope to see this loving couple married. After that Ill retire to Milan, where Ill contemplate my death, which is soon to come.
+</T>
+<T>
+ALONSO
+Im dying to hear your life story, which must be a strange tale.
+</T>
+<T>
+PROSPERO
+Ill tell you everything, and I promise to give you calm seas and favorable winds for your trip. Youll sail so fast that youll catch up with the royal navy.(speaking so that only ARIEL can hear) My Ariel, baby, that jobs for you. After that youll be free as the air. Farewell!Please, all the rest of you, come closer.
+</T>
+<T>
+PROSPERO
+Now my spells are all broken,
+And the only power I have is my own,
+Which is very weak. Now you all
+Have got the power to keep me prisoner here,
+Or send me off to Naples. Please dont
+Keep me here on this desert island
+With your magic spells. Release me
+So I can return to my dukedom
+With your help. The gentle wind
+You blow with your applause
+Will fill my ships sails. Without applause,
+My plan to please you has failed.
+Now I have no spirits to enslave,
+No magic to cast spells,
+And Ill end up in despair
+Unless Im relieved by prayer,
+Which wins over God himself
+And absolves all sins.
+Just as youd like to have your sins forgiven,
+Indulge me, forgive me, and set me free.
+</T>

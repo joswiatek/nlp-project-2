@@ -1,0 +1,4974 @@
+<T>
+RODERIGO
+Come on, dont tell me that. I dont like itthat you knew about this, Iago. All this time Ivethought you were such a good friend that Ive let youspend my money as if it was yours.
+</T>
+<T>
+IAGO
+Damn it, youre not listening to me! I never dreamedthis was happeningif you find out I did, you can goahead and hate me.
+</T>
+<T>
+RODERIGO
+You told me you hated him.
+</T>
+<T>
+IAGO
+I do hate himThey\re talking about Othello, though they never mention his name.him, I swear. Three of Venices mostimportant noblemen took their hats off to him and asked him humblyto make me his lieutenant, the second in command. And I know my ownworth well enough to know I deserve that position. But he wants tohave things his own way, so he sidesteps the issue with a lot ofmilitary talk and refuses their request. Ivealready chosen my lieutenant, he says. And who does hechoose? A guy who knows more about numbers than fighting! This guyfrom Florence named Michael Cassio. He has a pretty wife but hecant even control her. And hes definitelynever commanded men in battle. Hes got no more hands-onknowledge of warfare than an old womanunless you countwhat hes read in books,
+</T>
+<T>
+which any peace-lover can do. His military understanding is alltheory, no practice. But Cassios been chosen over me. Mycareer is cut short by some bookkeeper, even though the general sawmy fighting skills first-hand in Rhodes and Cyprus. This accountantis now lieutenant, while I end up as the MoorsMoor = North AfricanMoors flag-bearer.
+</T>
+<T>
+RODERIGO
+By God, Id rather be his executioner.
+</T>
+<T>
+IAGO
+And theres nothing I can do about it.Thats the curse of military service. You get promotedwhen someone likes you, not because youre next in line.Now, you tell me: should I feel loyal to the Moor?
+</T>
+<T>
+RODERIGO
+If you dont like him you should quit.
+</T>
+<T>
+IAGO
+No, calm down. Im serving under him to take advantageof him. We cant all be masters, and not all mastersshould be followed. Look at all the devoted servants who work fortheir masters their whole lives for nothing but their food, and thenwhen they get old theyre terminated. They ought to bewhipped for being so stupid. But then theres anotherkind of servant who looks dutiful and devoted, but whosreally looking out for himself. By pretending to serve their lords,these men get rich, and when theyve saved up enough theycan be their own masters. Guys like that have soul, andthats the kind of guy I am. Let me tell
+</T>
+<T>
+you, as sure as your names Roderigo, if I were theMoor I wouldnt want to be Iago. I may seem to love andobey him, but in fact, Im just serving him to get what Iwant. If my outward appearance started reflecting what I reallyfelt, soon enough Id be wearing my heart on my sleevefor birds to peck at. No, its better to hide it.Im not who I appear to be.
+</T>
+<T>
+RODERIGO
+Thick-lipsThick-lips is a racial slur toward the Moor, Othello.Thick-lips sure is lucky if he can pull this off!
+</T>
+<T>
+IAGO
+Lets shout up to Desdemonas father, wakehim, pester him, spoil his happiness, spread rumors about him in thestreets, enrage his relatives, and irritate him endlessly. Howeverreal his happiness is, it will vanish in light of this.
+</T>
+<T>
+RODERIGO
+Heres her fathers house. Illcall out.
+</T>
+<T>
+IAGO
+Do it, and shout like the citys on fire.
+</T>
+<T>
+RODERIGO
+Hey, Brabantio! Signor Brabantio, hey!
+</T>
+<T>
+IAGO
+Wake up, Brabantio! Wake up! Thieves! Thieves! Check on yourdaughter, your house, your money! Thieves! Thieves!
+</T>
+<T>
+BRABANTIO
+Whats the reason for this horrible shouting?Whats the matter?
+</T>
+<T>
+RODERIGO
+Sir, is everyone in your family at home?
+</T>
+<T>
+IAGO
+Are your doors locked?
+</T>
+<T>
+BRABANTIO
+Why are you asking me that?
+</T>
+<T>
+IAGO
+For Gods sake, sir, youve been robbed. Getdressed. Your hearts going to break. Itslike half your souls been ripped out. At this veryminute an old black ram is having sex with your little white lamb.Wake up, wake up, ring a bell and wake up all the snoring citizens.If you wait too long youll have black grandchildren. Getup, I tell you!
+</T>
+<T>
+BRABANTIO
+Are you crazy?
+</T>
+<T>
+RODERIGO
+Do you recognize my voice, noble lord?
+</T>
+<T>
+BRABANTIO
+Not me. Who are you?
+</T>
+<T>
+RODERIGO
+My names Roderigo.
+</T>
+<T>
+BRABANTIO
+I told you not to hang around my house. Ive alreadytold you quite plainly that my daughter will never marry you. Nowyou come here drunk to make trouble and startle me out of a soundsleep?
+</T>
+<T>
+RODERIGO
+Sir, sir, sir
+</T>
+<T>
+BRABANTIO
+You know Im powerful enough to make you pay for this.
+</T>
+<T>
+RODERIGO
+Please wait, sir.
+</T>
+<T>
+BRABANTIO
+Why are you talking about robbery? This is Venice. My houseisnt in some remote countryside.
+</T>
+<T>
+RODERIGO
+Brabantio, with all due respect, Im here out ofcourtesy and good will. Ive come to tell you
+</T>
+<T>
+IAGO
+My God, sir, youre stubborn and suspicious. We comehere to help you and you treat us like thugs, but you let an Africanhorse climb all over your daughter. Your grandsons will neigh to youlike horses. Your whole family will be ruined.
+</T>
+<T>
+BRABANTIO
+What kind of crude jerk are you?
+</T>
+<T>
+IAGO
+The kind that tells you that the Moor is having sex with yourdaughter right now.
+</T>
+<T>
+BRABANTIO
+Youre a villain!
+</T>
+<T>
+IAGO
+Youre a senator!
+</T>
+<T>
+BRABANTIO
+Youre going to pay for this, Roderigo. I know who youare.
+</T>
+<T>
+RODERIGO
+Ill answer for everything. I dont know ifyou know or approve of this, but in the wee hours of the morningyour daughter left your house, with no better escort than a hiredgondolier, to go into the rough embrace of a lustful Moor. If all ofthis happened with your
+</T>
+<T>
+approval, then weve been very rude to bother you likethis. But if you didnt know about it, then you werewrong to get mad at us. Id never play pranks on you. Ifyou didnt allow your daughter to do whatshes doing, then shes rebelling against you.Shes throwing her life away on some stranger. Go ahead,see for yourself if shes in her bedroom. If she is, youcan sue me for lying to you.
+</T>
+<T>
+BRABANTIO
+Light the candles! Wake up my whole household! I dreamt aboutthis. Im starting to worry its true. Give mesome light!
+</T>
+<T>
+IAGO
+(to RODERIGO)
+Its time for me to say goodbye to you. It would beinappropriatedangerous, evenfor me to beseen working against the Moor, as I would if I stayed. The Venetiangovernment might reprimand him for this, but it cantsafely get rid of him, since it needs him urgently for the imminentCyprus wars. They couldnt find another man with hisabilities to lead their armed forcesnot if their soulsdepended on it. I hate him, but Ive got to show himsigns of loyalty
+</T>
+<T>
+and affection, even if its just an act. If you want tofind him, send the search party to the Sagittarius Inn. He and Iwill be there.
+</T>
+<T>
+BRABANTIO
+Its true. Shes gone. The rest of my lifewill be nothing but bitterness. Now, Roderigo, where did you seeher?Oh, that miserable wretch!You say yousaw her with the Moor?Oh, who would want to be afather?How did you know it was her?To thinkshe tricked me so easily!What did she say toyou?Get me more candles, and wake up all my relatives.Do you think theyre married?
+</T>
+<T>
+RODERIGO
+Yes, I really think so.
+</T>
+<T>
+BRABANTIO
+Oh, heaven, how did she get out? My own flesh and blood rebelsagainst me! Fathers, never trust your daughters just because theyact obedient and innocent. Are there magic spells that can leadyoung virgins astray? Have you ever heard of anything like that,Roderigo?
+</T>
+<T>
+RODERIGO
+Yes, sir, I have.
+</T>
+<T>
+BRABANTIO
+Call my brother.Now I wish youd marriedher!Some of you go one way, some the otherway.Do you know where we can find her and the Moor?
+</T>
+<T>
+RODERIGO
+I think I can find him. Get together a group of armed men andfollow me.
+</T>
+<T>
+BRABANTIO
+Lead the way. Ill stop at every house. Imrespected enough that most of them will do what Isay.Get your weapons! And get the officers who guard thecity at night.Lets go, Roderigo.Ill reward you for your troubles.
+</T>
+<T>
+IAGO
+Ive killed many men in battle, but I still believeits deeply wrong to murder someone. Sometimes I worryIm not cruel enough for this job. Nine or ten times Iwanted to stab him under the ribs.
+</T>
+<T>
+OTHELLO
+Its better that you didnt kill him.
+</T>
+<T>
+IAGO
+But he kept chattering so foolishly, talking about you in suchinsulting and despicable terms, that it was hard for me to restrainmyself. But please tell me, sir, is your marriage secureIago may be asking whether Othello has consummated his marriage by sleeping with Desdemona yet. A marriage could be annulled if it had never been consummated.secure? Brabantiois an important man in this city, almost as powerful as the dukehimself. Hell try to annul your marriage, or elseinflict whatever punishment the law and his power will allow him to.
+</T>
+<T>
+OTHELLO
+Let him do his worst. The services I have done for the Venetiangovernment will count for more than his complaints will. No oneknows this yetand I dont like to brag, but Icome from a royal family, and Im as noble as the womanIve married. And let me tell you, Iago, if Ididnt love Desdemona as much as I do, Idnever agree to get married and lose my freedom at all. But look atthose lights. Whos coming?
+</T>
+<T>
+IAGO
+Thats her father and his friends, whovebeen roused out of bed. Youd better go inside.
+</T>
+<T>
+OTHELLO
+No, I must let them find me. My good qualities, my legal status asDesdemonas husband, and my innocence will protect me. Isit them?
+</T>
+<T>
+IAGO
+I dont think so.
+</T>
+<T>
+OTHELLO
+The servants of the Duke and my lieutenant? Hello, everyone!Whats going on?
+</T>
+<T>
+CASSIO
+The Duke sends his regards. He needs to see you right away.
+</T>
+<T>
+OTHELLO
+What do you think he wants?
+</T>
+<T>
+CASSIO
+Something about Cyprus. I think its important. Thewarships have sent a dozen messages tonight, one after the other,and many of the senators have been awakened and are at theDukes already. Theyre very anxious for youto get there. When you werent at home, the Senate sentout three different search parties to find you.
+</T>
+<T>
+OTHELLO
+Its good you found me. Ill just speak aword or two here in the house and then Ill go with you.
+</T>
+<T>
+CASSIO
+Ensign, whats he doing in there?
+</T>
+<T>
+IAGO
+Tonight he boarded a treasure ship. If he can keep it,hell be set forever.
+</T>
+<T>
+CASSIO
+I dont understand.
+</T>
+<T>
+IAGO
+Hes married.
+</T>
+<T>
+CASSIO
+To whom?
+</T>
+<T>
+IAGO
+To
+</T>
+<T>
+Are you ready?
+</T>
+<T>
+OTHELLO
+Yes, Ill go with you now.
+</T>
+<T>
+CASSIO
+Here comes another group looking for you.
+</T>
+<T>
+IAGO
+Its Brabantio. Look out, sir. He intends to dosomething bad to you.
+</T>
+<T>
+OTHELLO
+Hey! Stop right there!
+</T>
+<T>
+RODERIGO
+Sir, its the Moor.
+</T>
+<T>
+BRABANTIO
+Get him, hes a thief!
+</T>
+<T>
+IAGO
+You, Roderigo! Come on, Ill fight you.
+</T>
+<T>
+OTHELLO
+Put away your swords. Theyll get rusty in the dew.Sir, your age and status inspire more respect than your weapons do.
+</T>
+<T>
+BRABANTIO
+You evil thief, where have you hidden my daughter? You devil,youve put a spell on her! Anybody with eyes could tellyou that a beautiful and happy young girl like her, whosrefused to marry all of the handsome young men of the city,wouldnt run off with a black thing like you unlessshed been bewitched. Youre something tofear, not to love. Its obvious to everyone thatyouve tricked her, drugged her, or kidnapped her.Thats probably what happened, so Imarresting you.Arrest this man as a practitioner of blackmagic. Grab him. If he struggles, use force!
+</T>
+<T>
+OTHELLO
+Just a minute. I dont need anyone to tell me when tofight. Youve accused me of some serious crimes. Where doyou want me to go to respond to these charges?
+</T>
+<T>
+BRABANTIO
+To prison, until youre called into court.
+</T>
+<T>
+OTHELLO
+What if I do what you say? How would I satisfy the Duke then? Hismessengers are waiting here to take me to him immediately, onpressing state business.
+</T>
+<T>
+OFFICER
+Its true. The Dukes in a meeting rightnow, and hes sent for you too.
+</T>
+<T>
+BRABANTIO
+The Dukes in a meeting? At this time of night? Bringhim with us. The laws on my side. The Duke and any of myfellow senators will take this wrong as seriously as if it weretheir own. If we let crimes like this happen, slaves and heathenswill be our rulers.
+</T>
+<T>
+DUKE
+These reports are inconsistent. You cant trust them.
+</T>
+<T>
+FIRST SENATOR
+Its true, theyre inconsistent. My letterssay there are a hundred and seven ships.
+</T>
+<T>
+DUKE
+And mine say a hundred and forty.
+</T>
+<T>
+SECOND SENATOR
+And mine say two hundred. But often in these cases, reports arejust estimates. The important thing is that they all say a Turkishfleet is approaching Cyprus.
+</T>
+<T>
+DUKE
+Yes, we get the idea. The inconsistency doesnt make methink that the reports are all wrong. I have no doubt about whattheyre basically saying, and itsfrightening.
+</T>
+<T>
+SAILOR
+(offstage) Hello! Hey, hello!
+</T>
+<T>
+OFFICER
+Its a messenger from the warships.
+</T>
+<T>
+DUKE
+Why are you here?
+</T>
+<T>
+SAILOR
+Signor Angelo told me to come here and tell you that the Turkishfleet is heading for Rhodes, not Cyprus.
+</T>
+<T>
+DUKE
+What do you think about this change?
+</T>
+<T>
+FIRST SENATOR
+They cant have changed; theres no way thiscould be true. Its a trick to confuse us. Think abouthow important Cyprus is to the Turks, and remember that they couldcapture Cyprus more easily, since it isnt as wellprotected as Rhodes is. If we keep these things in mind, wecant possibly imagine that the Turks would be soincompetent as to put off for last what they want to achieve first,setting aside something easy and profitable to do somethingdangerous and pointless.
+</T>
+<T>
+DUKE
+No, I think we can be confident that the Turks arentreally headed for Rhodes.
+</T>
+<T>
+OFFICER
+Heres some more news coming in.
+</T>
+<T>
+MESSENGER
+Sir, the Turks sailed to Rhodes, where they joined with anotherfleet.
+</T>
+<T>
+FIRST SENATOR
+Thats just what I thought. How many, can you guess?
+</T>
+<T>
+MESSENGER
+Thirty ships. Now theyve turned around and are clearlyheading for Cyprus. Signor Montano, your brave and loyal servant,gives you this information and asks you to send reinforcements torelieve him.
+</T>
+<T>
+DUKE
+Then its certain theyre heading forCyprus. Is Marcus Luccicos in town?
+</T>
+<T>
+FIRST SENATOR
+No, hes in Florence.
+</T>
+<T>
+DUKE
+Write to him immediately. Hurry.
+</T>
+<T>
+FIRST SENATOR
+Here come Brabantio and the brave Moor.
+</T>
+<T>
+DUKE
+Brave Othello, I have to send you right away to fight the Turks,our great enemy.(to BRABANTIO) Oh, Ididnt see you there. Welcome, sir. I could have usedyour wisdom and help tonight.
+</T>
+<T>
+BRABANTIO
+I could have used yours as well. Forgive me, your grace. Ididnt get out of bed and come here in the dead of nightbecause I heard about the war or because I was worried about thecitys defense. I have a personal problem so painful andgut-wrenching that it overwhelms everything else.
+</T>
+<T>
+DUKE
+Why, whats the matter?
+</T>
+<T>
+BRABANTIO
+Its my daughter! Oh, my daughter!
+</T>
+<T>
+FIRST SENATOR
+Is she dead?
+</T>
+<T>
+BRABANTIO
+Shes dead to me. Shes been tricked andstolen from me, enchanted by black magic spells. Shemustve
+</T>
+<T>
+been tricked or drugged, because theres no way shecould have made this mistake on her own.
+</T>
+<T>
+DUKE
+Whoever tricked your daughter and stole her from you will pay forit. And you yourself will determine the sentence as you see fit, andimpose the death penalty if you choose to, even if the criminal weremy own son.
+</T>
+<T>
+BRABANTIO
+I humbly thank you, sir. Here is the man, the Moor. It seems youhad your own reasons for summoning him here.
+</T>
+<T>
+ALL
+Were sorry to hear this.
+</T>
+<T>
+DUKE
+(to OTHELLO) What do you have to say for yourself?
+</T>
+<T>
+BRABANTIO
+Nothing, but this is true.
+</T>
+<T>
+OTHELLO
+Noble, honorable gentlemen whom I serve: its true thatIve taken this mans daughter from him andmarried her. But thats my only offense.Theres nothing more. Im awkward in my speechand Im not a smooth talker. From the time I was sevenyears old until nine months ago Ive been fighting inbattles. I dont know much about the world apart fromfighting. So I wont do myself much good by speaking inmy own defense. But if youll let me, Illtell you the plain
+</T>
+<T>
+story of how we fell in love, and what drugs, charms, spells, andpowerful magicbecause thats whatIm being accused ofI used to win hisdaughter.
+</T>
+<T>
+BRABANTIO
+Shes a good girl, quiet and obedient. She blushes atthe slightest thing. And you want me to believe that despite heryoung age and proper upbringing she fell in love with a manshed be afraid to look at? The very thought of it isridiculous. Youd have to be stupid to think that someoneso perfect could make such an unnatural mistake as that. The devilmust be behind this. Therefore I say again that he must have usedsome powerful drug or magic potion on her.
+</T>
+<T>
+DUKE
+Your saying this isnt proof. There has to be clearevidence that hes done this, not just these accusations.
+</T>
+<T>
+FIRST SENATOR
+Tell us, Othello. Did you trick or deceive this lady in some way?Or did you agree to this as equals?
+</T>
+<T>
+OTHELLO
+Please, send for Desdemona to come here from the Sagittarius Innand ask her to speak about me in front
+</T>
+<T>
+of her father. If she has anything bad to say about me, then youcan sentence me to death.
+</T>
+<T>
+DUKE
+Bring Desdemona here.
+</T>
+<T>
+OTHELLO
+Iago, bring Desdemona here. You know where she is.
+</T>
+<T>
+In the meantime Ill tell you all, as honestly as Iconfess my sins to God, how I wooed this beautiful lady, and how shecame to love me.
+</T>
+<T>
+DUKE
+Tell us, Othello.
+</T>
+<T>
+OTHELLO
+Her father loved me and used to invite me to his house often,continually asking me about my life and all the battlesIve fought. I told him everything, from my boyhood upuntil the time when I was talking to him. I told him aboutunfortunate disasters, hair-raising adventures on sea and on land,and near-catastrophes and dangerous adventures Ive beenthrough. I told him how I was captured and sold as a slave, how Ibought my freedom, and how I wandered through caves and deserts. Iwas able to tell him about cannibals who eat each other, and menwith heads growing below their shoulders. When I talked about allthese things, Desdemona used to listen attentively. If she had to godo some household chore, I noticed that shed always comeback quickly to hear more of my stories.
+</T>
+<T>
+When I was relaxing, shed pull me aside and ask tohear some part of a story she had missed. Her eyes would fill withtears at the bad things I went through in my younger years. When mystories were done, shed sigh and tell me how strangelywonderful and sad my life had been. She said she wished shehadnt heard it, but she also wished there was a man likeme for her. She thanked me and told me that if a friend of mine hada story like mine to tell, shed fall in love with him. Itook the hint and spoke to her. She said she loved me for thedangers Id survived, and I loved her for feeling suchstrong emotions about me. Thats the only witchcraft Iever used. Here comes my wife now. Shell confirmeverything.
+</T>
+<T>
+DUKE
+I think a story like that would win my own daughter over.Brabantio, I urge you to make the best of this. Try to acceptwhats happened.
+</T>
+<T>
+BRABANTIO
+Please let her speak. If she admits she wanted this, then Iwont blame Othello.Come here, my child. Whodo you obey here?
+</T>
+<T>
+DESDEMONA
+Father, this isnt easy for me. Im torn. Iowe you respect because you gave me life and education.Youre the one I have to obey. Im yourdaughter. But this man here is my husband now, and I owe him as muchas my mother owed you, just as she preferred you to her own father.So I have to give my obedience to the Moor, my husband.
+</T>
+<T>
+BRABANTIO
+Im finished, then. Duke, please go ahead with yourstate business. Id rather adopt a child than have one ofmy own.Come here, Moor. Im forced to give myblessing to this marriage. With all my heart, I give you that thingwhich, if you didnt already have it, Id trywith all my heart to keep from you. Desdemona, Im gladyoure my only child, since if I had othersId keep them all locked up. You would have made me treatthem like a tyrant.Im done, my lord.
+</T>
+<T>
+DUKE
+Let me refer to a proverb that may help you forgive these lovers:if you cant change something, dont cry aboutit. When you lament something bad thats alreadyhappened, youre setting yourself up for more
+</T>
+<T>
+bad news. A robbery victim who can smile about his losses issuperior to the thief who robbed him, but if he crieshes just wasting time.
+</T>
+<T>
+BRABANTIO
+So if the Turks steal Cyprus from us, it wont be badas long as we keep smiling. Its easy to acceptplatitudes like that if you havent lost anything. ButIve lost something precious, and I have to put up withthe platitude as well as suffering my loss. Talk is cheap.Ive never heard of someone feeling better because ofsomeone elses words. Please, Im asking you,go ahead and get back to your state affairs.
+</T>
+<T>
+DUKE
+The Turks are heading for Cyprus with a powerful fleet. Othello,you understand better than anyone how the defenses for Cyprus work.Even though we have a very good officer in charge there already,everyone says youre the better man for the job. SoIll have to ask you to put a damper on your marriagecelebrations and take part in this dangerous expedition.
+</T>
+<T>
+OTHELLO
+Ive gotten used to the hardships of a military life. Irise to the occasion when faced with difficulties. I will takecharge of this war against the Turks. But I humbly ask you to makeappropriate arrangements for my wife,
+</T>
+<T>
+giving her a place to live and people to keep her company thatsuit her high rank.
+</T>
+<T>
+DUKE
+She can stay at her fathers house.
+</T>
+<T>
+BRABANTIO
+I wont allow it.
+</T>
+<T>
+OTHELLO
+Neither will I.
+</T>
+<T>
+DESDEMONA
+And I wouldnt stay there. I dont want toupset my father by being in his house. Dear Duke, please listen towhat I have to say.
+</T>
+<T>
+DUKE
+What do you want to do, Desdemona?
+</T>
+<T>
+DESDEMONA
+When I fell in love with Othello I made up my mind that I wantedto live with him. You can see how much I wanted to be with him byhow violently I threw away my old life. I feel like Im apart of him now, and that means Im part of a soldier. Isaw Othellos true face when I saw his mind. I gave mywhole life to him because of his honor and bravery. If I were leftat home uselessly while he went off to war, then Imseparated from my husband in his natural element. Id bemiserable without him. Let me go with him.
+</T>
+<T>
+OTHELLO
+Please allow her to do this. Im not asking to have hernear me for sexIm too old for that, and mysexual
+</T>
+<T>
+urges are dead. I want this because she wants itI loveher for her mind. And Id never want you to think thatId neglect my serious official duties while she wasthere with me. If I ever let love blind me so that I choose tolounge around in bed with my loved one instead of going off to war,then you can let a housewife use my helmet as a frying pan. Myreputation would be disgraced if I ever acted like that.
+</T>
+<T>
+DUKE
+You can decide that privately. I dont care whether shestays or goes. Whats important is the urgency of thismission. Youve got to act fast.
+</T>
+<T>
+FIRST SENATOR
+Youll have to leave tonight.
+</T>
+<T>
+OTHELLO
+With all my heart, Ill go right away.
+</T>
+<T>
+DUKE
+Well meet again at nine in the morning. Othello, haveone of your officers stay behind to bring you your commission andwhatever else is important to you.
+</T>
+<T>
+OTHELLO
+My lord, my ensign is an honest and trustworthy man.Hell accompany my wife, and bring whatever else youthink I might need.
+</T>
+<T>
+DUKE
+All right, then. Good night, everyone.(to BRABANTIO) Sir, if goodness is beautiful, your son-in-law isbeautiful, not black.
+</T>
+<T>
+FIRST SENATOR
+Goodbye, black Moor. Treat Desdemona well.
+</T>
+<T>
+BRABANTIO
+Keep an eye on her, Moor. She lied to me, and she may lie to you.
+</T>
+<T>
+OTHELLO
+Id bet my life shed never lie to me. Iago,Im leaving my dear Desdemona with you. Have your wifeattend to her, and bring them along as soon as you can. Come on,Desdemona, Ive only got an hour of love to spend withyou, to tell you what you need to do. Were on a tightschedule.
+</T>
+<T>
+RODERIGO
+Iago.
+</T>
+<T>
+IAGO
+What do you have to say, noble friend?
+</T>
+<T>
+RODERIGO
+What do you think I should do?
+</T>
+<T>
+IAGO
+Go to bed, and sleep.
+</T>
+<T>
+RODERIGO
+Im going to go drown myself.
+</T>
+<T>
+IAGO
+If you do that, Ill never respect you again. Why, yousilly man!
+</T>
+<T>
+RODERIGO
+Its silly to live when life is torture. The only cureis death.
+</T>
+<T>
+IAGO
+Oh, how stupid! Ive been alive for twenty-eight years,and Ive never met a man who knew what was good for him.Id rather be a baboon than kill myself out of love forsome woman I cant have.
+</T>
+<T>
+RODERIGO
+What should I do? I know its foolish to be so much inlove, but I cant help it.
+</T>
+<T>
+IAGO
+Cant help it? Nonsense! What we are is up to us. Ourbodies are like gardens and our willpower is like the gardener.Depending on what we plantweeds or lettuce, or one kindof herb rather than a variety, the garden will either be barren anduseless, or rich and productive. If we didnt haverational minds to counterbalance our emotions and desires, ourbodily urges would take over. Wed end up in ridiculoussituations. Thankfully, we have reason to cool our raging lusts. Inmy opinion, what you call love is just an offshoot of lust.
+</T>
+<T>
+RODERIGO
+I dont believe it.
+</T>
+<T>
+IAGO
+You feel love because you feel lust and you have no willpower.Come on, be a man. Drown yourself? Drowning is for cats or blindpuppiesdont drown yourself! Ivetold you Im your friend, and Ill stickby you.
+</T>
+<T>
+Ive never been more useful to you than I will benow. Heres what youll do. Sell all yourassets and your land, and turn it into cash. Desdemonacant continue loving the Moor any more than he cancontinue loving her. She fell in love with him very suddenly, andtheyll break up just as suddenly. Moors are moodypeople.So sell your lands and raise a lot of cash. Whatseems sweet to him now will soon turn bitter. Shell dumpOthello for a younger man. When shes had enough of theMoors body, shell realize her mistake.Shell need to have a new lover. Shell haveto have it. So have your money ready. If you want to go to hell,there are better ways to do it than killing yourself. Raise all themoney you can. I can get the better of religion and a few flimsyvows between a misguided barbarian and a depraved Venetian girl.Youll get to sleep with herjust put togethersome money. And to hell with drowning yourself! Thatscompletely beside the point. If youre ready to die, youcan risk death by committing crimes in an attempt to get the womanyou want. Dont just give up on her and drown yourself.
+</T>
+<T>
+RODERIGO
+Can I count on you if I wait to see what happens?
+</T>
+<T>
+IAGO
+You can trust me. Go now and get cash. I told you before, andIll tell you again and again: I hate the Moor.Im devoted to my cause of hating him, just as devoted asyou are to yours. So lets join forces and get revenge.If you seduce Desdemona and make a fool out of him, itllbe fun for both of us. Many things may happen. Go get money.Well speak again tomorrow. Goodbye.
+</T>
+<T>
+RODERIGO
+Where will we meet in the morning?
+</T>
+<T>
+IAGO
+At my house.
+</T>
+<T>
+RODERIGO
+Ill be there early.
+</T>
+<T>
+IAGO
+Go home. Goodbye. Oh, and one more thing
+</T>
+<T>
+RODERIGO
+What is it?
+</T>
+<T>
+IAGO
+No more talk about killing yourself, okay?
+</T>
+<T>
+RODERIGO
+Ive changed my mind about that.
+</T>
+<T>
+IAGO
+Go then, goodbye. Put a lot of cash together.
+</T>
+<T>
+RODERIGO
+Im going to sell all my land.
+</T>
+<T>
+IAGO
+Thats how I always do it, getting money from fools.Id be wasting my skills dealing with an idiot like thatif I couldnt get something useful out of him. I hate theMoor, and theres a widespread rumor that hesslept with my wife. Im not sure its true,but just the suspicion is enough for me. He thinks highly of me.Thatll help. Cassios a handsome man.Lets see, how can I
+</T>
+<T>
+get his position and use him to hurt Othello at the same time?How? How? Lets see. After a while Ill starttelling Othello that Cassio is too intimate with Desdemona. Cassiois a smooth talker and a good-looking guy, the sort of man thatpeople would expect to be a seducer. The Moor is open andstraightforward. He thinks any man who seems honest is honest.People like that are easy to manipulate. So its alldecided. Ive worked it out. With a little help from thedevil, Ill bring this monstrous plan to success.
+</T>
+<T>
+MONTANO
+What can you see out on the ocean?
+</T>
+<T>
+FIRST GENTLEMAN
+Nothing. The waters so rough that I cantsee any sails, either in the bay or on the ocean.
+</T>
+<T>
+MONTANO
+It was windy on shore too. A big blast of wind shook ourfortifications. How could a ship made out of wood hold together inthose mountainous waves? What do you think will be the result ofthis storm?
+</T>
+<T>
+SECOND GENTLEMAN
+The Turkish navy will be broken up. The winds whippingup the waves so high you expect them to reach the clouds and splashagainst the stars in the sky. Ive never seen the watersso disturbed.
+</T>
+<T>
+MONTANO
+If the Turkish fleet isnt protected in some harbor,their men must all be drowned. No ship could survive this storm.
+</T>
+<T>
+THIRD GENTLEMAN
+Ive got news, boys, the wars over! Thisterrible storm has smashed the Turks so badly that their plans areruined. One of our ships has reported that it saw most of theirfleet shipwrecked.
+</T>
+<T>
+MONTANO
+What? Is this true?
+</T>
+<T>
+THIRD GENTLEMAN
+The ships sailing into harbor now; itsfrom Verona. Michael Cassio, lieutenant of the Moor Othello, hasarrived on shore. The Moor himself is still at sea. Hesbeen commissioned to come here to Cyprus.
+</T>
+<T>
+MONTANO
+Im happy about that. Hell be a goodgovernor.
+</T>
+<T>
+THIRD GENTLEMAN
+Cassio brings good news about the Turkish defeat, buthes worried about the Othellos safety. Thetwo of them were separated during the storm.
+</T>
+<T>
+MONTANO
+I hope to God Othellos all right. I served under him,and I know what an excellent commander he is. Lets go tothe shore to get a look at the ship that came in, and to look outfor Othellos ship. Well stare out at the seauntil the sea and the sky blur together.
+</T>
+<T>
+THIRD GENTLEMAN
+Lets do that. Every minute we expect more ships toarrive.
+</T>
+<T>
+CASSIO
+Thanks, you brave men who defend this island and respect Othello.I hope heaven protects him from the weather, because I lost sight ofhim on the stormy sea.
+</T>
+<T>
+MONTANO
+Is his ship sturdy?
+</T>
+<T>
+CASSIO
+Yes, its well built, and the ships pilotis very expert and experienced. For that reason I still have somehope for him, even though I dont have my hopes up toohigh.
+</T>
+<T>
+A VOICE
+(offstage) A sail! A sail! A sail!
+</T>
+<T>
+CASSIO
+Whats all that shouting about?
+</T>
+<T>
+MESSENGER
+Everybody in town is down at the shore shouting Asail!
+</T>
+<T>
+CASSIO
+I hope its Othello.
+</T>
+<T>
+SECOND GENTLEMAN
+Theyve fired a greeting shot, so at leastits a friendly ship.
+</T>
+<T>
+CASSIO
+Please go find out for certain who has arrived.
+</T>
+<T>
+SECOND GENTLEMAN
+Ill do that.
+</T>
+<T>
+MONTANO
+Good lieutenant, is your general married?
+</T>
+<T>
+CASSIO
+Yes, and hes very lucky to have married the woman hedid. His wife defies description. Shes Godsmasterpiece, and shed exhaust whoever tried to do herjustice while praising her.
+</T>
+<T>
+Whos arrived in the harbor?
+</T>
+<T>
+SECOND GENTLEMAN
+A man named Iago, the generals ensign.
+</T>
+<T>
+CASSIO
+He made good time. You see how the storm, the jagged rocks, andthe sand banks that trap ships all appreciate a beautiful woman.They let the heavenly Desdemona arrive safe and sound.
+</T>
+<T>
+MONTANO
+Whos that?
+</T>
+<T>
+CASSIO
+Shes the one I was talking about, thegenerals wife. The brave Iago was put in charge ofbringing her here, and hes arrived a week sooner than weexpected. Dear God, please protect Othello and help him arrive heresafely, so he and Desdemona can be in each others arms,and Othello can cheer us up and bring comfort to Cyprus.
+</T>
+<T>
+Look, the precious Desdemona has arrived on shore. We should allkneel before her, men of Cyprus! Greetings, my lady, and may Godalways be with you.
+</T>
+<T>
+DESDEMONA
+Thank you, brave Cassio. Is there any news about my husband?
+</T>
+<T>
+CASSIO
+He hasnt arrived yet. As far as I know,hes okay and will arrive here soon.
+</T>
+<T>
+DESDEMONA
+Oh, but Im worried. How did you two get separated?
+</T>
+<T>
+CASSIO
+The storm separated us.
+</T>
+<T>
+A VOICE
+(offstage) A sail! A sail!
+</T>
+<T>
+CASSIO
+Listen, theyve spotted another ship!
+</T>
+<T>
+SECOND GENTLEMAN
+They fired a greeting shot too, so this is also a friendly ship.
+</T>
+<T>
+CASSIO
+Go find out the news.
+</T>
+<T>
+Ensign Iago, welcome.And welcome to you, too, madam. (he kisses EMILIA) Dont be upset that Ikissed your wife hello, Iago. Its a courtesy where Icome from.
+</T>
+<T>
+IAGO
+If she gave you as much lip as she gives me, youd besick of her by now.
+</T>
+<T>
+DESDEMONA
+On the contrary, shes a soft-spoken woman.
+</T>
+<T>
+IAGO
+No, she talks too much. Shes always talking when Iwant to sleep. I admit that in front of you, my lady, she keeps abit quiet. But shes scolding me silently.
+</T>
+<T>
+EMILIA
+You have no reason to say that.
+</T>
+<T>
+IAGO
+Come on, come on. You women are all the same. Youre aspretty as pictures when youre out in public, but in yourown houses youre as noisy as jangling bells. In your ownkitchens you act like wildcats. You make yourselves sound likesaints when youre complaining about something, but youact like devils when someone offends you. You dont takeyour jobs as housewives seriously, and youre shamelesshussies in bed.
+</T>
+<T>
+DESDEMONA
+Shame on you, you slanderer!
+</T>
+<T>
+IAGO
+No, its true, or if its not,Im a villain. You wake up to have fun, and you startwork when you go to bed.
+</T>
+<T>
+EMILIA
+You clearly have nothing good to say about me.
+</T>
+<T>
+IAGO
+No, I dont.
+</T>
+<T>
+DESDEMONA
+But if you had to say something nice about me, what would you say?
+</T>
+<T>
+IAGO
+Dont make me do it, my lady. Im criticalby nature.
+</T>
+<T>
+DESDEMONA
+Come on, just try.By the way, has someone gone down tothe harbor?
+</T>
+<T>
+IAGO
+Yes, madam.
+</T>
+<T>
+DESDEMONA
+Im not as happy as I seem. Im just tryingnot to show how worried I am about Othellos safety. Comeon, what would you say about me?
+</T>
+<T>
+IAGO
+Im trying to think of something, but Imnot good at inventing clever things. It takes time. Ah,Ive got it. If a woman is pretty and smart, she uses hergood looks to get what she wants.
+</T>
+<T>
+DESDEMONA
+Very clever! But what if the woman is smart but ugly?
+</T>
+<T>
+IAGO
+Even if shes ugly, shell be smart enoughto find a guy to sleep with her.
+</T>
+<T>
+DESDEMONA
+This is getting worse and worse!
+</T>
+<T>
+EMILIA
+What if shes pretty but stupid?
+</T>
+<T>
+IAGO
+No pretty woman is stupid, because her stupidity will make hermore attractive to men.
+</T>
+<T>
+DESDEMONA
+These are stupid old jokes that men tell each other in bars. Whathorrible thing do you have to say about a woman whosboth ugly and stupid?
+</T>
+<T>
+IAGO
+No matter how ugly or stupid the woman is, she plays the samedirty tricks that the smart and pretty ones do.
+</T>
+<T>
+DESDEMONA
+You dont know a thing! You give your best praise tothe worst women. But how would you praise a truly good woman,someone who had no reason to worry about what anyone said about her?
+</T>
+<T>
+IAGO
+A woman who was beautiful but never proud, who could speak wellbut knew when to be quiet, who dressed well but was neveroverdressed, who had self-restraint even when she could get what shewanted, a woman who never took revenge, who overlooked it whenpeople hurt her, who was too wise to do anything stupid, who couldthink without revealing her thoughts, and who could refrain fromflirting with men in love with her, that kind of woman, if she everexisted, would
+</T>
+<T>
+DESDEMONA
+Would do what?
+</T>
+<T>
+IAGO
+Would raise babies and clip coupons.
+</T>
+<T>
+DESDEMONA
+Oh, thats pathetic! Dont listen to him,Emilia, even though hes your husband. What do you thinkabout him, Cassio? Isnt he a horrible man?
+</T>
+<T>
+CASSIO
+He speaks bluntly, madam. Hes more of a soldier than awise man.
+</T>
+<T>
+IAGO
+(to himself) Hes takingher hand. Thats right, go ahead and whisper together.This is all I need to get Cassio. Yes, keep smiling at her, Cassio. Your fine manners aroundwomen will be your downfall. Oh, Im sureyoure saying something very clever.
+</T>
+<T>
+If you lose your jobbecause of little flirtations like this, youll wish youhadnt been so courteous with her. Oh, how nice,youre kissingA gentlemans kissing his own fingers was considered a polite gesture.kissing your own hand, one finger at a time? I wish those fingerswere enema tubes!
+</T>
+<T>
+Thats the Moor! I recognize his trumpet.
+</T>
+<T>
+CASSIO
+Yes, it is.
+</T>
+<T>
+DESDEMONA
+Lets go greet him when he lands.
+</T>
+<T>
+CASSIO
+Look, here he comes.
+</T>
+<T>
+OTHELLO
+My beautiful warrior!
+</T>
+<T>
+DESDEMONA
+My darling Othello!
+</T>
+<T>
+OTHELLO
+Im amazed you got here before me. But Imoverjoyed! My love, if the calm after the storm could always be thiswonderful, Id want the wind to blow until it waked thedead, and whipped up waves as tall as mountains! If I died right nowId be completely happy, since Ill probablynever be as happy as this again in my life.
+</T>
+<T>
+DESDEMONA
+God willing, our love and our happiness will only increase as weget older.
+</T>
+<T>
+OTHELLO
+Amen to that! I cant talk about my happiness anymore.Its too much. I hope these kisses Im aboutto give you are the closest we ever come to fighting.(they kiss)
+</T>
+<T>
+IAGO
+(to himself) Oh, yourehappy now, but Ill ruin your happiness, for all mysupposed honesty.
+</T>
+<T>
+OTHELLO
+Lets go up to the castle. Good news, friends. Thewars over and the Turks are drowned. How are my oldfriends from this island doing?Honey, theylllove you here in Cyprus. Theyve been very good to mehere. Oh, my dear, Im blabbing on and on becauseIm so happy.Iago, would you be good enoughto go get my trunks from the ships? And bring the shipscaptain to the castle. Hes a goodman.Lets go, Desdemona. Ill sayit again: Im so happy to see you here in Cyprus!
+</T>
+<T>
+IAGO
+Meet me down at the harbor.Come here. They say lovemakes cowards brave. So if youre brave, listen to me.Lieutenant Cassio will be on guard duty tonight. But first, I haveto tell you that Desdemonas completely in love with him.
+</T>
+<T>
+RODERIGO
+With Cassio? Thats impossible.
+</T>
+<T>
+IAGO
+Be quiet and listen to me. Remember how she fell madly in lovewith the Moor because he bragged and told her made-up stories? Didyou expect her to keep on loving him for his chattering?Youre too smart to think that. No, she needs someonenice-looking. Othellos ugly, what pleasure could shefind in him? Lovemaking gets boring after a while. To keep thingshot, shell need to see someone with a handsome face,someone close to her in age, someone who looks and acts like her.Othello isnt any of those things. Since hedoesnt have these advantages to make him attractive toher, shell get sick of him until he makes her want topuke. Shell start looking around for a second choice.Now, if thats trueand itsobviously truewhos in a better position thanCassio? Hes a smooth talker, and uses sophistication andfine manners to hide his lust. Nobodys as crafty as heis. Besides, hes young and handsome, and hesgot all the qualities that nave and silly girls go for.Hes a bad boy, and Desdemonas got her eye onhim already.
+</T>
+<T>
+RODERIGO
+I cant believe that. Shes not that kind ofwoman. Shes very moral.
+</T>
+<T>
+IAGO
+Like hell she is! Shes made of the same flesh andblood as everyone else. If she were so moral, she would never havefallen in love with the Moor in the first place. Good lord! Did younotice how she and Cassio were fondling each othershands? Did you see that?
+</T>
+<T>
+RODERIGO
+Yes, I did. But that wasnt romantic, it was justpolite manners.
+</T>
+<T>
+IAGO
+They were lusting after each other. You could tell by how theywere acting that theyre going to be lovers. They were soclose that their breath was mingling. When two people get thatintimate, sex will soon follow. Disgusting! But listen to me; let meguide you. I brought you here from Venice. Be on guard duty tonight.Ill put you in charge. Cassio doesnt knowyou. Ill be nearby. Make Cassio angry somehow, either byspeaking too loud, or insulting his military skills, or however elseyou want.
+</T>
+<T>
+RODERIGO
+All right.
+</T>
+<T>
+IAGO
+Hes hot-tempered, and he might try to hit you with hisstaff. Try to get him to do that. Thatll allow me tostir up public sentiment against him here in Cyprus. Illget them so riled up that theyll only calm down whenCassios fired. To get what you want, you need to getCassio out of the way. If you dont do that, things arehopeless for you.
+</T>
+<T>
+RODERIGO
+Ill do it, if you help me out.
+</T>
+<T>
+IAGO
+I promise I will. Meet me in a little while at the citadel. I needto get Othellos things from the ship. Goodbye.
+</T>
+<T>
+RODERIGO
+Goodbye.
+</T>
+<T>
+IAGO
+I think Cassio really does love her, and its perfectlylikely that she loves him too. I cant stand the Moor,but I have to admit that hes a reliable, loving, andgood-natured man. Hed probably be a good husband toDesdemona. I love her too, not simply out of lust, but also to feedmy revenge. I have a feeling the Moor slept with my wife. Thatthought keeps gnawing at me, eating me up inside. I wontbe satisfied until I get even with him, wife for wife. If Icant do that, I can at least make the Moor so jealousthat he cant think straight. If that piece of Venetiantrash Roderigo can do what I need to carry out my plan,Ill have power over Cassio. Ill say badthings about him to the Moor. I have a feeling Cassio seduced mywife as well. Ill make the Moor thank me, love me, andreward me, even though the joke will be on him the whole time.Ive got a good plan, though I havent workedout the details yet. You can never see the end of an evil plan untilthe moment comes.
+</T>
+<T>
+HERALD
+Our noble and courageous general Othello having been informed thatthe Turkish fleet has been completely destroyed, invites every manto celebrate our victory. Some of you dance, some of you makebonfires, and every man celebrate in whatever way he likes to. Forbesides the good news, we are also celebrating his marriage.Thats the end of the announcement. There will be a feastfrom five o'clock until eleven. God bless the island ofCyprus and our noble general Othello!
+</T>
+<T>
+OTHELLO
+Good Michael, keep a careful eye on the guards tonight.Lets exercise restraint and not let the party get toowild.
+</T>
+<T>
+CASSIO
+Iago has orders what to do. But Ill see to itpersonally anyway.
+</T>
+<T>
+OTHELLO
+Iagos a good man. Goodnight, Michael. Come talk to metomorrow as early as you can.Come with me, my dear love.Now that the weddings over, we can have the pleasure ofconsummating our marriage. Good night, everyone.
+</T>
+<T>
+CASSIO
+Hello, Iago. Its time for us to stand guard.
+</T>
+<T>
+IAGO
+Not yet, lieutenant. Its not even teno'clock. The general got rid of us early tonight so hecould be with Desdemona.I cant blame him. Hehasnt spent the night with her yet, and shesbeautiful enough to be JovesJove is the head of the gods in Roman mythology.Joves lover.
+</T>
+<T>
+CASSIO
+Shes an exquisitely beautiful lady.
+</T>
+<T>
+IAGO
+And I bet shes good in bed too.
+</T>
+<T>
+CASSIO
+Yes, shes young and tender.
+</T>
+<T>
+IAGO
+And such pretty eyes! Like an invitation.
+</T>
+<T>
+CASSIO
+Yes, shes pretty. But shes modest andladylike too.
+</T>
+<T>
+IAGO
+And when she speaks, doesnt her voice stir up passion?
+</T>
+<T>
+CASSIO
+Shes a perfect woman, its true.
+</T>
+<T>
+IAGO
+Well, good luck to them tonight in bed! Come with us, lieutenant.Ive got a jug of wine, and these two Cyprus gentlemenwant to drink a toast to the black Othello.
+</T>
+<T>
+CASSIO
+Not tonight, Iago. Im not much of a drinker. I wishthere was less social pressure to drink.
+</T>
+<T>
+IAGO
+Oh, but these are our friends. Just one glass. Ill domost of the drinking for you.
+</T>
+<T>
+CASSIO
+Ive already had a glass of wine tonight, watered down,but look how drunk I am. Im not a heavy drinker. Iwouldnt dare drink much more than that.
+</T>
+<T>
+IAGO
+What are you talking about, man? Tonight is for celebrating! Thegentlemen are waiting.
+</T>
+<T>
+CASSIO
+Where are they?
+</T>
+<T>
+IAGO
+By the door. Please invite them in.
+</T>
+<T>
+CASSIO
+Ill do it, but I dont like it.
+</T>
+<T>
+IAGO
+If I can just get him to drink one more glass after whathes drunk already, hell be as argumentativeand eager to fight as a little dog. That fool Roderigo, all twistedup inside with love, has been drinking toasts to Desdemona by thegallon, and hes on guard duty.Ive gotten therest of the guards drunk, as well as several gentlemen from Cypruswho are quick to take offense. Now Ill get Cassio to dosomething in front of all these drunkards that will offend everyoneon the island. Here they come. If the future turns out as I hope itwill, Im all set for success.
+</T>
+<T>
+CASSIO
+My God, theyve given me a lot to drink.
+</T>
+<T>
+MONTANO
+No, it was a little one, not more than a pint.
+</T>
+<T>
+IAGO
+Bring in more wine!
+(he sings)
+And clink your glasses together,
+And clink your glasses together.
+A soldiers a man,
+And a mans life is short,
+So let the soldier drink.
+Have some more wine, boys!
+</T>
+<T>
+CASSIO
+My God, what a great song!
+</T>
+<T>
+IAGO
+I learned it in England, where they have a talent for drinking. TheDanes, the Germans, and the Dutchcome on, drink,drink!are nothing compared to the English.
+</T>
+<T>
+CASSIO
+Are Englishmen really such heavy drinkers?
+</T>
+<T>
+IAGO
+They drink Danes under the table, and it takes them no effort atall to out-drink Germans. And the Dutch are vomiting while theEnglish are asking for refills.
+</T>
+<T>
+CASSIO
+Lets drink to our general!
+</T>
+<T>
+MONTANO
+Hear, hear! Ill drink as much as you do!
+</T>
+<T>
+IAGO
+Oh, sweet England!
+(he sings)
+King Stephen was a good king, and his pants were very cheap,
+But he thought his tailor overcharged him, so he called him a peasant.
+And that was a man of noble rank, much higher than you are.
+So be happy with your worn-out cloak,
+Since pride is ruining the nation.
+More wine!
+</T>
+<T>
+CASSIO
+God, that songs even better than the other one.
+</T>
+<T>
+IAGO
+Do you want to hear it again?
+</T>
+<T>
+CASSIO
+No, because we shouldnt be doingthatstuff. Oh well, Gods in charge, and somepeople have to go to heaven, while other people have to go to hell.
+</T>
+<T>
+IAGO
+Thats true, lieutenant.
+</T>
+<T>
+CASSIO
+Speaking for myselfand no offense to the general oranyone elseI hope Im going to heaven.
+</T>
+<T>
+IAGO
+Me too, lieutenant.
+</T>
+<T>
+CASSIO
+Okay, but please not before me. The lieutenant has to get toheaven before the ensign. But lets stop this drinkingand get down to business.God forgive oursins!Gentlemen, lets get down to business.By the way, I dont want anyone thinking Imdrunk. This is my ensign. This is my right hand, and this is my lefthand.
+Im not drunk. I can stand well enough, and I can speakjust fine.
+</T>
+<T>
+ALL
+Yes, youre speaking very well.
+</T>
+<T>
+CASSIO
+Yes, very well. So dont think that Imdrunk.
+</T>
+<T>
+MONTANO
+Lets go to the platform where well standguard. Come on.
+</T>
+<T>
+IAGO
+You see that man who just left? Hes a good soldier,good enough to be Caesars right-hand man. But he has aserious weakness. Its too bad. Im worriedthat Othello trusts him too much, and itll be bad forCyprus eventually.
+</T>
+<T>
+MONTANO
+But is he often like this?
+</T>
+<T>
+IAGO
+He drinks like this every night before he goes to sleep.Hed stay up all night and all day if hedidnt drink himself to sleep.
+</T>
+<T>
+MONTANO
+The general should be informed about this. Maybe hesnever noticed, or he only wants to see Cassios goodside. Dont you think so?
+</T>
+<T>
+IAGO
+(speaking so that only RODERIGO can hear) Hello, Roderigo.Please, follow the lieutenant. Hurry! Go!
+</T>
+<T>
+MONTANO
+And its too bad that the Moor chose a man with such adeep-rooted drinking problem as his second-in-command. We shoulddefinitely say something to the Moor.
+</T>
+<T>
+IAGO
+I wouldnt say anything, not if you gave me the wholeisland for doing so. I respect Cassio and Id like tohelp cure his alcoholism
+</T>
+<T>
+IAGO
+Whats that noise?
+</T>
+<T>
+CASSIO
+Damn you, you villain, you rascal!
+</T>
+<T>
+MONTANO
+Whats the matter, lieutenant?
+</T>
+<T>
+CASSIO
+To think that fool had the nerve to try to teach me manners!Ill beat him until the welts look like basket-weave!
+</T>
+<T>
+RODERIGO
+Youll beat me?
+</T>
+<T>
+CASSIO
+Are you talking, you villain?(hehits RODERIGO)
+</T>
+<T>
+MONTANO
+No, dont hit him, lieutenant! Please, sir, restrainyourself. (he restrains CASSIO)
+</T>
+<T>
+CASSIO
+Let me go, or Ill knock you on the head.
+</T>
+<T>
+MONTANO
+Come on, youre drunk.
+</T>
+<T>
+CASSIO
+Drunk?
+</T>
+<T>
+IAGO
+(speaking so that only RODERIGO can hear) Go tell everyonetheres a riot.
+</T>
+<T>
+No, lieutenantGod,gentlemenHelpLieutenantsir,MontanoHelp, men!The night guard is coming!
+</T>
+<T>
+Whos sounding that alarm? The whole town will riot!God, lieutenant, please stop! Youll be ashamed of thisforever!
+</T>
+<T>
+OTHELLO
+What is the matter here?
+</T>
+<T>
+MONTANO
+My God, Im bleeding! Ive been mortallywounded. Ill kill him!
+</T>
+<T>
+OTHELLO
+Stop right now!
+</T>
+<T>
+IAGO
+Stop! Lieutenantsir, Montanogentlemen!Have you forgotten your duty and your sense of decorum? Stop! Thegeneral is talking to you! Stop, for Gods sake!
+</T>
+<T>
+OTHELLO
+How did this all start? Have we all become as savage as the Turks,treating each other as badly as they would have treated us? Forheavens sake, stop this savage brawl! The next man whoswings his sword must not care about his life, because the instanthe strikes, he dies. Stop that alarm from ringing, itsscaring the islanders. Whats the matter here,gentlemen?Honest Iago, you look upset. Speak up and tellme who started this. Answer me.
+</T>
+<T>
+IAGO
+I dont know. We were all having fun until just aminute ago; we were as happy as a bride and groom taking off theirclothes. But then the mood suddenly changed. It was as if somethinghad driven the men insane and made them point their swords at oneanother. I dont
+</T>
+<T>
+know what could have started this. Id rather have lostmy legs in battle than be a part of this!
+</T>
+<T>
+OTHELLO
+How did you manage to lose your self-control like this, Michael?
+</T>
+<T>
+CASSIO
+Please, excuse me, sir. I cant speak.
+</T>
+<T>
+OTHELLO
+Montano, youre supposed to be calm and collected.Youre famous for it. Wise people respect you. What inthe world made you risk your reputation like this and become astreet brawler? Tell me.
+</T>
+<T>
+MONTANO
+Othello, Ive been seriously hurt. Your officer Iagocan tell you what happened. I should save my breath, since it hurtsto talk. I didnt do anything wrong that I know of,unless it was a sin to defend myself when someone attacked me.
+</T>
+<T>
+OTHELLO
+All right, now Im starting to lose my cool. By God, ifyou dont tell me what happened youll allsuffer. Tell me how this fight began, who started it. Whoever isguilty, even if he were my twin brother, I swear Imthrough with him. Were in a town thats just
+</T>
+<T>
+avoided a war, everyones still on edge, andyoure getting into private fights whileyoure supposed to be on guard duty? Thatsunbelievably bad. Iago, who started it?
+</T>
+<T>
+MONTANO
+I know youre close to Cassio, but if you diverge fromthe truth in any way, youre not a true soldier.
+</T>
+<T>
+IAGO
+Youre hitting close to home there. Idrather cut my tongue out of my mouth than say anything bad aboutMichael Cassio. But I dont think itll hurthim to tell the truth. This is what happened, General. Montano and Iwere talking when a man came running, crying for help. Cassio waschasing him with his sword out, trying to kill the guy. Thisgentleman stopped Cassio and told him to put away his sword. Ifollowed the guy who was crying for help, to keep him from scaringthe public. But he was fast and outran me. When I got back, I heardthe swords clinking and Cassio swearing. Id never heardhim swear before. They were nearly killing each other, as you sawwhen you pulled them apart. I cant tell you anythingelse.
+</T>
+<T>
+But nobodys perfect, and even the best man sometimesloses control and strikes out in rage. Cassio was wrong to hurtMontano, who was only trying to help him, but Im surethe guy who ran away must have offended Cassio in some terrible way,and Cassio couldnt let it pass.
+</T>
+<T>
+OTHELLO
+Iago, I know youre fond of Cassio and are downplayingthis for his benefit. Cassio, I love you, but yourenever again going to be one of my officers.
+</T>
+<T>
+Look, youve woken my wife! Ill make you anexample for the others to learn from.
+</T>
+<T>
+DESDEMONA
+Whats the matter, dear?
+</T>
+<T>
+OTHELLO
+Everythings fine, now, sweetheart. Go back tobed. (to MONTANO) Ill see to it personallythat your wounds are treated. Lead him off.
+</T>
+<T>
+Iago, go and calm down the townspeople.Come with me,Desdemona. Unfortunately, its part of thesoldiers life to be woken up by trouble.
+</T>
+<T>
+IAGO
+Are you hurt, lieutenant?
+</T>
+<T>
+CASSIO
+Yes, but no doctor can help me.
+</T>
+<T>
+IAGO
+Oh I hope thats not true!
+</T>
+<T>
+CASSIO
+My reputation, my reputation! Ive lost my reputation,the longest-living and truest part of myself! Everything else in meis just animal-like. Oh, my reputation, Iago, my reputation!
+</T>
+<T>
+IAGO
+I swear I thought you meant youd been hurt physically.Your physical health matters more than your reputation. A reputationis a useless and fake quality that others impose on us. Youhavent lost it unless you think you have. There are lotsof ways to get on the generals good side again.Youve been discharged because hes angry, andbecause hes obliged to do so for policy reasons, notbecause he dislikes you. Hes got to beat up the weak tofrighten the strong. Go to him, petition him. Hellchange his mind.
+</T>
+<T>
+CASSIO
+Id rather ask him to hate me than ask such a goodcommander to accept such a worthless, drunk, stupid officer asmyself. Drunk? Babbling senselessly? Squabbling? Swaggering?Swearing? Ranting and raving to my own shadow! Oh, wine is thedevil!
+</T>
+<T>
+IAGO
+Who were you chasing with your sword? What did he do to you?
+</T>
+<T>
+CASSIO
+I dont know.
+</T>
+<T>
+IAGO
+Is that possible?
+</T>
+<T>
+CASSIO
+I remember a jumble of impressions, but nothing distinctly. Iremember a fight, but not why we were fighting. Oh God, why do mendrink and lose their minds? Why do we party until werelike animals?
+</T>
+<T>
+IAGO
+You seem all right now. How did you get better?
+</T>
+<T>
+CASSIO
+My drunkenness went away when anger took over. One weakness led toanother, to make me hate myself.
+</T>
+<T>
+IAGO
+Come on, youre being too hard on yourself. I wish noneof this had happened, given the situation here, and your rank. Butsince this has happened, you should fix it for your own good.
+</T>
+<T>
+CASSIO
+Ill ask him for my position back again, andhell tell me Im a drunk. Even if I had awhole bunch of mouths, I wouldnt be able to answer that.I was a reasonable man, then I became a fool, and finally a beast!Oh, how strange! Every glass of liquor is damned, and thedevils the main ingredient!
+</T>
+<T>
+IAGO
+Come on now, wine is good for you, if you know how to use it.Dont say anything bad about wine anymore. Lieutenant, Ithink you know Im your friend.
+</T>
+<T>
+CASSIO
+I know that, sir. Imagine, me, a drunk!
+</T>
+<T>
+IAGO
+Any man can get drunk sometime. Ill tell you what todo. Othellos wife has a lot of influence now.Hes completely devoted to her. Go open your heart toher. Ask her to help you get back your position. She is so generous,kind, and ready to help that she thinks its wrong not todo everything she can, even more than she is asked to do. Ask her tohelp you heal the rift between her husband and you. Idbet my lucky stars your problem will be forgotten, and yourrelationship will be stronger than ever.
+</T>
+<T>
+CASSIO
+Thats good advice.
+</T>
+<T>
+IAGO
+Im helping you because I like and respect you.
+</T>
+<T>
+CASSIO
+I believe it completely. Early in the morning Ill govisit Desdemona and plead my case. My situation is desperate.
+</T>
+<T>
+IAGO
+Youre doing the right thing. Good night, lieutenant.Ive got to go to the guard tower.
+</T>
+<T>
+CASSIO
+Good night, honest Iago.
+</T>
+<T>
+IAGO
+Who can say Im evil when my advice is so good?Thats really the best way to win the Moor back again.Its easy to get Desdemona on your side. Shesfull of good intentions. And the Moor loves her so much he wouldrenounce his Christianity to keep her happy. Hes soenslaved by love that she can make him do whatever she wants. How amI evil to advise Cassio to do exactly whatll do himgood? Thats the kind of argument youd expectfrom Satan! When devils are about to commit their biggest sins theyput on their most heavenly faces, just like Im doingnow. And while this fool is begging Desdemona to help him, and whileshes pleading his case to the Moor, Illpoison the Moors ear against her, hinting thatshes taking Cassios side because of her lustfor him. The more she
+</T>
+<T>
+tries to help Cassio, the more shell shakeOthellos confidence in her. And thats howIll turn her good intentions into a big trap to snagthem all.
+</T>
+<T>
+Hello, Roderigo!
+</T>
+<T>
+RODERIGO
+Im totally worn out. My chase is too much for me.Ive spent most of my money, and tonight I got beaten up.The upshot is that Ive got a little more experience. Sowith no money, but a little more wisdom, Im going backto Venice.
+</T>
+<T>
+IAGO
+Youre a poor man if youre this impatient!If you get hurt, does your wound heal immediately? No, it healsgradually. We achieve things with our intelligence, not by magic,and intelligent planning takes time. Arent things goingwell? Cassios beaten you up, but with that tinysacrifice on your part, you got Cassio discharged! Ifwere patient, well be rewarded with thefruits of our labors. My God, its morning. All thisexcitement has made the time fly by. Go back to whereyoure staying and go to sleep. Go on, Imtelling you. Youll understand better later. Go.
+</T>
+<T>
+Now two things still need to be done. My wife has to help makeDesdemona take Cassios side. Ill put her onthat. And I need to take the Moor aside right at the moment whenCassios talking to Desdemona, so hell seethem together. Yes, thats the way Ill do it.Lets not ruin a brilliant plan by being slow to act.
+</T>
+<T>
+CASSIO
+Musicians, start playing here. Ill pay you for yourtrouble. Play something short that will put the general in a goodmood.
+</T>
+<T>
+CLOWN
+Your instruments all have a nasal twang. Have they been to NaplesNaples was considered a likely place to contract syphilis, which eats away at the bridge of the nose.Naples?
+</T>
+<T>
+MUSICIAN
+Excuse me?
+</T>
+<T>
+CLOWN
+Are these wind instruments?
+</T>
+<T>
+MUSICIAN
+Yes, they are.
+</T>
+<T>
+CLOWN
+Oh, theres the problem.
+</T>
+<T>
+MUSICIAN
+Whats the problem?
+</T>
+<T>
+CLOWN
+Anyone full of hot air is a problem. But heres somemoney. The general likes your music a lot, but he asks you to stopplaying now.
+</T>
+<T>
+MUSICIAN
+Well, well stop, then.
+</T>
+<T>
+CLOWN
+If youve got any music that cant be heard,then play that. But as I said, the general isnt reallyin the mood to hear music now.
+</T>
+<T>
+MUSICIAN
+We dont have any music that cant be heard.
+</T>
+<T>
+CLOWN
+Then pack up your instruments and go away. Go!
+</T>
+<T>
+CASSIO
+Do you hear, my friend?
+</T>
+<T>
+CLOWN
+No, I dont hear your friend. I hear you.
+</T>
+<T>
+CASSIO
+Please dont play games. (CASSIO gives CLOWN money).Theres a bit of gold for you. When the woman taking careof the generals wife wakes up, could you please tell herthat Cassio asks to speak with her?
+</T>
+<T>
+CLOWN
+Shes awake, sir. If she feels like coming over here,Ill give her your message.
+</T>
+<T>
+Good to see you, Iago.
+</T>
+<T>
+IAGO
+You didnt go to sleep, then?
+</T>
+<T>
+CASSIO
+No. When I left you it was already morning. Ive beenbold, Iago. Ive asked to talk to your wife.Im going to ask her to let me talk to Desdemona.
+</T>
+<T>
+IAGO
+Ill send her out to you now. Ill think of a plan to get the Moor out of the way, so you can speak more openly.
+</T>
+<T>
+CASSIO
+I humbly thank you.
+</T>
+<T>
+Even for a FlorentineThe citizens of Florence (who included Machiavelli) were not known for kindness and honesty, but Michael Cassio seems unaware of Florences bad reputation.Florentine, I never knew someone so kind and honest.
+</T>
+<T>
+EMILIA
+Good morning, lieutenant. Im sorry about what happened, but Im sure everything will turn out all right. The general and his wife are talking about it now, and shes defending you strongly. The Moor says the man you hurt is very important in Cyprus, and that under the circumstances he has no choice but to refuse to reinstate you. But he says he still loves and respects you, and based on his own feelings alone hes looking for an opportunity to safely take you back.
+</T>
+<T>
+CASSIO
+Please find a way to give me some time alone with Desdemona, if you think thats all right.
+</T>
+<T>
+EMILIA
+Please come in. Ill take you to a place where you can speak freely.
+</T>
+<T>
+CASSIO
+Thank you very much.
+</T>
+<T>
+OTHELLO
+Iago, give these letters to the ships captain who brought me here, and ask him to pay my respects to the Senate of Venice. Now thats done, Im going to walk on the fortification walls. Look for me there when you come back.
+</T>
+<T>
+IAGO
+I will, my lord.
+</T>
+<T>
+OTHELLO
+Shall we go see this fortification, men?
+</T>
+<T>
+GENTLEMEN
+Were at your service, my lord.
+</T>
+<T>
+DESDEMONA
+Ill do everything I can for you, Cassio.
+</T>
+<T>
+EMILIA
+Please do, madam. My husbands so upset about Cassios problem youd think it was his own.
+</T>
+<T>
+DESDEMONA
+Your husbands such a good man. Dont worry, Cassio. Im sure you and my husband will be as friendly as you were before.
+</T>
+<T>
+CASSIO
+My dear beautiful lady, whatever happens to Michael Cassio, hell always be your humble servant.
+</T>
+<T>
+DESDEMONA
+I know that. Thank you. Youre my husbands friend and youve known him a long time. I assure you the only reason hes keeping away from you now is political.
+</T>
+<T>
+CASSIO
+Yes, my lady. But those political considerations might last such a long time that the general will forget my love and service, especially if Im gone and someone else has my job.
+</T>
+<T>
+DESDEMONA
+Thatll never happen. Emilia here will be my witness: I promise you that youll get your position back again. And if I promise to help someone, I do everything I can. My husband will never get a moments rest, Ill keep him up at night talking about you until he runs out
+</T>
+<T>
+of patience. He will think that his bed has become a conference table for discussing your problemhe wont be able to get away from it. Ill bring up your name at every moment. So cheer up. Im your advocate, and Id rather die than give up on you.
+</T>
+<T>
+EMILIA
+Madam, here comes your husband.
+</T>
+<T>
+CASSIO
+Madam, Id better leave now.
+</T>
+<T>
+DESDEMONA
+Why not stay and hear me talk to him?
+</T>
+<T>
+CASSIO
+No, madam. Im very uncomfortable, and that wont help my case.
+</T>
+<T>
+DESDEMONA
+Well, do whatever you think best.
+</T>
+<T>
+IAGO
+Hey! I dont like that.
+</T>
+<T>
+OTHELLO
+What did you say?
+</T>
+<T>
+IAGO
+Nothing, my lord, or if I didI dont know what.
+</T>
+<T>
+OTHELLO
+Wasnt that Cassio leaving my wife?
+</T>
+<T>
+IAGO
+Cassio, my lord? No, I dont think so. He wouldnt sneak away looking so guilty when he saw you coming.
+</T>
+<T>
+OTHELLO
+I really think it was him.
+</T>
+<T>
+DESDEMONA
+Whats this, my lord? I was talking to a petitioner here just now, someone whos suffering from your anger.
+</T>
+<T>
+OTHELLO
+Who do you mean?
+</T>
+<T>
+DESDEMONA
+Your lieutenant, Cassio. Oh, if Ive got any influence over you at all, please patch things up with him. In my judgment, this man truly loves you, and his mistake was innocent rather than wicked. Please call him and tell him to come back here.
+</T>
+<T>
+OTHELLO
+Was that him just now?
+</T>
+<T>
+DESDEMONA
+Yes. He feels so bad and humble that I feel bad along with him. My love, call him back in here.
+</T>
+<T>
+OTHELLO
+Not now, my sweet Desdemona. Some other time.
+</T>
+<T>
+DESDEMONA
+But will it be soon?
+</T>
+<T>
+OTHELLO
+Very soon, because you want it.
+</T>
+<T>
+DESDEMONA
+Will it be tonight at supper?
+</T>
+<T>
+OTHELLO
+No, not tonight.
+</T>
+<T>
+DESDEMONA
+Then tomorrow at dinner?
+</T>
+<T>
+OTHELLO
+I wont be eating dinner at home. Ill be meeting the captains at the citadel.
+</T>
+<T>
+DESDEMONA
+Well then, tomorrow night, or Tuesday morning. Or Tuesday noon or at night, or Wednesday morning. Please just name a time, but dont wait more than three days. Hes very sorry. His mistake was hardly worth punishing him for in the first placethough in wartime it is sometimes necessary to make examples out of even the best soldiers. So when should he come? Tell me, Othello. I cant imagine you asking me for something and me telling you no or standing there muttering. Michael Cassio came with you when you were trying to win my love. Sometimes Id criticize you to him, and hed defend you. And now I have to make this big fuss about bringing him back? I swear, I could do so much
+</T>
+<T>
+OTHELLO
+Please, no more. He can come whenever he wants. I wont refuse you anything.
+</T>
+<T>
+DESDEMONA
+Dont act like youre doing me a favor! This is like if I asked you to wear your gloves when its cold outside, or eat nutritious food, or do something thats good for you. If I ever have to ask you for something that will put your luck to the test, itll be something difficult and terrible.
+</T>
+<T>
+OTHELLO
+I wont deny you anything! But in return, please, do one thing for me: leave me alone for a little while.
+</T>
+<T>
+DESDEMONA
+Would I ever deny you anything? No. Goodbye, my husband.
+</T>
+<T>
+OTHELLO
+Goodbye, my Desdemona. Ill come see you right away.
+</T>
+<T>
+DESDEMONA
+Come here, Emilia.Do whatever you feel like doing, my husband, and Ill obey you.
+</T>
+<T>
+OTHELLO
+What a wonderful girl! God help me, I love you! And when I stop loving you, the universe will fall back into the chaos that was there when time began.
+</T>
+<T>
+IAGO
+My noble lord
+</T>
+<T>
+OTHELLO
+What is it, Iago?
+</T>
+<T>
+IAGO
+When you were wooing Desdemona, did Michael Cassio know about it?
+</T>
+<T>
+OTHELLO
+Yes, he knew about it the whole time. Why do you ask?
+</T>
+<T>
+IAGO
+I was just curious. No reason.
+</T>
+<T>
+OTHELLO
+Why are you curious, Iago?
+</T>
+<T>
+IAGO
+I didnt realize he knew her.
+</T>
+<T>
+OTHELLO
+Oh, yes. He carried messages back and forth between us very often.
+</T>
+<T>
+IAGO
+Oh, really?
+</T>
+<T>
+OTHELLO
+Oh, really? Yes, really. Do you see something wrong with that? Isnt he an honest man?
+</T>
+<T>
+IAGO
+Honest, my lord?
+</T>
+<T>
+OTHELLO
+Honest, yes, honest.
+</T>
+<T>
+IAGO
+As far as I know, sir.
+</T>
+<T>
+OTHELLO
+What are you thinking?
+</T>
+<T>
+IAGO
+Thinking, my lord?
+</T>
+<T>
+OTHELLO
+Thinking, my lord? My God, you keep repeating everything I say as if you were thinking something too horrible to say out loud. Youre thinking something. Just a minute ago I heard you say you didnt like it when Cassio left my wife. What didnt you like? And when I told you he was involved the whole time I was trying to get Desdemona, you were like, Oh, really? And then you frowned and wrinkled up your forehead as if you were imagining something horrible. If youre my friend, tell me what youre thinking.
+</T>
+<T>
+IAGO
+My lord, you know Im your friend.
+</T>
+<T>
+OTHELLO
+I think you are. And I know youre full of love and honesty, and you think carefully before you speak. Thats why these pauses of yours frighten me. If some fool were withholding things from me, I wouldnt think twice about it. If some lying, cheating villain acted like that, it would just be a trick. But when an honest man acts like that, you know hes wrestling with bad thoughts and cant help it.
+</T>
+<T>
+IAGO
+As for Michael Cassio, I think it would be safe for me to swear that hes honest.
+</T>
+<T>
+OTHELLO
+I think so too.
+</T>
+<T>
+IAGO
+People should be what they appear to be. If theyre not honest, they shouldnt look like they are!
+</T>
+<T>
+OTHELLO
+Absolutely, people should be what they appear to be.
+</T>
+<T>
+IAGO
+In that case, I think Cassios an honest man.
+</T>
+<T>
+OTHELLO
+No, I think theres more to this than youre letting on. Please tell me what youre thinkingeven your worst suspicions.
+</T>
+<T>
+IAGO
+Please dont make me do that, sir. I have to obey all your orders, but surely Im not obligated to reveal my deepest thoughtseven slaves arent expected to do that. You want me to say what Im thinking? What if my thoughts are disgusting and wrong? Even good people think horrible things sometimes. Who is so pure that they never think a bad thought?
+</T>
+<T>
+OTHELLO
+Youre not being a good friend, Iago, if you even think your friend has been wronged and you dont tell him about it.
+</T>
+<T>
+IAGO
+Please dont ask me to tell you. I might be completely wrong. I have a bad tendency to be suspicious of people and to look too closely into what theyre doing. Often I imagine crimes that arent really there. You would be wise to ignore my weak guesses and imaginary suspicions, and dont worry yourself about the meaningless things Ive noticed. For me to tell you my thoughts would only destroy your peace of mind, and
+</T>
+<T>
+it wouldnt be wise, honest, or responsible for me to tell them.
+</T>
+<T>
+OTHELLO
+What are you talking about?
+</T>
+<T>
+IAGO
+A good reputation is the most valuable thing we havemen and women alike. If you steal my money, youre just stealing trash. Its something, its nothing: its yours, its mine, and itll belong to thousands more. But if you steal my reputation, youre robbing me of something that doesnt make you richer, but makes me much poorer.
+</T>
+<T>
+OTHELLO
+Im going to find out what youre thinking.
+</T>
+<T>
+IAGO
+You cant find that out, even if you held my heart in your hand you couldnt make me tell you. And as long my hearts inside my body, you never will.
+</T>
+<T>
+OTHELLO
+What?
+</T>
+<T>
+IAGO
+Beware of jealousy, my lord! Its a green-eyed monster that makes fun of the victims it devours. The man who knows his wife is cheating on him is happy, because at least he isnt friends with the man shes sleeping with. But think of the unhappiness of a man who worships his wife, yet doubts her faithfulness. He suspects her, but still loves her.
+</T>
+<T>
+OTHELLO
+Oh, what misery!
+</T>
+<T>
+IAGO
+The person whos poor and contented is rich enough. But infinite riches are nothing to someone whos always afraid hell be poor. God, help us not be jealous!
+</T>
+<T>
+OTHELLO
+Why are you telling me this? Do you think I would live a life of jealousy, tormented by new suspicions every hour? No. If theres any doubt, there is no doubt. I might as well be a goat if I ever let myself become obsessed with the kind of suspicions youre implying. If you say my wife is beautiful, eats well, loves good company, speaks freely, sings, plays music, and dances well, youre not making me jealous. When a woman is virtuous, talents like these just make her better. And Im not going to start feeling inferior. She had her eyes wide open when she chose me. No, Iago, Ill have to see some real evidence before I start suspecting her of anything bad, and when I suspect her, Ill look for proof, and if theres proof, thats when Ill let go of my love and my jealousy.
+</T>
+<T>
+IAGO
+Im glad to hear you say that. Now I can show you my devotion and my duty with more honesty. So please listen to me. Im not talking about proof yet. Watch your wife. Watch how she is with Cassio. Just watchdont be either completely suspicious or completely trustful. I wouldnt want to see you taken advantage of because youre such an open and trusting guy. Watch out! I know the people of Venice well. They let God see things they wouldnt show their husbands. They dont avoid doing things that are wrong, they just try not to get caught.
+</T>
+<T>
+OTHELLO
+Do you really think so?
+</T>
+<T>
+IAGO
+She lied to her father to marry you. And when she pretended to be afraid of you, she loved you the most.
+</T>
+<T>
+OTHELLO
+Thats right, she did.
+</T>
+<T>
+IAGO
+Well, there you go. She was so young, but she deceived her father so thoroughly he thought it was witchcraft! But Im sorry Ive blurted all this out. I beg your pardon for loving you too much.
+</T>
+<T>
+OTHELLO
+Im indebted to you forever.
+</T>
+<T>
+IAGO
+You seem a little depressed about this.
+</T>
+<T>
+OTHELLO
+Not at all, not at all.
+</T>
+<T>
+IAGO
+Really, Im afraid you are. I hope you remember that I said all this because I love you. But I see youre troubled. Please dont take what I said more seriously than it deserves to be taken.
+</T>
+<T>
+OTHELLO
+I wont.
+</T>
+<T>
+IAGO
+If you take it too seriously, itll have bad effects that I didnt want it to have. Cassios a good friend of mineMy lord, I can see youre upset.
+</T>
+<T>
+OTHELLO
+No, not too upset. Im sure Desdemona would never cheat on me.
+</T>
+<T>
+IAGO
+I hope she never does! And I hope you keep on thinking she wouldnt.
+</T>
+<T>
+OTHELLO
+But still, its true that good things can go bad, away from their true natures
+</T>
+<T>
+IAGO
+Thats the point Im trying to make. If I can be frank with you, she veered away from her own nature in turning down all those young men from her own country, with her skin color, with her statuseverything her nature would have drawn her toUgh! You can almost smell the dark and ugly desires inside her, the unnatural thoughtsButIm sorryI didnt mean to refer to her specifically just now. I only worry that she might snap back to her natural taste in men one day, and compare you unfavorably to other Italians.
+</T>
+<T>
+OTHELLO
+Goodbye, goodbye. If you see anything else, let me know. Tell your wife to watch her. Leave me alone now, Iago.
+</T>
+<T>
+IAGO
+My lord, Ill say goodbye now. (beginning to exit)
+</T>
+<T>
+OTHELLO
+(to himself) Why did I ever get married? Im sure this good and honest man sees and knows more, much more, than hes telling me.
+</T>
+<T>
+IAGO
+(returning) My lord, please dont think about this any more. Time will tell. Its right for Cassio to have his lieutenancy backhes very talented. But keep him away for a while, and youll see how he goes about getting it back. Notice whether your wife insists on your
+</T>
+<T>
+giving it back to him. That will tell you a lot. But in the meantime, just assume that Im paranoidas Im pretty sure I amand keep thinking shes innocent, please.
+</T>
+<T>
+OTHELLO
+Dont worry about how I handle it.
+</T>
+<T>
+IAGO
+Ill say goodbye once more.
+</T>
+<T>
+OTHELLO
+This Iago is extremely honest and good, and he knows a lot about human behavior. If it turns out that she really is running around on me, Ill send her away, even though itll break my heart. Maybe because Im black, and I dont have nice manners like courtiers do, or because Im getting oldbut thats not muchShes gone, and Ive been cheated on. I have no choice but to hate her. Oh what a curse marriage is! We think our beautiful wives belong to us, but their desires are free! Id rather be a toad in a moldy basement than to have only a part of someone I love, sharing the rest of her with others. This is the plague of important menour wives betray us more than those of poor men. Its our destiny, like death. We are destined to be betrayed when we are born. Oh, here she comes.
+</T>
+<T>
+If shes cheated on me, then heaven itself is a fake. I dont believe it.
+</T>
+<T>
+DESDEMONA
+Whats going on, Othello, darling? The nobles of Cyprus whom you invited to dinner are waiting for you.
+</T>
+<T>
+OTHELLO
+Im sorry.
+</T>
+<T>
+DESDEMONA
+Why are you whispering? Are you sick?
+</T>
+<T>
+OTHELLO
+I have a headacheIn Shakespeare\s day, cuckolds, or men whose wives cheated on them, were imagined to have horns growing from their heads. Othello is alluding to this.headache, right here in my forehead.
+</T>
+<T>
+DESDEMONA
+Thats from lack of sleep. Itll go away. Let me wrap up your head, and it will feel okay in less than an hour. (she pulls out a handkerchief)
+</T>
+<T>
+OTHELLO
+No, your handkerchiefs too little. Leave my head alone.
+</T>
+<T>
+Come on, Ill escort you to dinner.
+</T>
+<T>
+DESDEMONA
+Im very sorry youre not feeling well.
+</T>
+<T>
+EMILIA
+(picking up the handkerchief) Im glad I found this handkerchief. Its the first keepsake the Moor gave her. My stubborn husband has asked me to steal it a
+</T>
+<T>
+hundred times. But she loves it so much (since Othello told her she should always keep it with her) that she always keeps it near her to kiss it and talk to it. Ill copy the embroidery pattern and then give it to Iago. Heaven knows what hes going to do with it. I only try to satisfy his whims.
+</T>
+<T>
+IAGO
+Whats going on? What are you doing here alone?
+</T>
+<T>
+EMILIA
+Dont snap at me. Ive got something for you.
+</T>
+<T>
+IAGO
+Youve got something for me? Its a common thingThing was slang for vagina. By saying that Emilia\s thing is common, Iago implies that she lets anyone have sex with herthing
+</T>
+<T>
+EMILIA
+What?
+</T>
+<T>
+IAGO
+to have a stupid wife.
+</T>
+<T>
+EMILIA
+Oh, is that so? And what would you give me for the handkerchief?
+</T>
+<T>
+IAGO
+What handkerchief?
+</T>
+<T>
+EMILIA
+What handkerchief? The one the Moor gave to Desdemona, which you asked me to steal so many times.
+</T>
+<T>
+IAGO
+You stole it from her?
+</T>
+<T>
+EMILIA
+No, actually. She dropped it carelessly, and, seizing the opportunity, since I was here, I picked it up. Look, here it is.
+</T>
+<T>
+IAGO
+Good girl, give it to me.
+</T>
+<T>
+EMILIA
+And what are you going to do with it? Why did you want it so much that you begged me to steal it?
+</T>
+<T>
+IAGO
+Whats it to you?
+</T>
+<T>
+EMILIA
+If you dont need it for some important reason, then give it back to me. Poor lady, shell go crazy when she sees its missing.
+</T>
+<T>
+IAGO
+Dont admit to knowing anything about it. I need it. Now go, leave me.
+</T>
+<T>
+Ill leave this handkerchief at Cassios house and let him find it.To a jealous man, a meaningless little thing like this looks like absolute proof. This handkerchief may be useful to me. The Moors mind has already become infected with my poisonous suggestions. Ideas can be like poisons. At first they hardly even taste bad, but once they get into your blood they start burning like hot lava.
+</T>
+<T>
+Here he comes. No drugs or sleeping pills will ever give you the restful sleep that you had last night.
+</T>
+<T>
+OTHELLO
+Argh! Shes cheating on me?
+</T>
+<T>
+IAGO
+Oh, general, please, no more of that!
+</T>
+<T>
+OTHELLO
+Get lost! Youve tortured me with these thoughts. It is better to be tricked completely than to only suspect a little.
+</T>
+<T>
+IAGO
+Whats with you, my lord?
+</T>
+<T>
+OTHELLO
+I had no idea she was cheating on me. I never saw it or suspected it, so it never hurt me. I slept well, ate well, and was happy. I never saw Cassios kisses on her lips. A man whos robbed, but doesnt miss whats stolen, isnt robbed at all.
+</T>
+<T>
+IAGO
+Im sorry to hear this.
+</T>
+<T>
+OTHELLO
+I wouldve been happy if the whole army had had sex with her, the lowest-ranking grunts and all, as long as I didnt know anything about it. Oh, goodbye to my peace of mind! Goodbye to my happiness! Goodbye to the soldiers and to the wars that make men great! Goodbye! Goodbye to the horses and the trumpets and the drums, the flute and the splendid banners, and all those proud displays and pageantry of war! And you deadly cannons that roar like thunderbolts thrown by the gods, goodbye! Othellos career is over.
+</T>
+<T>
+IAGO
+Is this possible, my lord?
+</T>
+<T>
+OTHELLO
+You villain, youd better be able to prove my wifes a whore! Be sure of it. Get me proof I can see. If you cant, trust me, you wont want to feel my rage!
+</T>
+<T>
+IAGO
+Has it come to this?
+</T>
+<T>
+OTHELLO
+Show me, or at least prove it beyond the shadow of a doubt. If you cant, your life is worthless!
+</T>
+<T>
+IAGO
+My noble lord
+</T>
+<T>
+OTHELLO
+If youre slandering her just to torture me, then itll be no use to pray for mercy or say youre sorry. You might as well go ahead and commit every unspeakable crime you can think of, because theres nothing you could that would top what youve already done!
+</T>
+<T>
+IAGO
+Oh, heaven help me! Arent you a rational human being? Dont you have any sense at all? Goodbye. I resign my official position. Im such an idiot for always telling the truth! What a horrible world we live in! Listen, pay attention, everybody. Its not safe to be straightforward and honest. Im glad youve taught me this valuable lesson. From now on, Ill never try to help a friend when it hurts him so much to hear the truth.
+</T>
+<T>
+OTHELLO
+No, stop. You should always be honest.
+</T>
+<T>
+IAGO
+I should always be wise. Honestys stupid, it makes me lose my friends even when Im trying to help them.
+</T>
+<T>
+OTHELLO
+I swear, I think my wifes faithful, and I think shes not. I think youre trustworthy one minute and then not the next. I need proof! Her reputation was as pure as the snow, but now its as dirty and black as my own face. As long as there are ropes, knives, poison, fire, or streams to drown inBy referring to instruments of death, Othello implies that he wants to commit either suicide or murderropes, knives, poison, fire, or streams to drown in , I wont stand for this. Oh, how I wish I knew the truth!
+</T>
+<T>
+IAGO
+I see youre all eaten up with emotion. Im sorry I said anything. You want proof?
+</T>
+<T>
+OTHELLO
+Want? Yes, I want it, and Ill get it.
+</T>
+<T>
+IAGO
+But how? How will you get proof? Are you going to hide and watch them having sex?
+</T>
+<T>
+OTHELLO
+Death and damnation! Oh!
+</T>
+<T>
+IAGO
+I think it would be very hard to arrange for them to have sex while you watched. If anyone sees them in bed together besides themselves, I guess we could damn them then. So what can we do? What can I say? What proof is there? Itd be impossible for you to watch them, even if they were as horny as animals in heat and as stupid as drunks. But if you would be willing to accept circumstantial evidence as proof, we can get that.
+</T>
+<T>
+OTHELLO
+Give me one good reason to think shes cheating on me.
+</T>
+<T>
+IAGO
+I dont like what youre asking me to do. But since Ive gotten myself involved this far, because Im so stupidly honest and because I like you so much, Ill keep going. I recently shared a bed with Cassio, and I couldnt sleep because of a raging toothache. Well, some people talk in their sleep, and Cassio is one of them. I heard him saying, Sweet Desdemona, lets be careful and hide our love, in his sleep. And then he grabbed my hand and said, Oh, my darling! and
+</T>
+<T>
+kissed me hard, as if he were trying to suck my lips off. Then he put his leg over mine, and sighed and kissed me, and said, Damn fate for giving you to the Moor!
+</T>
+<T>
+OTHELLO
+Oh, thats monstrous! Monstrous!
+</T>
+<T>
+IAGO
+No, it was just a dream.
+</T>
+<T>
+OTHELLO
+But it shows that something has already happened.
+</T>
+<T>
+IAGO
+Its a reason for suspicion, even though its just a dream. And it might back up other evidence that may seem too flimsy.
+</T>
+<T>
+OTHELLO
+Ill tear her to pieces!
+</T>
+<T>
+IAGO
+No, be reasonable. We dont have any proof yet. She might still be faithful. Just tell me this: have you ever seen her holding a handkerchief with an embroidered strawberry pattern on it?
+</T>
+<T>
+OTHELLO
+Yes, I gave her one like that. It was my first gift to her.
+</T>
+<T>
+IAGO
+I dont know about that, but I saw a handkerchief like that today. Im sure it belongs to your wife, and I saw Cassio use it to wipe his beard.
+</T>
+<T>
+OTHELLO
+If its the same one
+</T>
+<T>
+IAGO
+If its the same one, or any one that belongs to her, then together with the other evidence its pretty strong.
+</T>
+<T>
+OTHELLO
+Oh, Id kill that bastard Cassio forty thousand times if I could! Killing him once is not enough revenge. Now I see its true. Oh, Iago, all the love I felt is gone, vanished in the wind. Welcome, hatred and vengeance! Get out of my heart, love! My heart feels like its full of poisonous snakes!
+</T>
+<T>
+IAGO
+Calm down
+</T>
+<T>
+OTHELLO
+I want blood!
+</T>
+<T>
+IAGO
+Be patient, Im telling you. You may change your mind later.
+</T>
+<T>
+OTHELLO
+Never, Iago. My thoughts of revenge are flowing through me like a violent river, never turning back to love, only flowing toward full revenge thatll swallow them up. I swear to God Ill get revenge. (he kneels)
+</T>
+<T>
+IAGO
+Dont get up yet. Let heaven be my witnessIm putting my mind, my heart, and my hands in Othellos control. Let him command me, and Ill do whatever he asks, no matter how violent.
+</T>
+<T>
+OTHELLO
+I accept your devotion with my deepest love. Ill put you to the test right away. Within the next three days I want to hear you tell me that Cassios dead.
+</T>
+<T>
+IAGO
+My friend Cassio is dead. Its done, because you request it. But let her live.
+</T>
+<T>
+OTHELLO
+Damn her, the wicked whore! Oh, damn her, damn her! Come away with me. Im going inside to think up some way to kill that beautiful devil. Youre my lieutenant now.
+</T>
+<T>
+IAGO
+Im yours forever.
+</T>
+<T>
+DESDEMONA
+Excuse me, do you know which room Lieutenant Cassio lies inlies in = sleeps inlies in?
+</T>
+<T>
+CLOWN
+I wouldnt dare say he lies anywhere.
+</T>
+<T>
+DESDEMONA
+Why do you say that?
+</T>
+<T>
+CLOWN
+Hes a soldier. If I accused a soldier of lying, hed stab me.
+</T>
+<T>
+DESDEMONA
+Oh, come on. Where does he sleep?
+</T>
+<T>
+CLOWN
+Telling you where hes sleeping is like telling you where Im lying.
+</T>
+<T>
+DESDEMONA
+What on earth does that mean?
+</T>
+<T>
+CLOWN
+I dont know where hes staying, so if I told you hes sleeping here or there, Id be lying.
+</T>
+<T>
+DESDEMONA
+Can you ask around and find out?
+</T>
+<T>
+CLOWN
+Ill go ask questions everywhere.
+</T>
+<T>
+DESDEMONA
+Find him and tell him to come here. Tell him Ive spoken to my husband on his behalf, and I think everything will be all right.
+</T>
+<T>
+CLOWN
+I think I can do that. Its not too much to ask.
+</T>
+<T>
+DESDEMONA
+Where could I have lost that handkerchief, Emilia?
+</T>
+<T>
+EMILIA
+I dont know, madam.
+</T>
+<T>
+DESDEMONA
+Believe me, Id rather have lost a purse full of gold coins. This would be enough to make my husband suspect me, if he wasnt so free of jealousy.
+</T>
+<T>
+EMILIA
+Hes not jealous?
+</T>
+<T>
+DESDEMONA
+Who, him? I think all tendencies to jealousy were burned out of him by the sun of his native land.
+</T>
+<T>
+EMILIA
+Look, here he comes.
+</T>
+<T>
+DESDEMONA
+I wont leave him alone until he gives Cassio his job back.How are you, my lord?
+</T>
+<T>
+OTHELLO
+Im fine, my lady.(to himself) Oh, its so hard to pretend!How are you, Desdemona?
+</T>
+<T>
+DESDEMONA
+Im fine, my lord.
+</T>
+<T>
+OTHELLO
+Give me your handMoist hands were supposed to indicate a tendency toward love.hand. Your hands moist, my lady.
+</T>
+<T>
+DESDEMONA
+Its moist because its still young and inexperienced.
+</T>
+<T>
+OTHELLO
+It says youre fertile, and youve got a giving heart. Hot, hot and moist. With a hand like this you need to
+</T>
+<T>
+fast and pray to stave off temptations. Someone with a young sweating hand like this one is bound to act up sooner or later. Its a nice hand, an open one.
+</T>
+<T>
+DESDEMONA
+Youre right to say that. This was the hand that gave you my heart.
+</T>
+<T>
+OTHELLO
+This hand gives itself away very freely. In the old days, people used to give their hearts to each other when they joined their hands in marriage. But these days, people give each other their hands without their hearts.
+</T>
+<T>
+DESDEMONA
+I dont know about that. Now, dont forget, you promised me something.
+</T>
+<T>
+OTHELLO
+What did I promise, my dear?
+</T>
+<T>
+DESDEMONA
+I sent for Cassio to come talk with you.
+</T>
+<T>
+OTHELLO
+I have a bad cold thats bothering me. Lend me your handkerchief.
+</T>
+<T>
+DESDEMONA
+Here, my lord.
+</T>
+<T>
+OTHELLO
+No, the one I gave you.
+</T>
+<T>
+DESDEMONA
+I dont have it with me.
+</T>
+<T>
+OTHELLO
+You dont?
+</T>
+<T>
+DESDEMONA
+No, my lord.
+</T>
+<T>
+OTHELLO
+Thats not good. An Egyptian woman gave that handkerchief to my mother. She was a witch, and she could
+</T>
+<T>
+almost read peoples thoughts. She told my mother that as long as she kept it with her, my father would love and desire her. But if she lost it or gave it away, my father would start hating her and looking at other women. When she was dying she gave it to me and told me to give it to my wife when I got married. I did. So pay attention. Treat it as something precious. Losing it or giving it away would be an unspeakable loss, a loss like none other.
+</T>
+<T>
+DESDEMONA
+Is that possible?
+</T>
+<T>
+OTHELLO
+Yes, its true. Theres magic in its fabric. A two-hundred-year-old witch sewed it while she was in a fevered trance. The silk came from sacred silkworms, and it was dyed with fluid made from embalmed virgins' hearts.
+</T>
+<T>
+DESDEMONA
+Really? Is that true?
+</T>
+<T>
+OTHELLO
+Its absolutely true, so take good care of it.
+</T>
+<T>
+DESDEMONA
+I wish I had never seen it!
+</T>
+<T>
+OTHELLO
+Ha! Why?
+</T>
+<T>
+DESDEMONA
+Why are you yelling at me so angrily?
+</T>
+<T>
+OTHELLO
+Is it lost? Is it gone? Tell me, is it missing?
+</T>
+<T>
+DESDEMONA
+God help me!
+</T>
+<T>
+OTHELLO
+What do you have to say for yourself?
+</T>
+<T>
+DESDEMONA
+Its not lost, but what if it were?
+</T>
+<T>
+OTHELLO
+What do you mean?
+</T>
+<T>
+DESDEMONA
+Im telling you, its not lost.
+</T>
+<T>
+OTHELLO
+Then bring it here. Let me see it.
+</T>
+<T>
+DESDEMONA
+I could, sir. But I dont want to now. This is just a trick to take my mind off what Im asking you for. Please hire Cassio again.
+</T>
+<T>
+OTHELLO
+Bring me the handkerchiefMy mind is full of doubt.
+</T>
+<T>
+DESDEMONA
+Come on. You know youll never find a more capable man.
+</T>
+<T>
+OTHELLO
+The handkerchief!
+</T>
+<T>
+DESDEMONA
+Hes counted on your friendship for his success. Hes shared dangers with you
+</T>
+<T>
+OTHELLO
+The handkerchief!
+</T>
+<T>
+DESDEMONA
+Really, I dont think youre behaving very well.
+</T>
+<T>
+OTHELLO
+Damn it!
+</T>
+<T>
+EMILIA
+And you say hes not jealous?
+</T>
+<T>
+DESDEMONA
+I never saw him like this before. There must be some magic in that handkerchief. Im miserable that I lost it.
+</T>
+<T>
+EMILIA
+Men are all the same, but it takes longer than a year or two to see how bad they are. Theyre like stomachs and were just the food. They eat us up hungrily, and when theyre full, they vomit us up. Look, here comes Cassio and my husband.
+</T>
+<T>
+IAGO
+Theres no other way. Shes the one whos got to do it. And what luck, shes here! Go ahead and ask her.
+</T>
+<T>
+DESDEMONA
+Hello, Cassio. How are you?
+</T>
+<T>
+CASSIO
+Nothing, madam. Just my earlier request. Im begging you to help me get back on his good side. Im devoted to him with all my heart. I cant wait any longer. If my wrongdoing was so serious that I cant get back into his good graces either by my past service, or my present situation, or the promise of devoted service in the future, just knowing that would help me. Then I could stop wondering, and find some other career.
+</T>
+<T>
+DESDEMONA
+Im sorry, dear Cassio, but now is not the right time to bring up your case. My husbands not himself. If his face changed as much as his personality has, I wouldnt recognize him. God knows I have done my best to argue for you, and made him angry at me for being so aggressive. Youll just have to be patient for a little while. Ill do what I can, more than Id do for myself. Let that be enough for you.
+</T>
+<T>
+IAGO
+Is Othello angry?
+</T>
+<T>
+EMILIA
+He just left, clearly upset about something.
+</T>
+<T>
+IAGO
+Can he even get angry? Its hard to believe. Ive seen him stay calm when cannons were blowing his soldiers to bits, even killing his own brother without him batting an eyelidis he really upset? It must be about something important. Ill go talk to him. If hes angry, there must be something seriously wrong.
+</T>
+<T>
+DESDEMONA
+Please, do so.
+</T>
+<T>
+There must be some political news from Venice, or some dangerous plot here in Cyprus has ruined his good mood. Men always get angry about little things when theyre really worried about bigger ones. Thats the way it goes. When our finger hurts, it makes the rest of the body hurt too. We shouldnt expect men to be perfect, or for them to be as polite as on the weddingday. Oh, Emilia, Im so inexperienced that I thought he was being unkind, but actually I was judging him harshly.
+</T>
+<T>
+EMILIA
+I hope to God its something political, like you think, and not jealousy involving you.
+</T>
+<T>
+DESDEMONA
+Oh no! I never gave him reason to be jealous.
+</T>
+<T>
+EMILIA
+But jealous people dont think like that. Theyre never jealous for a reason; theyre just jealous. Its like a monster that just grows and grows, out of nothing.
+</T>
+<T>
+DESDEMONA
+I hope God keeps that monster from growing in Othellos mind!
+</T>
+<T>
+EMILIA
+Amen to that, lady.
+</T>
+<T>
+DESDEMONA
+Ill go look for himCassio, stay around here. If hes in a good mood Ill mention you again, and do everything I can.
+</T>
+<T>
+CASSIO
+I thank you, lady.
+</T>
+<T>
+BIANCA
+Hello, Cassio!
+</T>
+<T>
+CASSIO
+Why are you so far from home? How are you, my pretty Bianca? To tell you the truth, I was just going to your house.
+</T>
+<T>
+BIANCA
+And I was just going to yours. Youve kept away from me for a week? Seven days and seven nights? A hundred and sixty-eight hours? And lovers' hours are a hundred and sixty times longer than normal ones! What a tedious wait!
+</T>
+<T>
+CASSIO
+Im sorry, Bianca. All this time Ive been depressed and had problems on my mind. When I get some free time Ill make it up to you. (he gives her DESDEMONA s handkerchief) Sweet Bianca, would you copy this embroidery pattern for me?
+</T>
+<T>
+BIANCA
+Oh, Cassio, where did you get this? This is a gift from another woman, a new lover! Now I know why youve been staying away from me. Has it come to this? Well, well.
+</T>
+<T>
+CASSIO
+Oh, come on, woman. Stop jumping to silly conclusions. Now youre jealous, thinking that this is from some mistress of mine, but I swear its not, Bianca.
+</T>
+<T>
+BIANCA
+Well, whose is it?
+</T>
+<T>
+CASSIO
+I dont even know. I found it in my room. Its pretty. Someone is certainly looking for it, and Ill have to give it back. So Id like it copied. Take it and do that for me, and leave me alone for a while.
+</T>
+<T>
+BIANCA
+Leave you alone! Why?
+</T>
+<T>
+CASSIO
+Im waiting here for the general, and I dont want him to see me with a woman.
+</T>
+<T>
+BIANCA
+And whys that?
+</T>
+<T>
+CASSIO
+Its not because I dont love you.
+</T>
+<T>
+BIANCA
+But you dont love me. Please, just walk with me a little ways, and tell me if Ill see you later tonight.
+</T>
+<T>
+CASSIO
+I can only walk a little way with you, since Im waiting here. But Ill see you soon.
+</T>
+<T>
+BIANCA
+All right, have it your way. I have to make do.
+</T>
+<T>
+IAGO
+Do you really think so?
+</T>
+<T>
+OTHELLO
+What do you mean, do I think so?
+</T>
+<T>
+IAGO
+What, just because they kissed in private?
+</T>
+<T>
+OTHELLO
+An illicit kiss!
+</T>
+<T>
+IAGO
+Maybe she was just naked in bed with him for an hour or so, but they didnt do anything.
+</T>
+<T>
+OTHELLO
+Naked in bed together, but without doing anything? Come on, Iago. That would be like playing a trick on the devil: theyd make him think theyre going to commit adultery, but then back off. Anyone who acted like that would be letting the devil tempt them, and tempting God to condemn them.
+</T>
+<T>
+IAGO
+As long as they didnt do anything, it would only be a minor sin. But if I gave my wife a handkerchief
+</T>
+<T>
+OTHELLO
+Then what?
+</T>
+<T>
+IAGO
+Then its hers. And if its hers, I guess she can give it to any man she wants.
+</T>
+<T>
+OTHELLO
+Her reputation is also her own. Can she give that away too?
+</T>
+<T>
+IAGO
+You cant see a reputation. A lot of people dont even deserve the reputations they have. But a handkerchief
+</T>
+<T>
+OTHELLO
+God, I wish I could forget about the handkerchief! What you told me it haunts me like a nightmarehes got my handkerchief!
+</T>
+<T>
+IAGO
+Yes, what about it?
+</T>
+<T>
+OTHELLO
+Thats not good.
+</T>
+<T>
+IAGO
+What if Id said I saw him do something to hurt you? Or heard him say something about it. You know there are jerks out there who have to brag about bedding some woman.
+</T>
+<T>
+OTHELLO
+Has he said anything?
+</T>
+<T>
+IAGO
+Yes, but hed deny it all.
+</T>
+<T>
+OTHELLO
+What did he say?
+</T>
+<T>
+IAGO
+He said he didI dont know.
+</T>
+<T>
+OTHELLO
+He what?
+</T>
+<T>
+IAGO
+He was in bed with
+</T>
+<T>
+OTHELLO
+With her?
+</T>
+<T>
+IAGO
+With her, on top of herhowever you want to say it.
+</T>
+<T>
+OTHELLO
+In bed with her? On top of her? I would have thought people were telling lies about her rather than believe he was lying on her. My God, its nauseating! Handkerchiefconfessionshandkerchief! Ill kill him first, and then let him confessIm trembling with rage. I wouldnt be trembling like this if I didnt know deep down this was all true. Noses, ears, lips. Is it possible? Tell me the truthHandkerchiefDamn it!
+</T>
+<T>
+IAGO
+Keep working, poison! This is the way to trick gullible fools. Many good and innocent women are punished for reasons like this.My lord? My lord, Othello!
+</T>
+<T>
+Hey, Cassio!
+</T>
+<T>
+CASSIO
+Whats the matter?
+</T>
+<T>
+IAGO
+Othellos having some kind of epileptic fit. This is his second fit like this. He had one yesterday.
+</T>
+<T>
+CASSIO
+Rub his temples.
+</T>
+<T>
+IAGO
+No, dont. This fit has to run its course. If you interrupt it, hell foam at the mouth and go crazy. Look, hes moving. Why dont you go away for a bit? Hell get
+</T>
+<T>
+better right away. When he leaves, its very important that I talk to you.
+</T>
+<T>
+What happened, general? Did you hit your head?
+</T>
+<T>
+OTHELLO
+Are you making fun of me?
+</T>
+<T>
+IAGO
+Making fun of you? No, I swear! I wish you could face your bad news like a man!
+</T>
+<T>
+OTHELLO
+A man whos been cheated on isnt a real man. Hes subhuman, like an animal.
+</T>
+<T>
+IAGO
+In that case there are a lot of animals on the loose in this city.
+</T>
+<T>
+OTHELLO
+Did he confess?
+</T>
+<T>
+IAGO
+Sir, be a man. Every married man has been cheated on. Millions of men sleep with wives who cheat on them, wrongly believing they belong to them alone. Your case is better than that. At least youre not ignorant. The worst thing of all is to kiss your wife thinking shes innocent, when in fact shes a whore. No, Id rather know the truth. Then Ill know exactly what she is, just as I know what I am.
+</T>
+<T>
+OTHELLO
+Youre wise! Thats for sure.
+</T>
+<T>
+IAGO
+Go somewhere else for a while. Calm down. While you were dazed by griefwhich isnt appropriate for a man like youCassio showed up here. I got him to leave, and made up an excuse for your trance. I told him to come back and talk to me in a bit, and he promised he would. So hide here and watch how he sneers
+</T>
+<T>
+at you. Ill make him tell me the whole story againwhere, how often, how long agoand when he plans to sleep with your wife in the future. Im telling you, just watch his face. But stay calm, and dont get carried away by rage, or Ill think youre not a man.
+</T>
+<T>
+OTHELLO
+Do you hear what Im saying, Iago? Ill be very patient, butdo you hear me?Im not done with him yet
+</T>
+<T>
+IAGO
+Thats fine, but for now keep your cool. Will you go hide?
+</T>
+<T>
+Now Ill ask Cassio about Bianca, a prostitute who sells her body for food and clothes. Shes crazy about Cassio. Thats the whores curse, to seduce many men, but to be seduced by one. Whenever he talks about her he cant stop laughing.
+</T>
+<T>
+And when he laughs, Othello will go crazy. In his ignorant jealousy, hell totally misunderstand Cassios smiles, gestures, and jokes.How are you, lieutenant?
+</T>
+<T>
+CASSIO
+It doesnt make me feel any better when you call me lieutenant. Im dying to have that title back again.
+</T>
+<T>
+IAGO
+Just keep asking Desdemona, and itll be yours. If it was up to Bianca to get you your job back, youd have had it already!
+</T>
+<T>
+CASSIO
+The poor thing!
+</T>
+<T>
+OTHELLO
+Hes laughing already!
+</T>
+<T>
+IAGO
+I never knew a woman who loved a man so much.
+</T>
+<T>
+CASSIO
+The poor thing, I really think she loves me.
+</T>
+<T>
+OTHELLO
+Now he denies it a bit, and tries to laugh it off.
+</T>
+<T>
+IAGO
+Have you heard this, Cassio?
+</T>
+<T>
+OTHELLO
+Hes asking him to tell the story again. Go on, tell it.
+</T>
+<T>
+IAGO
+She says youre going to marry her. Are you?
+</T>
+<T>
+CASSIO
+Ha, ha, ha!
+</T>
+<T>
+OTHELLO
+Are you laughing because youve won? Do you think youve won?
+</T>
+<T>
+CASSIO
+Me, marry her? That whore? Please give me a little credit! Im not that stupid. Ha, ha, ha!
+</T>
+<T>
+OTHELLO
+So, so, so, so! The winners always got the last laugh, hasnt he?
+</T>
+<T>
+IAGO
+I swear, theres a rumor going around that youll marry her.
+</T>
+<T>
+CASSIO
+Youre kidding!
+</T>
+<T>
+IAGO
+If its not true, you can call me a villain.
+</T>
+<T>
+OTHELLO
+Have you given me bastard children to raise? All right, then.
+</T>
+<T>
+CASSIO
+The little monkey must have started that rumor herself. She thinks Ill marry her because she loves me. Shes just flattering herself. I never promised her anything.
+</T>
+<T>
+OTHELLO
+Iago is gesturing for me to come closer. Now hes telling the story.
+</T>
+<T>
+CASSIO
+She was here just now. She hangs around me all the time. I was talking to some Venetians down by the shore, and the fool showed up. I swear to you, she put her arms around me like this
+</T>
+<T>
+OTHELLO
+Saying, Oh, Cassio, it seems, judging by his gestures.
+</T>
+<T>
+CASSIO
+She hangs around me and dangles from my neck and cries, shaking me and pulling at me. Ha, ha, ha!
+</T>
+<T>
+OTHELLO
+Now hes saying how she took him into our bedroom. Oh, I can see your nose now. But I cant see the dog Im going to throw it to.
+</T>
+<T>
+CASSIO
+I have to get rid of her.
+</T>
+<T>
+IAGO
+Look out, here she comes.
+</T>
+<T>
+CASSIO
+Its a whore like all the others, stinking of cheap perfume.Why are you always hanging around me?
+</T>
+<T>
+BIANCA
+Damn you! What did you mean by giving me this handkerchief? I was an idiot to take it! You want me to copy the embroidery pattern? That was a likely story, that you found it in your room and didnt know who it belonged to. This is a love token from some other slut, and you want me to copy its pattern for you? Give it back to her, I wont do anything with it.
+</T>
+<T>
+CASSIO
+What is it, my dear Bianca? Whats wrong?
+</T>
+<T>
+OTHELLO
+My God, thats my handkerchief!
+</T>
+<T>
+BIANCA
+If you want to come have dinner with me, you can. If you dont want to, then good riddance.
+</T>
+<T>
+IAGO
+Go after her, go.
+</T>
+<T>
+CASSIO
+Actually, I should. Shell scream in the streets if I dont.
+</T>
+<T>
+IAGO
+Will you be having dinner with her tonight?
+</T>
+<T>
+CASSIO
+Yes, I will.
+</T>
+<T>
+IAGO
+Well, maybe Ill see you there. Id really like to speak with you.
+</T>
+<T>
+CASSIO
+Please come. Will you?
+</T>
+<T>
+IAGO
+Dont talk anymore, go after her.
+</T>
+<T>
+OTHELLO
+(coming forward) How should I murder him, Iago?
+</T>
+<T>
+IAGO
+Did you see how he laughed about sleeping with her?
+</T>
+<T>
+OTHELLO
+Oh Iago!
+</T>
+<T>
+IAGO
+And did you see the handkerchief?
+</T>
+<T>
+OTHELLO
+Was it mine?
+</T>
+<T>
+IAGO
+It was yours, I swear. And do you see how much your foolish wife means to him? She gave it to him, and he gave it to his whore.
+</T>
+<T>
+OTHELLO
+I wish I could keep killing him for nine years straight. Oh, shes a fine woman! A fair woman! A sweet woman!
+</T>
+<T>
+IAGO
+No, you have to forget all that now.
+</T>
+<T>
+OTHELLO
+Yes, let her die and rot and go to hell tonight. She wont stay alive for long. No, my hearts turned to stonewhen I hit it, it hurts my hand. Oh, the world never saw a sweeter creature. She could be married to an emperor, and hed be like her slave!
+</T>
+<T>
+IAGO
+But thats not how youre going to be.
+</T>
+<T>
+OTHELLO
+Damn her, Im just describing her truthfully! Shes so good at sewing, and a wonderful musician. Oh, she could sing a wild bear to sleep! Oh, shes so witty and creative!
+</T>
+<T>
+IAGO
+All the worse that she stooped this low, then.
+</T>
+<T>
+OTHELLO
+Oh, a thousand times worse, a thousand timesand what a sweet personality she has!
+</T>
+<T>
+IAGO
+Yes, a little too sweet.
+</T>
+<T>
+OTHELLO
+Yes, thats for sure. Oh, its dreadful, dreadful, Iago!
+</T>
+<T>
+IAGO
+If you still feel so affectionate toward her, then why not give her permission to cheat on you? If it doesnt bother you, it wont bother anyone else.
+</T>
+<T>
+OTHELLO
+Ill chop her into pieces. How could she cheat on me?
+</T>
+<T>
+IAGO
+Oh, its horrible of her.
+</T>
+<T>
+OTHELLO
+And with my own officer!
+</T>
+<T>
+IAGO
+Thats worse.
+</T>
+<T>
+OTHELLO
+Get me some poison tonight, Iago. I wont argue with her, so her beautiful body wont disarm me.Tonight, Iago.
+</T>
+<T>
+IAGO
+Dont do it with poison. Strangle her in her bed, the same bed shes contaminated.
+</T>
+<T>
+OTHELLO
+Good, good, I like thatits only fair! Very good!
+</T>
+<T>
+IAGO
+And let me kill Cassio. Youll hear more from me by midnight.
+</T>
+<T>
+OTHELLO
+Excellent, good.
+</T>
+<T>
+Whats that trumpet for?
+</T>
+<T>
+IAGO
+I think someones coming from Venice. Its Lodovico. He must be coming from the duke. Look, your wife is with him.
+</T>
+<T>
+LODOVICO
+Greetings, good general!
+</T>
+<T>
+OTHELLO
+Greetings, sir.
+</T>
+<T>
+LODOVICO
+The duke and senators of Venice greet you.
+</T>
+<T>
+OTHELLO
+Ill do whatever they order me to do in this letter.
+</T>
+<T>
+DESDEMONA
+Whats new, cousin Lodovico?
+</T>
+<T>
+IAGO
+Very nice to see you, sir. Welcome to Cyprus.
+</T>
+<T>
+LODOVICO
+Thank you. How is lieutenant Cassio?
+</T>
+<T>
+IAGO
+Well, hes alive.
+</T>
+<T>
+DESDEMONA
+Cousin, theres been a falling out between him and Othello. An unfortunate rift, but you can fix it.
+</T>
+<T>
+OTHELLO
+Are you sure of that?
+</T>
+<T>
+DESDEMONA
+Excuse me?
+</T>
+<T>
+OTHELLO
+(reading) Dont fail to do this, since youll
+</T>
+<T>
+LODOVICO
+He didnt say anything, hes reading. So theres a rift between Othello and Cassio?
+</T>
+<T>
+DESDEMONA
+Yes, unfortunately. Id do anything to bring them back together, since I really care for Cassio.
+</T>
+<T>
+OTHELLO
+Damn it all!
+</T>
+<T>
+DESDEMONA
+Excuse me, my lord?
+</T>
+<T>
+OTHELLO
+Are you in your right mind?
+</T>
+<T>
+DESDEMONA
+Is he angry?
+</T>
+<T>
+LODOVICO
+Maybe the letter upset him. I think they want him to go home and appoint Cassio governor in his place.
+</T>
+<T>
+DESDEMONA
+Im happy about that.
+</T>
+<T>
+OTHELLO
+Oh, are you really!
+</T>
+<T>
+DESDEMONA
+My lord?
+</T>
+<T>
+OTHELLO
+Im glad youre insane enough to admit it in front of me.
+</T>
+<T>
+DESDEMONA
+Why, sweet Othello
+</T>
+<T>
+OTHELLO
+(striking her) You devil!
+</T>
+<T>
+DESDEMONA
+I havent done anything to deserve this!
+</T>
+<T>
+LODOVICO
+My lord, no one will believe this in Venice, even though Id swear I saw it with my own eyes. That was too much. You should apologize. Shes crying.
+</T>
+<T>
+OTHELLO
+Oh, you devil, you devil! You can cry all day and all night, and I still wont believe youre sad. Get out of my sight!
+</T>
+<T>
+DESDEMONA
+I wouldnt want to stay here and make you angry.
+</T>
+<T>
+LODOVICO
+Shes obedienta fine lady. Please, my lord, call her back.
+</T>
+<T>
+OTHELLO
+Madam!
+</T>
+<T>
+DESDEMONA
+My lord?
+</T>
+<T>
+OTHELLO
+What do you want with her, sir?
+</T>
+<T>
+LODOVICO
+Who, me?
+</T>
+<T>
+OTHELLO
+Yes, you asked me to call her back. See how well she can turn? She can turn and turn, and then turn on you again. And she can cry, siroh, how she can cry! And shes obedient, as you say, obedient. Very obedientkeep crying.Concerning thisoh, what fake emotion!I am being ordered homeGet away from me, Ill send for you later.Sir, Ill obey the order and return to Venice. Get away from me, you witch!
+</T>
+<T>
+Cassio can have my job. And tonight, sir, I invite you have dinner with me. Welcome to Cyprus. Horny animals!
+</T>
+<T>
+LODOVICO
+Is this the same Moor whom the senate considers so capable? Is this the guy whos supposed to never get emotional, and who never gets rattled, no matter what disaster happens?
+</T>
+<T>
+IAGO
+Hes changed a great deal.
+</T>
+<T>
+LODVICO
+Is he sane? Is he losing his mind?
+</T>
+<T>
+IAGO
+He is what he is. I wont say anything negative about what he might be. If he isnt what he might be, then I wish to God he were!
+</T>
+<T>
+LODOVICO
+Hitting his wife?
+</T>
+<T>
+IAGO
+Its true, that wasnt such a nice thing to do. But I wish I could say thats the last time hell do it!
+</T>
+<T>
+LODOVICO
+Is it a habit of his? Or did the letter make him emotional somehow, and this is the first time hes done it?
+</T>
+<T>
+IAGO
+Oh, its too bad! It wouldnt be right for me to tell you everything Ive seen and heard. Youll see what hes like. His own actions will show you what kind of person he is, so I wont have to bother telling you. Just go after him and watch what he does next.
+</T>
+<T>
+LODOVICO
+Im sorry I was so wrong about him.
+</T>
+<T>
+OTHELLO
+You havent seen anything, then?
+</T>
+<T>
+EMILIA
+No, and I didnt hear anything either, or suspect anything at all.
+</T>
+<T>
+OTHELLO
+But youve seen her and Cassio together.
+</T>
+<T>
+EMILIA
+Yes, but I didnt see anything wrong, and I heard every syllable they said.
+</T>
+<T>
+OTHELLO
+Didnt they ever whisper?
+</T>
+<T>
+EMILIA
+Never, my lord.
+</T>
+<T>
+OTHELLO
+Or ask you to leave the room?
+</T>
+<T>
+EMILIA
+Never.
+</T>
+<T>
+OTHELLO
+Not even to get her fan, or her gloves, or her mask, or anything?
+</T>
+<T>
+EMILIA
+No, my lord.
+</T>
+<T>
+OTHELLO
+Thats strange.
+</T>
+<T>
+EMILIA
+Id swear to you on my soul that shes a good, honest person, sir. If you suspect otherwise, stop thinking that right now because youre wrong. If any jerk has tried to convince you shes bad, I hope God curses him. If shes not honest, faithful, and true, then theres no such thing as a faithful wife or a happy husband.
+</T>
+<T>
+OTHELLO
+Tell her to come here. Go.
+</T>
+<T>
+She says all the right things, but the dumbest brothel-keeper would tell the same story. Desdemonas a tricky whore with a closet full of awful secrets, but still shell kneel and pray like an honest woman. Ive seen her do it.
+</T>
+<T>
+DESDEMONA
+My lord, what do you want?
+</T>
+<T>
+OTHELLO
+Please, dear, come here.
+</T>
+<T>
+DESDEMONA
+What can I do for you?
+</T>
+<T>
+OTHELLO
+Let me see your eyes. Look at my face.
+</T>
+<T>
+DESDEMONA
+What horrible thing are you imagining?
+</T>
+<T>
+OTHELLO
+(to EMILIA) Go do what you do best, madam. Leave us alone for our hanky-panky, and shut the door behind you. If somebody comes, give a shout. Thats your jobOthello implies that Emilia\s job is to help men and women have illicit sex.job, your job. Go on, hurry!
+</T>
+<T>
+DESDEMONA
+Im begging you on my knees to tell me what your words mean. I can tell youre furious, but I dont understand what youre saying.
+</T>
+<T>
+OTHELLO
+Why? Who are you?
+</T>
+<T>
+DESDEMONA
+Im your wife, your true and loyal wife.
+</T>
+<T>
+OTHELLO
+Go ahead, swear to that, so youll be damned to hell for lying. Otherwise the devils will mistake you for an angel and be too scared to grab you. Go ahead, make sure you damn yourself by swearing youve been faithful to me.
+</T>
+<T>
+DESDEMONA
+Heaven knows I am.
+</T>
+<T>
+OTHELLO
+Heaven knows youre as unfaithful as hell.
+</T>
+<T>
+DESDEMONA
+Unfaithful, my lord? With whom? How am I unfaithful?
+</T>
+<T>
+OTHELLO
+Leave me alone, Desdemona, go away!
+</T>
+<T>
+DESDEMONA
+Oh, what a horrible day! Why are you crying? Because of me? If youve been ordered back to Venice because of my father, dont blame me. You may have lost his respect, but so have I.
+</T>
+<T>
+OTHELLO
+If God had decided to treat me like Job, making me sick and covered with sores, reducing me to abject poverty, selling me into slavery and destroying all my hopes, I would have found some way to accept it with patience. But instead Hes made me a laughingstock for everyone in our time to point at and scorn! Even that I could put up with. But instead, my wife, whos supposed to
+</T>
+<T>
+be like the fountain that my children and all my descendants flow from, has rejected me! Worse than that, shes polluted herself, so that the fountain is a place where disgusting toads copulate and reproduce! Even the goddess of patience couldnt look at this and be patientits too horrifying!
+</T>
+<T>
+DESDEMONA
+I hope you think Im faithful to you.
+</T>
+<T>
+OTHELLO
+As faithful as flies in rotting meat, which give birth to maggots every time the wind blows. Youre like a weed pretending to be a flower, so beautiful and sweet-smelling that I ache when I look at you. Oh, I wish youd never been born!
+</T>
+<T>
+DESDEMONA
+Have I done something to offend you without knowing it?
+</T>
+<T>
+OTHELLO
+Was someone as beautiful as you meant to be a whore? What have you done? What have you done? Oh, you streetwalker! If I said out loud what youve done, youd burn up with shame. What have you done? Heaven has to hold its nose when it sees you! The pure moon in the sky has to shut its eyes when you go by! Even the wind that blows over everything on earth is ashamed to visit you. You brazen whore!
+</T>
+<T>
+DESDEMONA
+I swear to God youre accusing me wrongly!
+</T>
+<T>
+OTHELLO
+So youre saying youre not a whore?
+</T>
+<T>
+DESDEMONA
+No, Im as honest as I am Christian. If only letting my husband touch my body means Im not a whore, Im not a whore.
+</T>
+<T>
+OTHELLO
+What, youre not a whore?
+</T>
+<T>
+DESDEMONA
+No, I swear it.
+</T>
+<T>
+OTHELLO
+Is that possible?
+</T>
+<T>
+DESDEMONA
+Oh, heaven help us!
+</T>
+<T>
+OTHELLO
+I beg your pardon then. I must have the wrong woman. I mistook you for that sly Venetian woman who married Othello.You whorehouse-keeper.
+</T>
+<T>
+Youre in charge of this hell! You! Weve finished our business. Heres some money for you. Please lock the door and keep quiet.
+</T>
+<T>
+EMILIA
+Whats he talking about? How are you, madam?
+</T>
+<T>
+DESDEMONA
+Im stunned, to tell you the truth.
+</T>
+<T>
+EMILIA
+My lady, whats wrong with your husband?
+</T>
+<T>
+DESDEMONA
+With who?
+</T>
+<T>
+EMILIA
+Why, with your husband, madam. My lord.
+</T>
+<T>
+DESDEMONA
+Whos your lord?
+</T>
+<T>
+EMILIA
+My lord is your lord.
+</T>
+<T>
+DESDEMONA
+I dont have a lord. Dont talk to me, Emilia. I cant even cry, though tears are the only answers I could give to all your questions. Tonight put my wedding sheets on my bed, and tell your husband to come to me now.
+</T>
+<T>
+EMILIA
+Things have certainly changed!
+</T>
+<T>
+DESDEMONA
+Its fair for him to treat me like this, very fair. What have I ever done that he has anything to complain about?
+</T>
+<T>
+IAGO
+What can I do for you, madam? How are you?
+</T>
+<T>
+DESDEMONA
+I dont know. When grown-ups teach little children, they do it gently and easily. He might have treated me like that, because Im as unused to abuse as a little child.
+</T>
+<T>
+IAGO
+Whats the matter, lady?
+</T>
+<T>
+EMILIA
+He called her a whore so many times, and heaped up so much abuse on her that good people cant stand to hear it.
+</T>
+<T>
+DESDEMONA
+Am I that name, Iago?
+</T>
+<T>
+IAGO
+What name, madam?
+</T>
+<T>
+DESDEMONA
+What my lord said I was.
+</T>
+<T>
+EMILIA
+He called her a whore. A beggar couldnt have called his slut worse names.
+</T>
+<T>
+IAGO
+Why did he do that?
+</T>
+<T>
+DESDEMONA
+I dont know. I just know Im not one.
+</T>
+<T>
+IAGO
+Dont cry, dont cry. What a day this is!
+</T>
+<T>
+EMILIA
+Did she give up all those chances to marry noblemen, give up her father and country and friends, just to be called a whore? Doesnt that make you want to cry?
+</T>
+<T>
+DESDEMONA
+Its just my bad luck.
+</T>
+<T>
+IAGO
+Damn him! How did he get such an idea?
+</T>
+<T>
+DESDEMONA
+Heaven knows.
+</T>
+<T>
+EMILIA
+I bet my life some evil busybody, some meddling, lying jerk made up this rumor to get some position. I bet my life on it.
+</T>
+<T>
+IAGO
+Nobodys that bad. Its impossible.
+</T>
+<T>
+DESDEMONA
+If there is, then heaven help him!
+</T>
+<T>
+EMILIA
+A hangmans noose will help him! Let hell chew him up! Why should he call her a whore? Whos been with her? When has she had the time, the place, or the means to sleep with anyone? How is this at all likely? The Moor is being tricked by some crook, some terrible villain, some rotten bastard. Oh, I wish we could unmask scoundrels like that, and give a whip to every good man to beat them senseless with!
+</T>
+<T>
+IAGO
+Keep your voice down.
+</T>
+<T>
+EMILIA
+Oh, to hell with those people! Its the same kind of guy who got you upset and made you suspect Id cheated on you with the Moor.
+</T>
+<T>
+IAGO
+Youre a fool. Shut up.
+</T>
+<T>
+DESDEMONA
+Oh God, Iago, what can I do to win my husband back again? Please go to him, my friend. I swear I have no idea why he stopped loving me. Here Im kneeling to swear that if I ever did anything to destroy his love for me, either by thoughts or actions, or if I ever took pleasure in anyone else, or if I never did love him, or dont love him noweven though he tries to shake me off
+</T>
+<T>
+then I hope I have a life of misery! Unkindness is powerful, and his unkindness may kill me, but itll never destroy my love. I cant say whore. It makes me sick to say the word even now. I wouldnt do the thing that would make me a whore for all the money in the world.
+</T>
+<T>
+IAGO
+Please calm down. Hes just in a bad mood. Political business is bothering him, and hes just taking it out on you.
+</T>
+<T>
+DESDEMONA
+If only that were all it is
+</T>
+<T>
+IAGO
+It is, I promise.
+</T>
+<T>
+Those trumpets are calling us in to dinner. The Venetians are waiting for their food. Go in, and dont cry. Everything will be all right.
+</T>
+<T>
+How are you, Roderigo?
+</T>
+<T>
+RODERIGO
+I dont think youre treating me fairly.
+</T>
+<T>
+IAGO
+What makes you say that?
+</T>
+<T>
+RODERIGO
+Every day you put me off with some trick. Instead of finding opportunities for me, you seem to be preventing me from making any progress.
+</T>
+<T>
+Well, I wont take it any longer. And Im not going to sit back and accept what youve done.
+</T>
+<T>
+IAGO
+Will you listen to me, Roderigo?
+</T>
+<T>
+RODERIGO
+Ive listened to you too much already. Your words and actions dont match up.
+</T>
+<T>
+IAGO
+Thats not fair.
+</T>
+<T>
+RODERIGO
+Its the truth. Ive got no money left. The jewels you took from me to deliver to Desdemona wouldve made even a nun want to sleep with me. You told me she got them, and that she promised to give me a little something in return soon, but nothing like that ever happens.
+</T>
+<T>
+IAGO
+Well, all right then. Fine.
+</T>
+<T>
+RODERIGO
+Fine! he says. All right! Its not fine, and Im not all right! Its wrong, and Im starting to realize Im being cheated!
+</T>
+<T>
+IAGO
+Okay.
+</T>
+<T>
+RODERIGO
+Its not okay! Im going to tell Desdemona my feelings. If she returns my jewels, Ill stop pursuing her and apologize to her. If not, Ill challenge you to a duel.
+</T>
+<T>
+IAGO
+Youve said what you have to say now.
+</T>
+<T>
+RODERIGO
+Yes, and Ill do everything I just said.
+</T>
+<T>
+IAGO
+Well, all right then. Now I see that you have some guts. From this moment on I have a higher opinion of you than before. Give me your hand, Roderigo. Your complaint against me is perfectly understandable, but I still insist Ive done everything I could to help you.
+</T>
+<T>
+RODERIGO
+It doesnt look that way to me.
+</T>
+<T>
+IAGO
+I admit it doesnt look that way to me, and the fact that you suspect me shows that youre smart. But Roderigo, if youre as courageous and determined as I think you are, then wait just a bit longer. If youre not having sex with Desdemona tomorrow night, then I suggest you find some way to stab me in the back and kill me.
+</T>
+<T>
+RODERIGO
+Well, whats your plan? Is it feasible?
+</T>
+<T>
+IAGO
+Venice has made Cassio governor here on Cyprus.
+</T>
+<T>
+RODERIGO
+Is that true? Then Desdemona and Othello will go back to Venice.
+</T>
+<T>
+IAGO
+Oh, no. Hell go to Mauritania and take the beautiful Desdemona with him, unless he gets stuck here for some reason. The best way to extend his stay here is to get rid of Cassio.
+</T>
+<T>
+RODERIGO
+What do you mean, get rid of him?
+</T>
+<T>
+IAGO
+I mean knock his brains out, so he cant take Othellos place.
+</T>
+<T>
+RODERIGO
+And thats what you want me to do!
+</T>
+<T>
+IAGO
+Yes, if you want to help yourself. Hes having dinner tonight with a prostitute, and Ill go visit him. He doesnt know hes been appointed governor yet. When you see him walking by here (as Ill make sure he does between twelve and one) you can nab him. Ill be nearby to help you, and between the two of us we can handle him. Come on, dont stand there in a daze. Come along with me. Ill give you such reasons for killing him that youll feel obliged to snuff him out. Its nearly dinner time, and the nights going to be wasted. Lets go!
+</T>
+<T>
+RODERIGO
+I want to hear more about this.
+</T>
+<T>
+IAGO
+You will. Youll hear all you want to hear.
+</T>
+<T>
+LODOVICO
+Please, sir, dont trouble yourself.
+</T>
+<T>
+OTHELLO
+I beg your pardon; walking will make me feel better.
+</T>
+<T>
+LODOVICO
+Good night, madam. Thank you.
+</T>
+<T>
+DESDEMONA
+Youre most welcome.
+</T>
+<T>
+OTHELLO
+Would you walk out with me, sir?Oh, Desdemona
+</T>
+<T>
+DESDEMONA
+Yes, my lord?
+</T>
+<T>
+OTHELLO
+Go to bed right this minute. Ill be there shortly. Send your maid Emilia away. Make sure you do what I say.
+</T>
+<T>
+DESDEMONA
+I will, my lord.
+</T>
+<T>
+EMILIA
+How are things now? He looks calmer than he did before.
+</T>
+<T>
+DESDEMONA
+He says hell come back right away. He asked me to go to bed and to send you away.
+</T>
+<T>
+EMILIA
+Send me away?
+</T>
+<T>
+DESDEMONA
+Thats what he said. So give me my nightgown, Emilia, and Ill say goodnight. We shouldnt displease him.
+</T>
+<T>
+EMILIA
+Yes. I wish youd never met him.
+</T>
+<T>
+DESDEMONA
+Thats not what I wish. I love him even when hes harsh and meanHelp me unpin this, would you?I love even his stubbornness, his frowns, his bad moods.
+</T>
+<T>
+EMILIA
+I put those wedding sheets on your bed, as you asked.
+</T>
+<T>
+DESDEMONA
+It doesnt matter. Oh, how silly we are! If I die before you do make sure Im wrapped in those sheets in my coffin.
+</T>
+<T>
+EMILIA
+Listen to you! Dont be silly!
+</T>
+<T>
+DESDEMONA
+My mother had a maid named Barbary. She was in love, and her lover turned out to be wild and left her. She knew an old song called Willow that reminded her of her own story, and she died singing it. I cant get that song out of my head tonight. Its all I can do to keep myself from hanging my head down in despair and singing it like poor Barbary. Please, hurry up.
+</T>
+<T>
+EMILIA
+Should I get your nightgown?
+</T>
+<T>
+DESDEMONA
+No, just help me unpin this. That Lodovico is a good-looking man.
+</T>
+<T>
+EMILIA
+Hes very handsome.
+</T>
+<T>
+DESDEMONA
+He speaks well.
+</T>
+<T>
+EMILIA
+I know a lady in Venice whod walk all the way to Palestine for a kiss from him.
+</T>
+<T>
+DESDEMONA
+(singing)
+The poor soul sat singing by the sycamore tree,
+Everyone sing the green willow,
+She had her hand on her breast and her head on her knee,
+Sing willow, willow, willow.
+The fresh streams ran by her and murmured her moans,
+Sing willow, willow, willow.
+Her salt tears fell from her and softened the stones,
+Sing willow, willow, willow.
+Put these things over there.
+Please, hurry, hell come right away.
+Everyone sing, a green willow must be my garland.
+Nobody blame him, hes right to hate me
+No, thats not how it goes.Whos knocking?
+</T>
+<T>
+EMILIA
+Its the wind.
+</T>
+<T>
+DESDEMONA
+(singing) I told my lover he didnt love me, but what did he say? Sing willow, willow, willow.
+If I chase more women, youll sleep with more menOkay, go away now. Good night. My eyes itchis that an omen Ill be crying soon?
+</T>
+<T>
+EMILIA
+No, it doesnt mean anything.
+</T>
+<T>
+DESDEMONA
+I heard someone say thats what it means. Oh, these men, these men! Do you honestly thinktell me, Emiliathere are women whod cheat on their husbands in such a disgusting manner?
+</T>
+<T>
+EMILIA
+There are women like that out there, no question.
+</T>
+<T>
+DESDEMONA
+Would you ever do such a thing for all the world?
+</T>
+<T>
+EMILIA
+Why, wouldnt you?
+</T>
+<T>
+DESDEMONA
+By the light of heaven, no, I would not!
+</T>
+<T>
+EMILIA
+I wouldnt either, by daylight. It would be easier to do it in the dark.
+</T>
+<T>
+DESDEMONA
+Could you really do such a thing, for all the world?
+</T>
+<T>
+EMILIA
+The worlds huge. Its a big prize for such a small sin.
+</T>
+<T>
+DESDEMONA
+I dont think you would.
+</T>
+<T>
+EMILIA
+Actually I think I would, and then Id undo it after I did it. I wouldnt do it for a nice ring, or fine linen, or pretty gowns or petticoats or hats. But for the whole world? Who wouldnt cheat on her husband to make him king? Id risk my soul for that.
+</T>
+<T>
+DESDEMONA
+Id never do such a bad thing, not for the whole world!
+</T>
+<T>
+EMILIA
+Why, a bad action is just a wrong in this world, but when youve won the whole world, its a wrong in your own world, so you can make it right then.
+</T>
+<T>
+DESDEMONA
+I dont think any woman like that exists.
+</T>
+<T>
+EMILIA
+Yes, a dozen of themas many as there are women in the world, in fact. But I do think its the husbands fault if we wives cheat on them. For instance, our husbands
+</T>
+<T>
+may stop sleeping with us, and give it out to other women instead. Or they may get insanely jealous, and keep us from going anywhere. Or lets say they hit us, or cut back on the money they give us out of spite. We have feelings. We may be able to forgive them, but we want to get back at them too. Husbands need to know that their wives are human beings too. They see, smell, and taste sweet and sour just like their husbands. Why do they replace us with other women? Do they do it for fun? I think they do. Is it out of lust? I think so. Is it a weakness? It is. And dont we have passions, and a taste for fun, and weaknesses, just like men? Then tell them to treat us well. Or let them figure out that the bad things we do are just what we learned from them.
+</T>
+<T>
+DESDEMONA
+Good night, good night. I pray that God will let me learn from women like thatnot to follow their bad example, but to avoid it!
+</T>
+<T>
+IAGO
+Here, stand behind this wall; hell come right away. Keep your sword out, and then stick it in as far as itll go. Quick, quick. Dont be afraid. Ill be right next to you. This will either make us or break us. Keep that in mind, and be steady.
+</T>
+<T>
+RODERIGO
+Stay right near me. I may mess it up.
+</T>
+<T>
+IAGO
+Im right behind you. Be bold, and get ready.
+</T>
+<T>
+RODERIGO
+I dont really want to do this, but hes given me good reasons. I guess its only one manno big deal. My sword comes out, and he dies.
+</T>
+<T>
+IAGO
+(to himself) Ive rubbed this young pimple until hes ready to pop, and now hes angry. Whether he kills Cassio, or Cassio kills him, or they kill each other, it all works in my favor. If Roderigo survives, though, hell ask me for all the gold and jewelry that I stole from him and said I gave to Desdemona. I cant let that happen. If Cassio survives,hes so handsome and well-spoken that he makes me look ugly. And besides, the Moor might tell him about my lies about him.That would be very dangerous for me. No, hes got to die. Let it be so. I hear him coming.
+</T>
+<T>
+RODERIGO
+I know the sound of his walk.Die, villain!
+</T>
+<T>
+CASSIO
+That thrust might really have hurt me if I didnt have this armor on under my cloak. Now lets see what youve got on.
+</T>
+<T>
+RODERIGO
+Oh, Im dead!
+</T>
+<T>
+CASSIO
+Ill be crippled forever! Help! Murder! murder!
+</T>
+<T>
+OTHELLO
+Thats Cassios voice. Iago has kept his word.
+</T>
+<T>
+RODERIGO
+Oh, what a villain I am!
+</T>
+<T>
+OTHELLO
+Thats the truth.
+</T>
+<T>
+CASSIO
+Help me! Get some light! Get me a surgeon!
+</T>
+<T>
+OTHELLO
+Its him! Brave Iago, how honest and trustworthy you are! You even went as far as murder to help your friend in his misfortune. You teach me how I should act.
+</T>
+<T>
+Whore, your lovers dead now, and youll be going to hell soon. Im coming, slut! Ive shut the memory of your beautiful eyes out of my heart. Youve already stained our sheets with your lust; now Ill stain them with your whores blood.
+</T>
+<T>
+CASSIO
+Help! Isnt there a guard around? No one passing by? Murder! Murder!
+</T>
+<T>
+GRATIANO
+Somethings wrong, the man sounds panicked.
+</T>
+<T>
+CASSIO
+Oh, help!
+</T>
+<T>
+LODOVICO
+Listen!
+</T>
+<T>
+RODERIGO
+Ive acted like such a villain!
+</T>
+<T>
+LODOVICO
+Two or three men are groaning. But its dark out, and it could be a trap. Its not safe to go near them till we get more help.
+</T>
+<T>
+RODERIGO
+Nobodys coming? Ill bleed to death.
+</T>
+<T>
+LODOVICO
+Look!
+</T>
+<T>
+GRATIANO
+Heres someone coming in his pajamas, with a candle and weapons.
+</T>
+<T>
+IAGO
+Whos there? Whos shouting murder?
+</T>
+<T>
+LODOVICO
+We dont know.
+</T>
+<T>
+IAGO
+Didnt you hear someone shouting?
+</T>
+<T>
+CASSIO
+Im here, here! For heavens sake, help me!
+</T>
+<T>
+IAGO
+Whats the matter?
+</T>
+<T>
+GRATIANO
+(to LODOVICO) Thats Othellos ensign, I think.
+</T>
+<T>
+LODOVICO
+It is. Hes a good man.
+</T>
+<T>
+IAGO
+(to CASSIO) Whos shouting so loudly?
+</T>
+<T>
+CASSIO
+Is that you, Iago? Im here, Ive been destroyed by villains! Help me.
+</T>
+<T>
+IAGO
+Oh, lieutenant! What villains did this to you?
+</T>
+<T>
+CASSIO
+I think one of them is nearby and cant get away.
+</T>
+<T>
+IAGO
+The treacherous criminals!(to LODOVICO and GRATIANO) Whos there? Come here and help!
+</T>
+<T>
+RODERIGO
+Somebody help me over here!
+</T>
+<T>
+CASSIO
+Thats one of them.
+</T>
+<T>
+IAGO
+(to RODERIGO) Murderer! Villain!
+</T>
+<T>
+RODERIGO
+Damned Iago! You inhuman dog!
+</T>
+<T>
+IAGO
+Killing men in the dark? Where are these murderers? This is such a quiet, sleepy town!Murder, murder!Whos that coming? Are you good or evil?
+</T>
+<T>
+LODOVICO
+Judge for yourself.
+</T>
+<T>
+IAGO
+Signor Lodovico?
+</T>
+<T>
+LODOVICO
+Thats me.
+</T>
+<T>
+IAGO
+I beg your pardon. Cassios been wounded.
+</T>
+<T>
+GRATIANO
+Cassio!
+</T>
+<T>
+IAGO
+How are you doing, brother?
+</T>
+<T>
+CASSIO
+My legs been cut in two.
+</T>
+<T>
+IAGO
+God forbid! Bring me some light, gentlemen, Ill bind the wound with my shirt.
+</T>
+<T>
+BIANCA
+Whats the matter? Whos shouting?
+</T>
+<T>
+IAGO
+Whos shouting?
+</T>
+<T>
+BIANCA
+Oh, my dear Cassio! My sweet Cassio! Oh, Cassio, Cassio, Cassio!
+</T>
+<T>
+IAGO
+You notorious whore! Cassio, do you know who might have stabbed you like this?
+</T>
+<T>
+CASSIO
+No.
+</T>
+<T>
+GRATIANO
+Im sorry to find you like this. Ive been looking all over for you.
+</T>
+<T>
+IAGO
+Lend me your sashOh, if we only had a stretcher to carry him out of here!
+</T>
+<T>
+BIANCA
+Hes fainted! Oh Cassio, Cassio, Cassio!
+</T>
+<T>
+IAGO
+Sir, I believe this piece of trash, Bianca, has something to do with all this trouble.Hang in there, Cassio.Come here, bring the light. Do you recognize this face? Oh, no, its my friend and countryman, Roderigo.Yes, its Roderigo!
+</T>
+<T>
+GRATIANO
+What, Roderigo from Venice?
+</T>
+<T>
+IAGO
+Thats the one, sir. Do you know him?
+</T>
+<T>
+GRATIANO
+Know him? Yes.
+</T>
+<T>
+IAGO
+Signor Gratiano, I beg your pardon. I didnt mean to ignore youits just because of this bloody uproar.
+</T>
+<T>
+GRATIANO
+Im glad to see you.
+</T>
+<T>
+IAGO
+How are you doing, Cassio?Someone bring me a stretcher!
+</T>
+<T>
+GRATIANO
+Roderigo!
+</T>
+<T>
+IAGO
+Its him, its him.
+</T>
+<T>
+Goodheres the stretcher. Get somebody strong to carry him out of here. Ill get the generals surgeon. (to BIANCA) As for you, ma'am, dont bother. The man lying here was my dear friend, Roderigo.What was the problem between you?
+</T>
+<T>
+CASSIO
+There wasnt any problem. I dont even know him.
+</T>
+<T>
+IAGO
+(to BIANCA) Youre pale?Get Cassio out of here.You look awfully pale, Bianca.
+</T>
+<T>
+Do you see how afraid she is? Watch her, well get the whole story. Keep an eye on her. Do you see? The guilty speak volumes even when theyre silent.
+</T>
+<T>
+EMILIA
+Whats the matter? Whats the matter, husband?
+</T>
+<T>
+IAGO
+Cassio was attacked here in the dark by Roderigo and men who escaped. Hes near death, and Roderigos dead already.
+</T>
+<T>
+EMILIA
+Oh, no, good gentleman! Oh no, good Cassio!
+</T>
+<T>
+IAGO
+This is what happens when you visit whores. Please, Emilia, ask Cassio where he was at dinner tonight.(to BIANCA) What, does that make you nervous?
+</T>
+<T>
+BIANCA
+He ate at my house, but that doesnt make me nervous.
+</T>
+<T>
+IAGO
+Oh, did he? I order you to come with me.
+</T>
+<T>
+EMILIA
+Go to hell, you whore!
+</T>
+<T>
+BIANCA
+Im no whore. Im as moral as you are.
+</T>
+<T>
+EMILIA
+As moral as me! Damn you!
+</T>
+<T>
+IAGO
+Gentlemen, lets go make sure Cassios wounds are properly dressed.Come on, ma'am, you can tell us another story. Emilia, go to the castle and tell Othello and Desdemona what happened.Will you please go now? (to himself) This is the night thatll either make me or break me.
+</T>
+<T>
+OTHELLO
+I have to do it, I have to do it. I have to keep my reason in mind. I wont say out loud what my reason is, but I have to do it. But I wont shed any of her blood or scar that beautiful skin, whiter than snow and smooth as the finest marble. But shes got to die, or shell cheat on other men. Put out the light of the candle, and then put out the light of her heart. If I extinguish the candle, I can light it again if I regret it. But once I kill you, you beautiful, fake woman, I do not know the magic that could bring you back. When Ive plucked this rose, I cant make it grow again; it will have no choice but to wither and die. Let me smell you while youre still on the tree. (he kisses her) Oh, that sweet breath almost convinces me not to kill you and carry out justice. One more, one more kiss. If youre this beautiful when youre dead, Ill kill you and then love you afterward. (kissing her) One more, and this is the last. Such a sweet kiss was never so deadly. I have to cry, but I have to be cruel too. Im acting like God in the Old TestamentI have to punish the one I love. Shes waking up.
+</T>
+<T>
+DESDEMONA
+Whos there? Othello?
+</T>
+<T>
+OTHELLO
+Yes, Desdemona.
+</T>
+<T>
+DESDEMONA
+Will you come to bed, my lord?
+</T>
+<T>
+OTHELLO
+Have you said your prayers tonight, Desdemona?
+</T>
+<T>
+DESDEMONA
+Yes, my lord.
+</T>
+<T>
+OTHELLO
+If you can think of any crime you havent confessed, then pray for forgiveness right away.
+</T>
+<T>
+DESDEMONA
+Oh, my lord, what do you mean by that?
+</T>
+<T>
+OTHELLO
+Well, hurry up and confess. Be quick about it. Ill wait over here. I dont want to kill you before youve readied your soul. No, I dont want to send your soul to hell when I kill you.
+</T>
+<T>
+DESDEMONA
+Youre talking about killing?
+</T>
+<T>
+OTHELLO
+Yes, I am.
+</T>
+<T>
+DESDEMONA
+Then heaven have mercy on me.
+</T>
+<T>
+OTHELLO
+Amen to that, from the bottom of my heart.
+</T>
+<T>
+DESDEMONA
+If you really feel that way, then I hope you wont kill me.
+</T>
+<T>
+OTHELLO
+Hmmph!
+</T>
+<T>
+DESDEMONA
+Youre scaring me. You terrify me when you have that look in your eyes. I dont know why I should be afraid, since I havent done anything wrong. But Im still afraid.
+</T>
+<T>
+OTHELLO
+Think of your sins.
+</T>
+<T>
+DESDEMONA
+My only sin was loving you too much.
+</T>
+<T>
+OTHELLO
+Yes, thats why you have to die.
+</T>
+<T>
+DESDEMONA
+Youre wrong to kill me for loving you. Why are you chewing on your lower lip like that? Youre shaking with emotion. These are bad omens, but I hope, I hope, they dont predict my future.
+</T>
+<T>
+OTHELLO
+Quiet. Stay still.
+</T>
+<T>
+DESDEMONA
+I will. Whats this all about?
+</T>
+<T>
+OTHELLO
+You gave that handkerchief, the one I loved and gave to you, to Cassio.
+</T>
+<T>
+DESDEMONA
+No, I swear by my life and soul! Bring him here and ask him.
+</T>
+<T>
+OTHELLO
+My sweet darling, dont lie. Youre on your deathbed.
+</T>
+<T>
+DESDEMONA
+I am? But Im not dying yet!
+</T>
+<T>
+OTHELLO
+Yes, right now. So confess your sin freely now. Even if you swear youre innocent of every accusation, you wont change my mind or remove the thought thats tormenting me. Youre going to die.
+</T>
+<T>
+DESDEMONA
+Then heaven have mercy on me!
+</T>
+<T>
+OTHELLO
+Amen to that.
+</T>
+<T>
+DESDEMONA
+And you have mercy on me too! I never did anything wrong to you in my life. I never loved Cassio, except with the pure love that I feel for humankind. I never gave him any token of romantic love.
+</T>
+<T>
+OTHELLO
+I saw him holding the handkerchief! You liar, youre turning my heart to stone, and making me call what Ill do murder, when I had been thinking of it as a sacrifice! I saw the handkerchief.
+</T>
+<T>
+DESDEMONA
+He found it somewhere, then. I never gave it to him. Tell him to come here. Hell tell the truth.
+</T>
+<T>
+OTHELLO
+Hes already done so.
+</T>
+<T>
+DESDEMONA
+What, my lord?
+</T>
+<T>
+OTHELLO
+That he had sex with you.
+</T>
+<T>
+DESDEMONA
+What? Had sex with me?
+</T>
+<T>
+OTHELLO
+Yes.
+</T>
+<T>
+DESDEMONA
+He wouldnt say that.
+</T>
+<T>
+OTHELLO
+No. He wont say anything anymore. Honest Iagos arranged that.
+</T>
+<T>
+DESDEMONA
+Oh, Im scared. What, is he dead?
+</T>
+<T>
+OTHELLO
+If he had as many lives as hes got hairs on his head, I wouldve killed them all in revenge.
+</T>
+<T>
+DESDEMONA
+Oh, hes been betrayed, and Ive been ruined.
+</T>
+<T>
+OTHELLO
+What, you whore, are you crying for him right in front of me?
+</T>
+<T>
+DESDEMONA
+Send me away, my lord, but dont kill me!
+</T>
+<T>
+OTHELLO
+DownOthello probably wrestles her down.Down, whore!
+</T>
+<T>
+DESDEMONA
+Kill me tomorrowbut let me live tonight.
+</T>
+<T>
+OTHELLO
+No, if you struggle with me
+</T>
+<T>
+DESDEMONA
+Just half an hour!
+</T>
+<T>
+OTHELLO
+While Im doing this, I cant pause for a moment.
+</T>
+<T>
+DESDEMONA
+Just let me say one prayer!
+</T>
+<T>
+OTHELLO
+Its too late. (he smothers her)
+</T>
+<T>
+EMILIA
+(offstage) My lord, my lord! Hello! My lord, my lord!
+</T>
+<T>
+OTHELLO
+Whats that noise? Arent you dead yet? I know Im cruel, but Im merciful too. I dont want you to linger in pain.
+</T>
+<T>
+EMILIA
+(offstage) Hello! My lord, my lord!
+</T>
+<T>
+OTHELLO
+Whos there?
+</T>
+<T>
+EMILIA
+(offstage) Oh my lord, I need to speak to you!
+</T>
+<T>
+OTHELLO
+Yes, its Emilia.(to EMILIA)Just a minute!Shes dead now.Emilias probably come to tell me that Cassios been killed. The fight outside was loud. So! Youre not moving anymore? No, youre as still as a grave. Should I let her in? Is that a good idea? I think shes moving againNo. What should I do? If she comes in, shell try to speak to my wife. My wife, my wife! What wife? I dont have a wife. Oh, this is unbearable! Oh, the horror! There should be a huge eclipse of the sun and the moon, now that Desdemonas no longer on this earth.
+</T>
+<T>
+EMILIA
+(offstage) Please, my lord. I need to speak with you. Oh, my good lord!
+</T>
+<T>
+OTHELLO
+Id forgotten about youEmilia, wait a moment, let me draw the curtains. (closes the bed curtains) Where are you? (unlocks the door)
+</T>
+<T>
+Whats the matter with you now?
+</T>
+<T>
+EMILIA
+Oh, my lord, terrible murders have been committed over there!
+</T>
+<T>
+OTHELLO
+What? Just now?
+</T>
+<T>
+EMILIA
+Yes, just now, my lord.
+</T>
+<T>
+OTHELLO
+Its because of the full moon. It comes too close to the earth and drives men crazy.
+</T>
+<T>
+EMILIA
+Cassios killed a young Venetian named Roderigo.
+</T>
+<T>
+OTHELLO
+Roderigos been killed? And Cassios killed?
+</T>
+<T>
+EMILIA
+No, Cassio wasnt killed.
+</T>
+<T>
+OTHELLO
+Cassios not dead? Then the wrong man is dead, and sweet revenge has gone wrong.
+</T>
+<T>
+DESDEMONA
+Oh, Ive been murdered unfairly!
+</T>
+<T>
+EMILIA
+Oh Lord, whos that crying?
+</T>
+<T>
+OTHELLO
+That? What?
+</T>
+<T>
+EMILIA
+Oh, no, that was my ladys voice.
+</T>
+<T>
+Help! Help! Oh, lady, speak again.
+Sweet Desdemona! Oh sweet mistress, speak!
+</T>
+<T>
+DESDEMONA
+Im dying an innocent woman.
+</T>
+<T>
+EMILIA
+Oh, who did this thing?
+</T>
+<T>
+DESDEMONA
+No one. I did it myself. Give my love to my kind husband. Oh, goodbye!
+</T>
+<T>
+OTHELLO
+Why, how could she have been murdered?
+</T>
+<T>
+EMILIA
+My God, who knows?
+</T>
+<T>
+OTHELLO
+You heard her say it wasnt me.
+</T>
+<T>
+EMILIA
+Yes, she said that. I must go report what happened.
+</T>
+<T>
+OTHELLO
+She was lying even as she was going down to hell. I did kill her.
+</T>
+<T>
+EMILIA
+Then she was even more an angel, and youre an even blacker devil!
+</T>
+<T>
+OTHELLO
+She cheated on me, and she was a whore.
+</T>
+<T>
+EMILIA
+You slander her, you devil.
+</T>
+<T>
+OTHELLO
+She was fickle and unfaithful, like water.
+</T>
+<T>
+EMILIA
+Youve lost your mind to accuse her of cheating. She was utterly true to you!
+</T>
+<T>
+OTHELLO
+Cassio had sex with her. Ask your husband if you doubt me. If I didnt have a good reason to do this, damn me to the very bottom of hell. Your husband knew about everything.
+</T>
+<T>
+EMILIA
+My husband!
+</T>
+<T>
+OTHELLO
+Your husband.
+</T>
+<T>
+EMILIA
+He said she was unfaithful?
+</T>
+<T>
+OTHELLO
+Yes, with Cassio. If shed been faithful to me, I never would have given her up, not even if God himself offered me a jewel as big as a planet in exchange for her.
+</T>
+<T>
+EMILIA
+My husband.
+</T>
+<T>
+OTHELLO
+Yes, hes the one who first told me about her. Hes an honest man who detests evil actions.
+</T>
+<T>
+EMILIA
+My husband?
+</T>
+<T>
+OTHELLO
+Why do you keep repeating that, woman? Im telling you, your husband.
+</T>
+<T>
+EMILIA
+Oh, my mistress, a villain has made a mockery of your love! My husband said she was unfaithful!
+</T>
+<T>
+OTHELLO
+Yes, him, woman. I said your husband.Do you understand that word? My friend, your husband, the honest, honest Iago.
+</T>
+<T>
+EMILIA
+If he said that, then I hope his malicious soul rots in hell forever. Hes lying through his teeth! She was too attached to her filthy marriage ever to do a thing like that!
+</T>
+<T>
+OTHELLO
+Ha!
+</T>
+<T>
+EMILIA
+Go ahead, do your worst. Killing me wont send you to heaven. You werent good enough for her.
+</T>
+<T>
+OTHELLO
+Youd better shut up!
+</T>
+<T>
+EMILIA
+I can endure far more pain than you could ever give me! Oh, you idiot! You stupid fool! As dumb as dirt! Youve committed a terrible evilIm not afraid of your sword. Ill tell everyone what you did, even if it
+</T>
+<T>
+costs me my life twenty times over.Help, help, help! The Moors killed my mistress! Murder, murder!
+</T>
+<T>
+MONTANO
+Whats the matter? Whats going on here, general?
+</T>
+<T>
+EMILIA
+Oh, are you here, Iago? Youve done a good job, that other men can attribute their murders to you!
+</T>
+<T>
+GRATIANO
+Whats the matter?
+</T>
+<T>
+EMILIA
+(to IAGO) Tell this villain hes wrong, if youre man enough. He says you told him his wife cheated on him. I know you didnt. Youre not that much of a villain. Speak, because Im too emotional to say any more.
+</T>
+<T>
+IAGO
+I told him what I thought. I didnt tell him anything that didnt make sense or ring true to him.
+</T>
+<T>
+EMILIA
+But did you tell him she cheated on him?
+</T>
+<T>
+IAGO
+I did.
+</T>
+<T>
+EMILIA
+Then you told a lie, a sick, wicked lie. I swear on my soul it was a lie. You said she slept with Cassio. Did you say Cassio?
+</T>
+<T>
+IAGO
+Yes, with Cassio. Now be quiet.
+</T>
+<T>
+EMILIA
+I will not be quiet! I have to speak. My mistress here lies murdered in her bed
+</T>
+<T>
+ALL
+No, heaven forbid!
+</T>
+<T>
+EMILIA
+And your lies caused this murder.
+</T>
+<T>
+OTHELLO
+Dont stand there gaping, everyone. Its true.
+</T>
+<T>
+GRATIANO
+It may be true, but its unbelievable.
+</T>
+<T>
+MONTANO
+Oh, what a horrible deed!
+</T>
+<T>
+EMILIA
+Evil, evil, evil! I can smell it! I suspected it earlier. Ill kill myself out of grief! Oh, evil, evil!
+</T>
+<T>
+IAGO
+Are you crazy? Im ordering you, go home.
+</T>
+<T>
+EMILIA
+Good gentlemen, give me permission to speak. I know I ought to obey my husband, but not now. Maybe Ill never go home again, Iago!
+</T>
+<T>
+OTHELLO
+Oh! Oh! Oh!
+</T>
+<T>
+EMILIA
+Yes, go ahead and moan, because you killed the sweetest, most innocent woman who ever lived!
+</T>
+<T>
+OTHELLO
+She was filthy! I barely knew you, Uncle GratianoGratiano is Brabantios brother and Desdemonas uncle.Gratiano. Heres your niece lying here dead. I killed her with these hands. I know this looks horrible.
+</T>
+<T>
+GRATIANO
+Poor Desdemona! Im glad your father isnt alive to see this. Your marriage made him die of grief before his time. If he was alive now, this sight would hurt
+</T>
+<T>
+him terribly. It would make him curse the heavens and be damned to hell.
+</T>
+<T>
+OTHELLO
+Its sad, but Iago knows she had sex with Cassio a thousand times. Cassio confessed it, and she pledged her love to him by giving him the handkerchief Id given her. I saw it in his hand.
+It was an old memento that my father gave to my mother.
+</T>
+<T>
+EMILIA
+Oh, God! Dear God in heaven!
+</T>
+<T>
+IAGO
+Damn it, shut your mouth.
+</T>
+<T>
+EMILIA
+No, the truth will come outMe, shut my mouth? Let heaven and men and devils tell me to shut me up. Ill say what I have to say.
+</T>
+<T>
+IAGO
+If youre smart, youll go home.
+</T>
+<T>
+EMILIA
+I wont.
+</T>
+<T>
+GRATIANO
+Shame on you! Drawing your sword on a woman?
+</T>
+<T>
+EMILIA
+Oh, you stupid Moor! I found that handkerchief by accident and gave it to my husband. Hed begged me to steal it many times.
+</T>
+<T>
+IAGO
+You evil whore!
+</T>
+<T>
+EMILIA
+You think she gave it to Cassio? No, I found it and gave it to my husband.
+</T>
+<T>
+IAGO
+You piece of filth, youre lying!
+</T>
+<T>
+EMILIA
+I swear Im not lying. (to OTHELLO) Oh, you murderous fool! How did you ever get such a good wife?
+</T>
+<T>
+OTHELLO
+Wont heaven strike this Iago dead? You absolute villain!
+</T>
+<T>
+GRATIANO
+The womans falling down! Hes killed his wife!
+</T>
+<T>
+EMILIA
+Yes, yes! Lay me next to my mistress.
+</T>
+<T>
+GRATIANO
+Hes gone, and his wifes dead.
+</T>
+<T>
+MONTANO
+Hes a wicked, horrible criminal. Take the Moors sword and guard the door from the outside. Kill him rather than let him leave this room. Im going after Iago. Hes a horrid criminal.
+</T>
+<T>
+OTHELLO
+Im not that strong, if a puny nobody can grab my sword. But why should my reputation for honor last longer than my honor did? Let it all go.
+</T>
+<T>
+EMILIA
+What did your song mean, lady? Can you hear me? Ill die like a swan. They sing when they die.
+(singing) Willow, willow, willow.
+Moor, she never cheated on you. She loved you, you cruel man. I swear on my soul Im telling the truth, and as I say this, I die.
+</T>
+<T>
+OTHELLO
+Ive got another weapon in the room. Its a Spanish sword, hardened in ice cold water and razor sharp. Here it is. Uncle, Im coming out!
+</T>
+<T>
+GRATIANO
+(offstage) If you try that, youll pay for it. Youve got no weapon, so youll have to suffer.
+</T>
+<T>
+OTHELLO
+Look in on me, and talk with me, or Ill attack even without a weapon.
+</T>
+<T>
+GRATIANO
+Whats the matter?
+</T>
+<T>
+OTHELLO
+Look, I have a weapon, the best sword a soldier could have. Ive fought my way through obstacles twenty times more terrifying than you with this weapon. But
+</T>
+<T>
+who can control his fate? Im not like that now. Dont be afraid, even though you see me with a weapon. This is the end of my journey, the end of my life. Are you backing away in fear? Theres no reason to be afraid. You could tap me with a feather and Id back away. Where would Othello go?Oh, look at you! Such cruel luck! Youre as pale as your nightgown! When we meet on Judgment Day, that look of yours will send me from heaven to hell, where devils will grab me. Youre cold, cold, and you were never hot with lust. Oh you damned villain! Whip me, you devils, so I dont have to look at this heavenly sight! Blow on me with hot winds, roast me in lava, drown me in liquid fire! Oh, Desdemona! Dead Desdemona! Oh, oh!
+</T>
+<T>
+LODOVICO
+Where is that poor rash man?
+</T>
+<T>
+OTHELLO
+You mean the man who used to be Othello? Here I am.
+</T>
+<T>
+LODOVICO
+Wheres that snake? Bring the villain forward.
+</T>
+<T>
+OTHELLO
+Im looking to see if you have cloven hooves like the devil. But thats just a fairy tale. If you are a devil, I wont be able to kill you.
+</T>
+<T>
+LODOVICO
+Take his sword away from him.
+</T>
+<T>
+IAGO
+Im bleeding, but you didnt kill me.
+</T>
+<T>
+OTHELLO
+Im not sorry, either. I want you to live, since to me, death is happiness.
+</T>
+<T>
+LODOVICO
+Oh Othello, you were once so good, then you were tricked by this villain. What can I say to you?
+</T>
+<T>
+OTHELLO
+Say anything. Call me an honorable murderer if you like. I did nothing out of hate, only out of honor.
+</T>
+<T>
+LODOVICO
+This poor guys partly confessed his plan. Did you plan Cassios death with him?
+</T>
+<T>
+OTHELLO
+Yes.
+</T>
+<T>
+CASSIO
+Dear general, I never gave you any reason to hate me.
+</T>
+<T>
+OTHELLO
+I believe you, and I ask you to forgive me. Will you please make this half-devil say why he tricked me and damned my soul?
+</T>
+<T>
+IAGO
+Dont ask me anything. You know what you know. From this moment on, Ill never say another word.
+</T>
+<T>
+LODOVICO
+What, not even to pray?
+</T>
+<T>
+GRATIANO
+Torture will make you talk.
+</T>
+<T>
+OTHELLO
+Well, do your best.
+</T>
+<T>
+LODOVICO
+Sir, youll understand everything that has happened. I dont think you know now. Here is a letter we found in Roderigos pocket. And heres another. This one talks about how Roderigo should kill Cassio.
+</T>
+<T>
+OTHELLO
+Oh, you villain!
+</T>
+<T>
+CASSIO
+Ungodly and monstrous!
+</T>
+<T>
+LODOVICO
+Heres another letter from his pocket, addressed to Iago and full of complaints. We think he was going to send it to Iago, but then Iago stepped in and answered his complaints by killing him.
+</T>
+<T>
+OTHELLO
+Oh, you wicked scoundrel! Cassio, how did you get my wifes handkerchief?
+</T>
+<T>
+CASSIO
+I found it in my room, and Iago just confessed that he put it there for his own purposes.
+</T>
+<T>
+OTHELLO
+Oh, what a fool I am!
+</T>
+<T>
+CASSIO
+Also, in his letter to Iago, Roderigo criticizes Iago for telling him to get me angry while I was on guard duty, and get me demoted. And just now he admitted it, even though hed seemed to be dead for a long whileIago tricked him, Iago urged him to do it.
+</T>
+<T>
+LODOVICO
+(to OTHELLO)
+Youll have to leave this room and come with us. Youre stripped of your power and your command, and Cassio will govern Cyprus. As for this slave, Iago, if we can think of any torture that will hurt him a lot but keep him alive a long time, hell have it. Youll remain a prisoner until we bring your crimes to the Venetian government.Okay, take him away.
+</T>
+<T>
+OTHELLO
+Wait. A word or two before you go. Ive given the state of Venice a bit of help in the past, and they know it. But enough about that. When you record these sad events in your letters, please describe me exactly as I am. Dont tone things down or exaggerate them out of hostility. If youre being fair, youll have to describe me as someone who loved too much, but who wasnt wise about it. I was not easily made jealous, but once I was tricked and manipulated, I worked myself into a frenzy. Describe me as a fool who threw away a precious pearl with his own hands, like a silly Indian who didnt know what it was worth. As someone who was not emotional, but who then cried a lot. Write all this
+</T>
+<T>
+down, and then say also that in Aleppo I once saw a Turk beating a Venetian, so I grabbed the Turk by the throat and hit him like this.
+</T>
+<T>
+LODOVICO
+Oh, what a bloody end to all this!
+</T>
+<T>
+GRATIANO
+Everything weve heard is bad.
+</T>
+<T>
+OTHELLO
+(to DESDEMONA) I kissed you before I killed you. Now, killing myself, Im dying while I kiss you again.
+</T>
+<T>
+CASSIO
+I was afraid this would happen, because he was a noble, brave man, but I didnt think he had a weapon.
+</T>
+<T>
+LODOVICO
+(to IAGO) You bloodthirsty dog, youre crueler than sadness or hunger, crueler than the sea. Look at these dead people on this bed. You did all this. He makes me sick. Take him away. Gratiano, take care of the house, and take the Moors property. Youve inherited everything.(to CASSIO) Governor, I leave it in your hands to punish this evil villain: just decide the time, the place and the means of torture. And then carry it out! I have to go back to Venice, and tell them about these sad events.
+</T>

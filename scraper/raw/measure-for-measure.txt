@@ -1,0 +1,3769 @@
+<T>
+DUKE VINCENTIO
+Escalus.
+</T>
+<T>
+ESCALUS
+Yes, my lord?
+</T>
+<T>
+DUKE VINCENTIO
+Explaining government affairs always makes me talk excitedly. But since you know more about matters of government than I can ever tell you, the only thing left for me to say is this: rely on your natural ability, and let it work with your knowledge. You know as much, from both learning and experience, about the nature of our people, our citys laws and procedures, and our legal system as anyone I can think of. Here are your written orders; do not deviate from them. [To Attendants.] Go and order Angelo to come to me.
+</T>
+<T>
+How do you think hell represent me?
+For you must know, after careful consideration, Ive chosen him to rule in my absence, deputizing him with the dread and love my presence inspires, and transferring to him all the tools in my power. What do you think?
+</T>
+<T>
+ESCALUS
+If anyone in Vienna deserves such an honor, its Lord Angelo.
+</T>
+<T>
+DUKE VINCENTIO
+Here he comes.
+</T>
+<T>
+ANGELO
+Here I am, obedient as always; what can I do for you?
+</T>
+<T>
+DUKE VINCENTIO
+Angelo, there is a distinctive pattern to your life that tells people what sort of man you are. But your talents dont belong to you alone, and you mustnt waste them by keeping them to yourself. Heaven uses us the way we use a torchnot to shine for itself, but to shed light onto the world. If we don't use our talents in the world, it would be the same as if we didn't have those talents at all. People are given certain natures to accomplish certain things. Mother Nature doesnt lend you even a smidgen of talent without expecting you to pay her backwith interest and gratitude. But here I am talking to someone who could instruct me! So, stand firm, Angeloin my absence, youll stand in for me completely. Viennas criminals will be executed or pardoned based on what you feel and say. Although old Escalus is senior to you, hell be your second-in-command. Take your written orders.
+</T>
+<T>
+ANGELO
+My good lord, please test me further before you raise me to such a high, prominent position.
+</T>
+<T>
+DUKE VINCENTIO
+No more procrastinating. Ive chosen you after careful consideration, so accept the honor. Its imperative that I leave now, even if it means leaving some important matters undiscussed. Ill write to you when I have the time and feel the need, telling you how I am, and Ill expect to hear how youre doing. So, goodbye; Ill leave you to carry out your orderssuccessfully, no doubt.
+</T>
+<T>
+ANGELO
+My lord, will you allow us to escort you part of the way?
+</T>
+<T>
+DUKE VINCENTIO
+Sorry, Im in too big a rush. But please dont have any doubtsyou have all my authority to enforce or change the laws in any way that seems good to you. Lets shake hands, and Ill sneak off. I love the people but dont like to parade before them. I dont like their loud applause and emphatic cheering, though they can be politically useful; nor do I trust the judgment of any man who does desire such cheers and applause. Once again, goodbye.
+</T>
+<T>
+ANGELO
+May heaven grant you a safe trip!
+</T>
+<T>
+ESCALUS
+A happy departure, and a happy homecoming as well!
+</T>
+<T>
+DUKE VINCENTIO
+Thank you. Goodbye.
+</T>
+<T>
+ESCALUS
+Sir, Id like to have a frank talk with you because I want to figure out the exact nature of my new job. I know Ive got some authority, but how much, and what kind, Im not clear on.
+</T>
+<T>
+ANGELO
+Same with me. Lets leave together and we'll go figure it out.
+</T>
+<T>
+ESCALUS
+Ill accompany you.
+</T>
+<T>
+LUCIO
+If our Duke, along with the other Dukes, cant reach an agreement with the King of Hungary, theyre all going to attack him.
+</T>
+<T>
+FIRST GENTLEMAN
+May God give us peaceexcept not with Hungary.
+</T>
+<T>
+SECOND GENTLEMAN
+Amen.
+</T>
+<T>
+LUCIO
+You talk like the self-righteous pirate who went to sea with the Ten Commandments but cut out one of the commandments.
+</T>
+<T>
+SECOND GENTLEMAN
+Was it Thou shalt not steal?
+</T>
+<T>
+LUCIO
+Yep, thats the one.
+</T>
+<T>
+FIRST GENTLEMAN
+Right, because that commandment wouldve put the captain and his pirate crew out of businessthey went to sea to steal. When grace is being said before a meal, theres not a soldier among us who likes a prayer for peace.
+</T>
+<T>
+SECOND GENTLEMAN
+I never heard any soldier say he dislikes it.
+</T>
+<T>
+LUCIO
+I believe youI dont think youve ever been at a table where they said grace.
+</T>
+<T>
+SECOND GENTLEMAN
+No? Ive heard it a dozen times at least.
+</T>
+<T>
+FIRST GENTLEMAN
+What, in verse?
+</T>
+<T>
+LUCIO
+In any form or in any language.
+</T>
+<T>
+FIRST GENTLEMAN
+Or in any religion.
+</T>
+<T>
+LUCIO
+Well, why not? Grace is grace, no matter what your religious beliefs are, just like youre a scoundrel, no matter how much grace you have.
+</T>
+<T>
+FIRST GENTLEMAN
+Hey, you and me are cut from the same cloth.
+</T>
+<T>
+LUCIO
+Rightthe way a piece of velvet and the scrap ends are from the same cloth. Youre the scrap.
+</T>
+<T>
+FIRST GENTLEMAN
+And youre the velvet: a nice, thick piece of piled velvet. I swear, Id rather be a piece of plain, English cloth than be like you, a French velvet thats full of pilesShakespeare plays on the word piles here. Piled velvet was plush, but piles refers also to the STD syphilis, commonly called the French disease. Syphilis leaves sores that at the time were often covered with velvet patches.piles and STDs. Got you there, didnt I?
+</T>
+<T>
+LUCIO
+I think you did, and from the painful way you talk, I think somethings got you down there. Id be glad to toast your health; just remind me never to drink from your glass after you.
+</T>
+<T>
+FIRST GENTLEMAN
+I guess I set myself up, didnt I?
+</T>
+<T>
+SECOND GENTLEMAN
+Yeah, you did, whether youve got something or not.
+</T>
+<T>
+LUCIO
+Oh, look, here comes Madam Satisfaction. The number of venereal diseases Ive caught under her roof comes to
+</T>
+<T>
+SECOND GENTLEMAN
+To what?
+</T>
+<T>
+LUCIO
+Guess.
+</T>
+<T>
+SECOND GENTLEMAN
+Three thousand dollars worth.
+</T>
+<T>
+FIRST GENTLEMAN
+Yeah, and more.
+</T>
+<T>
+LUCIO
+A syphilis sore more.
+</T>
+<T>
+FIRST GENTLEMAN
+Youre always suggesting Im diseased, but youre wrong. Im sound and healthy.
+</T>
+<T>
+LUCIO
+You may be sound, but youre not healthy. Your bones sound hollow. Loose living has eaten out your insides.
+</T>
+<T>
+FIRST GENTLEMAN
+Hey, there! In which hip is the pain of your sciatica worse?
+</T>
+<T>
+MISTRESS OVERDONE
+Well, well. Theres someone over there whos been arrested and hauled off to prison who was worth five thousand of you all.
+</T>
+<T>
+SECOND GENTLEMAN
+Whos that?
+</T>
+<T>
+MISTRESS OVERDONE
+Thats Claudio, Signior Claudio.
+</T>
+<T>
+FIRST GENTLEMAN
+Claudio in prison? It cant be true.
+</T>
+<T>
+MISTRESS OVERDONE
+I know it's true: I saw him arrested and saw him carried away, and whats more, theyre chopping his head off in three days.
+</T>
+<T>
+LUCIO
+All kidding aside, Id hate for this to be true. Are you sure?
+</T>
+<T>
+MISTRESS OVERDONE
+Im all too sure. Its for getting Miss
+Julietta pregnant.
+</T>
+<T>
+LUCIO
+She might be right about this. He promised to meet me two hours ago, and he always keeps his promises.
+</T>
+<T>
+SECOND GENTLEMAN
+You know, this is exactly the sort of thing we were just talking about.
+</T>
+<T>
+FIRST GENTLEMAN
+Most of all it fits with the public proclamation that was made.
+</T>
+<T>
+LUCIO
+Lets go see if we can get to the bottom of this.
+</T>
+<T>
+MISTRESS OVERDONE
+What with the war, plague, executions, and general poverty, Im losing business.
+</T>
+<T>
+Hi! whats new with you?
+</T>
+<T>
+POMPEY
+That man over there is being hauled off to prison.
+</T>
+<T>
+MISTRESS OVERDONE
+What did he do?
+</T>
+<T>
+POMPEY
+A woman.
+</T>
+<T>
+MISTRESS OVERDONE
+But whats his crime?
+</T>
+<T>
+POMPEY
+Fishing in the private part of a river.
+</T>
+<T>
+MISTRESS OVERDONE
+What, a virgin is pregnant because of him?
+</T>
+<T>
+POMPEY
+No, but a womans having a child because of him. You havent heard about the proclamation, have you?
+</T>
+<T>
+MISTRESS OVERDONE
+What proclamation, man?
+</T>
+<T>
+POMPEY
+All the brothels in the suburbs of Vienna must be torn down.
+</T>
+<T>
+MISTRESS OVERDONE
+And what about those in the city?
+</T>
+<T>
+POMPEY
+Theyll be left standing. They wouldve been destroyed, too, but a savvy businessman bought them.
+</T>
+<T>
+MISTRESS OVERDONE
+But all our brothels in the suburbs are going to be demolished?
+</T>
+<T>
+POMPEY
+Down to the ground, maam.
+</T>
+<T>
+MISTRESS OVERDONE
+Wow, that's a change for the country. Whats going to happen to me?
+</T>
+<T>
+POMPEY
+Come on, dont worry. Good lawyers never lack for clients. Though you change locations, you dont need to change professions. Ill still be your pimp. Courage! Theyll take pity on you; all of you that have grown old and gray servicing people will be repaid.
+</T>
+<T>
+MISTRESS OVERDONE
+Whats all this fuss, Thomas Tapster? Lets get out of here.
+</T>
+<T>
+POMPEY
+Here comes Signior Claudio, led to prison by the provost. And there's Miss Juliet.
+</T>
+<T>
+CLAUDIO
+Man, why are you parading me like this in front of everyone? Take me off to prison already.
+</T>
+<T>
+PROVOST
+Im not being cruel. Its Lord Angelos special order.
+</T>
+<T>
+CLAUDIO
+This is how the authorities, like gods, make us pay for our crimes. As the Bible says, God has mercy on those he chooses to have mercy on, and doesnt have mercy on those he chooses not to, and so on. I suppose thats fair.
+</T>
+<T>
+LUCIO
+Claudio! Why are you being arrested?
+</T>
+<T>
+CLAUDIO
+For being too promiscuous, Lucio, too promiscuous. The same way overeating leads to fasting, and overdoing anything leads to being restricted. Like rats gobbling up rat poison, we have a thirst for harmful things, and when we drink them we die.
+</T>
+<T>
+LUCIO
+If I could speak so well while under arrest, Id ask a few creditors I know to come and lock me up. Though frankly, Id rather be foolish and free than wise and a prisoner. Whats your crime, Claudio?
+</T>
+<T>
+CLAUDIO
+To speak of it would be another crime.
+</T>
+<T>
+LUCIO
+What, is it murder?
+</T>
+<T>
+CLAUDIO
+No.
+</T>
+<T>
+LUCIO
+Lechery?
+</T>
+<T>
+CLAUDIO
+You could call it that.
+</T>
+<T>
+PROVOST
+Sir, you have to go.
+</T>
+<T>
+CLAUDIO
+(to the Provost) Just a minute, good friend. Lucio, let me have a word with you.
+</T>
+<T>
+LUCIO
+A hundred, if theyll do you any good.
+Is lechery regulated now?
+</T>
+<T>
+CLAUDIO
+Heres what happened: I slept with Julietta after we got engaged. You know hershes practically my wife, except that we havent had an official ceremony. The only reason we didnt was to increase the amount of the dowry she might receive from her friends and relatives. We thought wed hide our love until we had a chance to win them over. But it turned out our secret intimacy had an all-too-obvious effect on Juliet.
+</T>
+<T>
+LUCIO
+Pregnant, huh?
+</T>
+<T>
+CLAUDIO
+Unfortunately, yes. And this new deputy of the dukesI cant say whether hes been blinded by his new power or if he sees the public like a horse to be broken in, so he digs his spurs in right away to show it whos boss; or if hes just a bully; or if being a bully is part of the job. But this new governor is taking all these old penalties that, like rusty armor hanging on the wall, havent been used in years and is applying them to me. Hes imposing all these unenforced, long-ignored laws on me to make a name for himself. That has to be it, to make his name.
+</T>
+<T>
+LUCIO
+I bet it is; and your head sits so precariously on your shoulders right now that the sigh of a lovesick milkmaid could knock it off. Get in touch with the duke and appeal to him.
+</T>
+<T>
+CLAUDIO
+I tried, but he cant be found. Please, Lucio, do this favor for me: My sisters entering a nunnery and starting her training period today. Tell her the danger Im in, and implore her, in my name, to befriend this strict deputy and try to change his mind. Ive got a lot of hope in her. Her youthful sweetness alone would move a man. Besides, she has a gift for rhetoric, and she can really persuade people.
+</T>
+<T>
+LUCIO
+I pray she can, for the lives of everyone like you who could now be punished, as well as for your own life, which Id be sad to see lost so stupidly for playing with you. Ill go to her.
+</T>
+<T>
+CLAUDIO
+Thank you, Lucio. Youre a good friend.
+</T>
+<T>
+LUCIO
+Ill be there in two hours.
+</T>
+<T>
+CLAUDIO
+OK, officer, lets go.
+</T>
+<T>
+DUKE VINCENTIO
+No, holy father, forget that idea. Dont think that Cupids feeble arrow can pierce this invulnerable bosom. I want you to shelter me secretly for a reason more ageless and serious than any youthful, burning desire.
+</T>
+<T>
+FRIAR THOMAS
+Can you talk about it?
+</T>
+<T>
+DUKE VINCENTIO
+Reverend sir, no one knows better than you how Ive always loved the quiet life and never cared much for the social scene where young people brag and throw their money around. Ive given Lord Angelo, a man of strict self-discipline and self-denial, my absolute power and position here in Vienna. He thinks Ive gone to Poland, since Ive spread that rumor among the general public, and everybody believes it. Now, religious sir, do you want to know why I did this?
+</T>
+<T>
+FRIAR THOMAS
+Yes, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+I instituted strict statutes and firm laws, necessary controls for headstrong human natures, but for nineteen years Ive let them grow lax, like an old, fat lion that lies in his cave and never leaves to hunt. Now, a doting father can make a birch whipping rod and wave it in his childrens faces, but if he only threatens and never uses it, eventually theyll laugh at it and not fear it. Similarly, our regulations have gone unenforced, and so theyre as good as dead. People are flouting the law with their loose living. The proper order of things is turned upside down, as if babies were spanking their nannies.
+</T>
+<T>
+FRIAR THOMAS
+It was in your lordships ability to get the justice system working again whenever you wanted. And it wouldve been taken more seriously if youd done it, rather than Lord Angelo.
+</T>
+<T>
+DUKE VINCENTIO
+Too seriously, Im afraid. Since it was my fault to give the people so much freedom, Id seem like a real tyrant now to whip them for things I allowed them to do. We essentially tell people to misbehave when we give evil deeds a pass and dont punish them. So, friar, Ive given the job to Angelo. He can effectively deal with this, in my namebut since Im not personally involved, I wont look bad. To see how he rules, Id like to visit him and the people disguised as one of your orders monks. So please furnish me with a robe and teach me how to behave like a real friar. When theres more time, Ill give you additional reasons for my actions. For now, Ill tell you this one: Lord Angelo is a puritanical man, constantly guarding himself against desire, the type who barely admits blood flows in his veins. So if power changes a persons principles, well see how he really is.
+</T>
+<T>
+ISABELLA
+And so you nuns have no other privileges?
+</T>
+<T>
+FRANCISCA
+Arent these enough?
+</T>
+<T>
+ISABELLA
+Oh, yes. I didnt mean I wanted more freedom. Actually, I wish there were even more restrictions on the Saint Claire sisterhood.
+</T>
+<T>
+LUCIO
+(offstage) Hello! Peace to this place!
+</T>
+<T>
+ISABELLA
+Whos that?
+</T>
+<T>
+FRANCISCA
+Its a mans voice. Isabella, unlock the door and ask him what he wants. I cant, but you can, since you havent taken your vows yet. Once you have, youll only be able to speak with men in the presence of the Mother Superior. Then, if you speak, you mustnt show your face. Or if you show your face, you mustnt speak. Hes calling again. Please answer him.
+</T>
+<T>
+ISABELLA
+Peace and prosperity! Whos there?
+</T>
+<T>
+LUCIO
+Well, hello, virginif you are one, as your rosy cheeks proclaim you to be. Can you help me to find Isabella, a novice here and the pretty sister to Claudio, her unlucky brother?
+</T>
+<T>
+ISABELLA
+Why her unlucky brother? I ask, because Im Isabella, his sister.
+</T>
+<T>
+LUCIO
+Your brother sends you his love, sweet, pretty one. To get right to the point, hes in prison.
+</T>
+<T>
+ISABELLA
+How awful! For what?
+</T>
+<T>
+LUCIO
+For something which, if you ask me, he should be thanked rather than punished. Hes gotten his lover pregnant.
+</T>
+<T>
+ISABELLA
+Sir, dont make things up.
+</T>
+<T>
+LUCIO
+Its true. I admit, I often play the deceiver and joker with young virgins and say things I dont mean. But because of your religious vocation, I see you as a heavenly, spiritual being, and someone to speak to with sincerely, as I would a saint.
+</T>
+<T>
+ISABELLA
+You mock real saints by calling me one.
+</T>
+<T>
+LUCIO
+Dont think that. In brief: your brother and his girl have slept together. And the same way your stomach gets full when you eatand as a bare field, when you plant it, yields a rich harvesther body shows the results of his plowing.
+</T>
+<T>
+ISABELLA
+Hes made someone pregnant? My cousin Juliet?
+</T>
+<T>
+LUCIO
+Is she your cousin?
+</T>
+<T>
+ISABELLA
+Unofficially, in the silly but sweet way schoolgirls swear to be sisters.
+</T>
+<T>
+LUCIO
+Shes the one.
+</T>
+<T>
+ISABELLA
+Oh, let him marry her.
+</T>
+<T>
+LUCIO
+Heres the problem. The duke has mysteriously left town. He deluded many menmyself includedwith the hope of some military action. But now we hear from government insiders that his publicly announced reasons for leaving were far from his real plans. In his place, and with his full authority, Lord Angelo rules. This is a man whose blood is like melted snow, never warmed by uncontrolled lust, but who represses and dulls his natural appetites with exercises for the mindstudying and fasting. To scare folks who are habitually promiscuous and have evaded the law like mice running past a lion, hes found a severe act that, if taken literally, would cost your brother his life. Hes arrested him under it and plans to make an example of him by strictly applying this law. All hope is gone, unless you can soften Angelo with your pretty prayers. Thats the essence of this errand between you and your poor brother.
+</T>
+<T>
+ISABELLA
+Does he really intend to kill him?
+</T>
+<T>
+LUCIO
+Hes already sentenced him to death, and I hear the provost has the warrant for his execution.
+</T>
+<T>
+ISABELLA
+Oh, dear! What can a poor girl like me do to help?
+</T>
+<T>
+LUCIO
+Test the power you have.
+</T>
+<T>
+ISABELLA
+My power? I doubt
+</T>
+<T>
+LUCIO
+Our doubts work against us and make us lose the good things we often could win by making us scared to try. Go to Lord Angelo, and show him that when girls plead, men give like gods. But when girls cry and kneel, their requests are granted even more freely, as if the girls were asking themselves for permission.
+</T>
+<T>
+ISABELLA
+Ill see what I can do.
+</T>
+<T>
+LUCIO
+Make it fast.
+</T>
+<T>
+ISABELLA
+Ill go straightaway, as soon as I give notice of my business to the Mother Superior. Thank you so much. Give my brother my love. Ill let him know how I made out early this evening.
+</T>
+<T>
+LUCIO
+Ill go now.
+</T>
+<T>
+ISABELLA
+Goodbye, sir.
+</T>
+<T>
+ANGELO
+We mustnt let the law turn into a scarecrowsomething you set up to scare away birds of prey but then never change, until the birds get so used to it that they sit on it rather than fear it.
+</T>
+<T>
+ESCALUS
+Yes, but we should also be precise. Better to use a scalpel than a hatchet, cutting carefully instead of chopping to death. This gentleman whose life Id like to save had such a noble father. I know youre a completely disciplined, virtuous man. But imagine you felt sexual stirrings for a woman, and you were in the right place at the right time, and by acting on that desire you could have her. If sometime in your life, youd made the same mistake for which you now condemn him, youd have brought the law down on yourself.
+</T>
+<T>
+ANGELO
+Its one thing to be tempted, Escalus, but another thing to give in. I dont deny that the twelve members of a jury might include a thief or two who are far guiltier than the prisoner theyre passing sentence on. But justice takes the opportunities it has; who knows what laws thieves pass against other thieves? Obviously, if we stumble across a jewel in the road, well bend down and take it, because we see it. But things we dont see, we step over and never think about. You cant excuse his crime on the grounds that I could have done the same thing. Instead, if Ithe man whos condemning himcommit the same offense, let this verdict of mine act as a precedent for my death, and let no allowances be made for me. Sir, he must die.
+</T>
+<T>
+ESCALUS
+As you command.
+</T>
+<T>
+ANGELO
+Where is the provost?
+</T>
+<T>
+PROVOST
+Here, sir.
+</T>
+<T>
+ANGELO
+See that Claudio is executed by nine tomorrow morning. Give him a priest to confess to, and let him prepare himself for death, for this is his journeys end.
+</T>
+<T>
+ESCALUS
+(to himself) Well, heaven forgive himand forgive us all!
+Some people succeed by sinning, and some are brought down by virtue. Some people run from dubious situations and so never suffer punishment, and some people get punished for a single mistake.
+</T>
+<T>
+ELBOW
+Bring them this way. If these arent the kind of people who do nothing but dirty things in whorehouses, then I dont know the law. Bring them this way.
+</T>
+<T>
+ANGELO
+Well, sir! Whats your name? And whats the matter?
+</T>
+<T>
+ELBOW
+If it pleases your honor, I am the dukes poor
+police officer, and my name is Elbow. I rely on the law, sir, and bring in here before you two notorious benefactors (confusing the word benefactor with malefactor).
+</T>
+<T>
+ANGELO
+Benefactors? What benefactors are they? Arent they malefactors?
+</T>
+<T>
+ELBOW
+If it pleases your honor, I dont really know what they
+are. But theyre definitely scoundrels, that Im sure
+of, and lacking the universal piety that all good Christians ought to have.
+</T>
+<T>
+ESCALUS
+(to Angelo, sarcastically) Hes a good talker, and a real smart cop.
+</T>
+<T>
+ANGELO
+Out with it. Whats their rank? Your names Elbow? Why dont you speak, Elbow?
+</T>
+<T>
+POMPEY
+He cant, sir. Hes been pushed out of the way.
+</T>
+<T>
+ANGELO
+(to Pompey) What do you do, sir?
+</T>
+<T>
+ELBOW
+Him, sir! Hes a bartender, sir, and a part-time pimp, one who works for a madam. Her brothel in the suburbs, sir, was, as they say, torn down, and now she claims to run a bathhouse, and I think thats a bad house too.
+</T>
+<T>
+ESCALUS
+How do you know that?
+</T>
+<T>
+ELBOW
+My wife sir, whom I detest with heaven and your honor as my witnesses
+</T>
+<T>
+ESCALUS
+What, you detest your wife?
+</T>
+<T>
+ELBOW
+Yes, sir, whom, I thank heaven, is a morally upright woman
+</T>
+<T>
+ESCALUS
+Thats why you detest her?
+</T>
+<T>
+ELBOW
+I say, sir, Ill detest myself as well as her, if this
+house, if its not a whorehouse, its a great pity, for its an immoral place.
+</T>
+<T>
+ESCALUS
+How do you know that?
+</T>
+<T>
+ELBOW
+From my wife, who, if she had been a woman given to sin, might have been accused of fornication, adultery, and all sorts of dirty things there.
+</T>
+<T>
+ESCALUS
+Because of the actions of the madam of the whorehouse?
+</T>
+<T>
+ELBOW
+Yes, sir, by Mistress Overdones doing. But my wife spit in this mans face, defying him.
+</T>
+<T>
+POMPEY
+Please, sir, this is not true.
+</T>
+<T>
+ELBOW
+Prove it before these rogues here, you honorable man. Prove it.
+</T>
+<T>
+ESCALUS
+(to Angelo) Do you hear how he mixes up his words?
+</T>
+<T>
+POMPEY
+Sir, this very pregnant woman came in, longingI beg your honors pardonfor stewed prunesa dish commonly served as a cure for syphilis in brothels, which were also called stewsstewed prunes. Sir, we had only two in the house, which at that very time were sitting, it so happened, in a fruit dish, a three-cent dish. Your honors have seen such dishes; theyre not fine china, but theyre very good dishes
+</T>
+<T>
+ESCALUS
+Get on with it. Never mind about the dish, sir.
+</T>
+<T>
+POMPEY
+No, sir, youre right. Its not worth a pin, but back to the point. As I was saying, this Mrs. Elbow, was, as I say, very pregnant, and longing, as I said, for prunes. We had only two left in the dish, as I said, and this very man, Mr. Froth here, having eaten the rest and paid for them very generously. Because as you know, Mr. Froth, I couldnt give you three cents change.
+</T>
+<T>
+FROTH
+No, indeed.
+</T>
+<T>
+POMPEY
+Very well. If you remember, you were talking about the previously mentioned prunes
+</T>
+<T>
+FROTH
+Right, I was.
+</T>
+<T>
+POMPEY
+Ok, and I was telling you, if you remember, that so-and-so couldnt be cured of you-know-whatsyphilisyou-know-what, unless they kept to a strict diet
+</T>
+<T>
+FROTH
+All this is true.
+</T>
+<T>
+POMPEY
+Why, very well, then
+</T>
+<T>
+ESCALUS
+Youre a tedious fool. Get to the point. What was done to Elbows wife that gave him a reason to complain? Come and get to what was done to her.
+</T>
+<T>
+POMPEY
+Sir, your honor cant get to that yet.
+</T>
+<T>
+ESCALUS
+Thats not what I meant, sir.
+</T>
+<T>
+POMPEY
+But you will get it, sir, if your honor pleases. And, I beg you, look at Mr. Froth here, sir; a man who makes only 80 pounds a year and whose his father died, leaving him an inheritance, on All Saints Daywasnt it All Saints Day, Mr. Froth?
+</T>
+<T>
+FROTH
+Halloween.
+</T>
+<T>
+POMPEY
+Very well. I hope well get to the truth here. He, sir,
+was sitting, as I say, in a reclining chair, sir. It was at the Bunch of Grapes tavern, where you like to sit and relax, dont you?
+</T>
+<T>
+FROTH
+I do, because the room has a big open fire, good in winter.
+</T>
+<T>
+POMPEY
+Why, very well, then. I hope well get to the truth here.
+</T>
+<T>
+ANGELO
+This could last as long as a night in Russia, during the time of year when nights are longest. Im leaving. Ill leave you to get to the bottom of this case, hoping youll find reasons to whip them all.
+</T>
+<T>
+ESCALUS
+I think I will. Good-bye, your lordship.
+</T>
+<T>
+Now, sir, come on: what happened to Elbows wife, once more?
+</T>
+<T>
+POMPEY
+Once, sir? Nothing happened to her once.
+</T>
+<T>
+ELBOW
+I beg you, sir, ask him what this man did to my wife.
+</T>
+<T>
+POMPEY
+I beg your honor, ask me.
+</T>
+<T>
+ESCALUS
+Well, sir; what did this gentleman do to her?
+</T>
+<T>
+POMPEY
+I beg you, sir, look at this gentlemans face. Good Mr. Froth, look at his honorits for a good reason. Does your honor see his face?
+</T>
+<T>
+ESCALUS
+Yes, sir, very well.
+</T>
+<T>
+POMPEY
+No, I beg you, really study it.
+</T>
+<T>
+ESCALUS
+Well, I am.
+</T>
+<T>
+POMPEY
+Does your honor see any harm in his face?
+</T>
+<T>
+ESCALUS
+Why, no.
+</T>
+<T>
+POMPEY
+Ill swear upon a bible, his face is the worst
+thing about him (confusing supposed for deposed). And if his face is the worst thing about him, how could Mr. Froth do the officers wife any harm? Id like your honor to explain that.
+</T>
+<T>
+ESCALUS
+Hes right. Officer, what do you say to that?
+</T>
+<T>
+ELBOW
+(confusing respected for suspected throughout) First, if it pleases you, the house is a respected house; next, this is a respected fellow, and his employer a respected woman.
+</T>
+<T>
+POMPEY
+I swear, sir, his wife is a more respected person than any of us.
+</T>
+<T>
+ELBOW
+Scoundrel, you lie. You lie, wicked scoundrel! The
+time has yet to come that she was ever respected
+by man, woman, or child.
+</T>
+<T>
+POMPEY
+Sir, he respected her before he married her.
+</T>
+<T>
+ESCALUS
+Whos smarter here? The representative of justice or the representative of sinJustice and Iniquity were names of common characters in morality playsrepresentative of justice or the representative of sin? Is this true?
+</T>
+<T>
+ELBOW
+Oh, you wretch! Oh, you scoundrel! Oh, you cannibal! I respected her before I was married to her! If I ever respected her, or she respected me, Im not the dukes poor officer. Prove this, you wicked cannibal, or Ill sue you for assault.
+</T>
+<T>
+ESCALUS
+If he boxed your ears, you could sue him for slander, too.
+</T>
+<T>
+ELBOW
+Thank you, your worship. What would you like me to do with this wicked wretch?
+</T>
+<T>
+ESCALUS
+Honestly, officer, because hes committed some crime that you would expose if you were capable, let him keep on until you figure out what it is.
+</T>
+<T>
+ELBOW
+Thank you, your worship. Now, you wicked wretch, you see whats going to happen to you: youre to be kept on; theyre keeping you on.
+</T>
+<T>
+ESCALUS
+Where were you born, friend?
+</T>
+<T>
+FROTH
+Here in Vienna, sir.
+</T>
+<T>
+ESCALUS
+Do you have an income of 80 pounds a year?
+</T>
+<T>
+FROTH
+Yes, sir.
+</T>
+<T>
+ESCALUS
+All right. What do you do, sir?
+</T>
+<T>
+POMPHEY
+Bartender; a poor widows bartender.
+</T>
+<T>
+ESCALUS
+Your employers name?
+</T>
+<T>
+POMPHEY
+Mistress Overdone.
+</T>
+<T>
+ESCALUS
+Has she had more than one husband?
+</T>
+<T>
+POMPEY
+Nine, sir. She got the name Overdone from the last one.
+</T>
+<T>
+ESCALUS
+Nine! Come here, Mr. Froth. Mr. Froth, Id prefer you not associate with bartenders. Theyll draw you dry, Mr. Froth, and youll get them hangeda play on hanging and drawing, a form of execution involving hanging and then disembowelingTheyll draw you dry, Mr. Froth, and youll get them hanged. Get out, and dont let me hear of you again.
+</T>
+<T>
+FROTH
+Thank you, your worship. Personally, I never go into bars, unless Im drawn ina play on ale being drawn from a tapdrawn in.
+</T>
+<T>
+ESCALUS
+Well, not anymore, Mr. Froth. Goodbye.
+</T>
+<T>
+Come here, Mr. Bartender. Whats your name, Mr. Bartender?
+</T>
+<T>
+POMPEY
+Pompey.
+</T>
+<T>
+ESCALUS
+What else?
+</T>
+<T>
+POMPEY
+Ass, sir.
+</T>
+<T>
+ESCALUS
+Yes, and your ass is the biggest thing about you, so in the crudest sense you are Pompey the Great. Pompey, youre a part-time pimp, however much you hide it by bartending, arent you? Come on, itll be better for you if you tell me the truth.
+</T>
+<T>
+POMPEY
+Honestly, sir, Im a poor man just trying to earn a living.
+</T>
+<T>
+ESCALUS
+How would you live, Pompey? By being a pimp? What
+do you think of that profession, Pompey? Is it a legal profession?
+</T>
+<T>
+POMPEY
+If the law allowed it, sir.
+</T>
+<T>
+ESCALUS
+But the law will not allow it, Pompey, nor will it be allowed in Vienna.
+</T>
+<T>
+POMPEY
+Does your worship mean to castrate and spay all the young men and women in town?
+</T>
+<T>
+ESCALUS
+No, Pompey.
+</T>
+<T>
+POMPEY
+Then, sir, in my poor opinion, theyll get it on. If your worship would make arrangements for the whores and their clients, you wouldnt need to fear the pimps.
+</T>
+<T>
+ESCALUS
+I can tell you, were introducing some strong penalties specifically, beheading and hanging.
+</T>
+<T>
+POMPEY
+If you behead and hang everyone who breaks the law by having sex, in just ten years youll have to commission people to repopulate the city. If this law lasts a decade in Vienna, Ill rent the best house in town at three cents a square foot. If youre alive to see this, say Pompey told you so.
+</T>
+<T>
+ESCALUS
+Thank you, Pompey, and, in return for your prediction, listen carefully. I advise you, dont let me find you appearing before me again upon any complaint whatsoever, not even for living where you do. If I do, Ill beat you like Julius Caesar did to your namesakePompeyIn Shakespeares Julius Caesar, Caesar defeats a rival named PompeyPompeyand send you scurrying to your tent in defeat. To put it plainly, Pompey, I will have you whipped. So, for now, Pompey, goodbye.
+</T>
+<T>
+POMPEY
+I thank your worship for your good advice.
+</T>
+<T>
+But I shall follow it only as my body and my opportunities dictate. Whip me? No, no; let a cart driver whip his old nag. A brave heart isnt whipped out of his job.
+</T>
+<T>
+ESCALUS
+Come here, Mr. Elbow; come here, Mr. Policeman.
+How long have you been a policeman?
+</T>
+<T>
+ELBOW
+Seven and a half years, sir.
+</T>
+<T>
+ESCALUS
+I thought youd been at the job for a while, given your skill at it. You say seven years altogether?
+</T>
+<T>
+ELBOW
+And a half, sir.
+</T>
+<T>
+ESCALUS
+Oh, thats so hard on you. Its wrong that you have to work so much. Arent there enough capable men in your precinct?
+</T>
+<T>
+ELBOW
+Honestly, sir, few who are bright enough. Theyre happy to have me substitute for them. They pay me a little money, and I handle all the duties.
+</T>
+<T>
+ESCALUS
+Please bring me some six or seven names, the most competent people in your parish.
+</T>
+<T>
+ELBOW
+To your worships house, sir?
+</T>
+<T>
+ESCALUS
+To my house. Goodbye.
+</T>
+<T>
+What time is it?
+</T>
+<T>
+JUSTICE
+Eleven, sir.
+</T>
+<T>
+ESCALUS
+Please, come home to lunch with me.
+</T>
+<T>
+JUSTICE
+Im most grateful. Thank you.
+</T>
+<T>
+ESCALUS
+Claudios death saddens me, but theres no way to prevent it.
+</T>
+<T>
+JUSTICE
+Lord Angelo is severe.
+</T>
+<T>
+ESCALUS
+Its unfortunately necessary. Mercy isnt often what it seems, since pardoning a crime can lead to additional pain. Even sopoor Claudio! Theres no way to prevent it. Lets go, sir.
+</T>
+<T>
+SERVANT
+Hes listening to a case. Hell come at once, when I tell him youre here.
+</T>
+<T>
+PROVOST
+Please do.
+</T>
+<T>
+Ill ask him his intentions; maybe hell relent. Claudio didnt consciously commit a crime. People of every class and age indulge in this viceand hes going to die for it!
+</T>
+<T>
+ANGELO
+Now, whats the matter, Provost?
+</T>
+<T>
+PROVOST
+Do you want Claudio to die tomorrow?
+</T>
+<T>
+ANGELO
+Did I not tell you yes? Dont you have your orders? Why do you ask again?
+</T>
+<T>
+PROVOST
+In case I might be too rash. Correct me if Im wrong, but Ive seen judges regret imposing the death sentence after the execution.
+</T>
+<T>
+ANGELO
+Enoughthats my problem. Do your job, or resign your position. We can easily do without you.
+</T>
+<T>
+PROVOST
+I beg your honors pardon. What should we do, sir, with Juliet? Shes in labor, very close to giving birth.
+</T>
+<T>
+ANGELO
+Make arrangements to get her to a more appropriate place, and do it quickly.
+</T>
+<T>
+SERVANT
+The condemned mans sister is here and wants to speak to you.
+</T>
+<T>
+ANGELO
+He has a sister?
+</T>
+<T>
+PROVOST
+Yes, my good lorda very virtuous girl whos entering a convent, if she hasnt already.
+</T>
+<T>
+ANGELO
+Well, bring her in.
+</T>
+<T>
+See that the tramp Juliet is moved, and provide her with everything she needs, but nothing extravagant. Ill authorize it.
+</T>
+<T>
+PROVOST
+(departing) God save your honor!
+</T>
+<T>
+ANGELO
+Dont leave yet.
+</T>
+<T>
+Welcome. What do you want?
+</T>
+<T>
+ISABELLA
+I sadly beg a request of your honor. Please hear me, your honor.
+</T>
+<T>
+ANGELO
+Well, whats your request?
+</T>
+<T>
+ISABELLA
+Theres a certain vice that I hate, and would love to see struck down by law. Id rather not plead for it, but I must. I shouldnt plead for it, but Im torn between wanting and not wanting to.
+</T>
+<T>
+ANGELO
+Well, whats the matter?
+</T>
+<T>
+ISABELLA
+I have a brother whos condemned to death. I beg you, condemn his crime but not him.
+</T>
+<T>
+PROVOST
+(to himself) Heaven give you the power to persuade him!
+</T>
+<T>
+ANGELO
+Condemn the crime and not the person who commits it? Why, by definition every crime is condemned before its committed. I would have a meaningless role if I just punished the crimes whose penalties were in the law books and let the criminal go.
+</T>
+<T>
+ISABELLA
+Oh, fair but harsh law! Then I had a brother but dont anymore. (departing) Heaven protect your honor!
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Dont give up so fast. Go to him again, beg him, kneel down before him, cling to his gown.
+Youre too cold. You couldnt be more casual if you were asking him for a pin. Go to him.
+</T>
+<T>
+ISABELLA
+Does he have to die?
+</T>
+<T>
+ANGELO
+Miss, theres no way out.
+</T>
+<T>
+ISABELLA
+Yes, there is. I think that you could pardon him, and no one on heaven or earth would be sorry.
+</T>
+<T>
+ANGELO
+I wont do it.
+</T>
+<T>
+ISABELLA
+But could you, if you wanted to?
+</T>
+<T>
+ANGELO
+Look, what I wont do, I cant do.
+</T>
+<T>
+ISABELLA
+But might you do it, without harming the world, if your heart felt as compassionate toward him as mine does?
+</T>
+<T>
+ANGELO
+Hes sentenced; its too late.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Youre too cold.
+</T>
+<T>
+ISABELLA
+Too late? why, noI can speak a word and then take it back. Believe this: no symbol of authoritynot the kings crown, or the deputys sword, or the military officers baton, or the judges robemakes a person great as much as mercy does. If hed been you and youd been him, you would have slipped like he did; but he, in your place, wouldnt have been so stern.
+</T>
+<T>
+ANGELO
+Please leave.
+</T>
+<T>
+ISABELLA
+I wish to heaven I had your power, and you were Isabel! Would things be like this? No, Id decide what it is to be a judge, and to be a prisoner.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Yes, thats the way to talk.
+</T>
+<T>
+ANGELO
+Your brother is doomed for breaking the law. Youre wasting your breath.
+</T>
+<T>
+ISABELLA
+How sad! Why, all the souls on earth were doomed once upon a timebecause Adam and Eve disobeyed God and ate from the tree of knowledgedoomed once upon a time. And God, who might have seized the chance to condemn us, instead found a way to redeem our sinsa reference to God letting Christ die to redeem mankinds sinsfound a way to redeem our sins. What would happen to you, if he who is the highest judge of all should judge you as you are now? Oh, think about that, and then merciful speech will flow out your mouth, as if you had been reborn.
+</T>
+<T>
+ANGELO
+Accept it, lovely lady. Its the law, not I, that condemns your brother. Were he my cousin, brother, or my son, itd be the same. He must die tomorrow.
+</T>
+<T>
+ISABELLA
+Tomorrow! Oh, thats so sudden! Spare him, spare him!
+Hes not prepared for death. We only kill fowl in season, when theyre in the best shape for eating. Should we serve him up to heaven with less respect than we show toward our inferior mortal bodies? My good, good lord, consider: who else has died for this crime? Many people have committed it.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Yes, well said.
+</T>
+<T>
+ANGELO
+The law wasnt dead, but it was asleep. All those people wouldnt have dared to commit that crime if the first lawbreaker had been punished. Now the laws awake, notes whats going on, and, like a fortuneteller, looks in a crystal ball to see what future evils, either newly conceived or just being contemplated, will someday hatch. Now, they wont develop any further but will die before theyre born.
+</T>
+<T>
+ISABELLA
+Show some pity.
+</T>
+<T>
+ANGELO
+I show it most of all when I show justice, for then I pity all those people I dont know whod be harmed by an unpunished crime. I do right to the man who, by paying for one wrong act, doesnt live to commit another one. Be satisfied with this. Your brother dies tomorrow. Accept it.
+</T>
+<T>
+ISABELLA
+So you must be the first one to impose this sentence,
+and he the first one to suffer it. Oh, its excellent
+to have a giants strength, but its tyranny to use it like a giant.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Thats well said.
+</T>
+<T>
+ISABELLA
+If men of power could thunder and wield lightning as the god Joveking of the gods in Roman mythologyJove himself does, Jove would never have any peace, for every puny, petty official would use his heaven for thunder, nothing but thunder! Merciful Heaven, you use your sharp, sulfur-scented lightning bolts to split the hard gnarled oak tree, rather than the soft myrtle bush. But give a proud man a little bit of temporary authority and he forgets what it means to be made in Gods image. Instead, like an angry ape that mimics peoples behavior, he does such incredibly grotesque things before high heaven that the angels, if they were human, would either weep or die laughing.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Oh, keep at him, keep at him, girl! Hes going to relent. Hes coming around, I can tell.
+</T>
+<T>
+PROVOST
+(to himself) Pray heaven she wins him over!
+</T>
+<T>
+ISABELLA
+We cant use ourselves as a standard to judge others. Great men may joke about the saints; thats good fun. But if an ordinary person does it, its profane.
+</T>
+<T>
+LUCIO
+Youre right, girl. Keep talking like that.
+</T>
+<T>
+ISABELLA
+When a captain curses, its just angry words. When a private does it, its blasphemy.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) You know about that sort of stuff? Tell us more.
+</T>
+<T>
+ANGELO
+Why are you attacking me with these sayings?
+</T>
+<T>
+ISABELLA
+Because people in authority, even though they sin like everyone else, apply a sort of bandage to coverbut not curetheir sinful sores. Look in your heart and ask yourself if youve ever experienced anything like my brothers crime. If your heart admits to being guilty of the same natural impulses, dont say a word to condemn my brother.
+</T>
+<T>
+ANGELO
+(to himself) She speaks with such sense, shes got my senses and desire stirred up. Goodbye.
+</T>
+<T>
+ISABELLA
+My gracious lord, come back.
+</T>
+<T>
+ANGELO
+Ill consider the matter. Come again tomorrow.
+</T>
+<T>
+ISABELLA
+Ill bribe youcome back, my good lord.
+</T>
+<T>
+ANGELO
+What? Bribe me?
+</T>
+<T>
+ISABELLA
+Yes, with gifts from heaven.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) You nearly blew it.
+</T>
+<T>
+ISABELLA
+Not with silly coins of real gold, or jewels whose value rises and falls, depending on fashion; but with constant prayers that will rise up and enter heaven before dawnthe prayers of protected souls, nuns whose minds are dedicated only to spiritual things.
+</T>
+<T>
+ANGELO
+Well, come see me tomorrow.
+</T>
+<T>
+LUCIO
+(aside to ISABELLA) Great, thats enough. Lets go!
+</T>
+<T>
+ISABELLA
+Heaven keep your honor safe!
+</T>
+<T>
+ANGELO
+(to himself) Amenfor Im falling into temptation, where desires and prayers work against each other.
+</T>
+<T>
+ISABELLA
+What time tomorrow should I come to your lordship?
+</T>
+<T>
+ANGELO
+Anytime before noon.
+</T>
+<T>
+ISABELLA
+God save your honor!
+</T>
+<T>
+ANGELO
+From you, and from your virtue, too! Whats happening? Is this her fault or mine? The tempter or the tempted, who sins the most? Ha! Its not her, shes not trying to be a tempter. Its me. Its like Im lying in a field of violets, only instead of blossoming and smelling like a flower, Im rotting and stinking like a corpse from the same sun that makes the flowers grow. Is it possible that a modest woman can arouse desire more than a seductive one? Having destroyed enough land already, should a person want to tear down a holy place and establish evil there as well? Oh, damn, damn, damn! Angelo, what are you doing, who are you? Do you sinfully desire her for the things that make her good? Oh, I should let her brother live! Thieves are justified in robbing when the judges themselves are thieves. Can it be Im in love with her, when I want to hear her speak again, and gaze into her eyes? What am I dreaming of? Oh, the devils a cunning enemyto catch a saint, he baits the hook with saints! The most dangerous temptation is the one that uses our love of goodness to draw us into sin. A prostitute could never attract me, even with her two powers: her seductive skills and her natural endowments. But this virtuous girl totally overwhelms me. Whenever I saw men who were infatuated like idiots, I smiled and didnt understandup until now.
+</T>
+<T>
+DUKE VINCENTIO
+Hello, ProvostI think thats who you are.
+</T>
+<T>
+PROVOST
+I am the provost. What do you want, good friar?
+</T>
+<T>
+DUKE VINCENTIO
+My sense of charity and my religious order make it my duty to come visit the troubled souls here in prison. Grant me the clergys usual right to see them, and tell me the nature of their crimes, so I may minister to them accordingly.
+</T>
+<T>
+PROVOST
+Id do more than that, if it were needed.
+</T>
+<T>
+Look, here comes one: a gentlewoman in my charge who, by giving in to her youthful passion, has ruined her reputation. Shes pregnant, and the childs father is sentenced to death. Hes just a young man, who deserves the chance to make more babies, rather than to die for this one.
+</T>
+<T>
+DUKE VINCENTIO
+When must he die?
+</T>
+<T>
+PROVOST
+Tomorrow, I think.
+</T>
+<T>
+Ive gotten accommodations for you. Wait here, and youll be escorted to them.
+</T>
+<T>
+DUKE VINCENTIO
+Pretty one, do you repent the sin youre carrying?
+</T>
+<T>
+JULIET
+I do, and patiently bear the shame.
+</T>
+<T>
+DUKE VINCENTIO
+Ill teach you how to examine your conscience, and to test if your repentance is real or insincere.
+</T>
+<T>
+JULIET
+Ill gladly learn.
+</T>
+<T>
+DUKE VINCENTIO
+Do you love the man who wronged you?
+</T>
+<T>
+JULIET
+Yes, as I love myself, the woman who wronged him.
+</T>
+<T>
+DUKE VINCENTIO
+So then it seems your sinful act was mutually committed?
+</T>
+<T>
+JULIET
+Mutually.
+</T>
+<T>
+DUKE VINCENTIO
+But your sin is heaviera play on words. Heavier means more serious but also refers literally to the heavy child Juliet carriesheavier than his.
+</T>
+<T>
+JULIET
+I do confess it, and repent it, father.
+</T>
+<T>
+DUKE VINCENTIO
+Thats appropriate, daughter. But if youre only sorry because your sins been found out, thats being sorry for yourself, not for offending Heaven. We tend to repent out of fear of God, rather than love for him
+</T>
+<T>
+JULIET
+I repent because my act was evil. Im happy to be ashamed of it.
+</T>
+<T>
+DUKE VINCENTIO
+Maintain that attitude. I hear your partner must die tomorrow, and Im going to give him spiritual guidance.
+Grace go with you, and God bless you!
+</T>
+<T>
+JULIET
+Must die tomorrow! Oh, painful love! By making me pregnant, its spared my lifethe law spared a pregnant female prisoner from executionits spared my life. But that comfort means I have to live with the horror of Claudios death.
+</T>
+<T>
+PROVOST
+Hes to be pitied.
+</T>
+<T>
+ANGELO
+When I try to pray and think, I think and pray about different things. My empty wordsempty here can mean two things: the first meaning is absent-minded or without conviction, since Angelo speaks to heaven but his thoughts are on Isabel; it also suggests meaningless, since his impure thoughts about Isabel prove he doesnt mean the pious words he speaks.empty words focus on heaven, while my imagination ignores what Im saying and fixates on Isabel. Its as if Im only mouthing Gods name, while an evil idea grows in my heart. The politics I used to study with such interest now seem dry and tedious. The dignity I was so proud of (I hope no one hears this) is now worth even less than some silly hat feather waving uselessly in the wind. Oh, how often do rank and ceremonial trappings impress the foolish and entrap even the wise! Passions are passionsthey cannot simply be swept away. You can write good angel on the devils horns, but that doesnt change his devilish nature.
+</T>
+<T>
+Hello! Whos there?
+</T>
+<T>
+SERVANT
+One Isabel, a nun, wishes to see you.
+</T>
+<T>
+ANGELO
+Show her the way.
+</T>
+<T>
+Oh, heavens! Why does my blood rush to my heart, both choking it and making the rest of my body weak? Its like a stupid crowd surrounding somebody who faintstheyre all trying to help him and actually theyre cutting off the air he needs. Or, like the common people who drop what theyre doing and rush over to see their beloved king when he appears, fawning and crowding him so much that their ignorant adoration becomes offensive.
+</T>
+<T>
+How are you, pretty lady?
+</T>
+<T>
+ISABELLA
+Ive come to find out what you want to do.
+</T>
+<T>
+ANGELO
+If only you knew what I want to do and didnt have to ask. Your brother cannot live.
+</T>
+<T>
+ISABELLA
+Very well, then. Heaven keep your honor!
+</T>
+<T>
+ANGELO
+On the other hand, he may live awhilemaybe as long as you or me. Still, he must die.
+</T>
+<T>
+ISABELLA
+By your command?
+</T>
+<T>
+ANGELO
+Yes.
+</T>
+<T>
+ISABELLA
+I beg you, tell me when. So that, no matter how long or short his reprieve is, hell be spiritually prepared and can save his soul.
+</T>
+<T>
+ANGELO
+Ha! Damn these filthy vices! One might as well pardon a murderer as forgive a fornicator who begets an illegitimate child. Its as easy to take a legitimate life as it is to create an illegitimate one.
+</T>
+<T>
+ISABELLA
+Heaven may regard the two sins as equal, but humans do not.
+</T>
+<T>
+ANGELO
+You think so? Then Ill put this question to you: which would you prefer, that this very fair law took your brothers life, or to save your brother, you give up your body to the same sort of sweet sin as did the girl he ruined?
+</T>
+<T>
+ISABELLA
+Sir, believe this, Id rather give up my body than my soul.
+</T>
+<T>
+ANGELO
+Im not talking about your soul: sins were compelled to commit get counted, but they dont count against us.
+</T>
+<T>
+ISABELLA
+What are you saying?
+</T>
+<T>
+ANGELO
+No, dont hold me to that, for I can argue a point I dont really believe. Answer this. As the voice of the written law, I pronounce a death sentence on your brothers life. Might it not be charity to commit a sin to save this brothers life?
+</T>
+<T>
+ISABELLA
+If you want to do it, Ill risk the punishment on my soul, and say itd be no sin at all, but charity.
+</T>
+<T>
+ANGELO
+If you felt like doing it, even at the risk of your soul, sin and charity would balance each other perfectly.
+</T>
+<T>
+ISABELLA
+If begging for his life is a sin, Heaven let me bear it! If your granting my request is a sin, Ill pray each morning to have it added to my faults and not one you have to answer for.
+</T>
+<T>
+ANGELO
+No, listen to me. Youre not following me. Either youre dumb or youre playing dumb, and thats not good.
+</T>
+<T>
+ISABELLA
+Call me dumb, then, and not very good. Let me accept by Gods grace that Im not any better than that.
+</T>
+<T>
+ANGELO
+This is how smart people try to seem really bright: by knocking their own intelligence. Its the same way hiding behind a black mask makes a woman seem ten times more beautiful than her naked face does. But pay attention. Ill be more blunt, so that you get it. Your brother is to die.
+</T>
+<T>
+ISABELLA
+Yes.
+</T>
+<T>
+ANGELO
+Thats the penalty for his crime, under the law.
+</T>
+<T>
+ISABELLA
+True.
+</T>
+<T>
+ANGELO
+Suppose that there was no other way to save his lifenot that Im admitting this, its just for the sake of argumentlets say that you, his sister, were desired by someone whose influence with the judge, or whose own powerful position, could rescue your brother from the laws binding chains. And there was no other earthly way to save him, unless you gave your virginity to this hypothetical man, or else your brother dies. What would you do?
+</T>
+<T>
+ISABELLA
+I would do this as much for my poor brother as myselfthat is, if I were under a death sentence, Id strip myself naked and display the whips bloody lashes like rubies. And Id go to my death like going to my bed, before Id surrender my body to sin.
+</T>
+<T>
+ANGELO
+Then your brother must die.
+</T>
+<T>
+ISABELLA
+And thats the better bargain. Better a brother die once than a sister suffer eternal damnation to save him.
+</T>
+<T>
+ANGELO
+Then arent you as cruel as the sentence youve so deplored?
+</T>
+<T>
+ISABELLA
+A shameful release and an unconditional pardon are two different things. Legal mercy is in no way related to an immoral rescue.
+</T>
+<T>
+ANGELO
+You said a little while ago the law was tyrannical, arguing that your brothers sinning was a lighthearted act, not
+a vice.
+</T>
+<T>
+ISABELLA
+Oh, forgive me, my lord. To get what we want, we often say things we dont mean. Ive made excuses for something I hate in order to help the brother I love.
+</T>
+<T>
+ANGELO
+Were all weak.
+</T>
+<T>
+ISABELLA
+Yes. Otherwise, my brother would deserve to die, if he were the only person to have inherited this weakness.
+</T>
+<T>
+ANGELO
+No, women are weak too.
+</T>
+<T>
+ISABELLA
+Yes, as weak their mirrors, which break as easily as they reflect images. WomenHeaven help us!are ruined by men who take advantage of us. Call us frail ten times over, for were as soft as our skin, and gullible.
+</T>
+<T>
+ANGELO
+I agree. And based on what you say about your sexsince I suppose were only as strong as our own weakest pointslet me be bold. I take you at your word. Be what you area woman, that is. If you are better than that, then youre not a woman. But if you are one, as you certainly seem to be by all outward appearances, show it now by being weak.
+</T>
+<T>
+ISABELLA
+I can only speak with a sincere tongue. My gentle lord,
+please talk plainly, as you did before.
+</T>
+<T>
+ANGELO
+To put it plainly, I love you.
+</T>
+<T>
+ISABELLA
+My brother loved Juliet, and you tell me that hell die for it.
+</T>
+<T>
+ANGELO
+He wont, Isabel, if you give me love.
+</T>
+<T>
+ISABELLA
+I know your virtue gives you the freedom to act wicked, in order to test others.
+</T>
+<T>
+ANGELO
+Believe me, I swear I mean what I say.
+</T>
+<T>
+ISABELLA
+What! To believe so much in someone with so little honor and such evil intentions! You deceiver! Ill denounce you, Angelo, believe me. Sign a pardon for my brother immediately, or Ill scream to the entire world what sort of man you are.
+</T>
+<T>
+ANGELO
+Who will believe you, Isabel? My spotless reputation, my strict way of living, my testimony against you, and my position will all outweigh your accusation. Youll be silenced and discredited, accused of slander. The starting gate is open now, and my desires are off and running. Feed my hungerno more of your modesty and time-wasting blushes, which charm me and then banish me for being charmed. Save your brother by sleeping with me, or hell be put to death. And not only that, but itll be death by torture, drawn out by your cruelty. Accept my offer tomorrow, or by my almighty passion, Ill tyrannize him. As for you, say what you want. My lie, which calls your claim false, will outweigh your true claim.
+</T>
+<T>
+ISABELLA
+Who can I complain to? If I reported this, who would believe me? Oh, dangerous mouths, with double-talking tongues that can both condemn and approve, and make the law bow to their wishes. They put their sexual desires before notions of right and wrong! Ill go to my brother. Although he gave in to his bodys demands, his minds so honorable that, if he had twenty heads to lay on twenty bloody execution blocks, hed give them all up, rather than let his sister pollute her body. So, Isabel, youll live chaste, and brother, youll die. My chastity is more important than my brother. Ill tell him of Angelos request, and prepare him for deathand the eternal rest of his soul.
+</T>
+<T>
+DUKE VINCENTIO
+So, you hope for a pardon from Lord Angelo?
+</T>
+<T>
+CLAUDIO
+Hope is the only medicine miserable people have. I hope to live, and am prepared to die.
+</T>
+<T>
+DUKE VINCENTIO
+Be ready to die; then either death or life will be all the sweeter. Tell life this: if I lose you, I lose something that only fools would want to keep. Youre just a breath, subject to all the changes of weather that hourly buffet the body you occupy. Youre simply deaths dupe, constantly struggling to run away from him, while all the while youre running toward him. Youre not noble, because all your civilized comforts come from lowly plants and animals. Youre by no means brave, because the forked tongue of a little snake scares you. Sleep is your best way to rest, and you do that a lot, yet you stupidly fear death, which is basically the same thing. Youre not a single being, because youre composed of thousands of grains of dust. Youre not happy, because youre always trying to get what you dont have, and what you do have, you forget about. Youre unstable, your moods changing as often as the phases of the moon. If youre rich, youre actually poorlike an ass staggering under a load of gold bars, youre just carrying your heavy wealth for a period, and you lose that wealth when you die. You dont have any friends, for even your childrenthe offspring of your own loinscurse the gout, skin rashes, and colds for not carrying you off sooner. Youre neither old or young, but always suspended in a sort of mid-afternoon nap, because when young, youre like an old beggar, wheedling money from your feeble elders. And when youre old and rich yourself, you have neither the passion, love, agility, or beauty to enjoy your wealth. So, what in all this is worth living for? Life hides more than a thousand deaths. Yet its death, which fixes all these problems, that we fear.
+</T>
+<T>
+CLAUDIO
+I humbly thank you. In looking to live, I find I actually seek to die, and by seeking death, I find life. Let death come.
+</T>
+<T>
+ISABELLA
+(offstage) Hello, there! Peace, grace, and good company to everyone here!
+</T>
+<T>
+PROVOST
+Whos there? Come in. That wish deserves a welcome.
+</T>
+<T>
+DUKE VINCENTIO
+Dear sir, Ill visit you again soon.
+</T>
+<T>
+CLAUDIO
+Most holy sir, thank you.
+</T>
+<T>
+ISABELLA
+My business is a word or two with Claudio.
+</T>
+<T>
+PROVOST
+And very welcome. Look, signor, heres your sister.
+</T>
+<T>
+DUKE VINCENTIO
+Provost, a word with you.
+</T>
+<T>
+PROVOST
+As many as you please.
+</T>
+<T>
+DUKE VINCENTIO
+Take me to a place where I can hide and overhear them.
+</T>
+<T>
+CLAUDIO
+Now, sister, whats the good word?
+</T>
+<T>
+ISABELLA
+Why, as all good words arevery good indeed. Lord Angelo has business with heaven, and hes going to make you his ambassador therean eternal appointment. So get ready, quickly. Tomorrow you set off.
+</T>
+<T>
+CLAUDIO
+Is there no way out?
+</T>
+<T>
+ISABELLA
+None, except a way that would save his head by breaking my heart in two.
+</T>
+<T>
+CLAUDIO
+But is there any?
+</T>
+<T>
+ISABELLA
+Yes, brother, you can live. If you beg him, the judge will offer a devilish sort of mercy that will free you, yet chain you until death.
+</T>
+<T>
+CLAUDIO
+Lifetime imprisonment?
+</T>
+<T>
+ISABELLA
+Yes, exactly. A type of lifetime imprisonment that would limit your movements, even if you had the freedom to roam the entire world.
+</T>
+<T>
+CLAUDIO
+But what type?
+</T>
+<T>
+ISABELLA
+The type that, if you agreed to it, would strip your honor from your body like bark from a tree trunk, and leave you exposed to shame.
+</T>
+<T>
+CLAUDIO
+Get to the point.
+</T>
+<T>
+ISABELLA
+Oh, Im afraid of you, Claudio. I tremble to think you would cherish a wild existence and would value six or seven years of life more than everlasting honor. Do you dare to die? The worst part of death is anticipating it. A beetle we step on suffers as much as a giant when it dies.
+</T>
+<T>
+CLAUDIO
+Why are you shaming me like this? Do you think I can summon my resolve from flowery, comforting speeches?
+If I have to die, I will meet the darkness like a bride,
+and hug it in my arms.
+</T>
+<T>
+ISABELLA
+Now, thats my brother talkinglike my father speaking from his grave. Yes, you must die. Youre too noble to save yourself in a shameful way. This seemingly saintly deputy, whose composed face and carefully calculated words target and attack young people like some bird of prey, is really a devil. If you drained him of all the filth inside him, youd reveal a pond as deep as hell.
+</T>
+<T>
+CLAUDIO
+The priestly Angelo!
+</T>
+<T>
+ISABELLA
+Oh, its a cunning disguise from hell, to cloak and cover the wickedest people in priestly clothes. Can you believe it, Claudio? If I gave him my virginity, youd be freed.
+</T>
+<T>
+CLAUDIO
+Oh, heavens! It cant be.
+</T>
+<T>
+ISABELLA
+Yes, in exchange for this awful sin, hed free you to keep on sinning. Tonights the time I have to do something I hate to even pronounce, or else you die tomorrow.
+</T>
+<T>
+CLAUDIO
+You mustnt do it.
+</T>
+<T>
+ISABELLA
+Oh, if it were just my life, Id throw it away like a pin to save you.
+</T>
+<T>
+CLAUDIO
+Thanks, dear Isabel.
+</T>
+<T>
+ISABELLA
+Be ready, Claudio, for your death tomorrow.
+</T>
+<T>
+CLAUDIO
+Yes. Is his lust so great that it causes him to make a mockery of the law, even while hes enforcing it? Of course, it isnt a sin, or anyway its the least of the seven deadly sins.
+</T>
+<T>
+ISABELLA
+Which is the least?
+</T>
+<T>
+CLAUDIO
+If it were a damnable thing, whyif hes so wisewould he risk being eternally punished for a momentary pleasure? Oh, Isabel!
+</T>
+<T>
+ISABELLA
+What are you saying?
+</T>
+<T>
+CLAUDIO
+Death is a fearful thing.
+</T>
+<T>
+ISABELLA
+And a disgraced life a hateful one.
+</T>
+<T>
+CLAUDIO
+Yes, but to die, and go who knows where. To lie cold and congealing, and to rotthis conscious, warm body to become a compact lump of earth, and the vast spirit to swim in hells fiery floods or reside in a frigid land of thick ice. To be confined inside invisible winds and perpetually, violently blown all around the world hanging in space. Or to be worse off than one of those tortured souls howling from punishment of sinful thoughtsits too horrible! The weariest, most hateful life that old age, aches, poverty and imprisonment can inflict on us is paradise compared to our fears of death.
+</T>
+<T>
+ISABELLA
+Oh, no!
+</T>
+<T>
+CLAUDIO
+Sweet sister, let me live. Any sin you commit to save a brothers life, nature will pardon as though it were a good deed.
+</T>
+<T>
+ISABELLA
+Oh, you beast! Treacherous coward! Shameful wretch!
+Will you be given your life as a result of my vice? Isnt it a kind of incest, to gain life from your own sisters shame? What should I think? God forbid, my mother must have cheated on my father, for such a twisted son as you never could have sprung from his blood! I renounce youdie, perish! Even if all I had to do was pray on bended knees to stop your execution, Id let it happen. Ill pray a thousand prayers for your death, and not one word to save you.
+</T>
+<T>
+CLAUDIO
+No, listen to me, Isabel.
+</T>
+<T>
+ISABELLA
+Oh, shame, shame, shame! Your sin was no one-time accident, but a habit. Granting you mercy would be like pimping, enabling you to do it again. Its best that you die right away.
+</T>
+<T>
+CLAUDIO
+Oh, listen to me, Isabella!
+</T>
+<T>
+DUKE VINCENTIO
+Permit me to say a word, young sister, just one word.
+</T>
+<T>
+ISABELLA
+What do you want?
+</T>
+<T>
+DUKE VINCENTIO
+If you can spare the time, Id like to talk with you in a little while. Youd be doing yourself a favor as well as me.
+</T>
+<T>
+ISABELLA
+I dont have any spare time, but Ill wait for you a little while.
+</T>
+<T>
+DUKE VINCENTIO
+Son, I overheard what happened between you
+and your sister. Angelo never meant to seduce her. He was only testing her virtue, to test his ability to judge character. Being a person of integrity, she virtuously refused him, and he was happy to hear it. Im Angelos confessor, so I know this is true. Therefore, prepare yourself for death. Dont prop yourself up with false hopes. Tomorrow you must die. Fall to your knees and prepare for confession.
+</T>
+<T>
+CLAUDIO
+Let me ask my sister to forgive me. Im so out of love
+with life that Ill pray to be rid of it.
+</T>
+<T>
+DUKE VINCENTIO
+Maintain that attitude. Farewell.
+</T>
+<T>
+Provost, a word with you!
+</T>
+<T>
+PROVOST
+What is it, father?
+</T>
+<T>
+DUKE VINCENTIO
+Now that youve come over, you should go away. Leave me with the girl awhile. My intentions and the fact that Im a friar guarantee that nothing bad will happen to her.
+</T>
+<T>
+PROVOST
+Very well.
+</T>
+<T>
+DUKE VINCENTIO
+He who made you lovely made you good, as well. Beauty has a cheap kind of goodness, which is why beauty doesnt last. But virtue lies at the heart of your character, so you will always be beautiful. Ive heard about Angelos sexual advances to you, and if there werent other examples of such lapses, Id be really surprised. What are you going to do to satisfy this stand-in and save your brother?
+</T>
+<T>
+ISABELLA
+Im going now to give him my answer: Id rather my brother die by legitimate execution than have an illegitimate baby. But, oh, how wrong the good duke was about Angelo! If he ever returns and I can speak to him, the first words I speak will be to expose Angelos way of governing.
+</T>
+<T>
+DUKE VINCENTIO
+Thats not a bad idea. But, as the matter now stands, hell deny your accusation. Hell say he was only testing you. So, listen to my advice. My delight in doing good gives me an idea for a solution. Im convinced theres a way you righteously can do a poor wronged lady some well-deserved good, save your brother from the cruel law, keep your own gracious self pure, and greatly please the absent duke, if he ever returns to hear about all this.
+</T>
+<T>
+ISABELLA
+Tell me more. I have the courage to do anything, as long as it doesnt strike me as wrong.
+</T>
+<T>
+DUKE VINCENTIO
+Virtue is bold, and goodness is never afraid. Have you ever heard of Mariana, the sister of Frederick, the great soldier who died at sea?
+</T>
+<T>
+ISABELLA
+Ive heard of the lady, and people always spoke well of her.
+</T>
+<T>
+DUKE VINCENTIO
+She was supposed to marry this Angelo. They were engaged, and the wedding day was set. But before the ceremony, her brother Frederick was lost at sea, in the ship that was carrying his sisters dowry. The poor woman suffered a heavy blow. She lost a famous, noble brother, who loved her dearly and devotedly. She lost with him her dowry, the bulk of her fortune, and with both, she lost her
+husband-to-be, this oh-so-respectable Angelo.
+</T>
+<T>
+ISABELLA
+Can this be true? Did Angelo leave her?
+</T>
+<T>
+DUKE VINCENTIO
+Left her in her tears, without drying a single one of them. He reneged on his vows completely, saying he discovered that shed been unfaithful to him. He gave her only grief, basically, and she still wears it, like a wedding dress. Her tears wash over him, but like a marble statue, he never budges.
+</T>
+<T>
+ISABELLA
+Its the equivalent of a death to take this poor girl away from the world! And life is so unfair, that this man lives! But how can she benefit from all this?
+</T>
+<T>
+DUKE VINCENTIO
+Its a break that you can easily heal, and the cure not only saves your brother, but keeps you from dishonor.
+</T>
+<T>
+ISABELLA
+Show me how, good father.
+</T>
+<T>
+DUKE VINCENTIO
+This maid still loves Angelo. Logically, his unfair cruelty should have ended her love, but its actually intensified it, the way water becomes violent and choppy when it hits a barrier. Go to Angelo. Pretend to yield to his request, and obey his demands to the letter. But set some conditions: that you not spend much time together, that it be in the dark, that there be absolute silence, and that it be in a convenient place. When he agreesand now heres the key partwell tell the wronged girl to go in your place. If their encounter later comes to light, it might compel him to compensate her. The result of all this: your brother is saved, your honor is maintained, poor Mariana is helped, and the corrupt deputy is punished. Ill prepare the girl and make her ready for the encounter. If you think you can manage this, the double benefit outweighs any blame for the deception. What do you think?
+</T>
+<T>
+ISABELLA
+I like the idea already, and I hope itll be successful.
+</T>
+<T>
+DUKE VINCENTIO
+A lot depends on your ability to pull it off. Hurry over to Angelo. If he begs you to sleep with him tonight, promise to satisfy him. Ill go to Saint Lukes; poor Mariana is living there, in a country house. Arrange things with Angelo and come see me there, the sooner the better.
+</T>
+<T>
+ISABELLA
+Thank you for your help. Goodbye, good father.
+</T>
+<T>
+ELBOW
+No, but if you go on buying and selling men and women like beasts, everyone in the world will end up spawning bastards.
+</T>
+<T>
+DUKE VINCENTIO
+Oh, heavens! What nonsense is this?
+</T>
+<T>
+POMPEY
+Lifes become a lot less fun since the law took two crimesprostitution and moneylendingand suppressed the one that was the most fun, while condoning the worse of the two. The thriving moneylender wraps himself in a warm fur coat, made of skins from the innocent lamb and trimmed in fur from the crafty fox, proving that craftiness is worth more than innocence.
+</T>
+<T>
+ELBOW
+Come along, sir. Bless you, good father friarthis greeting makes no sense since friar means brother, hence the Dukes mocking responsefather friar.
+</T>
+<T>
+DUKE VINCENTIO
+And you, good brother father. How has this man offended you, sir?
+</T>
+<T>
+ELBOW
+Actually, sir, he has offended the law. And, sir, we
+take him to be a thief too, sir, because we found
+on him, sir, a strange device for picking lockspresumably for picking the locks on chastity beltspicking locks, which we have sent to the deputy.
+</T>
+<T>
+DUKE VINCENTIO
+(to POMPEY) Shame, sirraha title used to address a male inferiorsirrah! A pimp, a wicked pimp! You support yourself by doing evil. Do you ever stop to think what it is to stuff your mouth or clothe your back from such a filthy vice? Say to yourself, I eat, dress myself, and live off abominable, beastly sex. Can you believe your way of life is a life, when its dependent on such stinking acts? Change your ways, change your ways.
+</T>
+<T>
+POMPEY
+Yes, it does stink in a way, sir; but, sir, I would prove
+</T>
+<T>
+DUKE VINCENTIO
+No, if the devil has given you excuses for sin, youll prove only that you belong to him. Take him to prison, officer. Punishment and religion must both be used on this crude beast before he improves.
+</T>
+<T>
+ELBOW
+He has to appear before the deputy, sir, whos already given him a warning. The deputy cant stand pimps, and if he is a pimp, and appears before him, he would be better off being anywhere but there.
+</T>
+<T>
+DUKE VINCENTIO
+If only we were allas some of us seem to beas free from sin as this pimp is from hypocrisy!
+</T>
+<T>
+ELBOW
+Like your waistfriars robes were tied at the waist with a belt made of rope or cordLike your waist, his neck will soon have a rope around it, sir.
+</T>
+<T>
+POMPEY
+I see help comingand bail. Heres a gentleman and a
+friend of mine.
+</T>
+<T>
+LUCIO
+Hey there, noble Pompey! Oh dear, are you being paraded like a prisoner-of-war after the victorious Caesars chariot? What, arent there any more girls just turned women who can be had for a handful of dollars? Ha, dont you have any answers? How do you feel about the new regime? Puts quite a damper on things, right? What do you say, old man? Hasnt the world changed? Whats your mood nowadays, a bit sad and silent? Or how? Whats the plan?
+</T>
+<T>
+DUKE VINCENTIO
+This is getting worse and worse.
+</T>
+<T>
+LUCIO
+Hows my sweetheart, your boss-lady? Is she still a madam?
+</T>
+<T>
+POMPEY
+Truthfully, sir, shes worn out all her prostitutes, and is herself getting treated for an STD.
+</T>
+<T>
+LUCIO
+Thats right, thats the way it goes: your fresh-faced whore ages into a heavily made-up madam. Its unavoidable. Are you going to prison, Pompey?
+</T>
+<T>
+POMPEY
+I am indeed, sir.
+</T>
+<T>
+LUCIO
+Not a bad thing, Pompey. Goodbye. Go and say I
+sent you. For debt, Pompey? Or something else?
+</T>
+<T>
+ELBOW
+For being a pimp, for being a pimp.
+</T>
+<T>
+LUCIO
+Well, then, put him in jail: if imprisonment is the punishment for being a pimp, then he deserves it. Hes undoubtedly a pimp, and has been for a long time. Born a pimp. Goodbye, good Pompey. Give my regards to prison. Youll be a good husband now, Pompeyyoull never leave home.
+</T>
+<T>
+POMPEY
+I hope, sir, youll post bail for me.
+</T>
+<T>
+LUCIO
+No, I wont, Pompey. Its not in style now. I will pray, Pompey, to increase your sentence. Show an iron will while youre in iron chains. AdieuFrench for goodbye Adieu , Pompey. God bless you, friar.
+</T>
+<T>
+DUKE VINCENTIO
+And you.
+</T>
+<T>
+LUCIO
+Does Bridget still get dolled up, Pompey, ha?
+</T>
+<T>
+ELBOW
+Come along, sir, come.
+</T>
+<T>
+POMPEY
+You wont bail me out, then, sir?
+</T>
+<T>
+LUCIO
+Neither then, Pompey, nor now. Whats happening, friar?
+Whats the news?
+</T>
+<T>
+ELBOW
+Come along, sir, come.
+</T>
+<T>
+LUCIO
+Off to the doghouse, Pompey. Go.
+</T>
+<T>
+Any news, friar, of the duke?
+</T>
+<T>
+DUKE VINCENTIO
+I dont know anything. Can you tell me any news?
+</T>
+<T>
+LUCIO
+Some say hes with the emperor of Russia. Others say that hes in Rome. Where do you think he is?
+</T>
+<T>
+DUKE VINCENTIO
+I dont know, but wherever he is, I wish him well.
+</T>
+<T>
+LUCIO
+It was a crazy whim of his to sneak away from the city and pretend to be the commoner he was never born to be. Lord Angelo runs things well in his absencehes hard on criminals.
+</T>
+<T>
+DUKE VINCENTIO
+He does a good job of it.
+</T>
+<T>
+LUCIO
+It wouldnt hurt him to go a little easier on sex. Theres something too harsh in the way hes handling that, friar.
+</T>
+<T>
+DUKE VINCENTIO
+It is too widespread a vice. It needs a severe cure.
+</T>
+<T>
+LUCIO
+Yes, to tell the truth, this is a vice a lot of people practice. But its impossible to stamp it out totally, friar. Youd have to stop people eating and drinking first. They say this Angelo wasnt the result of a normal act between a man and woman. Do you think thats true?
+</T>
+<T>
+DUKE VINCENTIO
+What was he the result of, then?
+</T>
+<T>
+LUCIO
+Some say a mermaid gave birth to him, some that he was conceived by two dried codfish. But its a fact that when he pees, his urine is congealed ice. That I know to be true. And hes an impotent puppetthats certain.
+</T>
+<T>
+DUKE VINCENTIO
+Youre a funny guy, sir, and speak freely.
+</T>
+<T>
+LUCIO
+Well, what a cruel thing for him to do, to take a mans life because his penis rose up! Would the absent duke have done something like this? Before he wouldve hanged a man for fathering a hundred bastards, he wouldve paid for nursing a thousand. He had some understanding of prostitution. He knew the game, and that made him merciful.
+</T>
+<T>
+DUKE VINCENTIO
+I never heard the absent duke accused of womanizing. He wasnt inclined that way.
+</T>
+<T>
+LUCIO
+Oh, sir, youre wrong.
+</T>
+<T>
+DUKE VINCENTIO
+Thats not possible.
+</T>
+<T>
+LUCIO
+Who, the duke? Yes, your fifty-year-old beggar-womanhed habitually make a deposit in her dish. The duke was a little kinky. Hed get drunk, too, let me tell you.
+</T>
+<T>
+DUKE VINCENTIO
+Surely, youre being unfair to him.
+</T>
+<T>
+LUCIO
+Sir, I was a close friend of his. The duke was a shy fellow, and I believe I know the reason for his sudden departure.
+</T>
+<T>
+DUKE VINCENTIO
+What, please tell me, was the reason?
+</T>
+<T>
+LUCIO
+No, sorry. Its a secret that must stay locked in my mouth. But this I can tell you: the majority of his subjects thought the duke a wise man.
+</T>
+<T>
+DUKE VINCENTIO
+Wise! Well, theres no doubt that he was.
+</T>
+<T>
+LUCIO
+A very superficial, ignorant, thoughtless fellow.
+</T>
+<T>
+DUKE VINCENTIO
+Youre either jealous, mad, or mistaken. The way he conducts his life and his role as a ruler by themselves must earn him a better reputation. Judge him by his public actions and even the envious would see him as a scholar, a statesman, and a soldier. So, you dont know what youre talking about. Or, if you do, youre spitefully trying to tarnish his name.
+</T>
+<T>
+LUCIO
+Sir, I know him, and I love him.
+</T>
+<T>
+DUKE VINCENTIO
+If you loved him you would know him better, and if you knew him better you would love him more.
+</T>
+<T>
+LUCIO
+Look, sir, I know what I know.
+</T>
+<T>
+DUKE VINCENTIO
+I can hardly believe that, since you dont know what youre talking about. But, if the duke ever returns, as we pray he will, I challenge you to justify your comments in front of him. If youve spoken the truth, you should have the courage to defend it. Its my duty to summon you to testify. May I ask your name?
+</T>
+<T>
+LUCIO
+Sir, my name is Lucio, and its well known to the duke.
+</T>
+<T>
+DUKE VINCENTIO
+Hell know you even better, sir, if I live to report you.
+</T>
+<T>
+LUCIO
+Im not afraid of you.
+</T>
+<T>
+DUKE VINCENTIO
+Oh, you hope the duke will never come back, or you think Im too weak an enemy. But I really can do you a little harmyoull end up denying this.
+</T>
+<T>
+LUCIO
+Ill be hanged first. Youre wrong about me, friar. But forget all this. Can you tell me if Claudio is to die tomorrow or not?
+</T>
+<T>
+DUKE VINCENTIO
+Why should he die, sir?
+</T>
+<T>
+LUCIO
+Why? For plugging a hole. I wish the duke were back again. His sexless deputys abstinence policy will depopulate the province. Even sparrows cant nest on his roof, because theyre lecheroussparrows were considered sacred to Venus, Goddess of Love, and thus symbols of sexbecause theyre lecherous! The duke would have punished sexual acts privatelyhed never publicly expose them. I wish he were back! Claudio is condemned for getting undressed. Goodbye, good friar. Please pray for me. I tell you again, the duke was no choir boyhe would eat mutton on Fridaysa pun, referring both to eating meat (mutton) on Fridaysforbidden to Catholicsand to visiting prostitutes, called mutton in Elizabethan slanghe would eat mutton on Fridays. Hes not past it yet, and I tell you, hed French-kiss a beggar, even if she smelled of moldy bread and garlic. Say that I said so. Goodbye.
+</T>
+<T>
+DUKE VINCENTIO
+Neither political power nor noble character can escape criticism; even the most virtuous person can be stabbed in the back by slurs. What king is so strong he can bottle up the poison of a slandering tongue? But whos coming now?
+</T>
+<T>
+ESCALUS
+Go on, take her to prison!
+</T>
+<T>
+MISTRESS OVERDONE
+My good lord, be good to me. Your honor is said to be that of a merciful man, my good lord.
+</T>
+<T>
+ESCALUS
+Youve been warned two, three times, and youre still committing the same crime! This is enough to turn mercy itself into a cursing tyrant.
+</T>
+<T>
+PROVOST
+A madam for eleven years, your honor.
+</T>
+<T>
+MISTRESS OVERDONE
+My lord, this is Lucios accusation against me. He got Miss Kate Keepdown pregnant, back in the days when the duke was still here, and he promised to marry her. Now his child will be fifteen months old on May Day. I kept the kid myself, and now see how he goes out of his way to abuse me!
+</T>
+<T>
+ESCALUS
+That fellow is a dangerous fellow. Bring him before me. Take her away to prison! No more talking.
+</T>
+<T>
+Provost, my colleague Angelo wont change his mindClaudio must die tomorrow. Furnish him with priests, to give him spiritual consolation. If my colleague possessed my sense of pity, this wouldnt be happening.
+</T>
+<T>
+PROVOST
+This friars been with him, and helped him prepare for death.
+</T>
+<T>
+ESCALUS
+Good evening, good father.
+</T>
+<T>
+DUKE VINCENTIO
+Bliss and goodness to you!
+</T>
+<T>
+ESCALUS
+Where are you from?
+</T>
+<T>
+DUKE VINCENTIO
+Not from this country, though I happen to be here for the time being. I belong to a holy brotherhood, and have just come from Rome, on special business from the Vatican.
+</T>
+<T>
+ESCALUS
+Whats the news from abroad?
+</T>
+<T>
+DUKE VINCENTIO
+None, except that goodness is so sick that only death can cure it. People only want the latest thing, and its as dangerous to be faithful as it is virtuous to be promiscuous. Theres barely enough honesty left for it to be safe to get involved with people, but theres enough blind trust to doom partnerships. The wisdom of the world runs on paradoxes like this. Its old news, but everyday news. Tell me, sir, what sort of man was the duke?
+</T>
+<T>
+ESCALUS
+Someone who, above everything else, truly wanted to know himself.
+</T>
+<T>
+DUKE VINCENTIO
+What sort of things did he enjoy?
+</T>
+<T>
+ESCALUS
+He enjoyed seeing someone else happy more than doing something that made himself happyan even-tempered man. But lets leave him to his affairs, with a prayer that theyll be prosperous, and tell me how Claudio is. I understand youve visited him.
+</T>
+<T>
+DUKE VINCENTIO
+He claims to have received no unfair treatment from his judge, but willingly yields to the laws verdict. Out of human weakness, hed formed many deceptive hopes about a reprieve. But gradually I showed him these made no sense, and now he is ready to die.
+</T>
+<T>
+ESCALUS
+You have fulfilled your duty to both God and the prisoner. I pleaded for the poor man as much as I could, without giving offense, but my fellow judge is so severe, I swear, hes like Justice itself.
+</T>
+<T>
+DUKE VINCENTIO
+If his own behavior matches the strictness of his judgments, its to his credit. But if he slips, hes written his own sentence.
+</T>
+<T>
+ESCALUS
+Im going to visit the prisoner. Goodbye.
+</T>
+<T>
+DUKE VINCENTIO
+Peace be with you!
+</T>
+<T>
+(to himself) He who wants to be a ruler and enact heavens justice should be as holy as he is severe. He should find in himself a model of proper conduct, the grace to stand firm, and the strength to go forward, punishing others no more or less than hed punish his own sins. Shame on him who cruelly strikes and kills others for the very faults he possesses! Shame on Angelo six times over, for weeding out my vice while nurturing his own! Oh, what evil an angelic-looking man can hide in himself! How this seemingly virtuous behavior, born out of sin, can deceive everyone! Its like a spider web that traps small sins like small insects, but breaks when anything large and heavy touches it. I must combat vice with cunning. Tonight Angelo will sleep with his rejected, former fiance. By deceit, the deceiver will be forced to pay for his wrongful demands, and fulfill his old contract.
+</T>
+<T>
+BOY
+(singing) Take, oh take those lips away, that swore such sweet lies,
+and those eyes, which trick the morning by shining bright as the sun at dawn. But give back, give back my kisses, which seal my love, but seal it in vain, seal it in vain.
+</T>
+<T>
+MARIANA
+Stop singing, and leave, quickly. Here comes a man whose advice has often calmed me down.
+</T>
+<T>
+I beg your pardon, sir. I wish you hadnt found me listening to music. Please excuse me, and believe me, it drove away my joy and nurtured my sorrow.
+</T>
+<T>
+DUKE VINCENTIO
+Thats good, though music often has a magical power to make the bad seem good and encourage good people to misbehave. Please tell me, has anybody been asking for me here today? I promised to meet someone here about this time.
+</T>
+<T>
+MARIANA
+No ones been asking for you. Ive been sitting here all day.
+</T>
+<T>
+DUKE VINCENTIO
+I believe you; shes here now. May I ask you to leave for a little while? Ill be with you shortly, and itll be to your advantage.
+</T>
+<T>
+MARIANA
+Im always grateful to you.
+</T>
+<T>
+DUKE VINCENTIO
+Welcomeand perfect timing. Whats the news from our favorite deputy?
+</T>
+<T>
+ISABELLA
+He has a garden surrounded by a brick wall, whose western side is backed by a vineyard. Leading to that vineyard is a gate of wooden planks that you open with this larger key. This other key opens a little door that leads from the vineyard to the garden. Ive promised to meet him there, in the dark middle of the night.
+</T>
+<T>
+DUKE VINCENTIO
+But do you know how to find the way there?
+</T>
+<T>
+ISABELLA
+Ive noted it carefullyhe gave me the directions twice, whispering the details with care and using gestures to explain.
+</T>
+<T>
+DUKE VINCENTIO
+Are there any other agreed-on signals she has to give?
+</T>
+<T>
+ISABELLA
+No, none, only a visit in the dark. And Ive let him know I can only stay a short time, because I told him a servant would be waiting for me, under the pretense that I was coming about my brother.
+</T>
+<T>
+DUKE VINCENTIO
+Youve handled it well. I havent told Mariana a word of this yet. Hey, you in there! Come here!
+</T>
+<T>
+(to MARIANA) Please, let me introduce you to this girl. Shes here to help you.
+</T>
+<T>
+ISABELLA
+Thats what I want to do.
+</T>
+<T>
+DUKE VINCENTIO
+Do you believe that Ive got your best interests at heart?
+</T>
+<T>
+MARIANA
+Good friar, I know you do, and that youve found a way to help.
+</T>
+<T>
+DUKE VINCENTIO
+Then take the hand of your new friend, who has a tale to tell you. Ill wait for you until youre ready, but hurry nights falling.
+</T>
+<T>
+MARIANA
+Will you walk with me?
+</T>
+<T>
+DUKE VINCENTIO
+Oh, you people of high rank! Millions of treacherous eyes
+are fixed on you, accompanied by a mass of hostile rumors that follow everything you do. A thousand imaginations make you the source of their silly fantasies and torture you with their delusions.
+</T>
+<T>
+Welcome back. What did you decide?
+</T>
+<T>
+ISABELLA
+Shell do it, father, if you recommend it.
+</T>
+<T>
+DUKE VINCENTIO
+I dont just recommend it. I beg her to do it.
+</T>
+<T>
+ISABELLA
+When you leave him, all you have to do is say softly, Now remember my brother.
+</T>
+<T>
+MARIANA
+Dont worry about me.
+</T>
+<T>
+DUKE VINCENTIO
+And, gentle daughter, dont worry for yourself. He is your husband-to-be, so its no sin for you two to sleep togetheryour valid claim as his wife allows the deception. Come on, lets go. We have to sow the seeds before we can reap the harvest.
+</T>
+<T>
+PROVOST
+Come here, you. Can you cut off a mans head?
+</T>
+<T>
+POMPEY
+If the mans a bachelor, sir, I can. But if hes a
+married man, hes also his wifes head, and I can never cut off a womans head.
+</T>
+<T>
+PROVOST
+Come on, sir, spare me your jokes and give me a straight answer. Claudio and Barnardine are to die tomorrow morning. Here in our prison we have a public executioner, who needs a helper. If youll take on the job of assisting him, itll free you from your chains. If you dont, youll have to serve your full sentence, with a fierce whipping before youre released because youve been a notorious pimp.
+</T>
+<T>
+POMPEY
+Sir, Ive been an illegal pimp for longer than I can remember, but Ill be happy to be a legal hangman. Id be glad for my new partner to teach me.
+</T>
+<T>
+PROVOST
+Hey, Abhorsonthe name combines the words abhor and whoreson (son of a whore)Abhorson! Where are you, Abhorson?
+ABHORSON (the executioner) enters.
+</T>
+<T>
+ABHORSON
+Did you call, sir?
+</T>
+<T>
+PROVOST
+Heres a fellow to help you with tomorrows executions. If he works out, settle on an annual salary and let him stay here with you. If he doesnt, use him just for now and then fire him. He cant claim to be too good for the work since hes been a pimp.
+</T>
+<T>
+ABHORSON
+A pimp, sir? To hell with him! Hell discredit our profession.
+</T>
+<T>
+PROVOST
+Go on, sir. You two are worth the same. No more than a featherweights difference, anyway.
+</T>
+<T>
+POMPEY
+Sir, would you pleasefor you do have a pleasing face, except for your hanging expressiontell me if you call your job a profession?
+</T>
+<T>
+ABHORSON
+Yes, sir, a profession.
+</T>
+<T>
+POMPEY
+Ive heard it said that painting, sir, is a profession, and since whoreswho are in my fieldpaint their faces, they prove my occupation is a profession. But Ill be hanged if I can imagine how hanging is a profession.
+</T>
+<T>
+ABHORSON
+Sir, it is a profession.
+</T>
+<T>
+POMPEY
+Can you prove it?
+</T>
+<T>
+ABHORSON
+A thief steals and puts on the clothes of an honest man. If the thief thinks the clothes dont make him seem honest enough, a truly honest man will think thats appropriate. If the thief thinks the clothes make him seem extra honest, then the thief thinks the disguise fits just right. So someone is always happy with the way the disguise works for the thief.
+</T>
+<T>
+PROVOST
+Have you reached an agreement?
+</T>
+<T>
+POMPEY
+Sir, Ill work for him, because I think a hangmans job is a sorrier one than a pimpshe asks forgiveness more oftenan executioner traditionally asked the condemned person to forgive him just before the executionhe asks forgiveness more often.
+</T>
+<T>
+PROVOST
+You, fellow, have your block and your axe ready tomorrow at four oclock.
+</T>
+<T>
+ABHORSON
+Come on, pimp, Ill show you the ropes. Follow me.
+</T>
+<T>
+POMPEY
+I want to learn, sir. And I hope, if you ever get the chance to use me for your own execution, youll find me ready. Because, really, I owe you a good turn for your kindness.
+</T>
+<T>
+PROVOST
+Call Barnardine and Claudio here. I pity one, but not the other, even if he were my brother, as hes a murderer.
+</T>
+<T>
+Look, Claudio, heres your death warrant. Its now dead midnight, and by 8 a.m. tomorrow you must be laid to eternal rest. Wheres Barnardine?
+</T>
+<T>
+CLAUDIO
+As fast asleep as the most innocent of exhausted laborers. He wont wake up.
+</T>
+<T>
+PROVOST
+Who could do him any good, anyway? Well, go, prepare yourself.
+(knocking is heard offstage)
+</T>
+<T>
+Whats that noise? (to Claudio) Heaven give your spirits comfort!
+</T>
+<T>
+In a minute. I hope its some pardon or reprieve for gentle Claudio.
+</T>
+<T>
+Welcome, father.
+</T>
+<T>
+DUKE VINCENTIO
+The best, most wholesome night spirits surround you, good Provost! Whos been here lately?
+</T>
+<T>
+PROVOST
+No one, since the curfew bellrung at 9:00 p.m.curfew bell rang.
+</T>
+<T>
+DUKE VINCENTIO
+Not Isabel?
+</T>
+<T>
+PROVOST
+No.
+</T>
+<T>
+DUKE VINCENTIO
+Someone will be, then, before long.
+</T>
+<T>
+PROVOST
+Is there any news to give comfort to Claudio?
+</T>
+<T>
+DUKE VINCENTIO
+Theres comfort in hope.
+</T>
+<T>
+PROVOST
+Angelos a cruel deputy.
+</T>
+<T>
+DUKE VINCENTIO
+No, no. His life parallels the same straight line that his mighty justice draws. With religious restraint, he suppresses in himself the same impulses he persecutes in others. If he were stained with the sort of sins he punishes, then hed be a tyrant. But because hes virtuous, hes fair.
+(knocking is heard offstage)
+</T>
+<T>
+Theyre here.
+</T>
+<T>
+This provost is a nice man. Its rare that a hardened jailer has sympathy for his fellow men.
+(knocking is heard offstage)
+</T>
+<T>
+What is that noise? That messengers so impatient hes going to hurt that poor door with his knocking.
+</T>
+<T>
+PROVOST
+Hes stuck there until the officer at the gate wakes up to let him in. The officers up now.
+</T>
+<T>
+DUKE VINCENTIO
+Havent you received any order yet countermanding Claudios execution tomorrow?
+</T>
+<T>
+PROVOST
+None, sir, none.
+</T>
+<T>
+DUKE VINCENTIO
+Even though its almost dawn, provost, youll have news before morning.
+</T>
+<T>
+PROVOST
+Perhaps you know something. But I dont think any reprieve is coming. Theres no precedent for it. Besides, Lord Angelo declared the opposite, in public, from the judges bench.
+</T>
+<T>
+This is his lordships servant.
+</T>
+<T>
+DUKE VINCENTIO
+And here comes Claudios pardon.
+</T>
+<T>
+MESSENGER
+(presenting a paper) My lord has sent you this note, and charged me to tell you not to swerve from the smallest item in itnot the time, details, or anything else. Good morning, since I gather its almost morning.
+</T>
+<T>
+PROVOST
+I will obey him.
+</T>
+<T>
+DUKE VINCENTIO
+(to himself) This is his pardon, bought by the same sin Angelo committed. Crimes spread quickly when those in power perpetrate them as well. When evildoers extend mercy, they widen mercys grasp, pardoning other sinners because they love the sin. Now, sir, whats the news?
+</T>
+<T>
+PROVOST
+I told you. Lord Angelo, thinking me careless in my duties maybe, is putting unusual pressure on me. Its strangehes never done this before.
+</T>
+<T>
+DUKE VINCENTIO
+Please, lets hear the letter.
+</T>
+<T>
+PROVOST
+(reads) Whatever you may hear to the contrary, have
+Claudio executed by four oclock, and Barnardine in the
+afternoon. Reassure me by sending me Claudios head by five oclock. Be sure you do it, and be aware that more depends on it than I can reveal at this time. Dont fail to do your duty, or you will be held accountable. What do you say to this, sir?
+</T>
+<T>
+DUKE VINCENTIO
+Who is this Barnardine whos to be executed in the
+afternoon?
+</T>
+<T>
+PROVOST
+He was born in Bohemia, but raised here. Hes been a prisoner for the last nine years.
+</T>
+<T>
+DUKE VINCENTIO
+How did it happen that the absent duke neither freed him nor executed him? Ive heard he usually does one or the other.
+</T>
+<T>
+PROVOST
+Barnardines friends kept getting him reprieves. And there was no clear evidence that he was actually guilty, until now, when Angelo came to power.
+</T>
+<T>
+DUKE VINCENTIO
+Its clear now?
+</T>
+<T>
+PROVOST
+Very clear, and he doesnt deny it himself.
+</T>
+<T>
+DUKE VINCENTIO
+Has he shown remorse while in prison? What effect has it had on him?
+</T>
+<T>
+PROVOST
+Hes a man who fears death as no worse than a drunken sleep. Hes careless, reckless, and fearless of the past, present, or future. Hes unaware of the concept of death, and desperately clinging to life.
+</T>
+<T>
+DUKE VINCENTIO
+He needs counseling.
+</T>
+<T>
+PROVOST
+He wont listen to any. Hes always had the freedom to go anywhere inside the prison. If you gave him a chance to escape, he wouldnt run. Hes drunk many times a day, or spends many days entirely drunk. Often, weve woken him up, as if to take him to be executed, and shown him a pretend warrant. Its never affected him at all.
+</T>
+<T>
+DUKE VINCENTIO
+More of him soon. Provost, I see honesty and loyalty in your face. If Im wrong, my old skill at reading people deceives me, but because Im confident of my ability, Ill take a chance. Claudio, whom you have a warrant to execute, deserves to die no more than Angelo, who sentenced him. I can clearly demonstrate this, but I need four days, so Im going to ask you to do me an immediate and dangerous favor.
+</T>
+<T>
+PROVOST
+What is it, sir?
+</T>
+<T>
+DUKE VINCENTIO
+Delay the death.
+</T>
+<T>
+PROVOST
+Sorry, but how can I, with the time fixed and an explicit command to deliver his head to Angelo, at risk of penalty? Ill find myself in Claudios shoes if I swerve from this in even the smallest way.
+</T>
+<T>
+DUKE VINCENTIO
+By my holy vows, I guarantee your safety if you follow my instructions. Execute this Barnardine this morning, and take his head to Angelo.
+</T>
+<T>
+PROVOST
+Angelos seen both of them, and will recognize the face.
+</T>
+<T>
+DUKE VINCENTIO
+Oh, deaths a great disguiser, and you can help disguise him more. Shave his head and trim his beard, and say it was the prisoners request to be shaved before his death. You know thats a common thing. If anything happens to you because of thisaside from thanks and good fortune by the patron saint of my brotherhood, Ill plead against it with my life.
+</T>
+<T>
+PROVOST
+Forgive me, good father. Its against my oath.
+</T>
+<T>
+DUKE VINCENTIO
+Did you swear allegiance to the duke, or to the deputy?
+</T>
+<T>
+PROVOST
+To him, and to his representatives.
+</T>
+<T>
+DUKE VINCENTIO
+Will you think youve done nothing wrong if the duke vouches for the justice of your action?
+</T>
+<T>
+PROVOST
+But how likely is that?
+</T>
+<T>
+DUKE VINCENTIO
+Not a possibility, but a certainty. Yet since I see
+youre afraid, that neither my religious robes, integrity, nor arguments can easily persuade you, Ill go
+farther than I meant to, to dispel all your fears. (displays a letter) Look, sir, heres the dukes handwriting and seal. You recognize them both, Im sure.
+</T>
+<T>
+PROVOST
+I know them both.
+</T>
+<T>
+DUKE VINCENTIO
+This letters contents describe the dukes return; you can read it over at your leisure, and youll learn that hell be here in two days. Angelo doesnt know this, since today hell be getting some letters with strange news, maybe about the dukes death, maybe about him entering some monasterybut nothing about whats written here. Look, the morning star is out. Dont be confused by all this. Everything makes sense after its been done. Call your executioner, and off with Barnardines head. Ill give him confession, and prepare him for a better place. Youre still stunned, but this absolutely will explain everything to you. Lets go, its almost dawn.
+</T>
+<T>
+POMPEY
+Ive got as many friends here as I did back at the brothel. Youd think it were Mistress Overdones very own house, so many of her old customers are here. First, heres young Mister Hasty; hes in for debt, having paid 197 pounds for some coarse brown paper and old ginger candy, and making back only three pounds selling it. Gingerginger was considered an aphrodisiac for older womenGinger wasnt much in demand, because the old ladies were all dead. Then theres one Mister Pirouette, defendant in a suit about four suits, brought by Mister Thick Velvet, the textile merchant. Hes being impeached over peach-colored satin. Then weve also got young Ditsy, and young Mister Cross-My-Heart, and Mister Cubic Zirconia and Mister Cheapskate, armed to fight duels, and young Kill-Heir who murdered robust Stuffed-Guts, and Mister Forward-Thrust the fighter, and dressed-to-kill Mister Shoe-Buckle, the world-traveler, and wild Half-Pint who stabbed Pots, and, I think, forty more gentsall great clients of our business, who now sing that old prison refrain, Give us food for the Lords sake.
+</T>
+<T>
+ABHORSON
+You there, bring Barnardine here.
+</T>
+<T>
+POMPEY
+Mister Barnardine! Youve got to get up, and get onto the scaffold. Mister Barnardine!
+</T>
+<T>
+ABHORSON
+Hey, Barnardine!
+</T>
+<T>
+BARNARDINE
+(offstage) Damn your throats! Whos making all that noise? Who are you?
+</T>
+<T>
+POMPEY
+Your friends, sir, the hangmen. Please be so
+good, sir, as to rise and be put to death.
+</T>
+<T>
+BARNARDINE
+(offstage) Go away, scoundrel. Away! Im sleepy.
+</T>
+<T>
+ABHORSON
+Tell him he has to wake up, and quickly too.
+</T>
+<T>
+POMPEY
+Please, Mister Barnardine, stay awake till youre
+executed, and sleep afterwards.
+</T>
+<T>
+ABHORSON
+Get in there and fetch him.
+</T>
+<T>
+POMPEY
+Hes coming, sir, hes coming. I hear the straw on his cell floor rustling.
+</T>
+<T>
+ABHORSON
+Is the axe on the block, man?
+</T>
+<T>
+POMPEY
+Very ready, sir.
+</T>
+<T>
+BARNARDINE
+How goes it, Abhorson? Whats the news with you?
+</T>
+<T>
+ABHORSON
+Actually, sir, Id like you to get on with your prayers, because the warrants arrived.
+</T>
+<T>
+BARNARDINE
+You jerk, Ive been drinking all night. Im not ready for it.
+</T>
+<T>
+POMPEY
+Oh, all the better, sir, for he who drinks all night
+and is hanged early in the morning may sleep better all the next day.
+</T>
+<T>
+ABHORSON
+Look, sir, here comes your holy confessor. Think were joking now?
+</T>
+<T>
+DUKE VINCENTIO
+Sir, out of my sense of charity, and hearing how hastily
+you have to leave, I came to advise you, comfort
+you, and pray with you.
+</T>
+<T>
+BARNARDINE
+Not me, friar. Ive been drinking hard all night, and either I get more time to prepare, or theyll have to beat out my brains with clubs. I wont agree to die today, thats for sure.
+</T>
+<T>
+DUKE VINCENTIO
+Oh, sir, you must, and so I beg you to look forward to the journey youre going on.
+</T>
+<T>
+BARNARDINE
+I swear I will not die today, no matter who tries to persuade me.
+</T>
+<T>
+DUKE VINCENTIO
+But listen
+</T>
+<T>
+BARNARDINE
+Not a word: if you got anything to say to me,
+come to my cell. Im not leaving it today.
+</T>
+<T>
+DUKE VINCENTIO
+Unfit to live or die, that stony heart! After him, boys. Bring him to the block.
+</T>
+<T>
+PROVOST
+Now, sir, how is the prisoner?
+</T>
+<T>
+DUKE VINCENTIO
+A creature unprepared, unfit for death. To send him off in his current frame of mind would be damnable.
+</T>
+<T>
+PROVOST
+Here in prison, father, a notorious pirate named Ragozine just died this morning of a terrible fever. He was Claudios age, with the same color beard and hair. What if we forget about this reprobate until hes agreeable, and send the deputy Ragozines head, which is more like Claudios?
+</T>
+<T>
+DUKE VINCENTIO
+Oh, this is a heaven-sent chance! Do it at once. Its getting near the time Angelo set for the execution. See that its done, and the head sent, as ordered. Meanwhile, Ill persuade this uncivilized wretch to die willingly.
+</T>
+<T>
+PROVOST
+Well do it, good father, immediately. But Barnardine must die this afternoon. And what do we do with Claudio, to save me from the danger of word getting out that hes alive?
+</T>
+<T>
+DUKE VINCENTIO
+Lets do this: put both Barnardine and Claudio in secret cells. Before two more days, itll be obvious youre safe.
+</T>
+<T>
+PROVOST
+Im in your hands.
+</T>
+<T>
+DUKE VINCENTIO
+Hurry, get the head and send it to Angelo.
+</T>
+<T>
+Now Ill write letters to Angelo. The provost can deliver them. Theyll say Im close to home and its of the utmost importance that I make a big public entrance. Ill ask him to meet me at the holy springs three miles out of town. And from there, step by cool step, and observing all the proper procedures, Ill deal with Angelo.
+</T>
+<T>
+PROVOST
+Heres the head. Ill carry it myself.
+</T>
+<T>
+DUKE VINCENTIO
+Suitable, isnt it? Come back soon, because I want to talk with you about things that are for your ears only.
+</T>
+<T>
+PROVOST
+Ill be as fast as I can.
+</T>
+<T>
+ISABELLA
+(offstage) Hello! Peace to all here!
+</T>
+<T>
+DUKE VINCENTIO
+Thats Isabels voice. Shes here to see if her brothers pardon has come yet. But Ill hide the news for her own good, to turn her despair into divine comfort when she least expects it.
+</T>
+<T>
+ISABELLA
+May I come in?
+</T>
+<T>
+DUKE VINCENTIO
+Good morning to you, fair and gracious daughter.
+</T>
+<T>
+ISABELLA
+All the better a morning when so holy a man says it to me. Has the deputy sent my brothers pardon yet?
+</T>
+<T>
+DUKE VINCENTIO
+He has released him, Isabel, from the world. His head is off and sent to Angelo.
+</T>
+<T>
+ISABELLA
+No, its not true.
+</T>
+<T>
+DUKE VINCENTIO
+It is. Be smart, daughter, and keep control of yourself.
+</T>
+<T>
+ISABELLA
+Oh, Ill go and tear his eyes out!
+</T>
+<T>
+DUKE VINCENTIO
+They wont let you see him.
+</T>
+<T>
+ISABELLA
+Unhappy Claudio! Wretched Isabel! Cruel world! Damned Angelo!
+</T>
+<T>
+DUKE VINCENTIO
+This neither hurts him nor helps you a bit. Control yourself and leave your case to heaven. Pay attention to what I say. Every syllable is truth you can rely on. The dukes coming home tomorrowno, dry your eyes. His confessor, who belongs to our monastery, gave me this information. Hes already sent word to Escalus and Angelo, who are preparing to meet him at the gates and surrender their authority to him there. If you can, steer your mind along the path I want it to follow. Youll have your desire inflicted on this wretch, the favor of the duke, revenge to your hearts content, and general acclaim.
+</T>
+<T>
+ISABELLA
+Ill do whatever you say.
+</T>
+<T>
+DUKE VINCENTIO
+Then give this letter to Friar Peter. Its the one he sent me about the dukes return. Itll be a sign that I want to meet him at Marianas house tonight. Ill tell him all about her case and yours, and hell bring you before the duke, and you can thoroughly accuse Angelo face-to-face. My poor self is bound by a sacred vow, so I wont be there. (giving the letter) Go with this letter. Banish those worried tears with a light heart. Never trust my holy order again if I steer you wrong. Whos here?
+</T>
+<T>
+LUCIO
+Good evening. Friar, wheres the provost?
+</T>
+<T>
+DUKE VINCENTIO
+Not inside, sir.
+</T>
+<T>
+LUCIO
+Oh, pretty Isabella, Im sick at heart to see your eyes so red, but try to calm down. I have to dine on plain bread and waterto control my desire, I dont fill my belly, since one big meal would get me excited. But they say the duke will be here tomorrow. I swear, Isabel, I loved your brother. If the good old whimsical duke, who loved to fool around in dark places, had been at home, Claudio wouldve lived.
+</T>
+<T>
+DUKE VINCENTIO
+Sir, the duke is nothing at all like you report.
+</T>
+<T>
+LUCIO
+Friar, you dont know the duke as well as I do. Hes more of a womanizer than you think.
+</T>
+<T>
+DUKE VINCENTIO
+Well, youll pay for this one day. Goodbye.
+</T>
+<T>
+LUCIO
+No, wait. Ill go along with you. I can tell you some great tales about the duke.
+</T>
+<T>
+DUKE VINCENTIO
+Youve already told me too many, sir, if theyre true. If theyre not true, I dont want to hear any.
+</T>
+<T>
+LUCIO
+I appeared before him once for getting a girl pregnant.
+</T>
+<T>
+DUKE VINCENTIO
+Did you do such a thing?
+</T>
+<T>
+LUCIO
+Yes, I did, but I denied it under oath. They wouldve made me marry the rotten whore otherwise.
+</T>
+<T>
+DUKE VINCENTIO
+Sir, you look a lot nicer than you are. Goodbye.
+</T>
+<T>
+LUCIO
+I swear, Ill go with you to the end of the lane. If dirty talk offends you, well avoid it. No, friar, Im like a kind of burrIll stick to you.
+</T>
+<T>
+ESCALUS
+Every letter hes written has contradicted the others.
+</T>
+<T>
+ANGELO
+In a very vague, inconsistent way. His behavior seems almost insanepray God hes not going mad! And why do we have to meet him at the gates, and surrender our authority there?
+</T>
+<T>
+ESCALUS
+I cant guess.
+</T>
+<T>
+ANGELO
+And why, an hour before his arrival, should we announce that if anyone wants compensation for unjust treatment, they should come ready to present their petitions publicly?
+</T>
+<T>
+ESCALUS
+He gives a reason for that: to be able to deal promptly with the complaints, and to save us from future lawsuits.
+</T>
+<T>
+ANGELO
+Well, I urge you to announce it early in the morning. Ill come pick you up at your house. Alert all the high-ranking officials who are supposed to meet him.
+</T>
+<T>
+ESCALUS
+I will, sir. Goodbye.
+</T>
+<T>
+ANGELO
+Good night.
+</T>
+<T>
+This thing Ive done has totally destroyed me. Im stupid, cant concentrate on anything. A girl robbed of her virginity, and by a respected public figure who enforced the law against sex! If she werent too ashamed to admit it, she could easily denounce me! But her head tells her not to, because my credibility is so strong that any scandal would ruin the person who spreads it, not me. I wouldve let Claudio live, except that a hotheaded youth like him might have come after me someday, feeling that his life is dishonored because he paid such a shameful price for it. Even so, I wish Id let him live. Sadly, nothing goes right once we forget virtue. I dont do the good thing, which I dont want to do, but the evil I dont want to commit, that I do.
+</T>
+<T>
+DUKE VINCENTIO
+At the right time, deliver these letters for me.
+</T>
+<T>
+The provost knows about my plan. Once things get going, remember your orders and follow my lead, though sometimes you can deviate from the plan, if it seems appropriate. Go to Flavius house, and tell him where Im staying. Inform Valentinus, Rowland, and Crassus, too, and ask them to bring the trumpeters to the gate. But send me Flavius first.
+</T>
+<T>
+FRIAR PETER
+Ill do it right away.
+</T>
+<T>
+DUKE VINCENTIO
+Thanks, Varrius, you got here fast. Lets get going. More of our friends will be here soon, honorable Varrius.
+</T>
+<T>
+ISABELLA
+I hate to speak so evasively. Id rather tell the truth. But to accuse Angelo is your job, the friar says, and he advises me to lie, to hide our real aim.
+</T>
+<T>
+MARIANA
+We should do as he says.
+</T>
+<T>
+ISABELLA
+Besides, he tells me that I shouldnt think it strange if he happens to contradict me. Itll be like swallowing a bitter pill that offers a sweet cure.
+</T>
+<T>
+MARIANA
+I wish Friar Peter
+</T>
+<T>
+ISABELLA
+Oh, wait! The friars here.
+</T>
+<T>
+FRIAR PETER
+Come on, Ive found you a good place to stand, where youll be so positioned that the duke wont be able to bypass you. The trumpets have blown twice, the most high-born and important people have already gathered at the gates, and the dukes about to enter. So, lets go!
+</T>
+<T>
+DUKE VINCENTIO
+(to Angelo) My fellow nobleman, welcome!
+(to Escalus) My faithful old friend, Im glad to see you.
+</T>
+<T>
+ANGELO, ESCALUS
+Welcome home, your royal grace!
+</T>
+<T>
+DUKE VINCENTIO
+Many hearty thanks to you both. Ive been asking about you, and Ive heard such good things about your rule that I just had to thank you publicly, as a preview of more rewards to come.
+</T>
+<T>
+ANGELO
+You make my debt to you even greater.
+</T>
+<T>
+DUKE VINCENTIO
+Oh, youre extremely worthy, and itd be wrong of me to hide it in my heart, when it deserves to be written in brass letters, as on a monument, where time cant erase it. Give me your hand, and let the people see, so theyll know how proud I am to display my high regard for you. Come, Escalus, you must walk with me on my other side. You make a fine supporterin heraldry, one of the figures that holds up a shield (as in a coat of arms, for instance)supporter.
+</T>
+<T>
+FRIAR PETER
+Nows the time: speak up and kneel before him.
+</T>
+<T>
+ISABELLA
+Justice, royal duke! Look down here, at a girlI wish I could say a virginwho has been wronged. Oh, worthy prince, dont consider anything else until youve heard my valid case and given me justice, justice, justice, justice!
+</T>
+<T>
+DUKE VINCENTIO
+Describe how youve been wrongedin what way? By whom? Be brief. Lord Angelo here will give you justice. Tell him your complaint.
+</T>
+<T>
+ISABELLA
+Oh, worthy duke, youre urging me to ask the devil for help. Listen to me yourself. What I have to say will result either in you not believing and punishing me, or you feeling compelled to right the wrong. Hear me, oh hear me, here!
+</T>
+<T>
+ANGELO
+My lord, Im afraid shes not in her right mind. Shes appeared before me, begging for her brother, who was executed by the justice system
+</T>
+<T>
+ISABELLA
+By the justice system!
+</T>
+<T>
+ANGELO
+And she will speak in a very bitter, strange way.
+</T>
+<T>
+ISABELLA
+Ill speak strangely, but truthfully. That Angelos a liar, isnt that strange? That Angelos a murderer, isnt that strange? That Angelos an adulterous thief, a hypocrite, a man who rapes virgins, isnt that extremely strange?
+</T>
+<T>
+DUKE VINCENTIO
+Thats strange to the tenth degree.
+</T>
+<T>
+ISABELLA
+Its just as true as the fact that hes Angelo, and this is all as true as it is strange. No, its true to the tenth degree, for the truth is the truth, no matter how much you multiply it.
+</T>
+<T>
+DUKE VINCENTIO
+Take her away! Poor soul, shes insane.
+</T>
+<T>
+ISABELLA
+Oh, prince, I beg you, as you believe in a better world than this one, dont dismiss me by thinking Im mad! Dont assume somethings impossible because its unlikely. Its not impossible that the wickedest wretch on the face of the earth may look just as cautious, as dignified, as fair, as perfect as Angeloeven as Angelo, for all his official finery, badges, titles, and ceremonies, can be an arch-villain. Believe it, royal prince. If hes less than a wretch, hes nothing. But hes more, if only I had more names for badness.
+</T>
+<T>
+DUKE VINCENTIO
+I declare, if shes madas I believe she isher madness has an oddly rational sound. Ive rarely heard such coherent logic from someone insane.
+</T>
+<T>
+ISABELLA
+Oh, gracious duke, dont harp on that. But dont dismiss rational statements because they dont jibe with appearances. Use your intelligence to uncover the hidden truth, which is obscured by lies that seem like truth.
+</T>
+<T>
+DUKE VINCENTIO
+A lot of sane people make a lot less sense. What would you like to say?
+</T>
+<T>
+ISABELLA
+I am the sister of one Claudio, sentenced to die by the decree against fornicationsentenced by Angelo. I was about to enter a convent, when my brother contacted me. He sent me a message through a man named Lucio
+</T>
+<T>
+LUCIO
+Thats me, if it please your grace: I came to her from Claudio, and asked her to try her good luck in asking Lord Angelo for her poor brothers pardon.
+</T>
+<T>
+ISABELLA
+Yes, thats the man.
+</T>
+<T>
+DUKE VINCENTIO
+No one asked you to speak.
+</T>
+<T>
+LUCIO
+No, my good lord, but no one asked me to be quiet, either.
+</T>
+<T>
+DUKE VINCENTIO
+Im asking you now, then. Remember it. And when you have your own business before me, pray heaven you behave yourself.
+</T>
+<T>
+LUCIO
+Ill take notice, your honor.
+</T>
+<T>
+DUKE VINCENTIO
+The notice is for yourself. Pay attention to it.
+</T>
+<T>
+ISABELLA
+This gentleman has told some of my story
+</T>
+<T>
+LUCIO
+Right.
+</T>
+<T>
+DUKE VINCENTIO
+It may be right, but youre wrong to interrupt. Proceed.
+</T>
+<T>
+ISABELLA
+I went to this wicked, evil deputy
+</T>
+<T>
+DUKE VINCENTIO
+Youre sounding crazy.
+</T>
+<T>
+ISABELLA
+Excuse methe choice of words is appropriate.
+</T>
+<T>
+DUKE VINCENTIO
+Thats better. Continue.
+</T>
+<T>
+ISABELLA
+To make a long story shortbecause it took a while, how I begged, how I prayed and kneeled, how he refused me, and how I repliedIll sadly and shamefully get to the awful ending. He wouldnt release my brother unless I gave my chaste body over to his yearning lust. And after much internal debate, my sisterly pity overcame my honor, and I gave in to him. But having got what he wanted, early the next morning he sent an order for my poor brothers head.
+</T>
+<T>
+DUKE VINCENTIO
+(sarcastically) This is very believable!
+</T>
+<T>
+ISABELLA
+Oh, I wish it were as believable as it is true!
+</T>
+<T>
+DUKE VINCENTIO
+Heavens above, you poor fool, you dont know what youre saying, or else youve been bribed to falsely accuse him. First of all, his integrity is beyond reproach. Next, it makes no sense that he should so vigorously prosecute crimes he himself commits. If he had committed such a crime, he wouldve judged your brother against himself, and not executed him. Someone has put you up to this. Confess the truth, and tell us who urged you to come here with this accusation.
+</T>
+<T>
+ISABELLA
+Thats it? Then, oh, you blessed angels above, help me be patient, and let time reveal the evil hiding here behind appearances! Heaven protect your grace from harm. Since you dont believe me, I have to go.
+</T>
+<T>
+DUKE VINCENTIO
+I bet youd like to go. Officer, take her to prison! Should I permit such destructive, scandalous rumors about someone so close to me? This must be a conspiracy. Who knew about your plan, and that you were coming here?
+</T>
+<T>
+ISABELLA
+Someone I wish were here now, Friar Lodowick.
+</T>
+<T>
+DUKE VINCENTIO
+A holy ghost, probably. Who knows this Lodowick?
+</T>
+<T>
+LUCIO
+My lord, I know him. Hes the sort of friar whos always meddling in peoples business. I dont like the man. If he hadnt been a member of the clergy, I would have punched him out for certain words he spoke against your grace while you were away.
+</T>
+<T>
+DUKE VINCENTIO
+Words against me? Some holy friar this is! And to set this wretched woman here against my replacement! Someone locate this friar.
+</T>
+<T>
+LUCIO
+Just yesterday, my lord, I saw her and this friar at the prison. Hes a smart-aleck, a very nasty piece of work.
+</T>
+<T>
+FRIAR PETER
+God bless your royal grace! Ive stood by, my lord, and Ive heard your royal ears deceived. First, this woman has wrongfully accused your replacement, who is as far from any sexual or moral misbehavior with her as she is from a virgin birth.
+</T>
+<T>
+DUKE VINCENTIO
+I never believed anything else. Do you know this Friar Lodowick shes talking about?
+</T>
+<T>
+FRIAR PETER
+I know him for a divine and holy man, not lowdown, and not someone who meddles in earthly pleasures, as this gentleman reports. And, trust me, hes a man that never slandered your grace.
+</T>
+<T>
+LUCIO
+My lord, he did, and very maliciously too. Believe it.
+</T>
+<T>
+FRIAR PETER
+Well, in time he may come to clear himself, but at this instant hes sick, my lord, suffering a rare fever. Learning there was an accusation planned against Lord Angelo, he personally asked me to come here and speak, as he would have, about what he knows is true and false. And when hes summoned, hell give his oath and furnish proof that will clear everything up. This worthy nobleman, whos been so publicly and personally accused, will be vindicated, and this woman will be discredited to her face, to such an extent that she herself will have to admit it.
+</T>
+<T>
+DUKE VINCENTIO
+Good friar, lets hear it.
+</T>
+<T>
+Isnt this funny, Lord Angelo? Oh, heaven, the nerve of these wretched fools! Give us some seats. Come, Angelo, my friend. I wont take any part in this. You be the judge of your own case. Is this the witness, friar? First, let her show her face, and then speak.
+</T>
+<T>
+MARIANA
+Pardon me, my lord. I will not show my face until my husband bids me to.
+</T>
+<T>
+DUKE VINCENTIO
+What, are you married?
+</T>
+<T>
+MARIANA
+No, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+Are you single?
+</T>
+<T>
+MARIANA
+No, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+A widow, then?
+</T>
+<T>
+MARIANA
+Neither, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+So, you are neither single, widow, nor wife?
+</T>
+<T>
+LUCIO
+My lord, she may be a prostitute. Many of them are
+neither virgin, widow, nor wife.
+</T>
+<T>
+DUKE VINCENTIO
+Keep that fellow quiet. I wish he were up on some charge of his own.
+</T>
+<T>
+LUCIO
+OK, my lord.
+</T>
+<T>
+MARIANA
+My lord, I do admit Ive never been married, and I also admit Im not a virgin. Ive slept with my husband, but my husband doesnt know hes slept with me.
+</T>
+<T>
+LUCIO
+He was drunk then, my lord. Thats the best explanation.
+</T>
+<T>
+DUKE VINCENTIO
+For silences sake, be silent yourself!
+</T>
+<T>
+LUCIO
+OK, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+This is hardly a witness for Lord Angelo.
+</T>
+<T>
+MARIANA
+Im coming to it now, my lord. The woman whos accusing him of fornication is actually accusing my husband. And she charges it was at the very time when, as Ill swear, he was in my arms, making love to me.
+</T>
+<T>
+ANGELO
+Is she accusing more men besides me?
+</T>
+<T>
+MARIANA
+Not that I know of.
+</T>
+<T>
+DUKE VINCENTIO
+No? You say your husband.
+</T>
+<T>
+MARIANA
+Why, exactly, my lord. Hes Angelo, who believes he never slept with me, and who believes he slept with Isabel.
+</T>
+<T>
+ANGELO
+This is a strange deception. Lets see your face.
+</T>
+<T>
+MARIANA
+My husband bids me to, so Ill lift my veil.
+</T>
+<T>
+This is the face, you cruel Angelo, that you once swore was well worth looking at. This is the hand that was locked in yours with a signed contract. This is the body that kept your appointment with Isabel, and satisfied you in your garden-house, pretending to be her.
+</T>
+<T>
+DUKE VINCENTIO
+Do you know this woman?
+</T>
+<T>
+LUCIO
+Sexually, she says.
+</T>
+<T>
+DUKE VINCENTIO
+Quiet, you!
+</T>
+<T>
+LUCIO
+Right, my lord.
+</T>
+<T>
+ANGELO
+My lord, I must confess I know this woman. Five years ago, there was some talk of marriage between she and I. It was broken off, partly because her dowry fell short of the agreed amount, but mainly because she had a reputation for promiscuity. For the last five years, I havent spoken with her, seen her, or heard from her, I swear.
+</T>
+<T>
+MARIANA
+Noble prince, as light comes from heaven and words from breath, as there is meaning in truth and truth in virtue, I am engaged to this man as strongly as words can make vows. And, my good lord, last Tuesday night in a garden house, he treated me as a wife. This being the truth, let me safely rise from my knees, or else let me be fixed here forever, like a marble monument!
+</T>
+<T>
+ANGELO
+I was amused up until now, but now my patience is exhausted. My good lord, let me apply the full force of the law. I believe these poor, demented women are just tools of some more powerful person who has put them up to this. Give me the chance, my lord, to unravel this plot.
+</T>
+<T>
+DUKE VINCENTIO
+Yes, with all my heart, and punish them as much as you like. You foolish friar and you wicked woman, in collusion with that one we just took awayeven if you swore by every single saint, do you think your oaths would mean anything against his worthiness and reputation, which are proven beyond a doubt? You, Lord Escalus, sit with my colleague. Do all you can to help him unravel this conspiracy and discover where it came from. Theres another friar who put them up to this. Send for him.
+</T>
+<T>
+FRIAR PETER
+I wish he were here, my lord! Because he did encourage the women to make this accusation. Your provost knows where he lives and can go get him.
+</T>
+<T>
+DUKE VINCENTIO
+Go do it, immediately.
+</T>
+<T>
+(to Angelo) And you, my noble and respected friend, who have a stake in seeing this matter to the end, deal with the crimes against you as you think best, with any form of punishment. Ill leave you for a while, but dont move until you have fully decided the fate of these slanderers.
+</T>
+<T>
+ESCALUS
+My lord, well do it thoroughly.
+</T>
+<T>
+Signor Lucio, didnt you say you knew this Friar Lodowick to be a dishonest person?
+</T>
+<T>
+LUCIO
+A hood does not make a monkhis friars clothes are the only holy thing about him. And hes said very evil things about the duke.
+</T>
+<T>
+ESCALUS
+Well ask you to stay here until he comes and we lay those charges against him. We think this friars a notorious character.
+</T>
+<T>
+LUCIO
+As much as anyone in Vienna, on my word.
+</T>
+<T>
+ESCALUS
+Call that Isabel here once again. I want to speak with her.
+</T>
+<T>
+Please, my lord, let me do the questioning. Youll see how Ill handle her.
+</T>
+<T>
+LUCIO
+Not better than he, according to her.
+</T>
+<T>
+ESCALUS
+What did you say?
+</T>
+<T>
+LUCIO
+Frankly, sir, I think, if you handled her privately, shed be more likely to confess. She might be ashamed to do it in public.
+</T>
+<T>
+ESCALUS
+Ill keep the matter out of the spotlight.
+</T>
+<T>
+LUCIO
+Thats the way. Women are easiest in the dark.
+</T>
+<T>
+ESCALUS
+(to Isabella) Listen, mi this woman contradicts everything youve said.
+</T>
+<T>
+LUCIO
+My lord, here comes the rascal I was talking about, with
+the provost.
+</T>
+<T>
+ESCALUS
+All in good time. Dont speak to him until we summon you.
+</T>
+<T>
+LUCIO
+Mums the word.
+</T>
+<T>
+ESCALUS
+Now, sir, did you egg these women on to slander
+Lord Angelo? They have confessed you did.
+</T>
+<T>
+DUKE VINCENTIO
+Its a lie.
+</T>
+<T>
+ESCALUS
+What! Do you know where you are?
+</T>
+<T>
+DUKE VINCENTIO
+All due respect to your great officeeven the devil gets some respect for being the king of Hell. Wheres the duke? Hes the one who should hear me speak.
+</T>
+<T>
+ESCALUS
+We represent the duke, and we will hear you speak.
+See that you speak honestly.
+</T>
+<T>
+DUKE VINCENTIO
+Boldly, at least. But, oh, you poor souls, did you come to find your lambs in the foxs den? Say goodnight to any justice, then. Is the duke gone? Then your case is gone too. The dukes unjust, rejecting your accusation and turning your case over to the very villain you came here
+to accuse.
+</T>
+<T>
+LUCIO
+This is the rascal I was talking about.
+</T>
+<T>
+ESCALUS
+Why, you disrespectful and unholy friar, its not enough that youve enlisted these women to accuse this worthy man, but with your foul mouth you call him a villain within his earshot? And then to shift your attack from him to the duke himself, to accuse the duke of being unjust? Take him away, to the rack with him! Well tear you limb from limb, until we discover your motive. To call the duke unjust!
+</T>
+<T>
+DUKE VINCENTIO
+Dont get so excited. The duke doesnt dare to hurt my little finger any more than hed torture his own. Im not his subject, or a native of this province. My business in this state has made me an on-looker here in Vienna, where Ive seen corruption boil and bubble until it overflows out of the brothels. Youve got laws for all the crimes, but the crimes are so tolerated that the strong statutes are like those joke lists of house rules in storesElizabethan barbers posted mock lists of penalties for customers behaving badly in the shopjoke lists of house rules in storespeople look at them just to laugh.
+</T>
+<T>
+ESCALUS
+Slandering the state! Take him away to prison!
+</T>
+<T>
+ANGELO
+What evidence do you have against him, Signor Lucio?
+Is this the man you told us about?
+</T>
+<T>
+LUCIO
+Hes the one, my lord. Come here, baldyfriars traditionally shaved their headsbaldy. Do you know me?
+</T>
+<T>
+DUKE VINCENTIO
+I remember you, sir, by the sound of your voice. I
+met you at the prison, back when the duke was away.
+</T>
+<T>
+LUCIO
+Oh, you did? And do you remember what you said about the duke?
+</T>
+<T>
+DUKE VINCENTIO
+Definitely, sir.
+</T>
+<T>
+LUCIO
+Do you, sir? And was the duke a pimp, a fool, and a coward, as you then reported him to be?
+</T>
+<T>
+DUKE VINCENTIO
+You must, sir, switch identities with me, before you claim those were my words. You were the one who said that about him, and much more, much worse.
+</T>
+<T>
+LUCIO
+Damn you, fellow! Didnt I smack you in the nose for your comments?
+</T>
+<T>
+DUKE VINCENTIO
+I swear I love the duke like I love myself.
+</T>
+<T>
+ANGELO
+Look, how the villain would appease us now, after his treasonable slanders!
+</T>
+<T>
+ESCALUS
+You cant talk to this type of fellow. Take him away to prison! Where is the provost? Take him to prison! Put him in chains, gag him. Away with those loose women, too, and their co-conspirator.
+</T>
+<T>
+DUKE VINCENTIO
+(to the Provost) Wait, sir, stay a minute.
+</T>
+<T>
+ANGELO
+Is he resisting arrest? Help the provost, Lucio.
+</T>
+<T>
+LUCIO
+Come on, sir. Come on, sir. Come on, sir. Ugh! So, you bald, lying rascal, you want to keep your hood on, do you? Show your lowlife face, damn you! Show your thieving face, and be hanged in an hour! Wont it come off?
+</T>
+<T>
+DUKE VINCENTIO
+Youre the first lowlife to ever turn someone into a duke.
+First, provost, let me free these three gentle people. (to LUCIO) Dont you sneak away, sir. The friar and you will have a chat later on. Hold him.
+</T>
+<T>
+LUCIO
+This may turn out worse than hanging.
+</T>
+<T>
+DUKE VINCENTIO
+(to ESCALUS) I forgive the things you said to me. Sit down. Well take Angelos seat. (to ANGELO) Sir, if I may. Do you have any words, either intelligent or impudent, that can help you? If so, keep them until I tell my story. Dont hold the truth back any longer.
+</T>
+<T>
+ANGELO
+Oh my dreaded lord, Id be even more guilty to think I could go undiscovered, now that I realize your grace, like some divine power, has seen my sins. So, good prince, stop inquiring about my shame. Let my confession count as my trial. I beg only for the mercy of an immediate sentence and then death.
+</T>
+<T>
+DUKE VINCENTIO
+Come here, Mariana. (to Angelo) Were you ever engaged to this woman?
+</T>
+<T>
+ANGELO
+I was, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+Take her and marry her at once. You perform the ceremony, friar, and when its done, bring him back here. Go with him, provost.
+</T>
+<T>
+ESCALUS
+My lord, Im more amazed by Angelos dishonesty than by the strangeness of this situation.
+</T>
+<T>
+DUKE VINCENTIO
+Come here, Isabel. Your friar is now your prince, but my heart hasnt changed with my clothes. I guided and devoted myself to your affairs then, and Im still acting for you now.
+</T>
+<T>
+ISABELLA
+Oh, forgive me! To think that I, your servant, unknowingly used and created problems for your royal person!
+</T>
+<T>
+DUKE VINCENTIO
+Youre forgiven, Isabel. And now, dear girl, be as generous to me. I know your brothers death hurts you deeply. And you may be wondering why I disguised myself, working behind the scenes to save his life, and didnt just use my authority rather than let him die. Sweet girl, it was the speed of his execution, which I thought would take longer, that ruined my plan. But, peace be with him! The afterlife is a better life, since you dont have to fear death anymore. Try to take comfort in the fact that your brother has that happiness.
+</T>
+<T>
+ISABELLA
+I do, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+For Marianas sake, you must forgive this newly married man, whose lecherous imagination wronged your well-defended honor. But after he condemned your brother, he committed two crimes, violating your virginity and breaking his promise about the pardon that your brothers life depended on. Even the merciful part of the law cries out, an Angelo for Claudio, death for death! Haste always results in hasty decisions, and deliberation comes from slowness. One thing is rewarded by a similar thing, and the measure of justice you use will be the measure used against you. So, Angelo, your crime is clear for all to see, and it denies you the right to any preferential treatment, even if you yourself feel otherwise. I sentence you to be executed on the very block where Claudio knelt to die, and just as quickly. Take him away!
+</T>
+<T>
+MARIANA
+Oh, my most gracious lord, please dont make a mockery of my marriage!
+</T>
+<T>
+DUKE VINCENTIO
+Its your husband whos made a mockery of your marriage. I thought it appropriate that you be married, to protect your honor. Otherwise, revealing that hed slept with you would haunt your life and destroy your future prospects. As for his possessions, technically they belong to the state, but we are giving you a widows rights and bequeathing them to you, to buy you a better husband.
+</T>
+<T>
+MARIANA
+Oh my dear lord, I dont want any other man or any better man.
+</T>
+<T>
+DUKE VINCENTIO
+You shouldnt want him. My decision is final.
+</T>
+<T>
+MARIANA
+My gentle lord
+</T>
+<T>
+DUKE VINCENTIO
+Youre just wasting your time. Take him to his death!
+</T>
+<T>
+Now, sir, about you.
+</T>
+<T>
+MARIANA
+Oh, my good lord! Sweet Isabel, take my side. Kneel with me, and for the rest of my life Ill be at your service.
+</T>
+<T>
+DUKE VINCENTIO
+It makes no sense to beg her. If she were to kneel and plead for mercy, her brothers horrified ghost would break through his stone-covered grave and drag her away with him.
+</T>
+<T>
+MARIANA
+Isabel, sweet Isabel, just kneel beside me, and hold out your hands. Dont say anything, Ill do all the talking. They say the best men are formed out of their faults, and most of them become much better for being a little bad. That might happen with my husband. Oh, Isabel, wont you kneel?
+</T>
+<T>
+DUKE VINCENTIO
+He dies for Claudios death.
+</T>
+<T>
+ISABELLA
+(kneeling) Generous sir, please look on this condemned man as if my brother were still alive. To some extent, I think his behavior was sincere, until he laid eyes on me. So, dont let him die. My brother was justly treated, in the sense that he did the thing he was executed for. But Angelo didnt actually fulfill his bad intentions, and his behavior should be considered with that fact in mind. Intentions are merely thoughts, and thoughts arent subject to our control.
+</T>
+<T>
+MARIANA
+Merely, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+Your pleadings no use. Stand up, I say. Another crime has just occurred to me. Provost, why was Claudio beheaded at such an unusual hour?
+</T>
+<T>
+PROVOST
+It was so ordered.
+</T>
+<T>
+DUKE VINCENTIO
+Did you have a special warrant?
+</T>
+<T>
+PROVOST
+No, my good lord, it was a private message.
+</T>
+<T>
+DUKE VINCENTIO
+Youre fired for this. Turn in your keys.
+</T>
+<T>
+PROVOST
+Forgive me, noble lord. I thought it might be wrong, but wasnt sure. After further consideration, I did change my mind, and to prove I did, I kept alive another prisoner who was to be executed by a private order.
+</T>
+<T>
+DUKE VINCENTIO
+Whos he?
+</T>
+<T>
+PROVOST
+His name is Barnardine.
+</T>
+<T>
+DUKE VINCENTIO
+I wish you had done the same with Claudio.
+Go get him. Let me see him.
+</T>
+<T>
+ESCALUS
+Lord Angelo, I am sorry that someone so educated and wise, as you always appeared to be, should slip so badly, both in the heat of desire and the lack of judgment afterward.
+</T>
+<T>
+ANGELO
+I am sorry that I cause such sorrow, and it sticks so deeply in my penitent heart that it makes me crave death more than mercy. I deserve death, and beg for it.
+</T>
+<T>
+DUKE VINCENTIO
+Which one is this Barnardine?
+</T>
+<T>
+PROVOST
+This one, my lord.
+</T>
+<T>
+DUKE VINCENTIO
+A certain friar told me about this man. (to BARNARDINE) Fellow, youre said to have a stubborn soul, one that cant imagine an existence beyond this one, and shapes your life accordingly. Youre doomed. But I pardon you for all your crimes here on earth, and hope youll take advantage of this mercy to prepare for the better world to come. Friar, counsel him. I leave him in your hands. Whos that covered-up fellow?
+</T>
+<T>
+PROVOST
+This is another prisoner I saved, who should have died when Claudio lost his head. He looks almost exactly like Claudio.
+</T>
+<T>
+DUKE VINCENTIO
+(to ISABELLA) If he resembles your brother, then for his sake, hes pardoned. And for your own lovely sake, give me your hand and say youll be mine. Hes my brother, too, but therell be a more appropriate time for that. By the way Angelo is behaving, I think he realizes this means hes safe. Well, Angelo, your evil has repaid you well. Make sure you love your wife since her worth is equal to yours. Im feeling merciful, and yet heres someone I cant forgive. (to LUCIO) You, who called me a fool, a coward, a lecher, an ass, a madman. What did I ever do to you that you call me these things?
+</T>
+<T>
+LUCIO
+I swear, my lord, I only spoke according to what people say of you. You can hang me for it, if you want, but I wouldnt mind if you preferred to whip me.
+</T>
+<T>
+DUKE VINCENTIO
+Whipping first, sir, and hanging afterward. Proclaim it, provost, around the city, that if this lecher wronged any woman, as I heard him swear himself he got someone pregnant, let her appear, and hell marry her. After the wedding, let him be whipped and hanged.
+</T>
+<T>
+LUCIO
+I beg your highness, dont marry me to a whore. Your highness just said I made you a duke. My good lord, dont pay me back by making me husband of a cheating wife.
+</T>
+<T>
+DUKE VINCENTIO
+By my honor, you will marry her. I forgive your slurs, and in so doing, lift your other punishments. Take him to prison, and see that my wishes are carried out.
+</T>
+<T>
+LUCIO
+Marrying a whore, my lord, is like being pressed to deatha type of torture in which stones were piled upon a person until he confessed or was crushedpressed to death, whipped, and hanged.
+</T>
+<T>
+DUKE VINCENTIO
+You deserve it for slandering a prince.
+</T>
+<T>
+Claudio, the girl you wronged, make sure you marry her. Joy to you, Mariana! Love her, Angelo. Ive heard her confession, and I know her virtue. Thanks, good friend Escalus, for being so good. A greater expression of my gratitude is yet to come. Thanks, provost, for your care and ability to keep secrets. Im going to give you a better position. Forgive him, Angelo, for bringing you Ragozines head in place of Claudios. The crime redeems itself. Dear Isabel, I have a proposal thats greatly to your benefit, if youll lend a willing ear. Its along the lines of whats mine is yours, and whats yours is mine. So, accompany me to my palace, where Ill show and tell you everything you ought to know.
+</T>
