@@ -23,18 +23,18 @@ for i in range(2, 20000, 2):
         
         
     def sanitizeText(t):
-            t = str(t.encode('utf-8').decode('ascii', 'ignore'))
-            t = t.replace("\n","")
-            t = t.replace("\t", "")
+        t = str(t.encode('utf-8').decode('ascii', 'ignore'))
+        t = t.replace("\n","")
+        t = t.replace("\t", "")
             
-            tList = t.split(" ")
+        tList = t.split(" ")
             
-            outputString = ""
-            for word in tList:
-                if len(word) > 0:
-                    outputString += word
-                    outputString += " "       
-            return outputString[:-1] #removes trailingSpace
+        outputString = ""
+        for word in tList:
+            if len(word) > 0:
+                outputString += word
+                outputString += " "       
+        return outputString[:-1] #removes trailingSpace
         
         #Takes in a list of the td's. Returns a list of lists, the outer list corresponds to table entires
         #The inner list corresponds to the lines in that table entry
@@ -64,11 +64,10 @@ for i in range(2, 20000, 2):
     
 
 for tableEntry in allText:
-        output.write("<T>\n")
-        for line in tableEntry:
-                output.write(line + "\n")
-        output.write("</T>\n")
-        
+    output.write("<T>\n")
+    for line in tableEntry:
+        output.write(line + "\n")
+    output.write("</T>\n")
 
 output.close()
     
