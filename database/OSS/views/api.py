@@ -1,9 +1,10 @@
 from flask import current_app as app
-from flask import Blueprint
+from flask import Blueprint, url_for
 from collections import OrderedDict
 import OSS.models as models
 import pprint
 import json
+import ast
 
 api = Blueprint('api', __name__)
 
@@ -31,6 +32,11 @@ def get_play_with_characters(name):
     return json.dumps(text)
 
 
+@api.route('/play/modern/<string:name>', methods=['GET'])
+def get_play_modern(name):
+    return json.dumps(get_modern_play(name))
+
+
 def get_play(name):
     return models.Works.query.filter_by(workid=name).first()
 
@@ -41,6 +47,18 @@ def get_chapters(play):
     chapter_query = chapter_query.order_by(models.Chapters.section,
                                            models.Chapters.chapter)
     return chapter_query.all()
+
+
+def get_modern_play(name):
+    output = []
+    with open('OSS/static/modern/{}.txt'.format(name), 'r') as f:
+        lines = ast.literal_eval(f.read())
+        print(lines)
+        for item in lines:
+            print(item)
+            output.append((item[0], item[1]))
+    return output
+
 
 def get_paragraphs(play, chapters):
     paragraphs = []
@@ -59,12 +77,12 @@ def get_paragraphs(play, chapters):
     return paragraphs
 
 
-def clean_text(paragraph):
+def clean_text(paragraph, modern=False):
     character_query = models.Characters.query
     character_query = character_query.filter_by(charid=paragraph.charid)
     character_name = character_query.first().charname
-    line = paragraph.plaintext
-    line = line.replace('\n', '')
-    line = line.replace('[p]', ' ')
-
+    line = paragraph.moderntext if modern else paragraph.plaintext
+    if line:
+        line = line.replace('\n', '')
+        line = line.replace('[p]', ' ')
     return (character_name, line)

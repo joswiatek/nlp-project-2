@@ -41,6 +41,7 @@ class Paragraphs(db.Model):
     section = db.Column(db.Integer, nullable=False)
     chapter = db.Column(db.Integer, nullable=False)
     plaintext = db.Column(db.Text, nullable=False)
+    moderntext = db.Column(db.Text)
 
     def __repr__(self):
         return self.plaintext
