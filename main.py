@@ -22,6 +22,8 @@ neo4jUri = 'bolt://localhost:7687'
 
 postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
 
+outputFile = 'triples.txt'
+
 def retrieveText(url: str) -> List[Tuple[str, str]]:
     response = urllib.request.urlopen(url)
     playText = eval(response.read())
@@ -286,19 +288,23 @@ def writeToDB(triples: List[Tuple[str, str, str]], verbose: bool = False) -> Non
     try:
         neo4jDriver = GraphDatabase.driver(neo4jUri, auth=(neo4jUser, neo4jPassword))
         for relation in triples:
-            with neo4jDriver.session() as session:
-                # Create the subject and object if they don't exist
-                createStatments = [
-                    "MERGE (%s1:Object {name: \"%s\"})" % (strToNodeName(relation[0]), relation[0]),
-                    "MERGE (%s2:Subject {name: \"%s\"})" % (strToNodeName(relation[2]), relation[2]),
-                    ]
-                # Connect the two with the relation if the relation isn't already there
-                relationStatement = "MERGE (%s1)-[:%s {r:\"%s\"}]->(%s2)" % (strToNodeName(relation[0]), strToRelationName(relation[1]), relation[1], strToNodeName(relation[2]))
-                fullStatement = '\n'.join(createStatments + [relationStatement])
-                if verbose:
-                    print('Processing triple: %s' % str(relation))
-                    print(fullStatement)
-                session.run(fullStatement)
+            try:
+                with neo4jDriver.session() as session:
+                    # Create the subject and object if they don't exist
+                    createStatments = [
+                        "MERGE (%s1:node {name: \"%s\"})" % (strToNodeName(relation[0]), relation[0]),
+                        "MERGE (%s2:node {name: \"%s\"})" % (strToNodeName(relation[2]), relation[2]),
+                        ]
+                    # Connect the two with the relation if the relation isn't already there
+                    relationStatement = "MERGE (%s1)-[:%s {r:\"%s\"}]->(%s2)" % (strToNodeName(relation[0]), strToRelationName(relation[1]), relation[1], strToNodeName(relation[2]))
+                    fullStatement = '\n'.join(createStatments + [relationStatement])
+                    if verbose:
+                        print('Processing triple: %s' % str(relation))
+                        print(fullStatement)
+                    session.run(fullStatement)
+            except Exception as e:
+                print('Exception while writing triple to Neo4j: %s' % e)
+                print('Full statement: %s' % fullStatement)
     except Exception as e:
         print('Exception during write to Neo4j: %s' % e)
         return False
@@ -312,6 +318,20 @@ def strToRelationName(str) -> str:
     """This function converts a string to a valid Neo4j node name."""
     return str.replace(' ', '_').replace("'", '').replace('-', '_').replace('.', '')
 
+def writeToFile(triples: List[Tuple[str, str, str]], verbose: bool = False) -> None:
+    """
+    This function accepts relations as triples and writes those triples to a file.
+    Args:
+        triples: The triples to write to Neo4j
+        verbose: True indicates verbose output should be shown.
+    Returns:
+        A boolean of whether the operation was successful
+    """
+
+    with open(outputFile, 'w') as f:
+        for t in triples:
+            f.write('%s, %s, %s\n' % (t))
+
 def main():
     # Raw first few lines of Hamlet
     # playText = [["(stage directions)", "Enter two Sentinels-[first,] Francisco, [who paces up and down at his post; then] Bernardo, [who approaches him]."], ["Bernardo", "Who's there?"], ["Francisco", "Nay, answer me. Stand and unfold yourself."], ["Bernardo", "Long live the King!"], ["Francisco", "Bernardo?"], ["Bernardo", "He."], ["Francisco", "You come most carefully upon your hour."], ["Bernardo", "'Tis now struck twelve. Get thee to bed, Francisco."], ["Francisco", "For this relief much thanks. 'Tis bitter cold, And I am sick at heart."], ["Bernardo", "Have you had quiet guard?"], ["Francisco", "Not a mouse stirring."], ["Bernardo", "Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste."], ["(stage directions)", " Enter Horatio and Marcellus. "], ["Francisco", "I think I hear them. Stand, ho! Who is there?"], ["Horatio", "Friends to this ground."], ["Marcellus", "And liegemen to the Dane."], ["Francisco", "Give you good night."], ["Marcellus", "O, farewell, honest soldier. Who hath reliev'd you?"], ["Francisco", "Bernardo hath my place. Give you good night. Exit."], ["Marcellus", "Holla, Bernardo!"], ["Bernardo", "Say- What, is Horatio there ?"], ["Horatio", "A piece of him."], ["Bernardo", "Welcome, Horatio. Welcome, good Marcellus."], ["Marcellus", "What, has this thing appear'd again to-night?"], ["Bernardo", "I have seen nothing."], ["Marcellus", "Horatio says 'tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us. Therefore I have entreated him along, With us to watch the minutes of this night, That, if again this apparition come, He may approve our eyes and speak to it."], ["Horatio", "Tush, tush, 'twill not appear."], ["Bernardo", "Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."], ["Horatio", "Well, sit we down, And let us hear Bernardo speak of this."]]
@@ -323,13 +343,21 @@ def main():
     # playText = [("line one", "John ate a sandwich. He is full. Sally ate soup. He is not hungry. She is hungry."), ("line two", "The music is too loud for it to be enjoyed. If they are angry about it, the neighbors will call the cops.")]
     # Retrieve play text from postgres
     playText = retrievePlayText('hamlet')
+    print('Retrieved text')
     playText = substitutePronouns(playText, verbose=False)
+    print('Substituted pronouns')
     playText = coreferenceResolve(playText, verbose=False)
+    print('Coreferences resolved')
     playText = spacy(playText, verbose=False)
+    print('Dependencies parsed')
     relations = extractRelationships(playText, verbose=False)
-    relations = postProcess(relations, verbose=True)
-    writeToDB(relations)
-    # print(relations)
+    print('Relationships extracted')
+    relations = postProcess(relations, verbose=False)
+    print('Triples post processed')
+    writeToDB(relations, verbose=False)
+    print('Relations written to DB')
+    writeToFile(relations, verbose=False)
+    print('Relations written to file')
     return
 
 main()
