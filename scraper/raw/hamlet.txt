@@ -1,0 +1,4977 @@
+<T>
+BARNARDO
+Whos there?
+</T>
+<T>
+FRANCISCO
+No, who are you? Stop and identify yourself.
+</T>
+<T>
+BARNARDO
+Long live the king!
+</T>
+<T>
+FRANCISCO
+Is that Barnardo?
+</T>
+<T>
+BARNARDO
+Yes, its me.
+</T>
+<T>
+FRANCISCO
+Youve come right on time.
+</T>
+<T>
+BARNARDO
+The clocks just striking twelve. Go home to bed, Francisco.
+</T>
+<T>
+FRANCISCO
+Thanks for letting me go. Its bitterly cold out, and Im depressed.
+</T>
+<T>
+BARNARDO
+Has it been a quiet night?
+</T>
+<T>
+FRANCISCO
+I havent even heard a mouse squeak.
+</T>
+<T>
+BARNARDO
+Well, good night. If you happen to see Horatio and Marcellus, who are supposed to stand guard with me tonight, tell them to hurry.
+</T>
+<T>
+FRANCISCO
+I think I hear them. Stop! Whos there?
+</T>
+<T>
+HORATIO
+Friends of this country.
+</T>
+<T>
+MARCELLUS
+And servants of the Danish king.
+</T>
+<T>
+FRANCISCO
+Good night to you both.
+</T>
+<T>
+MARCELLUS
+Good-bye. Whos taken over the watch for you?
+</T>
+<T>
+FRANCISCO
+Barnardos taken my place. Good night.
+</T>
+<T>
+MARCELLUS
+Hello, Barnardo.
+</T>
+<T>
+BARNARDO
+Hello. Is Horatio here too?
+</T>
+<T>
+HORATIO
+More or less.
+</T>
+<T>
+BARNARDO
+Welcome, Horatio. Welcome, Marcellus.
+</T>
+<T>
+MARCELLUS
+So, tell us, did you see that thing again tonight?
+</T>
+<T>
+BARNARDO
+I havent seen anything.
+</T>
+<T>
+MARCELLUS
+Horatio says were imagining it, and wont let himself believe anything about this horrible thing that weve seen twice now. Thats why Ive begged him to come on our shift tonight, so that if the ghost appears he can see what we see and speak to it.
+</T>
+<T>
+HORATIO
+Oh, nonsense. Its not going to appear.
+</T>
+<T>
+BARNARDO
+Sit down for a while, and well tell you again the story you dont want to believe, about what weve seen two nights now.
+</T>
+<T>
+HORATIO
+Well, lets sit down and listen to Barnardo tell us.
+</T>
+<T>
+BARNARDO
+Last night, when that star to the west of the North Star had traveled across the night sky to that point where its shining now, at one o'clock, Marcellus and I
+</T>
+<T>
+MARCELLUS
+Quiet, shut up! Its come again.
+</T>
+<T>
+BARNARDO
+Looking just like the dead king.
+</T>
+<T>
+MARCELLUS
+(to HORATIO) Youre well-educated, Horatio. Say something to it.
+</T>
+<T>
+BARNARDO
+Doesnt he look like the king, Horatio?
+</T>
+<T>
+HORATIO
+Very much so. Its terrifying.
+</T>
+<T>
+BARNARDO
+It wants us to speak to it.
+</T>
+<T>
+MARCELLUS
+Ask it something, Horatio.
+</T>
+<T>
+HORATIO
+What are you, that you walk out so late at night, looking like the dead king of Denmark when he dressed for battle? By God, I order you to speak.
+</T>
+<T>
+MARCELLUS
+It looks like youve offended it.
+</T>
+<T>
+BARNARDO
+Look, its going away.
+</T>
+<T>
+HORATIO
+Stay! Speak! Speak! I order you, speak!
+</T>
+<T>
+MARCELLUS
+Its gone. It wont answer now.
+</T>
+<T>
+BARNARDO
+Whats going on, Horatio? Youre pale and trembling. You agree now that were not imagining this, dont you? What do you think about it?
+</T>
+<T>
+HORATIO
+I swear to God, if I hadnt seen this with my own eyes Id never believe it.
+</T>
+<T>
+MARCELLUS
+Doesnt it look like the king?
+</T>
+<T>
+HORATIO
+Yes, as much as you look like yourself. The king was wearing exactly this armor when he fought the king of Norway. And the ghost frowned just like the king did once when he attacked the Poles, traveling on the ice in sleds. Its weird.
+</T>
+<T>
+MARCELLUS
+Its happened like this twice before, always at this exact time. He stalks by us at our post like a warrior.
+</T>
+<T>
+HORATIO
+I dont know exactly how to explain this, but I have a general feeling this means bad news for our country.
+</T>
+<T>
+MARCELLUS
+All right, lets sit down and discuss that question. Somebody tell me why this strict schedule of guards has been imposed, and why so many bronze cannons are being manufactured in Denmark, and so many weapons bought from abroad, and why the shipbuilders are so busy they dont even rest on Sunday. Is something about to happen that warrants working this night and day? Who can explain this to me?
+</T>
+<T>
+HORATIO
+I can. Or at least I can describe the rumors. As you know, our late king, whom we just now saw as a ghost, was the great rival of Fortinbras, king of Norway. Fortinbras dared him to battle. In that fight, our courageous Hamlet (or at least thats how we thought of him) killed old King Fortinbras, whoon the basis of a valid legal documentsurrendered all his territories, along with his life, to his conqueror. If our king had lost, he would have had to do the same. But now old Fortinbrass young son, also called Fortinbrashe is bold, but unprovenhas gathered a bunch of thugs from the lawless outskirts of the country. For some food, theyre eager to take on the tough enterprise of securing the lands the elder Fortinbras lost.
+</T>
+<T>
+As far as I understand, thats why were posted here tonight and why theres such a commotion in Denmark lately.
+</T>
+<T>
+BARNARDO
+I think thats exactly rightthat explains why the ghost of the late king would haunt us now, since he caused these wars.
+</T>
+<T>
+HORATIO
+The ghost is definitely something to worry about. In the high and mighty Roman Empire, just before the emperor Julius Caesar was assassinated, corpses rose out of their graves and ran through the streets of Rome speaking gibberish. There were shooting stars, and blood mixed in with the morning dew, and threatening signs on the face of the sun. The moon, which controls the tides of the sea, was so eclipsed it almost went completely out. And weve had similar omens of terrible things to come, as if heaven and earth have joined together to warn us whats going to happen.
+</T>
+<T>
+Wait, look! It has come again. Ill meet it if its the last thing I do. Stay here, you hallucination!
+</T>
+<T>
+If you have a voice or can make sounds, speak to me.
+</T>
+<T>
+If theres any good deed I can do that will bring you peace and me honor, speak to me. If you have some secret knowledge of your countrys sad fatewhich might be avoided if we knew about itthen, please, speak. Or if youve got some buried treasure somewhere, which they say often makes ghosts restless, then tell us about it. Stay and speak!
+</T>
+<T>
+Keep it from leaving, Marcellus.
+</T>
+<T>
+MARCELLUS
+Should I strike it with my spear?
+</T>
+<T>
+HORATIO
+Yes, if it doesnt stand still.
+</T>
+<T>
+BARNARDO
+Its over here.
+</T>
+<T>
+HORATIO
+There it is.
+</T>
+<T>
+MARCELLUS
+Its gone. We were wrong to threaten it with violence, since it looks so much like a king. Besides, we cant hurt it anymore than we can hurt the air. Our attack was stupid, futile, and wicked.
+</T>
+<T>
+BARNARDO
+It was about to say something when the rooster crowed.
+</T>
+<T>
+HORATIO
+And then it acted startled, like a guilty person caught by the law. Ive heard that the rooster awakens the god of day with its trumpetlike crowing, and makes all wandering ghosts, wherever they are, hurry back to their hiding places. Weve just seen proof of that.
+</T>
+<T>
+MARCELLUS
+Yes, it faded away when the rooster crowed. Some people say that just before Christmas the rooster crows all night long, so that no ghost dares go wandering, and the night is safe. The planets have no sway over us, fairies' spells dont work, and witches cant bewitch us. Thats how holy that night is.
+</T>
+<T>
+HORATIO
+Yes, Ive heard the same thing and sort of believe it. But look, morning is breaking beyond that hill in the east, turning the sky red. Lets interrupt our watch and go tell young Hamlet what weve seen tonight. Im sure this ghost thats so silent with us will speak to him. Dont you agree that we owe it to him to tell him about this, out of duty and love?
+</T>
+<T>
+MARCELLUS
+Lets do it. I know where well find him this morning.
+</T>
+<T>
+CLAUDIUS
+Although I still have fresh memories of my brother the elder Hamlets death, and though it was proper to mourn him throughout our kingdom, life still goes onI think its wise to mourn him while also thinking about my own well being. Therefore, Ive married my former sister-in-law, the queen, with mixed feelings of happiness and sadness. I know that in marrying Gertrude Im only doing what all of you have wisely advised all alongfor which I thank you. Now, down to business. You all know whats happening. Young Fortinbras, underestimating my strength or imagining that the death of the king has thrown my country into turmoil, dreams of getting the better of me, and never stops pestering me with demands that I surrender the territory his father lost to the elder Hamlet, my dead brother-in-law. So much for Fortinbras.
+</T>
+<T>
+Now, heres what needs to be done.
+</T>
+<T>
+Ive written to Fortinbrass uncle, the present head of Norway, an old bedridden man who knows next to nothing about his nephews plans. Ive told the uncle to stop those plans, which he has the power to do, since all the troops assembled by young Fortinbras are Norwegian, and thus under the uncles control. Im giving the job of delivering this letter to you, good Cornelius, and you, Voltemand. Your business in Norway will be limited to this task. (he gives them a paper) Now good-bye. Show your loyalty by leaving quickly, rather than with elaborate speeches.
+</T>
+<T>
+CORNELIUS, VOLTEMAND
+Well do our duty to you in that and everything else.
+</T>
+<T>
+CLAUDIUS
+I have no doubt you will. Good-bye.
+</T>
+<T>
+And now, Laertes, what do you have to tell me? You have a favor you to ask of me. What is it, Laertes? Youll never waste your words when talking to the king of Denmark. What could you ever ask for that I wouldnt give you? Your father and the Danish throne are as close as the mind and the heart, or the hand and the mouth. What would you like, Laertes?
+</T>
+<T>
+LAERTES
+My lord, I want your permission to go back to France, which I left to come to Denmark for your coronation. I confess, my thoughts are on France, now that my duty is done. Please, let me go.
+</T>
+<T>
+CLAUDIUS
+Do you have your fathers permission? What does Polonius say?
+</T>
+<T>
+POLONIUS
+My son has worn me down by asking me so many times. In the end I grudgingly consented. I beg you, let him go.
+</T>
+<T>
+CLAUDIUS
+In that case, leave when you like, Laertes, and spend your time however you wish. I hereby grant your request, and hope you have a good time. And now, Hamlet, my nephew and my son
+</T>
+<T>
+HAMLET
+(speaking so no one else can hear) Too many family ties there for me.
+</T>
+<T>
+CLAUDIUS
+Why are you still so gloomy, with a cloud hanging over you?
+</T>
+<T>
+HAMLET
+Its not true, sir. Your son is out in the sun.
+</T>
+<T>
+GERTRUDE
+My dear Hamlet, stop wearing these black clothes, and be friendly to the king. You cant spend your whole life with your eyes to the ground remembering your noble father. It happens all the time, what lives must die eventually, passing to eternity.
+</T>
+<T>
+HAMLET
+Yes, mother, it happens all the time.
+</T>
+<T>
+GERTRUDE
+So why does it seem so particular to you?
+</T>
+<T>
+HAMLET
+Seem, mother? No, it is. I dont know what you mean by seem. Neither my black clothes, my dear mother, nor my heavy sighs, nor my weeping, nor my downcast eyes, nor any other display of grief can show what I really feel. Its true that all these things seem like grief, since a person could use them to fake grief if he wanted to. But Ive got more real grief inside me that you could ever see on the surface. These clothes are just a hint of it.
+</T>
+<T>
+CLAUDIUS
+Hamlet, you are so sweet and such a good son to mourn your father like this. But you have to remember, that your father lost his father, who lost his father before him, and every time, each son has had to mourn his father for a certain period. But overdoing it is just stubborn. Its not manly. Its not what God wants, and it betrays a vulnerable heart and an ignorant and weak mind. Since we know that everyone must die sooner or later, why should we take it to heart? Youre committing a crime against heaven, against the dead, and against nature. And its irration-al, since the truth is that all fathers must die. Please give up this useless mourning of yours and start thinking of me as your new father.
+</T>
+<T>
+Because everyone knows that you are the man closest to this throne, and I love you just as much as any father loves his son. And your plans for going back to Wittenberg are not what I want. Im asking you now to stay here in my company as the number-one member of my court, my nephew and now my son too.
+</T>
+<T>
+GERTRUDE
+Please answer my prayers, Hamlet, and stay with us. Dont go back to Wittenberg.
+</T>
+<T>
+HAMLET
+Ill obey you as well as I can, ma'am.
+</T>
+<T>
+CLAUDIUS
+Thats the right answerit shows your love. Stay in Denmark like us.My dear wife, come. Hamlets agreeing to stay makes me happy, and every merry toast Ill drink today will be heard as far as the clouds overhead. My drinking will be echoed in the heavens. Lets go.
+</T>
+<T>
+HAMLET
+Ah, I wish my dirty flesh could melt away into a vapor, or that God had not made a law against suicide. Oh God, God! How tired, stale, and pointless life is to me. Damn it! Its like a garden that no ones taking care of, and thats growing wild. Only nasty weeds grow in it now. I cant believe its come to this. My fathers only been dead for two monthsno, not even two. Such an excellent king, as superior to my uncle as a god is to a beast, and so loving toward my mother that he kept the wind from blowing too hard on her face.
+</T>
+<T>
+Oh God, do I have to remember that? She would hang on to him, and the more she was with him the more she wanted to be with him; she couldnt get enough of him. Yet even so, within a month of my fathers death (I dont even want to think about it. Oh women! You are so weak!), even before she had broken in the shoes she wore to his funeral, crying like crazyeven an animal would have mourned its mate longer than she did!there she was marrying my uncle, my fathers brother, whos about as much like my father as Im like Hercules. Less than a month after my fathers death, even before the tears on her cheeks had dried, she remarried. Oh, so quick to jump into a bed of incest! Thats not good, and no good can come of it either. But my heart must break in silence, since I cant mention my feelings aloud.
+</T>
+<T>
+HORATIO
+Hello, sir.
+</T>
+<T>
+HAMLET
+Nice to see you again, Horatiothat is your name, right?
+</T>
+<T>
+HORATIO
+Thats me, sir. Still your respectful servant.
+</T>
+<T>
+HAMLET
+Not my servant, but my friend. Ill change that name for you. But what are you doing so far from Wittenberg, Horatio? Oh, Marcellus?
+</T>
+<T>
+MARCELLUS
+Hello, sir.
+</T>
+<T>
+HAMLET
+(to MARCELLUS) So nice to see you.(to BARNARDO) Hello, sir.(to HORATIO)But what are you doing away from Wittenberg, Horatio?
+</T>
+<T>
+HORATIO
+I felt like skipping school, sir.
+</T>
+<T>
+HAMLET
+I wouldnt allow your enemies to say that, and I wont believe it from you. I know youd never skip school. What are you doing here in Elsinore? Ill teach you to drink hard by the time you leave.
+</T>
+<T>
+HORATIO
+Sir, we came to see your fathers funeral.
+</T>
+<T>
+HAMLET
+Please, dont make fun of me. I think you came to see my mothers wedding instead.
+</T>
+<T>
+HORATIO
+Well, sir, its true it came soon after.
+</T>
+<T>
+HAMLET
+It was all about saving a few bucks, Horatio. The leftovers from the funeral dinner made a convenient wedding banquet. Oh, Id rather have met my fiercest enemy in heaven, Horatio, than have lived through that terrible day! My fatherI think I see my father.
+</T>
+<T>
+HORATIO
+Where, sir?
+</T>
+<T>
+HAMLET
+In my imagination, Horatio.
+</T>
+<T>
+HORATIO
+I saw him once. He was an admirable king.
+</T>
+<T>
+HAMLET
+He was a great human being. He was perfect in everything. Ill never see the likes of him again.
+</T>
+<T>
+HORATIO
+Sir, I think I saw him last night.
+</T>
+<T>
+HAMLET
+Saw who?
+</T>
+<T>
+HORATIO
+Your father, sir. The dead king.
+</T>
+<T>
+HAMLET
+The king my father?!
+</T>
+<T>
+HORATIO
+Dont get too excited yet, sir. Just listen carefully while I tell you the amazing thing I saw, with these gentlemen as witnesses.
+</T>
+<T>
+HAMLET
+For Gods sake, let me hear it.
+</T>
+<T>
+HORATIO
+After midnight, for two nights running, these two guards, Marcellus and Barnardo, saw a figure that looked very much like your father, in full armor from head to toe. It just appeared before them and marched past them with slow dignity three times, a staffs distance from their amazed eyes, while they turned, quaking with fear and too shocked to speak. They told me all about this, so on the third night I agreed to come stand guard with them, to see for myself. It happened again, just as they had described. I knew your father. This ghost looked as much like him as my two hands are like each other.
+</T>
+<T>
+HAMLET
+But where did this happen?
+</T>
+<T>
+MARCELLUS
+On the platform where we stand guard, sir.
+</T>
+<T>
+HAMLET
+Didnt you talk to it?
+</T>
+<T>
+HORATIO
+I did, sir, but it didnt answer me. It raised its head once as if it was about to speak, but just then the rooster started crowing, and the ghost vanished from sight.
+</T>
+<T>
+HAMLET
+Thats very strange.
+</T>
+<T>
+HORATIO
+I swear to God its true, sir. We thought you ought to know about it.
+</T>
+<T>
+HAMLET
+Yes, I should know, but it disturbs me. Are you on duty again tonight?
+</T>
+<T>
+MARCELLUS, BARNARDO
+Yes, sir.
+</T>
+<T>
+HAMLET
+It was armed, you say?
+</T>
+<T>
+MARCELLUS, BARNARDO
+Armed, sir.
+</T>
+<T>
+HAMLET
+From head to toe?
+</T>
+<T>
+MARCELLUS, BARNARDO
+Yes, from top to bottom, sir.
+</T>
+<T>
+HAMLET
+So you couldnt see his face, then?
+</T>
+<T>
+HORATIO
+Oh, yes, we could, sir. He had his helmet visor up.
+</T>
+<T>
+HAMLET
+Was he frowning?
+</T>
+<T>
+HORATIO
+He looked more sad than angry.
+</T>
+<T>
+HAMLET
+Was he pale or flushed and red-faced?
+</T>
+<T>
+HORATIO
+Very pale, sir.
+</T>
+<T>
+HAMLET
+Did he stare at you?
+</T>
+<T>
+HORATIO
+The whole time.
+</T>
+<T>
+HAMLET
+I wish Id been there.
+</T>
+<T>
+HORATIO
+You would have been very shocked.
+</T>
+<T>
+HAMLET
+Im sure I would have. Did it stay a long time?
+</T>
+<T>
+HORATIO
+About as long as it would take someone to count slowly to a hundred.
+</T>
+<T>
+MARCELLUS, BARNARDO
+No, longer than that.
+</T>
+<T>
+HORATIO
+Not the time I saw it.
+</T>
+<T>
+HAMLET
+His beard was gray, right?
+</T>
+<T>
+HORATIO
+It was just like in real life, dark brown with silver whiskers in it.
+</T>
+<T>
+HAMLET
+Ill stand guard with you tonight. Maybe itll come again.
+</T>
+<T>
+HORATIO
+I bet it will.
+</T>
+<T>
+HAMLET
+If it looks like my good father, Ill speak to it, even if Hell itself opens up and tells me to be quiet. I ask you, if youve kept this a secret, keep doing so. Whatever happens tonight, dont talk about it. Ill return the favor. So good-bye for now. Ill see you on the guards' platform between eleven and twelve tonight.
+</T>
+<T>
+HORATIO, MARCELLUS, BARNARDO
+Well do our duty to you, sir.
+</T>
+<T>
+HAMLET
+Give me your love instead, as I give you mine. Good-bye.
+</T>
+<T>
+My fathers ghostarmed! Somethings wrong. I suspect some foul play. I wish the night were here already! Until then, I have to remain calm. Bad deeds will be revealed, no matter how people try to hide them.
+</T>
+<T>
+LAERTES
+My belongings are on the ship already. Good-bye. And, my dear sister, as long as the winds are blowing and ships are sailing, let me hear from youwrite.
+</T>
+<T>
+OPHELIA
+Do you doubt Ill write?
+</T>
+<T>
+LAERTES
+As for Hamlet and his attentions to you, just consider it a big flirtation, the temporary phase of a hot-blooded youth. It wont last. Its sweet, but his affection will fade after a minute. Not a second more.
+</T>
+<T>
+OPHELIA
+No more than a minute?
+</T>
+<T>
+LAERTES
+Try to think of it like that, anyway. When a youth grows into a man, he doesnt just get bigger in his bodyhis responsibilities grow too. He may love you now, and may have only the best intentions, but you have to be on your guard. Remember that he belongs to the royal family, and his intentions dont matter that muchhes a slave to his family obligations. He cant simply make personal choices for himself the way common people can, since the whole country depends on what he does. His choice has to agree with what the nation wants.
+</T>
+<T>
+So if he says he loves you, you should be wise enough to see that his words only mean as much as the state of Denmark allows them to mean. Then think about how shameful it would be for you to give in to his seductive talk and surrender your treasure chest to his greedy hands. Watch out, Ophelia. Just keep your love under control, and dont let yourself become a target of his lust. Simply exposing your beauty to the moon at night is risky enoughyou dont have to expose yourself to him. Even good girls sometimes get a bad reputation. Worms ruin flowers before they blossom. Baby blooms are most susceptible to disease. So be careful. Fear will keep you safe. Young people often lose their self-control even without any help from others.
+</T>
+<T>
+OPHELIA
+Ill keep your words of wisdom close to my heart. But, my dear brother, dont be like a bad priest who fails to practice what he preaches, showing me the steep and narrow way to heaven while you frolic on the primrose path of sin.
+</T>
+<T>
+LAERTES
+Dont worry, I wont.
+</T>
+<T>
+Ive been here too long. And here comes father. What good luck, to have him bless my leaving not once but twice.
+</T>
+<T>
+POLONIUS
+Youre still here? Shame on youget on board! The wind is filling your ships sail, and theyre waiting for you. Here, I give you my blessing again. And just try to remember a few rules of life. Dont say what youre thinking, and dont be too quick to act on what you think. Be friendly to people but dont overdo it. Once youve tested out your friends and found them trustworthy, hold onto them. But dont waste your time shaking hands with every new guy you meet. Dont be quick to pick a fight, but once youre in one, hold your own. Listen to many people, but talk to few. Hear everyones opinion, but reserve your judgment. Spend all you can afford on clothes, but make sure theyre quality, not flashy, since clothes make the manwhich is doubly true in France. Dont borrow money and dont lend it, since when you lend to a friend, you often lose the friendship as well as the money, and borrowing turns a person into a spendthrift. And, above all, be true to yourself. Then you wont be false to anybody else. Good-bye, son. I hope my blessing will help you absorb what Ive said.
+</T>
+<T>
+LAERTES
+I humbly say good-bye to you, father.
+</T>
+<T>
+POLONIUS
+Now go, the time is right. Your servants are waiting.
+</T>
+<T>
+LAERTES
+Good-bye, Ophelia. Remember what Ive told you.
+</T>
+<T>
+OPHELIA
+Its locked away in my memory, and youve got the key.
+</T>
+<T>
+LAERTES
+Good-bye.
+</T>
+<T>
+POLONIUS
+What did he tell you, Ophelia?
+</T>
+<T>
+OPHELIA
+Something about Hamlet.
+</T>
+<T>
+POLONIUS
+A good thing he did, by God. Ive heard Hamlets been spending a lot of time alone with you recently, and youve made yourself quite available to him. If things are the way people tell me they areand theyre only telling me this to warn methen I have to say, youre not conducting yourself with the self-restraint a daughter of mine should show. Whats going on between you two? Tell me the truth.
+</T>
+<T>
+OPHELIA
+Hes offered me a lot of affection lately.
+</T>
+<T>
+POLONIUS
+Affection! Thats nothing! Youre talking like some innocent girl who doesnt understand the ways of the world. Do you believe his offers, as you call them?
+</T>
+<T>
+OPHELIA
+I dont know what to believe, father.
+</T>
+<T>
+POLONIUS
+Then Ill tell you. Believe that you are a foolish little baby for believing these offers are something real. Offer yourself more respect, ornot to beat this word to deathyoull offer me the chance to be a laughing-stock.
+</T>
+<T>
+OPHELIA
+Father, hes always talked about love in an honorable fashion
+</T>
+<T>
+POLONIUS
+Yes, fashion is just the worda passing whim. Go on.
+</T>
+<T>
+OPHELIA
+And hes made the holiest vows to me, to back up what he says.
+</T>
+<T>
+POLONIUS
+These vows are just traps for stupid birds. I know when a man is on fire, hell swear anything. But when a hearts on fire, it gives out more light than heat, and the fire will be out even before hes done making his promises. Dont mistake that for true love. From now on, spend a little less time with him and talk to him less. Make yourself a precious commodity. Remember that Hamlet is young and has a lot more freedom to fool around than you do. In short, Ophelia, dont believe his love vows, since theyre like flashy pimps who wear nice clothes to lead a woman into filthy acts. To put it plainly, dont waste your time with Hamlet. Do as I say.
+Now come along.
+</T>
+<T>
+OPHELIA
+Ill do as you say, father.
+</T>
+<T>
+HAMLET
+The air is biting cold.
+</T>
+<T>
+HORATIO
+Yes, its definitely nippy.
+</T>
+<T>
+HAMLET
+What time is it?
+</T>
+<T>
+HORATIO
+A little before twelve, I think.
+</T>
+<T>
+MARCELLUS
+No, its just after twelve; I heard the clock strike.
+</T>
+<T>
+HORATIO
+Really? I didnt hear it. So its nearly the time when the ghost likes to appear.
+</T>
+<T>
+What does that mean, sir?
+</T>
+<T>
+HAMLET
+The king is staying up all night drinking and dancing. As he guzzles down his German wine, the musicians make a ruckus to celebrate his draining another cup.
+</T>
+<T>
+HORATIO
+Is that a tradition?
+</T>
+<T>
+HAMLET
+Yes, it is. But though I was born here and should consider that tradition part of my own heritage, I think it would be better to ignore it than practice it. Other countries criticize us for our loud partying.
+</T>
+<T>
+They call us drunks and insult our noble titles. And our drunkenness does detract from our achievements, as great as they are, and lessens our reputations. Its just like what happens to certain people who have some birth defect (which they are not responsible for, since nobody chooses how hes born), or some weird habit or compulsion that changes them completely. It happens sometimes that one little defect in these people, as wonderful and talented as they may be, will make them look completely bad to other people. A tiny spot of evil casts doubt on their good qualities and ruins their reputations.
+</T>
+<T>
+HORATIO
+Look, sirhere it comes!
+</T>
+<T>
+HAMLET
+Oh angels, protect us! Whether youre a good spirit or a cursed demon, whether you bring heavenly breezes or blasts of hell fire, whether your intentions are good or evil, you look so strange I want to talk to you. Ill call you Hamlet Senior, King, Father, royal Dane. Answer me! Dont drive me crazy with curiosity, but tell me why your church-buried bones have burst out of their coffin, and why your tomb,
+</T>
+<T>
+where we quietly buried you, has opened up its heavy marble jaws to spit you out again. What could it mean that you have put on your armor again, you corpse, and have come back to look at the moon, making the night terrifying and stirring us humans with supernatural fears? Why? What do you want from us? What should we do?
+</T>
+<T>
+HORATIO
+It wants you to go off with it, as if it wants to tell you something alone.
+</T>
+<T>
+MARCELLUS
+Look how politely its pointing you to a place thats farther away. But dont go.
+</T>
+<T>
+HORATIO
+Definitely not.
+</T>
+<T>
+HAMLET
+Its not going to speak, so Ill follow it.
+</T>
+<T>
+HORATIO
+Dont do it, sir.
+</T>
+<T>
+HAMLET
+Why, whats the danger? I dont value my life one bit. And as for my soul, how can the ghost endanger that, since its as immortal as the ghost is? Look, its waving me over again. Ill follow it.
+</T>
+<T>
+HORATIO
+What if it tempts you to jump into the sea, sir? Or to the terrifying cliff that overhangs the water,
+</T>
+<T>
+where it takes on some other horrible form that drives you insane. Think about it. The edge of the sea makes people feel despair even at the best of times. All they have to do is look into its depths and hear it roar far below.
+</T>
+<T>
+HAMLET
+Its still waving to me. Go ahead, Ill follow.
+</T>
+<T>
+MARCELLUS
+Youre not going, sir.
+</T>
+<T>
+HAMLET
+Let go of me.
+</T>
+<T>
+HORATIO
+Calm down. Youre not going anywhere.
+</T>
+<T>
+HAMLET
+Its my fate calling me. Every nerve in my body is now as tough as steel. The ghost is still waving me over. Let me go, gentlemen. (he draws his sword)
+I swear, if anyone holds me back, Ill make a ghost of him! I say, get away!Go ahead, Ill follow you.
+</T>
+<T>
+HORATIO
+His imagination is making him crazy.
+</T>
+<T>
+MARCELLUS
+Lets follow them. Its not right to obey his orders to let him go alone.
+</T>
+<T>
+HORATIO
+Go ahead and follow him. But what does all this mean, where will it all end?
+</T>
+<T>
+MARCELLUS
+It means that something is rotten in the state of Denmark.
+</T>
+<T>
+HORATIO
+If thats true, we should let God take care of it.
+</T>
+<T>
+MARCELLUS
+No, lets follow him.
+</T>
+<T>
+HAMLET
+Where are you taking me? Speak. Im not going any farther.
+</T>
+<T>
+GHOST
+Listen to me.
+</T>
+<T>
+HAMLET
+I will.
+</T>
+<T>
+GHOST
+The hour has almost come when I have to return to the horrible flames of purgatory.
+</T>
+<T>
+HAMLET
+Ah, poor ghost!
+</T>
+<T>
+GHOST
+Dont pity me. Just listen carefully to what I have to tell you.
+</T>
+<T>
+HAMLET
+Speak. Im ready to hear you.
+</T>
+<T>
+GHOST
+You must be ready for revenge, too, when you hear me out.
+</T>
+<T>
+HAMLET
+What?
+</T>
+<T>
+GHOST
+Im the ghost of your father, doomed for a certain period of time to walk the earth at night, while during the day Im trapped in the fires of purgatory until Ive done penance for my past sins. If I werent forbidden to tell you the secrets of purgatoryAccording to Catholic doctrine, purgatory is a place where souls go to be punished for their sins before going to heaven.purgatory, I could tell you stories that would slice through your soul, freeze your blood,
+</T>
+<T>
+make your eyes jump out of their sockets, and your hair stand on end like porcupine quills. But mortals like you arent allowed to hear this description of the afterlife. Listen, listen! If you ever loved your poor dear father
+</T>
+<T>
+HAMLET
+Oh God!
+</T>
+<T>
+GHOST
+Take revenge for his horrible murder, that crime against nature.
+</T>
+<T>
+HAMLET
+Murder?
+</T>
+<T>
+GHOST
+His most horrible murder. Murders always horrible, but this one was especially horrible, weird, and unnatural.
+</T>
+<T>
+HAMLET
+Hurry and tell me about it, so I can take revenge right away, faster than a person falls in love.
+</T>
+<T>
+GHOST
+Im glad youre eager. Youd have to be as lazy as a weed on the shores of LetheLethe was a river in the underworld of classical Greek mythology, whose waters induced forgetfulness.Lethe not to get riled up here. Now listen, Hamlet. Everyone was told that a poisonous snake bit me when I was sleeping in the orchard. But in fact, thats a lie thats fooled everyone in Denmark. You should know, my noble son, the real snake that stung your father is now wearing his crown.
+</T>
+<T>
+HAMLET
+I knew it! My uncle?
+</T>
+<T>
+GHOST
+Yes, that incestuous, adulterous animal. With his clever words and fancy gifts, he seduced my seemingly virtuous queen, persuading her to give in to his lust. They were evil words and gifts to seduce her like that! Oh, Hamlet, how far she fell! She went from me, who loved her with the dignity and devotion that suits a legitimate marriage, to a wretch whose natural gifts were poor compared to mine. But just as you cant corrupt a truly virtuous person no matter how you try, the opposite is also true: a lustful person like her can satisfy herself in a heavenly union and then move on to garbage. But hang on, I think I smell the morning air. So let me be brief here. Your uncle snuck up to me while I was sleeping in the orchard, as I always used to do in the afternoon, and poured a vial of henbane poison into my earthat poison that moves like quicksilver through the veins and curdles the blood, which is just what it did to me. I broke out in a scaly rash that covered my smooth body with a revolting crust. And thats how my brother robbed me of my life, my crown, and my queen all at once. He cut me off in the middle of a sinful life.
+</T>
+<T>
+I had no chance to repent my sins or receive last rites. Oh, its horrible, horrible, so horrible! If you are human, dont stand for it. Dont let the Danish kings bed be a nest of incest. But however you go about your revenge, dont corrupt your mind or do any harm to your mother. Leave her to God and her own guilt. Now, good-bye. The glowworms light is beginning to fade, so morning is near. Good-bye, good-bye, good-bye. Remember me.
+</T>
+<T>
+HAMLET
+Ah, all you up in heaven! And earth! What else? Shall I include hell as well? Damn it! Keep beating, my heart, and muscles, dont grow old yetkeep me standing. Remember you! Yes, you poor ghost, as long as I have any power of memory in this distracted head. Remember you! Yes, Ill wipe my mind clean of all trivial facts and memories and preserve only your commandment there. Yes, by God! Oh, you evil woman! Oh, you villain, villain, you damned, smiling villain! Wheres my notebook?Its a good idea for me to write down that one can smile and smile, and be a villain. At least its possible in Denmark. (he writes) So, uncle, there you are. Now its time to deal with the vow I made to my father.
+</T>
+<T>
+He said, Remember me. I swore I would.
+</T>
+<T>
+HORATIO
+Sir, sir!
+</T>
+<T>
+MARCELLUS
+Lord Hamlet.
+</T>
+<T>
+HORATIO
+Please let him be all right!
+</T>
+<T>
+HAMLET
+Im all right.
+</T>
+<T>
+HORATIO
+Oh-ho-ho, sir!
+</T>
+<T>
+HAMLET
+Oh-ho-ho, kid! Come here.
+</T>
+<T>
+MARCELLUS
+So how did it go, sir?
+</T>
+<T>
+HORATIO
+What happened, sir?
+</T>
+<T>
+HAMLET
+It was incredible!
+</T>
+<T>
+HORATIO
+Oh, please, tell us, sir.
+</T>
+<T>
+HAMLET
+No, youll talk.
+</T>
+<T>
+HORATIO
+I swear I wont, sir.
+</T>
+<T>
+MARCELLUS
+I wont either, sir.
+</T>
+<T>
+HAMLET
+Okay. But you promise you can keep a secret?
+</T>
+<T>
+HORATIO, MARCELLUS
+Yes, I swear.
+</T>
+<T>
+HAMLET
+Any villain in Denmark is going to be, well, a villain.
+</T>
+<T>
+HORATIO
+You dont need a ghost returning from the grave to tell you that, sir.
+</T>
+<T>
+HAMLET
+Yes, youre absolutely right. So, without further ado, the best thing to do now is probably just to shake hands and go our separate ways. You go and take care of your business (since everybody has some business to take care of, whatever it is worth), and Ill go and pray.
+</T>
+<T>
+HORATIO
+Youre talking in such a crazy way, sir.
+</T>
+<T>
+HAMLET
+Im sorry if I offended you; yes, very sorry.
+</T>
+<T>
+HORATIO
+Oh, dont worry about it, sir. No offense taken.
+</T>
+<T>
+HAMLET
+Ah, but there is, Horatio, theres a lot of offense. As for this ghost we just saw, hes a real one, I can tell you that much. But regarding what happened between us, dont askI cant tell you. And now, my friends, my courageous and educated friends, do me one small favor.
+</T>
+<T>
+HORATIO
+What is it, sir? Of course we will.
+</T>
+<T>
+HAMLET
+Dont ever tell anyone what youve seen tonight.
+</T>
+<T>
+HORATIO, MARCELLUS
+We wont, sir.
+</T>
+<T>
+HAMLET
+No, you have to swear it.
+</T>
+<T>
+HORATIO
+I swear to God I wont.
+</T>
+<T>
+MARCELLUS
+Me too, I wont, I swear to God.
+</T>
+<T>
+HAMLET
+Swear by my sword.
+</T>
+<T>
+MARCELLUS
+But we already swore, sir.
+</T>
+<T>
+HAMLET
+Yes, but swear by my sword this time.
+</T>
+<T>
+GHOST
+(calls out from under the stage) Swear!
+</T>
+<T>
+HAMLET
+Ha ha, is that what you say, kid? Are you down there, my man?Come on, you hear this guy down in the basement. Agree to swear.
+</T>
+<T>
+HORATIO
+Tell us what to swear, sir.
+</T>
+<T>
+HAMLET
+You swear never to mention what youve seen. Swear by my sword.
+</T>
+<T>
+GHOST
+(from under the stage) Swear.
+</T>
+<T>
+HAMLET
+Youre everywhere, arent you? Maybe we should move. Come over here, gentlemen, and put your hands on my sword again. Swear by my sword youll never mention what youve heard.
+</T>
+<T>
+GHOST
+(from under the stage) Swear by his sword.
+</T>
+<T>
+HAMLET
+You said it right, old mole. Youre pretty busy down there in the dirt, arent you? What a tunneler! Lets move again, my friends.
+</T>
+<T>
+HORATIO
+My God, this is unbelievably strange.
+</T>
+<T>
+HAMLET
+Then give it a nice welcome, as you would give to any stranger. There are more things in heaven and earth, Horatio, than youve even dreamed of. But now listen to me. No matter how strangely I act (since I may find it appropriate to act a little crazy in the near future), you must never, ever let onwith a gesture of your hands or a certain expression on your facethat you know anything about what happened to me here tonight. You must never say anything like, Ah, yes, just as we suspected, or We could tell you a thing or two about him, or anything like that. Swear you wont.
+</T>
+<T>
+GHOST
+(from under the stage) Swear.
+</T>
+<T>
+HAMLET
+Okay, then, unhappy ghost, you can rest now. So, gentlemen, I thank you heartily and with all my love, and Ill repay you however I can some day. Lets go back to court together, but shhh, please. No talking about this. There is so much out of whack in these times. And damn the fact that Im supposed to fix it! Come on, lets go.
+</T>
+<T>
+POLONIUS
+Give him this money and these letters, Reynaldo.
+</T>
+<T>
+REYNALDO
+I will, sir.
+</T>
+<T>
+POLONIUS
+It would be wonderfully wise of you, my dear Reynaldo, to ask around about his behavior a little before you visit him.
+</T>
+<T>
+REYNALDO
+Thats what I thought too, sir.
+</T>
+<T>
+POLONIUS
+Excellent, very good. Ask around and find out what Danish people are in Pariswho they are, where they live and how much money they have, who their friends are. And if you find out in this general sort of questioning that they happen to know my son, youll find out much more than if you asked specific questions about him. Just tell them you vaguely know Laertes, say something like, Im a friend of his father and I sort of know him, or whatever. Do you get what Im saying, Reynaldo?
+</T>
+<T>
+REYNALDO
+Yes, very well, sir.
+</T>
+<T>
+POLONIUS
+You should say, I sort of know him, but not well. Is it the same Laertes whos a wild party animal? Isnt he the one whos always, and so on. Then just make up whatever you wantof course, nothing so bad that it would shame him. I mean make up any stories that
+</T>
+<T>
+sound like your average young guy, the kind of trouble they get into.
+</T>
+<T>
+REYNALDO
+Like gambling, sir?
+</T>
+<T>
+POLONIUS
+Thats right, or drinking, swearing, fist-fighting, visiting prostitutesthat kind of thing.
+</T>
+<T>
+REYNALDO
+But that would ruin his reputation!
+</T>
+<T>
+POLONIUS
+Oh no, not if you say it right. I dont want you to say hes a sex fiend, thats not what I mean. Just mention his faults lightly, so they make him seem like a free spirit whos gone a little too far.
+</T>
+<T>
+REYNALDO
+But, sir
+</T>
+<T>
+POLONIUS
+Why should you do this, you want to know?
+</T>
+<T>
+REYNALDO
+Yes, sir. Id like to know.
+</T>
+<T>
+POLONIUS
+Well, heres what Im thinking. (Im quite proud of myself for coming up with this.) As you talk with someone and hint about my sons faults and little sins, youll watch his reaction, and if hes ever seen Laertes do any of these things, it will only be natural for him to agree with you, at which point hell call you sir, or my good friend, depending on who the person is, where he comes from, and so on.
+</T>
+<T>
+REYNALDO
+Yes, sir.
+</T>
+<T>
+POLONIUS
+And then hell hell wait, what was I about to say? Good God, I was about to say something. What was I saying?
+</T>
+<T>
+REYNALDO
+At, It will be natural for him to agree with you hell call you sir, friend, et cetera.
+</T>
+<T>
+POLONIUS
+It will be natural for him to agree with you. Ah, yes, thats right. If he agrees hell say something like this: Yes, I know the gentleman youre referring to. I just saw him yesterday, or the other day, or whenever it is, you know, and there he was gambling, or there he was, totally wasted, or fighting with somebody about a tennis match, or going into a house of ill reputethat means a whorehouse, you knowor whatever. Make sure your little lie brings out the truth. Were doing this wisely and intelligently, indirectly, finding out things by roundabout means. Thats how youll find out what my son is up to in Paris. You get my point, dont you?
+</T>
+<T>
+REYNALDO
+Yes, I do, sir.
+</T>
+<T>
+POLONIUS
+God bless you. Have a safe trip.
+</T>
+<T>
+REYNALDO
+Thank you, sir.
+</T>
+<T>
+POLONIUS
+Dont forget to see what hes up to with your own eyes. Dont trust gossip.
+</T>
+<T>
+REYNALDO
+I will, sir.
+</T>
+<T>
+POLONIUS
+And I hope hes studying his music like hes supposed to.
+</T>
+<T>
+REYNALDO
+Got it, sir.
+</T>
+<T>
+POLONIUS
+Good-bye.
+</T>
+<T>
+Ophelia, whats the matter?
+</T>
+<T>
+OPHELIA
+Oh, father, father, Ive just had such a scare!
+</T>
+<T>
+POLONIUS
+From what, in Gods name?
+</T>
+<T>
+OPHELIA
+Father, I was up in my room sewing when Hamlet came in with no hat on his head, his shirt unbuttoned, and his stockings dirty, undone, and down around his ankles. He was pale as his undershirt, and his knees were knocking together. He looked so out of sorts, as if hed just come back from hell. He came up to me.
+</T>
+<T>
+POLONIUS
+Is he crazy with love for you?
+</T>
+<T>
+OPHELIA
+Im not sure, but Im afraid he might be.
+</T>
+<T>
+POLONIUS
+What did he say?
+</T>
+<T>
+OPHELIA
+He grabbed me by the wrist and held me hard, then backed away an arms length and just looked at me, staring at me like an artist about to paint my picture. He stayed like that a long time.
+</T>
+<T>
+Finally, after shaking my arm a little, and jerking his head up and down three times, he sighed like it was his last breath. After that he let me go. He left the room with his head turned back on me, finding his way out without looking, since his eyes were on me the whole time.
+</T>
+<T>
+POLONIUS
+Come with me. Ill go tell the king about this. This is definitely love-craziness. Love is such a violent emotion that it makes people self-destruct, as much as any strong emotion. Im so sorry. Did you tell him anything that might have hurt his feelings lately?
+</T>
+<T>
+OPHELIA
+No, father, but I did what you told me to do and sent back his letters and wouldnt let him visit me.
+</T>
+<T>
+POLONIUS
+Thats what made him crazy. I regret not observing him more closely before I told you to do that. I thought he was just toying with you and meant to ruin your reputation. Damn my suspicious thoughts! Its as common for us old people to assume we know more than we do as for young people to be too wild and crazy. Come on, lets go see the king. Weve got to discuss this matter, which could cause more trouble if we keep it secret than if we discuss it openly.
+</T>
+<T>
+CLAUDIUS
+Welcome, dear Rosencrantz and Guildenstern. Ive wanted to see you for a long time now, but I sent for you so hastily because I need your help right away. Youve probably heard about the change thats come over Hamletthats the only word for it, since inside and out hes different from what he was before. I cant imagine whats made him so unlike himself, other than his fathers death. Since you both grew up with him and are so familiar with his personality and behavior, Im asking you to stay a while at court and spend some time with him. See if you can get Hamlet to have some fun, and find out if theres anything in particular thats bothering him, so we can set about trying to fix it.
+</T>
+<T>
+GERTRUDE
+Gentlemen, Hamlets talked a lot about you, and I know there are no two men alive hes fonder of. If youll be so good as to spend some time with us and help us out, youll be thanked on a royal scale.
+</T>
+<T>
+ROSENCRANTZ
+Both you and the king might have ordered us to execute your command, instead of asking us so politely.
+</T>
+<T>
+GUILDENSTERN
+But well obey. Our services are entirely at your command.
+</T>
+<T>
+CLAUDIUS
+Thanks, Rosencrantz and worthy Guildenstern.
+</T>
+<T>
+GERTRUDE
+Thanks, Guildenstern and worthy Rosencrantz.
+I beg you to pay a visit right away to my son, whos changed too much. Servants, take these gentlemen to see Hamlet.
+</T>
+<T>
+GUILDENSTERN
+I hope to God we can make him happy and do him some good!
+</T>
+<T>
+GERTRUDE
+Amen to that!
+</T>
+<T>
+POLONIUS
+The ambassadors are back from Norway, sir.
+</T>
+<T>
+CLAUDIUS
+Once again you bring good news.
+</T>
+<T>
+POLONIUS
+Do I, sir? I assure your majesty Im only doing my duty both to my God and my good king.
+</T>
+<T>
+And I believeunless this brain of mine is not so politically cunning as it used to bethat Ive found out why Hamlets gone crazy.
+</T>
+<T>
+CLAUDIUS
+Tell me! I want very much to find out.
+</T>
+<T>
+POLONIUS
+All right, but first let the ambassadors speak. Then you can hear my news, as dessert.
+</T>
+<T>
+CLAUDIUS
+Then be so kind as to show them in.
+</T>
+<T>
+Gertrude, he says hes found out the reason for your sons insanity.
+</T>
+<T>
+GERTRUDE
+I doubt its anything but the obvious reason: his fathers dying and our quick marriage.
+</T>
+<T>
+CLAUDIUS
+Well, well get to the bottom of it. Welcome, my good friends. Tell me, Voltemand, whats the news from the king of Norway?
+</T>
+<T>
+VOLTEMAND
+Greetings to you too, your Highness. As soon as we raised the matter, the king sent out messengers to stop his nephews war preparations, which he originally thought were directed against Poland but learned on closer examination were directed against you. He was very upset that Fortinbras had taken advantage of his being old and sick to deceive him, and he ordered Fortinbrass arrest. Fortinbras swore never to threaten Denmark again.
+</T>
+<T>
+The old king was so overjoyed by this promise that he gave young Fortinbras an annual income of three thousand crownsA crown is a kind of gold coin.crowns and permission to lead his soldiers into Poland, asking you officially in this letter to allow his troops to pass through your kingdom on their way to Poland. Hes assuring you of your safety. (he gives CLAUDIUS a document
+</T>
+<T>
+CLAUDIUS
+I like this news, and when I have time Ill read this and think about how to reply. Meanwhile, thank you for your efforts. Go relax now. Tonight well have dinner. Welcome back!
+</T>
+<T>
+POLONIUS
+Well, that turned out well in the end. Sir and madam, to make grand speeches about what majesty is, what service is, or why day is day, night is night, and time is time is just a waste of a lot of day, night, and time. Therefore, since the essence of wisdom is not talking too much, Ill get right to the point here. Your son is crazy. Crazy Im calling it, since how can you say what craziness is except to say that its craziness? But thats another story.
+</T>
+<T>
+GERTRUDE
+Please, stick to the point.
+</T>
+<T>
+POLONIUS
+Madam, Im doing nothing but sticking to the point. Its true hes crazy, and its a shame its true, and its truly a shame hes crazybut now I sound foolish, so Ill get right to the point.
+</T>
+<T>
+Now, if we agree Hamlets crazy, then the next step is to figure out the cause of this effect of craziness, or I suppose I should say the cause of this defect, since this defective effect is caused by something. This is what we must do, and thats exactly what needs to be done. Think about it. I have a daughter (I have her until she gets married) whos given me this letter, considering it her duty. Listen and think about this: (he reads a letter) To the heavenly idol of my soul, the most beautified OpheliaBy the way, beautified sounds bad, it sounds awful, it sounds crude, its a terrible use of the word. But Ill go on: (he reads the letter) In her excellent white bosom, et cetera, et ceterayou dont need to hear all this stuff
+</T>
+<T>
+GERTRUDE
+Hamlet wrote this letter to Ophelia?
+</T>
+<T>
+POLONIUS
+Madam, please be patient. Ill read it to you.
+(he reads the letter)
+You may wonder if the stars are fire,
+You may wonder if the sun moves across the sky.
+You may wonder if the truth is a liar,
+But never wonder if I love.
+Oh, Ophelia, Im bad at poetry. I cant put my feelings into verse, but please believe I love you best, oh, best of all. Believe it.
+Yours forever, my dearest one,
+as long as I livestill chugging along,
+Hamlet.
+Dutifully and obediently my daughter showed me this letter, and more like it. Shes told me all about how Hamlet has been courting herall the details of where, and what he said, and when.
+</T>
+<T>
+CLAUDIUS
+And how did she react to all this?
+</T>
+<T>
+POLONIUS
+Sir, what is your opinion of me?
+</T>
+<T>
+CLAUDIUS
+I know you are loyal and honorable.
+</T>
+<T>
+POLONIUS
+I would like to prove to you that I am. But what would you have thought of me if I had kept quiet when I found out about this hot little love (which I noticed even before my daughter told me about it)? My dear queen, what would you have thought of me if I had turned a blind eye to what was happening between Hamlet and my daughter? No, I had to do something. And so I said to my daughter: Lord Hamlet is a prince, hes out of your league. You have to end this. And then I gave her orders to stay away from him, and not to accept any messages or little gifts from him. She did what I said. When she rejected Hamlet, he became sad, and stopped eating, stopped sleeping, got weak, got dizzy, and as a result lost his mind. And thats why hes crazy now, and all of us feel sorry for him.
+</T>
+<T>
+CLAUDIUS
+(to GERTRUDE) Do you think thats why Hamlets crazy?
+</T>
+<T>
+GERTRUDE
+It may be, it certainly may be.
+</T>
+<T>
+POLONIUS
+Has there ever been a timeId really like to knowwhen Ive definitely said something was true, and it turned out not to be true?
+</T>
+<T>
+CLAUDIUS
+Not that I know of.
+</T>
+<T>
+POLONIUS
+(pointing to his head and shoulders) Chop my head off if Im wrong. Ill follow the clues and uncover the truth, even if its at the very center of the earth.
+</T>
+<T>
+CLAUDIUS
+What can we do to find out if its true?
+</T>
+<T>
+POLONIUS
+Well, you know he sometimes walks here in the lobby for four hours at a time.
+</T>
+<T>
+GERTRUDE
+Yes, he does.
+</T>
+<T>
+POLONIUS
+When hes there next time, Ill send my daughter to see him. (to CLAUDIUS) You and I will hide behind the arrasAn arras is a hanging wall-tapestry.arras and watch what happens. If it turns out that Hamlets not in love after all, and hasnt gone mad from love, then you can fire me from my court job and Ill go work on a farm.
+</T>
+<T>
+CLAUDIUS
+Well try what you suggest.
+</T>
+<T>
+GERTRUDE
+Look how sadly hes coming in, reading his book.
+</T>
+<T>
+POLONIUS
+Please go away, both of you. Ill speak to him now. Oh, please let me.
+</T>
+<T>
+How are you, Hamlet?
+</T>
+<T>
+HAMLET
+Fine, thank you.
+</T>
+<T>
+POLONIUS
+Do you know who I am?
+</T>
+<T>
+HAMLET
+Of course. You sell fish.
+</T>
+<T>
+POLONIUS
+No, not me, sir.
+</T>
+<T>
+HAMLET
+In that case I wish you were as good a man as a fish seller.
+</T>
+<T>
+POLONIUS
+Good, sir?
+</T>
+<T>
+HAMLET
+Yes, sir. Only one man in ten thousand is good in this world.
+</T>
+<T>
+POLONIUS
+Thats definitely true, my lord.
+</T>
+<T>
+HAMLET
+Since if the sun breeds maggots on a dead dog, kissing the corpseby the way, do you have a daughter?
+</T>
+<T>
+POLONIUS
+I do indeed, my lord.
+</T>
+<T>
+HAMLET
+Then by all means never let her walk in public. Procreation is a good thing, but if your daughter gets pregnant look out, friend.
+</T>
+<T>
+POLONIUS
+(to himself) Now, what does he mean by that? Still harping on my daughter. But he didnt recognize me at first. He mistook me for a fish seller. Hes far gone. But when I was young I went crazy for love too, almost as bad as this. Ill talk to him again.(to HAMLET) What are you reading, your highness?
+</T>
+<T>
+HAMLET
+A lot of words.
+</T>
+<T>
+POLONIUS
+And what is the subject?
+</T>
+<T>
+HAMLET
+Between whom?
+</T>
+<T>
+POLONIUS
+I mean, what do the words say?
+</T>
+<T>
+HAMLET
+Oh, just lies, sir. The sly writer says here that old men have gray beards, their faces are wrinkled, their eyes full of gunk, and that they have no wisdom and weak thighs. Of course I believe it all, but I dont think its good manners to write it down, since you yourself, sir, would grow as old as I am, if you could only travel backward like a crab.
+</T>
+<T>
+POLONIUS
+(to himself) Theres a method to his madness. (to HAMLET) Will you step outside, my lord?
+</T>
+<T>
+HAMLET
+Into my grave.
+</T>
+<T>
+POLONIUS
+Well, thats certainly out of this world, all right. (to himself) His answers are so full of meaning sometimes! He has a way with words, as crazy people often do, and that sane people dont have a talent for. Ill leave him now and arrange a meeting between him and my daughter. (to HAMLET) My lord, Ill take my leavetake my leave = say good-byetake my leave of you now.
+</T>
+<T>
+HAMLET
+You cant take anything from me that I care less aboutexcept my life, except my life, except my life.
+</T>
+<T>
+POLONIUS
+Good-bye, my lord.
+</T>
+<T>
+HAMLET
+(to himself) These boring old fools!
+</T>
+<T>
+POLONIUS
+Youre looking for Lord Hamlet. Hes right over there.
+</T>
+<T>
+ROSENCRANTZ
+Thank you, sir.
+</T>
+<T>
+GUILDENSTERN
+My lord!
+</T>
+<T>
+ROSENCRANTZ
+My dear sir!
+</T>
+<T>
+HAMLET
+Ah, my good old friends! How are you, Guildenstern?
+And Rosencrantz! Boys, how are you both doing?
+</T>
+<T>
+ROSENCRANTZ
+Oh, as well as anybody.
+</T>
+<T>
+GUILDENSTERN
+Happy that were not too happy, lucky in being not too lucky. Were not exactly at the top of our luck.
+</T>
+<T>
+HAMLET
+But youre not down and out, either, are you?
+</T>
+<T>
+ROSENCRANTZ
+No, were just somewhere in the middle, my lord.
+</T>
+<T>
+HAMLET
+So youre around Lady Lucks waist?
+</T>
+<T>
+GUILDENSTERN
+Yes, were the privates in her army.
+</T>
+<T>
+HAMLET
+Ha, ha, so youve gotten into her private parts? Of courseLady Luck is such a slut. Anyway, whats up?
+</T>
+<T>
+ROSENCRANTZ
+Not much, my lord. Just that the worlds become honest.
+</T>
+<T>
+HAMLET
+In that case, the end of the world is approaching. But youre wrong. Let me ask you a particular question. What crimes have you committed to be sent here to this prison?
+</T>
+<T>
+GUILDENSTERN
+Prison, my lord?
+</T>
+<T>
+HAMLET
+Denmarks a prison.
+</T>
+<T>
+ROSENCRANTZ
+Then I guess the whole world is one.
+</T>
+<T>
+HAMLET
+Yes, quite a large one, with many cells and dungeons, Denmark being one of the worst.
+</T>
+<T>
+ROSENCRANTZ
+We dont think so, my lord.
+</T>
+<T>
+HAMLET
+Well, then it isnt one to you, since nothing is really good or bad in itselfits all what a person thinks about it. And to me, Denmark is a prison.
+</T>
+<T>
+ROSENCRANTZ
+That must be because youre so ambitious. Its too small for your large mind.
+</T>
+<T>
+HAMLET
+Small? No, I could live in a walnut shell and feel like the king of the universe. The real problem is that I have bad dreams.
+</T>
+<T>
+GUILDENSTERN
+Dreams are a sign of ambition, since ambition is nothing more than the shadow of a dream.
+</T>
+<T>
+HAMLET
+But a dream itself is just a shadow.
+</T>
+<T>
+ROSENCRANTZ
+Exactly. In fact, I consider ambition to be so light and airy that its only the shadow of a shadow.
+</T>
+<T>
+HAMLET
+Then I guess beggars are the ones with bodies, while ambitious kings and heroes are just the shadows of beggars. Should we go inside? I seem to be losing my mind a bit.
+</T>
+<T>
+ROSENCRANTZ, GUILDENSTERN
+Were at your service, whatever you say.
+</T>
+<T>
+HAMLET
+No, no, I wont class you with my servants, sinceto be frank with youmy servants are terrible. But tell me as my friends, what are you doing here at Elsinore?
+</T>
+<T>
+ROSENCRANTZ
+Visiting you, my lord. Theres no other reason.
+</T>
+<T>
+HAMLET
+Well, then, I thank you, though Im such a beggar that even my thanks are not worth much. Did someone tell you to visit me? Or was it just your whim, on your own initiative? Come on, tell me the truth.
+</T>
+<T>
+GUILDENSTERN
+What should we say, my lord?
+</T>
+<T>
+HAMLET
+Anything you like, as long as it answers my question. You were sent for. Youve got a guilty look on your faces, which youre too honest to disguise. I know the king and queen sent for you.
+</T>
+<T>
+ROSENCRANTZ
+Why would they do that, my lord?
+</T>
+<T>
+HAMLET
+Thats what I want you to tell me. Let me remind you of our old friendship, our youth spent together, the duties of our love for each other, and whatever else will make you answer me straight.
+</T>
+<T>
+ROSENCRANTZ
+(to GUILDENSTERN) What do you think?
+</T>
+<T>
+HAMLET
+(to himself) Ive got my eye on you. (to GUILDENSTERN) If you care about me, youll be honest with me.
+</T>
+<T>
+GUILDENSTERN
+My lord, we were sent for.
+</T>
+<T>
+HAMLET
+Ill tell you whyso you wont have to tell me and give away any secrets you have with the king and queen. Recently, though I dont know why, Ive lost all sense of fun, stopped exercisingthe whole world feels sterile and empty. This beautiful canopy we call the skythis majestic roof decorated with golden sunlightwhy, its nothing more to me than disease-filled air. What a perfect invention a human is, how noble in his capacity to reason, how unlimited in thinking, how admirable in his shape and movement, how angelic in action, how godlike in understanding! Theres nothing more beautiful. We surpass all other animals. And yet to me, what are we but dust? Men dont interest me. Nowomen neither, but youre smiling, so you must think they do.
+</T>
+<T>
+ROSENCRANTZ
+My lord, I wasnt thinking anything like that.
+</T>
+<T>
+HAMLET
+So why did you laugh when I said that men dont interest me?
+</T>
+<T>
+ROSENCRANTZ
+I was just thinking that if people dont interest you, youll be pretty bored by the actors on their way here. We crossed paths with a drama company just a while ago, and theyre coming to entertain you.
+</T>
+<T>
+HAMLET
+The one who plays the part of the king will be particularly welcome. Ill treat him like a real king. The adventurous knight will wave around his sword and shield, the lover will be rewarded for his sighs, the crazy character can rant all he wants, the clown will make everybody laugh, and the lady character can say whatevers on her mind, or Ill stop the play. Which troupe is it?
+</T>
+<T>
+ROSENCRANTZ
+The tragic actors from the city, the ones you used to enjoy so much.
+</T>
+<T>
+HAMLET
+What are they doing on the road? They made more money and got more attention in the city.
+</T>
+<T>
+ROSENCRANTZ
+But things have changed there, and its easier for them on the road now.
+</T>
+<T>
+HAMLET
+Are they as popular as they used to be when I lived in the city? Do they attract big audiences?
+</T>
+<T>
+ROSENCRANTZ
+No, not like before.
+</T>
+<T>
+HAMLET
+Why? Are they getting rusty?
+</T>
+<T>
+ROSENCRANTZ
+No, theyre busy and as excellent as ever. The problem is that they have to compete with a group of children who yell out their lines and receive outrageous applause for it. These child actors are now in fashion, and theyve so overtaken the public theaters that society types hardly come at all, theyre so afraid of being mocked by the playwrights who write for the boys.
+</T>
+<T>
+HAMLET
+What, you mean kid actors? Who takes care of them? Who pays their way? Will they stop working when their voices mature? Arent the playwrights hurting them by making them upstage adult actors, which they are going to grow up and become? (Unless, of course, they have trust funds.)
+</T>
+<T>
+ROSENCRANTZ
+Theres been a whole debate on the topic. For a while, no play was sold to the theaters without a big fight between the childrens playwright and the actors playing adult roles.
+</T>
+<T>
+HAMLET
+Are you kidding?
+</T>
+<T>
+GUILDENSTERN
+Oh, theres been a lot of quarreling.
+</T>
+<T>
+HAMLET
+And the boys are winning so far?
+</T>
+<T>
+ROSENCRANTZ
+Yes, they are, my lordlittle boys are carrying the whole theater on their backs, like Hercules carried the world.
+</T>
+<T>
+HAMLET
+Actually, its not so unusual when you think about it. My uncle is king of Denmark, and the same people who made fun of him while my father was still alive are now rushing to pay twenty, forty, fifty, a hundred ducats apiece for miniature portraits of him. Theres something downright unnatural about it, if a philosopher stopped to think about it.
+</T>
+<T>
+GUILDENSTERN
+The actors are here.
+</T>
+<T>
+HAMLET
+Gentlemen, welcome to Elsinore. Dont be shyshake hands with me. If Im going to welcome you I have to go through all these polite customs, dont I? And if we dont shake hands, when I act all nice to the players it will seem like Im happier to see them than you. You are very welcome here. But still, my uncle-father and aunt-mother have got the wrong idea.
+</T>
+<T>
+GUILDENSTERN
+In what sense, my lord?
+</T>
+<T>
+HAMLET
+Im only crazy sometimes. At other times, I know whats what.
+</T>
+<T>
+POLONIUS
+Gentlemen, I hope you are well.
+</T>
+<T>
+HAMLET
+Listen, Guildenstern, and you too, Rosencrantzlisten as close as you can! (he gestures toward POLONIUS )This big baby is still in diapers.
+</T>
+<T>
+ROSENCRANTZ
+Yes, the second time around, since, as they say, old people become children again.
+</T>
+<T>
+HAMLET
+(whispering to ROSENCRANTZ and GUILDENSTERN) I bet hes coming to tell me about the actors; just watch. (to POLONIUS) Youre right, sir, that happened on Monday morning.
+</T>
+<T>
+POLONIUS
+My lord, I have news for you.
+</T>
+<T>
+HAMLET
+My lord, I have news for you. When Roscius was an actor in ancient Rome
+</T>
+<T>
+POLONIUS
+The actors have arrived, my lord.
+</T>
+<T>
+HAMLET
+Yawn, snore.
+</T>
+<T>
+POLONIUS
+I swear
+</T>
+<T>
+HAMLET
+each actor arrived on his ass.
+</T>
+<T>
+POLONIUS
+They are the best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical, one-act plays, or long poemsShakespeare is making fun of the way his contemporaries classified drama.tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical, one-act plays, or long poems. The tragic playwright Seneca is not too heavy for them to handle nor is the comic writer Plautus too light. For formal plays or freer dramas, these are the best actors around.
+</T>
+<T>
+HAMLET
+Oh, JephthahIn the Bible, Jephthah unwittingly sacrifices his daughter by making a vow too hastily. The lines below in italics are lyrics from a popular song about Jephthah. Hamlet sings them.Jephthah, judge of ancient Israel, what a treasure you had!
+</T>
+<T>
+POLONIUS
+What treasure did he have, my lord?
+</T>
+<T>
+HAMLET
+Well, (sings)
+One fine daughter, and no more,
+Whom he loved more than anything.
+</T>
+<T>
+POLONIUS
+(to himself) Still talking about my daughter, I see.
+</T>
+<T>
+HAMLET
+Arent I right, Jephthah, old man?
+</T>
+<T>
+POLONIUS
+If youre calling me Jephthah, my lord, I do have a daughter I love more than anything, yes.
+</T>
+<T>
+HAMLET
+No, thats not logical.Hamlet means that if Polonius has a daughter, it isnt because Hamlet called him Jephthah.No, thats not logical.
+</T>
+<T>
+POLONIUS
+What is logical, then, my lord?
+</T>
+<T>
+HAMLET
+Why,
+</T>
+<T>
+As if by chance, God knows,
+and then, you know,
+It happened, as youd expect
+If you want to know more, you can refer to the popular song, because now I have to stop.
+</T>
+<T>
+Welcome, welcome to all of you. (he turns to one of the actors)Oh, you, Im glad to see you. (turns back to all of them)Welcome, my good friends. (turns to another actor)Oh, its you! Youve grown a beard since I saw you last. Are you going to put a beard on me too? (turns to an actor dressed as a woman)Boys played female dramatic roles in Shakespeares day.(turns to an actor dressed as a woman) Well hello, my young lady friend. Youve grown as much as the height of a pair of platform shoes at least! I hope your voice hasnt changed yet. (to the whole company)All of you are most welcome here. Well get right to business. First, a speech. Come on, give us a little speech to whet our appetites. A passionate speech, please.
+</T>
+<T>
+FIRST PLAYER
+Which speech, my lord?
+</T>
+<T>
+HAMLET
+I heard you recite a speech for me once that was never acted out, or if it was, it was performed only once, since the play was not popularlike caviar for a slob who couldnt appreciate it. But the critics and I found it to be an excellent play, with well-ordered scenes that were clever but not fancy.
+</T>
+<T>
+I remember one critic said there was no vulgar language to spice up the dialogue, and showing off on playwrights part. That critic called it an excellent play, containing things to reflect upon as well as sweet music to enjoy. I loved one speech in particular. It was when Aeneas told Dido about PriamsDido, Priam, and Aeneas are characters in the Roman poets epic called The Aeneid, which produced the dramatic spin-off Hamlet is referring to here.Aeneas told Dido about Priams murder. If you happen to remember this scene, begin at linelet me see, how does it go?
+The rugged PyrrhusPyrrhus, the son of the Greek hero Achilles, came to Troy at the end of the Trojan War to avenge his fathers death by killing Priam, king of Troy. Pyrrhus hid inside the Trojan Horse with the other Greek heroes.Pyrrhus, strong as a tiger
+No, thats wrong; it begins like this:
+Savage Pyrrhus, whose black armor was
+As dark plans, and was like the night
+When he crouched inside the Trojan Horse,
+Has now smeared his dark armor
+With something worse. From head to foot
+Hes now covered in red, decorated horribly
+With the blood of fathers, mothers, daughters, sons.
+The blood is baked to a paste by fires he set in the streets,
+Fires that lend a terrible light to his horrible murders.
+Boiling with anger and fire,
+And coated thick with hard-baked blood,
+His eyes glowing like rubies, the hellish Pyrrhus
+Goes looking for grandfather Priam.
+Sir, take it from there.
+</T>
+<T>
+POLONIUS
+My God, that was well done, my lord, with the right accent and a good ear.
+</T>
+<T>
+FIRST PLAYER
+Soon he finds Priam
+Failing in his battle against the Greeks. His old sword,
+Which Priam cannot wield anymore, lies where it fell.
+An unfair opponent,
+Pyrrhus rushes at Priam, and in his rage he misses;
+</T>
+<T>
+But the wind created by his sword is enough to make
+The weakened old man fall. Just then the city of Ilium,
+As if feeling this fatal blow to its ruler,
+Collapses in flames, and the crash
+Captures Pyrrhuss attention. His sword,
+Which was falling onto Priams white-haired head
+Seemed to hang in the air.
+Pyrrhus stood there like a man in a painting,
+Doing nothing.
+But just as a raging thunderstorm
+Is often interrupted by a moments silence,
+And then soon after the region is split apart by dreadful thunderclaps,
+In the same way, after Pyrrhus paused,
+His newly awakened fury set him to work again.
+When the Cyclopses were making unbreakable armor
+For the god of war, their hammers never fell
+So mercilessly as Pyrrhuss bloody sword
+Now falls on Priam.
+Get out of here, Lady Luck, you whore! All you gods
+Should come together to rob her of her powers,
+Break all the spokes on her wheel of fortune,
+And send it rolling down the hills of heaven
+Into the depths of hell.
+</T>
+<T>
+POLONIUS
+This speech is going on too long.
+</T>
+<T>
+HAMLET
+Well have the barber trim it later, along with your beard. Please, continue, players. This old man only likes the dancing or the sex scenes; he sleeps through all the rest. Go on, come to the part about Hecuba.
+</T>
+<T>
+FIRST PLAYER
+But whoah, the sadnesshad seen the muffled queen
+</T>
+<T>
+HAMLET
+The muffled queen?
+</T>
+<T>
+POLONIUS
+Thats good. The muffled queen is good.
+</T>
+<T>
+FIRST PLAYER
+Running back and forth, spraying the flames with her tears, a cloth on that head where a crown had recently sat and a blanket instead of a robe wrapped around her body, which has withered from childbearing: anyone seeing her in such a state, no matter how spiteful he was, would have cursed Lady Luck for bringing her down like that. If the gods had seen her while she watched Pyrrhus chopping her husband into bits, the terrible cry she uttered would have made all the eyes in heaven burn with hot tearsunless the gods dont care at all about human affairs.
+</T>
+<T>
+POLONIUS
+Look how flushed the actor is, with tears in his eyes. All right, thats enough, please.
+</T>
+<T>
+HAMLET
+(to FIRST PLAYER) Very fine. Ill have you perform the rest of it soon. (to POLONIUS)My lord, will you make sure the actors are made comfortable? Make sure youre good to them, since what they say about us later will go down in history. Itd be better to have a bad epitaph on our graves than to have their ill will while were alive.
+</T>
+<T>
+POLONIUS
+My lord, I will give them all they deserve.
+</T>
+<T>
+HAMLET
+Good heavens, man, give them more than that! If you pay everyone what they deserve, would anyone ever escape a whipping? Treat them with honor and dignity.
+The less they deserve, the more your generosity is worth. Lead them inside.
+</T>
+<T>
+POLONIUS
+Come, everyone.
+</T>
+<T>
+HAMLET
+Follow him, friends. Well watch a whole play tomorrow. (to FIRST PLAYER) My friend, can you perform The Murder of Gonzago?
+</T>
+<T>
+FIRST PLAYER
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Then well see that tomorrow night. By the way, if I were to compose an extra speech of twelve to sixteen lines and stick it into the play, you could learn it by heart for tomorrow, right?
+</T>
+<T>
+FIRST PLAYER
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Very well. Follow that gentleman now, and be careful not to make fun of him.
+</T>
+<T>
+My good friends, Ill see you tomorrow. Welcome to Elsinore.
+</T>
+<T>
+ROSENCRANTZ
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Ah yes, good-bye to you both.
+</T>
+<T>
+Now Im alone. Oh, what a mean low-life I am! Its awful that this actor could force his soul to feel made-up feelings in a work of make-believe. He grew pale, shed real tears, became overwhelmed, his voice breaking with feeling and his whole being, even, meeting the needs of his actand all for nothing. For Hecuba!
+</T>
+<T>
+What is Hecuba to him, or he to Hecuba, that he would weep for her? Just imagine what he would do if he had the cause for feeling that I do. He would drown the stage with his tears and burst the audiences ears with his terrible words, drive the guilty spectators crazy, terrify the innocent ones, confuse the ignorant ones, and astound absolutely everyones eyes and ears. But what do I, a grim and uncourageous rascal, do? Mope around like a dreamer, not even bothering with plans for revenge, and I can say nothingnothing at allon behalf of a king whose dear life was stolen. Am I a coward? Is there anyone out there wholl call me villain and slap me hard? Pull off my beard? Pinch my nose? Call me the worst liar? By God, if someone would do that to me, Id take it, because Im a lily-livered manotherwise, I wouldve fattened up the local vultures with the intestines of that low-life king a long time ago. Bloody, inhuman villain! Remorseless, treacherous, sex-obsessed, unnatural villain! Ah, revenge! What an ass I am. Im so damn brave. My dear fathers been murdered, and Ive been urged to seek revenge by heaven and hell, and yet all I can do is stand around cursing like a whore in the streets. Damn it! I need to get myself together here! Hmm. Ive heard that guilty people watching a play have been so affected by the artistry of the scene that they are driven to confess their crimes out loud.
+</T>
+<T>
+Murder has no tongue, but miraculously it still finds a way to speak. Ill have these actors perform something like my fathers murder in front of my uncle. Ill watch my uncle. Ill probe his conscience and see if he flinches. If he becomes pale, I know what to do. The ghost I saw may be the devil, and the devil has the power to assume a pleasing disguise, and so he may be taking advantage of my weakness and sadness to bring about my damnation. I need better evidence than the ghost to work with. The plays the thing to uncover the conscience of the king.
+</T>
+<T>
+CLAUDIUS
+And you cant put your heads together and figure out why hes acting so dazed and confused, ruining his peace and quiet with such dangerous displays of lunacy?
+</T>
+<T>
+ROSENCRANTZ
+He admits he feels confused, but refuses to say why.
+</T>
+<T>
+GUILDENSTERN
+And hes not exactly eager to be interrogated. Hes very sly and dances around our questions when we try to get him to talk about how he feels.
+</T>
+<T>
+GERTRUDE
+Did he treat you well when you saw him?
+</T>
+<T>
+ROSENCRANTZ
+Yes, in a very gentlemanly way.
+</T>
+<T>
+GUILDENSTERN
+But it seemed like he had to force himself to be nice to us.
+</T>
+<T>
+ROSENCRANTZ
+He didnt ask questions, but answered ours at length.
+</T>
+<T>
+GERTRUDE
+Did you try tempting him with some entertainment?
+</T>
+<T>
+ROSENCRANTZ
+Madam, some actors happened to cross our paths on the way here. We told Hamlet about them, and that seemed to do him good.
+</T>
+<T>
+They are here at court now, and I believe theyve been told to give a performance for him tonight.
+</T>
+<T>
+POLONIUS
+Its true, and he asked me to beg you both to attend.
+</T>
+<T>
+CLAUDIUS
+It makes me very happy to hear hes so interested. Gentlemen, please try to sharpen his interest even more, and let this play do him some good.
+</T>
+<T>
+ROSENCRANTZ
+We will, my lord.
+</T>
+<T>
+CLAUDIUS
+Dear Gertrude, please give us a moment alone. Weve secretly arranged for Hamlet to come here so that he can run into Ophelia. Her father and I, justifiably acting as spies, will hide in the room and observe Hamlets behavior, to determine whether its love thats making him suffer.
+</T>
+<T>
+GERTRUDE
+Yes, Ill go. As for you, Ophelia, I hope that your beauty is the reason for Hamlets insane behavior, just as I hope your virtues will return him to normal some day, for the good of both of you.
+</T>
+<T>
+OPHELIA
+I hope so too, Madam.
+</T>
+<T>
+POLONIUS
+Ophelia, come here.(to CLAUDIUS) Your Majesty, we will hide. (to OPHELIA)Read from this prayer book, so it looks natural that youre all alone. Come to think of it, this happens all the timepeople act devoted to God to mask their bad deeds.
+</T>
+<T>
+CLAUDIUS
+(to himself) How right he is! His words whip up my guilty feelings. The whores pockmarked cheek made pretty with make-up is just like the ugly actions Im disguising with fine words. What a terrible guilt I feel!
+</T>
+<T>
+POLONIUS
+I hear him coming. Quick, lets hide, my lord.
+</T>
+<T>
+HAMLET
+The question is: is it better to be alive or dead? Is it nobler to put up with all the nasty things that luck throws your way, or to fight against all those troubles by simply putting an end to them once and for all? Dying, sleepingthats all dying isa sleep that ends all the heartache and shocks that life on earth gives usthats an achievement to wish for. To die, to sleepto sleep, maybe to dream. Ah, but theres the catch: in deaths sleep who knows what kind of dreams might come, after weve put the noise and commotion of life behind us. Thats certainly something to worry about. Thats the consideration that makes us stretch out our sufferings so long.
+</T>
+<T>
+After all, who would put up with all lifes humiliationsthe abuse from superiors, the insults of arrogant men, the pangs of unrequited love, the inefficiency of the legal system, the rudeness of people in office, and the mistreatment good people have to take from badwhen you could simply take out your knife and call it quits? Who would choose to grunt and sweat through an exhausting life, unless they were afraid of something dreadful after death, the undiscovered country from which no visitor returns, which we wonder about without getting any answers from and which makes us stick to the evils we know rather than rush off to seek the ones we dont? Fear of death makes us all cowards, and our natural boldness becomes weak with too much thinking. Actions that should be carried out at once get misdirected, and stop being actions at all. But shh, here comes the beautiful Ophelia. Pretty lady, please remember me when you pray.
+</T>
+<T>
+OPHELIA
+Hello, my lord, how have you been doing lately?
+</T>
+<T>
+HAMLET
+Very well, thank you. Well, well, well.
+</T>
+<T>
+OPHELIA
+My lord, I have some mementos of yours that Ive been meaning to give back to you for a long time now. Please take them.
+</T>
+<T>
+HAMLET
+No, it wasnt me. I never gave you anything.
+</T>
+<T>
+OPHELIA
+My lord, you know very well that you did, and wrote letters to go along with them, letters so sweetly written that they made your gifts even more valuable. Their perfume is gone now, so take them back. Nice gifts lose
+</T>
+<T>
+their value when the givers turn out not to be so nice. There, my lord.
+</T>
+<T>
+HAMLET
+Ha ha, are you good?
+</T>
+<T>
+OPHELIA
+Excuse me?
+</T>
+<T>
+HAMLET
+Are you beautiful?
+</T>
+<T>
+OPHELIA
+My lord, what are you talking about?
+</T>
+<T>
+HAMLET
+Im just saying that if youre good and beautiful, your goodness should have nothing to do with your beauty.
+</T>
+<T>
+OPHELIA
+But could beauty be related to anything better than goodness?
+</T>
+<T>
+HAMLET
+Sure, since beautys power can more easily change a good girl into a whore than the power of goodness can change a beautiful girl into a virgin. This used to be a great puzzle, but now Ive solved it. I used to love you.
+</T>
+<T>
+OPHELIA
+You certainly made me believe you did, my lord.
+</T>
+<T>
+HAMLET
+You shouldnt have believed me, since were all rotten at the core, no matter how hard we try to be virtuous. I didnt love you.
+</T>
+<T>
+OPHELIA
+Then I guess I was misled.
+</T>
+<T>
+HAMLET
+Get yourself to a conventNunnery could mean either convent or brothel.convent at once. Why would you want to give birth to more sinners? Im fairly good myself, but even so I could accuse myself of such horrible crimes that it wouldve been better if my mother had never given birth to me. and
+</T>
+<T>
+I am arrogant, vengeful, ambitious, with more ill will in me than I can fit into my thoughts, and more than I have time to carry it out in. Why should people like me be crawling around between earth and heaven? Every one of us is a criminal. Dont believe any of us. Hurry to a convent. Wheres your father?
+</T>
+<T>
+OPHELIA
+Hes at home, my lord.
+</T>
+<T>
+HAMLET
+Lock him in, so he can play the fool in his own home only. Good-bye.
+</T>
+<T>
+OPHELIA
+Oh, dear God, please help him!
+</T>
+<T>
+HAMLET
+If you marry, Ill give you this curse as your wedding presentbe as clean as ice, as pure as the driven snow, and youll still get a bad reputation. Get yourself to a convent, at once. Good-bye. Or if you have to get married, marry a fool, since wise men know far too well that youll cheat on them. Good-bye.
+</T>
+<T>
+OPHELIA
+Dear God, please make him normal again!
+</T>
+<T>
+HAMLET
+Ive heard all about you women and your cosmetics too. God gives you one face, but you paint another on top of it. You dance and prance and lisp; you call Gods creations by pet names, and you excuse your sexpot ploys by pleading ignorance. Come on, I wont stand for it anymore. Its driven me crazy. I hereby declare we will have no more marriage. Whoever is already married (except one person I know) will stay marriedall but one person. Everyone else will have to stay single. Get yourself to a convent, fast.
+</T>
+<T>
+OPHELIA
+Oh, how noble his mind used to be, and how lost he is now! He used to have a gentlemans grace, a scholars wit, and a soldiers strength. He used to be the jewel of our country, the obvious heir to the throne, the one everyone admired and imitated. And now he has fallen so low! And of all the miserable women who once enjoyed hearing his sweet, seductive words, I am the most miserable. A mind that used to sing so sweetly is now completely out of tune, making harsh sounds instead of fine notes. The unparalleled appearance and nobility he had in the full bloom of his youth has been ruined by madness. O, how miserable I am to see Hamlet now and know what he was before!
+</T>
+<T>
+CLAUDIUS
+Love? His feelings dont move in that direction. And his words, although they were a little disorganized, werent crazy. No, his sadness is hatching something, like a hen does sitting on an egg. What hatches very well may be dangerous. So to prevent any harm being done, Ive made a quick executive decision: hell be sent to England to try to get back the money they owe us. With any luck, the sea and new countries will push out these thoughts that have somehow taken root in his mind. What do you think of this plan?
+</T>
+<T>
+POLONIUS
+It should work. But I still believe that his madness was caused by unrequited love.Hello, Ophelia. You dont have to tell us what Lord Hamlet said.
+</T>
+<T>
+We heard everything.My lord, do whatever you like, but if you like this idea, let his mother the queen get him alone and beg him to share his feelings with her. Ill hide and listen in. If she cant find out what his secret is, then send him off to England or wherever you think best.
+</T>
+<T>
+CLAUDIUS
+Thats how well do it, then. When important people start to show signs of insanity, you have to watch them closely.
+</T>
+<T>
+HAMLET
+Perform the speech just as I taught you, musically and smoothly. If you exaggerate the words the way some actors do, I might as well have some newscaster read the lines. Dont use too many hand gestures; just do a few, gently, like this. When you get into a whirlwind of passion on stage, remember to keep the emotion moderate and smooth. I hate it when I hear a blustery actor in a wig tear a passion to shreds, bursting everyones eardrums so as to impress the audience on the lower levels of the playhouse, who for the most part can only appreciate loud noises and pantomime shows. I would whip a guy for making a tyrant sound too tyrannical. Thats as bad as those old plays in which King Herod ranted. Please avoid doing that.
+</T>
+<T>
+FIRST PLAYER
+I will, sir.
+</T>
+<T>
+HAMLET
+But dont be too tame, eitherlet your good sense guide you. Fit the action to the word and the word to the action. Act natural at all costs. Exaggeration has no place in the theater, where the purpose is to represent reality, holding a mirror up to virtue, to vice, and to the spirit of the times. If you handle this badly, it just makes ignorant people laugh while regular theater-goers are miserableand theyre the ones you should be keeping happy.
+</T>
+<T>
+Ive seen actors who are highly praised, but whonot to be too rude herecant even talk or walk like human beings. They bellow and strut about like weird animals that were made to look like men, but very badly.
+</T>
+<T>
+FIRST PLAYER
+I hope weve corrected that fault pretty well in our company, sir.
+</T>
+<T>
+HAMLET
+Oh, correct it completely. Make sure that the clowns do not ad-lib, since some of them will make certain dumb audience members laugh mindlessly at them, while an important issue in the play needs to be addressed. Its bad behavior for an actor, anyway, and displays a pitiful ambition to hog the limelight on stage.
+</T>
+<T>
+So, my lord, will the king be attending the performance?
+</T>
+<T>
+POLONIUS
+Yes, he will, and the queen as well.
+</T>
+<T>
+HAMLET
+Tell the actors to hurry.
+</T>
+<T>
+Will you two help them get ready?
+</T>
+<T>
+ROSENCRANTZ
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Well, hello there, Horatio!
+</T>
+<T>
+HORATIO
+Here I am at your service, my dear lord.
+</T>
+<T>
+HAMLET
+Horatio, youre the best man Ive ever known.
+</T>
+<T>
+HORATIO
+Oh, sir
+</T>
+<T>
+HAMLET
+Dont think Im flattering you. What could I hope to get from you, whove got nothing but your charm to support you in life? Why would anyone flatter a poor person? No, keep flattery for kissing the hands of those who can pay well. You understand? Ever since Ive been a free agent in my choice of friends, Ive chosen you because you take everything life hands you with calm acceptance, grateful for both good and bad. Blessed are those who mix emotion with reason in just the right proportion, making them strong enough to resist the whims of Lady Luck. Show me the person whos master of his emotions, and Ill put him close to my heartin my heart of heartsas I do you. But Im talking too much. The point is, theres a play being performed for the king tonight. One of the scenes comes very close to depicting the circumstances of my fathers death, as I described them to you. Watch my uncle carefully when that scene begins. If his guilty secret does not reveal itself, then that ghost was just a devil, and my hunch wasnt, in fact, worth anything.
+</T>
+<T>
+Watch him closely. Ill stare at him too, and afterward well compare notes on him.
+</T>
+<T>
+HORATIO
+My lord, Ill watch him as closely as I would a thief. I wont miss a trick.
+</T>
+<T>
+HAMLET
+Theyre coming. I cant talk now. Take your seat.
+</T>
+<T>
+CLAUDIUS
+So hows my nephew Hamlet doing?
+</T>
+<T>
+HAMLET
+Wonderful! I eat the air, like chameleons do. Im positively stuffed with air, I eat so much of it.
+</T>
+<T>
+CLAUDIUS
+I have no idea what youre talking about, Hamlet. Youre not answering my question.
+</T>
+<T>
+HAMLET
+Mine, neither. (to POLONIUS) My lord, you performed in amateur dramatic productions in college, right?
+</T>
+<T>
+POLONIUS
+Indeed I did, my lord. I was considered to be quite a good actor.
+</T>
+<T>
+HAMLET
+What role did you play?
+</T>
+<T>
+POLONIUS
+I played Julius Caesar. I was killed in the Capitol. Brutus killed me.
+</T>
+<T>
+HAMLET
+That was brutish of them, to kill so capital a guy. Are the actors ready?
+</T>
+<T>
+ROSENCRANTZ
+Yes, my lord. Theyre ready whenever you are.
+</T>
+<T>
+GERTRUDE
+Come here, my dear Hamlet. Sit by me.
+</T>
+<T>
+HAMLET
+No thanks, my good mother. Theres a nicer piece of work right here. (he sits down near OPHELIA )
+</T>
+<T>
+POLONIUS
+(to CLAUDIUS) Hey, did you notice that?
+</T>
+<T>
+HAMLET
+My lady, should I lie in your lap?
+</T>
+<T>
+OPHELIA
+No, my lord.
+</T>
+<T>
+HAMLET
+I mean, with my head in your lap?
+</T>
+<T>
+OPHELIA
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Did you think I was talking about sex?
+</T>
+<T>
+OPHELIA
+I think nothingIn Shakespeares time, nothing (or 0) was slang for the vagina.nothing, my lord.
+</T>
+<T>
+HAMLET
+Thats a nice thought to lie between a girls legs.
+</T>
+<T>
+OPHELIA
+What is, my lord?
+</T>
+<T>
+HAMLET
+Nothing.
+</T>
+<T>
+OPHELIA
+Youre in a good mood tonight, my lord.
+</T>
+<T>
+HAMLET
+Who, me?
+</T>
+<T>
+OPHELIA
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Oh Godwho is, by the way, the best comic of them all. What can you do but be happy? Look how cheerful my mother is, only two hours after my father died.
+</T>
+<T>
+OPHELIA
+No, my lord, its been four months.
+</T>
+<T>
+HAMLET
+As long as that? Well, in that case these mourning clothes can go to hell. Ill get myself a fur-trimmed suit. Good heavens, he died two months ago and hasnt been forgotten yet? In that case, theres reason to hope a mans memory may outlive him by six months. But hes got to build churches for that to happen, my lady, or else hell have to put up with being forgotten, like the hobby-horse in the popular song that goes, Heigh-ho, heigh-ho, the hobby-horse is forgotten.
+</T>
+<T>
+Trumpets play. The pantomime show begins. A king and queen enter and embrace lovingly. She kneels before him and resists his passion. He lifts her up and lays his head on her neck. He lies down on a bank of flowers. When she sees him sleeping, she leaves. Another man comes in, takes the crown from the king, pours poison in the sleeping mans ear, and leaves. The queen returns and finds the king dead. She becomes hysterical. The killer comes back with three others and calms the queen. The body is carried away. The killer woos the queen with gifts. She is cold toward him for a while but then relents and accepts his advances.
+</T>
+<T>
+OPHELIA
+What does this mean, my lord?
+</T>
+<T>
+HAMLET
+This means were having some mischievous fun.
+</T>
+<T>
+OPHELIA
+This pantomime was probably a summary of the play.
+</T>
+<T>
+HAMLET
+This guy will tell us everything. Actors cant keep a secret. Theyll tell all.
+</T>
+<T>
+OPHELIA
+Will he tell us what that pantomime meant?
+</T>
+<T>
+HAMLET
+Sure, or anything else you show him. As long as you arent ashamed to show it, he wont be ashamed to tell you what it means.
+</T>
+<T>
+OPHELIA
+Youre naughty. Im watching the play.
+</T>
+<T>
+PROLOGUE
+We beg you most courteously
+To be patient with us
+And watch our humble tragedy.
+</T>
+<T>
+HAMLET
+Was that the prologue or the inscription on some wedding ring?
+</T>
+<T>
+OPHELIA
+It was a bit short, my lord.
+</T>
+<T>
+HAMLET
+Yes, as short as a womans love.
+</T>
+<T>
+PLAYER KING
+Its been thirty years since we were married.
+</T>
+<T>
+PLAYER QUEEN
+I hope we stay in love for thirty more years! But Im sad. Youve been so gloomy lately, so unlike your usual cheerful self, that I worry something is wrong. But dont let this upset you, since women are too afraid in lovefor them, love and fear go hand in hand. You know very well how much I love you, and my fear is just as deep. When someones love is great, the little worries become very big. So when you see someone who worries a lot about little things, you know theyre really in love.
+</T>
+<T>
+PLAYER KING
+My love, I will have to leave you soon. My body is growing weak, and I will leave you behind in this beautiful world, honored and much loved. Perhaps youll find another husband
+</T>
+<T>
+PLAYER QUEEN
+Oh, damn everyone else! Remarrying would be treason to my heart. Curse me if I take a second husband. When a woman takes a second husband, its because shes killed off the first.
+</T>
+<T>
+HAMLET
+(to himself) Harsh!
+</T>
+<T>
+PLAYER QUEEN
+Someone might marry a second time for money, but never for love. Any time I kissed my second husband in bed, Id kill the first one all over again.
+</T>
+<T>
+PLAYER KING
+I know thats what you think now, but people change their minds. Often our intentions are strong at first, but as time goes on they weaken, just like an apple sticks to the tree when it is unripe but falls to the ground once it ripens. The promises we make to ourselves in emotional moments lose their power once the emotion passes. Great grief and joy may rouse us to action, but when the grief or joy have passed, were no longer motivated to act. Joy turns to grief in the blink of an eye, and grief becomes joy just as quickly. This world is not made for either one to last long in, and its no surprise that even our loves change along with our luck. Its still a mystery to be solved whether luck controls love, or love controls luck. When a great man has a run of bad luck, watch how followers desert him, and when a poor man advances to an important position, he makes friends with the people he used to hate. Love is unreliable. A person with lots of money will always have friends, while one fallen on hard times makes an enemy of any friend he turns to for money. But back to my original pointwhat we want and what we get are always at odds. We can have our little dreams, but the fates decide our futures. You think now youll never remarry, but that thought will die with me, your first husband.
+</T>
+<T>
+PLAYER QUEEN
+May the earth refuse me food and the heavens go dark, may I have no rest day and night, may my trust and hope turn to despairmay the gloom of a prison overtake me, and may my every joy be turned to sorrow.
+May I know no peace either in this life or the next one, if I become a wife again after I am a widow.
+</T>
+<T>
+HAMLET
+Nice vow, but what if she breaks it?
+</T>
+<T>
+PLAYER KING
+You have made this vow with deep sincerity. My dear, leave me alone now awhile. My mind is getting foggy, and I would like to sleep and escape this endless day.
+</T>
+<T>
+PLAYER QUEEN
+Sleep tight, and may nothing come between us.
+</T>
+<T>
+HAMLET
+Madam, how are you liking this play?
+</T>
+<T>
+GERTRUDE
+The ladys overdoing it, I think.
+</T>
+<T>
+HAMLET
+Oh, but shell keep her word.
+</T>
+<T>
+CLAUDIUS
+Do you know the plot? Is there anything offensive in it?
+</T>
+<T>
+HAMLET
+No, no, its just a joke, a little jibe but all in good fun. Not offensive at all.
+</T>
+<T>
+CLAUDIUS
+Whats the play called?
+</T>
+<T>
+HAMLET
+The Mousetrap. Why on earth is it called that, you ask? Its a metaphor. This play is about a murder committed in Vienna. Gonzago is the dukes name, and his wife is Baptista. Youll see soon enough. Its a piece of garbage, but who cares? You and I have free souls, so it doesnt concern us. Let the guilty wince. We can watch without being bothered.
+</T>
+<T>
+This is Lucianus, the kings nephew in the play.
+</T>
+<T>
+OPHELIA
+Youre an expert commentator, arent you?
+</T>
+<T>
+HAMLET
+Yes. I could even supply the dialogue between you and your lover if you did your little puppet show of love for me.
+</T>
+<T>
+OPHELIA
+Ooh, youre sharp.
+</T>
+<T>
+HAMLET
+Yes, pointy, but you could take the edge off me though it might make you moan a little.
+</T>
+<T>
+OPHELIA
+You get better in your jokes and worse in your manners.
+</T>
+<T>
+HAMLET
+Thats what you women get when you trick us into marriage.Lets get started, murderer on stage, please! Damn it, stop fussing with the makeup, and get going. Were all waiting for the revenge!
+</T>
+<T>
+LUCIANUS
+Evil thoughts, ready hands, the right poison, and the time is right too. The dark night is on my side, for no one can see me. You deadly mixture of weeds and plants, which Hecate, goddess of witchcraft, has put a spell on, use your magic to steal this healthy persons life away. (pours the poison into the PLAYER KING s ears)
+</T>
+<T>
+HAMLET
+You see, he poisons the king in his own garden to get the kingdom for himself. The kings name is Gonzago. The original story was written in the finest Italian. Youll see shortly how the murderer wins the love of Gonzagos wife.
+</T>
+<T>
+OPHELIA
+The king is getting up.
+</T>
+<T>
+HAMLET
+Whatis he scared of a gun that only fired a blank?
+</T>
+<T>
+GERTRUDE
+My lord, how are you feeling?
+</T>
+<T>
+POLONIUS
+Stop the play.
+</T>
+<T>
+CLAUDIUS
+Turn on the lights. Get me out of here!
+</T>
+<T>
+POLONIUS
+Lights, lights, get us some lights!
+</T>
+<T>
+HAMLET
+Let the deer thats been shot go off and weep,
+While the unharmed deer happily plays.
+For some must watch while other must sleep,
+Thats how the world goes.
+Couldnt I get work as an actor (if I hit a run of bad luck) in some acting company, and wear flowers on my shoes?
+</T>
+<T>
+HORATIO
+They might even give you half a share of the company.
+</T>
+<T>
+HAMLET
+No, a whole share for me.
+For you know, my dearest Damon,
+That Jove, king of the gods, was
+Thrown out of power here, and
+Whos in charge? A bigpeacock.
+</T>
+<T>
+HORATIO
+You could have at least rhymedThe obvious rhyme is ass.rhymed.
+</T>
+<T>
+HAMLET
+Oh, Horatio, Ill bet you a thousand bucks the ghost was right. Did you notice?
+</T>
+<T>
+HORATIO
+Yes, I did, my lord.
+</T>
+<T>
+HAMLET
+When the actors were talking about poison?
+</T>
+<T>
+HORATIO
+I watched him very closely.
+</T>
+<T>
+HAMLET
+Ah ha! Hey, lets have some music here! Play your flutes!
+For if the king doesnt like the play,
+Then he doesnt like it, we may say.
+Come on, music!
+</T>
+<T>
+GUILDENSTERN
+My lord, could I have a word with you?
+</T>
+<T>
+HAMLET
+You can have a whole story, not just a word.
+</T>
+<T>
+GUILDENSTERN
+Sir, the king
+</T>
+<T>
+HAMLET
+Yes, what about him?
+</T>
+<T>
+GUILDENSTERN
+Hes in his chambers now, and hes extremely upset.
+</T>
+<T>
+HAMLET
+What, an upset stomach from too much booze?
+</T>
+<T>
+GUILDENSTERN
+No, sir, hes angry.
+</T>
+<T>
+HAMLET
+You should be smart enough to tell this to a doctor, not me, since if I treated him, hed just get angrier.
+</T>
+<T>
+GUILDENSTERN
+My lord, please try to stick to the subject at hand.
+</T>
+<T>
+HAMLET
+Ill be good, sir. Go ahead.
+</T>
+<T>
+GUILDENSTERN
+The queen your mother is upset, and sent me to see you.
+</T>
+<T>
+HAMLET
+Its lovely to see you.
+</T>
+<T>
+GUILDENSTERN
+No, my lord, your polite words are not to the point. If you could please stop fooling around, Ill tell you what your mother wants. If not, Ill leave you alone and thatll be the end of my business.
+</T>
+<T>
+HAMLET
+Sir, I cant.
+</T>
+<T>
+GUILDENSTERN
+Cant what, my lord?
+</T>
+<T>
+HAMLET
+Stop fooling around. My mind is confused. But Ill do my best to give you a straight answer, as you wishor rather, as my mother wishes. Okay, to the point. My mother, you say ?
+</T>
+<T>
+ROSENCRANTZ
+She says that your behavior has astonished her.
+</T>
+<T>
+HAMLET
+Oh, what a wonderful son, I can impress my mother! But whats the upshot of her admiration? Do tell.
+</T>
+<T>
+ROSENCRANTZ
+She wants to have a word with you in her bedroom before you go to bed.
+</T>
+<T>
+HAMLET
+Id obey even if she were my mother ten times over. Is there anything else I can do for you?
+</T>
+<T>
+ROSENCRANTZ
+My lord, you used to like me.
+</T>
+<T>
+HAMLET
+And still do, I swear by my hands.
+</T>
+<T>
+ROSENCRANTZ
+My lord, whats wrong with you? Youre not doing yourself any good by refusing to tell your friends whats bothering you.
+</T>
+<T>
+HAMLET
+Sir, I have no future ahead of me.
+</T>
+<T>
+ROSENCRANTZ
+But how can you say that, when the king himself says youre the heir to the Danish throne?
+</T>
+<T>
+HAMLET
+Yes, eventually, but as the proverb goes, While the grass grows The rest of the proverb goes, the horse starves.While the grass grows But thats a tired old proverb. Oh, the recorders! Let me see one.(he takes a recorder and turns to GUILDENSTERN ) Why are you hovering so close, as if you want to ambush me?
+</T>
+<T>
+GUILDENSTERN
+Oh, my lord, Im sorry if Im forgetting my manners. Its just that Im worried about you.
+</T>
+<T>
+HAMLET
+I dont really understand what you mean. Will you play this recorder?
+</T>
+<T>
+GUILDENSTERN
+I cant, my lord.
+</T>
+<T>
+HAMLET
+Please.
+</T>
+<T>
+GUILDENSTERN
+Im serious, I cant.
+</T>
+<T>
+HAMLET
+Im begging you.
+</T>
+<T>
+GUILDENSTERN
+I have no idea how.
+</T>
+<T>
+HAMLET
+Oh, its as easy as lying. Just put your fingers and thumb over the holes and blow into it, and itll produce the most moving music. Here, the holes are here.
+</T>
+<T>
+GUILDENSTERN
+But I cant play a melody. I dont know how.
+</T>
+<T>
+HAMLET
+Well, look how you play meas if you knew exactly where to put your fingers, to blow the mystery out of me, playing all the octaves of my rangeand yet you cant even produce music from this little instrument? My God, do you think Im easier to manipulate than a pipe? You can push my buttons, but you cant play me for a fool.
+</T>
+<T>
+Hello and God bless you, sir.
+</T>
+<T>
+POLONIUS
+My lord, the queen wants to speak with you right away.
+</T>
+<T>
+HAMLET
+Do you see that cloud up there that looks like a camel?
+</T>
+<T>
+POLONIUS
+By God, it does look like a camel.
+</T>
+<T>
+HAMLET
+To me it looks like a weasel.
+</T>
+<T>
+POLONIUS
+It does have a back like a weasels.
+</T>
+<T>
+HAMLET
+Or like a whale.
+</T>
+<T>
+POLONIUS
+Yes, very much like a whale.
+</T>
+<T>
+HAMLET
+Ill go see my mother soon. (to himself) Theyre trying as hard as they can to mess with me.I will go soon.
+</T>
+<T>
+POLONIUS
+Ill tell her.
+</T>
+<T>
+HAMLET
+Its easy enough to say soon.
+</T>
+<T>
+Now please leave me alone, my friends.
+</T>
+<T>
+This is the time of night when witches come out, when graveyards yawn open and the stench of hell seeps out. I could drink hot blood and do such terrible deeds that people would tremble even in the daylight. But Ive got to go see my mother.Oh, heart, dont grow weak, like NeroNero was a Roman emperor known for his extreme cruelty.Nero Let me be cruel, but not inhuman.
+</T>
+<T>
+Ill speak as sharp as a dagger to her, but I wont use one on her. And so, my words and thoughts will be at odds.
+</T>
+<T>
+CLAUDIUS
+I dont like the way hes acting, and its not safe for me to let his insanity get out of control. So get prepared. Im sending you to England on diplomatic business, and Hamlet will go with you. As king, I cannot risk the danger he represents as he grows crazier by the hour.
+</T>
+<T>
+GUILDENSTERN
+Well take care of it. Its a sacred duty to protect the lives of all those who depend on Your Highness.
+</T>
+<T>
+ROSENCRANTZ
+Everyone tries to avoid harm, but the public figure demands even more protection. When a great leader dies he doesnt die alone but, like a whirlpool, draws others with him. Hes like a huge wheel on the top of the highest mountain whose spokes touch the rim of ten thousand smaller thingswhen it falls down the mountain, every little object goes down with it. Whenever a king sighs, everyone groans.
+</T>
+<T>
+CLAUDIUS
+Prepare yourself, please, for this trip. Well put a leash on this danger thats now running wild.
+</T>
+<T>
+ROSENCRANTZ, GUILDENSTERN
+Well hurry.
+</T>
+<T>
+POLONIUS
+My lord, Hamlets going to his mothers room. Ill hide behind the tapestry to hear what they say. I bet shell chew him out. And as you said (and you said it wisely), its good to have someone other than a mother listening in on them, since she can be too partial to him. Goodbye, my lord. Ill stop by before you go to bed, and tell you what Ive heard.
+</T>
+<T>
+CLAUDIUS
+Thanks, my dear lord.
+</T>
+<T>
+Oh, my crime is so rotten it stinks all the way to heaven. It has the mark of CainIn the Bible, Cain was the first murderer, killing his brother in Genesis 4:10-12.Cain on it, a brothers murder. I cant pray, though I want to desperately. My guilt is stronger even than my intentions. And like a person with two opposite things to do at once, I stand paralyzed and neglect them both. So what if this cursed hand of mine is coated with my brothers blood? Isnt there enough rain in heaven to wash it clean as snow? Isnt that what Gods mercy is for? And doesnt prayer serve these two purposesto keep us from sinning and to bring us forgiveness when we have sinned? So Ill pray. Ive already committed my sin. But, oh, what kind of prayer is there for me? Dear Lord, forgive me for my horrible murder?
+</T>
+<T>
+That wont work, since Im still reaping the rewards of that murder: my crown and my queen. Can a person be forgiven and still keep the fruits of his crime? In this wicked world, criminals often take the money they stole and use it to buy off the law, shoving justice aside. But not in heaven. Up there, every action is judged for exactly what its worth, and were forced to confront our crimes. So what can I do? What is there left to do? Offer whatever repentance I canthat couldnt hurt. But it cant help either! Oh, what a lousy situation Im in. My hearts as black as death. My soul is stuck to sin, and the more it struggles to break free, the more it sticks. Help me, angels! Cmon, make an effort. Bend, stubborn knees. Steely heart, be soft as a newborn babe, so I can pray. Perhaps everything will turn out okay after all. (he kneels)
+</T>
+<T>
+HAMLET
+I could do it easily now. Hes praying now. And now Ill do it. (he draws out his sword) And there he goes, off to heaven. And thats my revenge. Id better think about this more carefully. A villain kills my father, and I, my fathers only son, send this same villain to heaven. Seems like I just did him a favor. He killed my father when my father was enjoying life, with all his sins in full bloom, before my father could repent for any of them. Only God knows how many sins my father has to pay for. As for me, I dont think his prospects look so good.
+</T>
+<T>
+So is it really revenge for me if I kill Claudius right when he is confessing his sins, in perfect condition for a trip to heaven? No. Away, sword, and wait for a better moment to kill him. (he puts his sword away) When hes sleeping off some drunken orgy, or having incestuous sex, or swearing while he gambles, or committing some other act that has no goodness about itthats when Ill trip him up and send him to hell with his heels kicking up at heaven. My mothers waiting. The kings trying to cure himself with prayer, but all hes doing is keeping himself alive a little longer.
+</T>
+<T>
+CLAUDIUS
+(rising) My words fly up toward heaven, but my thoughts stay down here on earth. Words without thoughts behind them will never make it to heaven.
+</T>
+<T>
+POLONIUS
+Hell come right away. Make sure you lay into him. Tell him his pranks have caused too much trouble, and that Your Highness has taken a lot of heat for them. Ill be right here, silent. Please be blunt with him.
+</T>
+<T>
+HAMLET
+(offstage) Mother, mother, mother!
+</T>
+<T>
+GERTRUDE
+Dont worry, Ill do what you say. Now hide, I hear him coming.
+</T>
+<T>
+HAMLET
+Now mother, whats this all about?
+</T>
+<T>
+GERTRUDE
+Hamlet, youve insulted your father.
+</T>
+<T>
+HAMLET
+Mother, youve insulted my father.
+</T>
+<T>
+GERTRUDE
+Come on, youre answering me foolishly.
+</T>
+<T>
+HAMLET
+Go on, youre questioning me evilly.
+</T>
+<T>
+GERTRUDE
+Hamlet, what, why?
+</T>
+<T>
+HAMLET
+Whats the problem now?
+</T>
+<T>
+GERTRUDE
+Have you forgotten who I am?
+</T>
+<T>
+HAMLET
+For Gods sake no, I havent. You are the queen, your husbands brothers wife, and you are my mother, though I wish you werent.
+</T>
+<T>
+GERTRUDE
+In that case Ill call in others who can still speak.
+</T>
+<T>
+HAMLET
+No, sit down. You wont budge until I hold a mirror up to you, where you will see whats deep inside you.
+</T>
+<T>
+GERTRUDE
+What are you going to do? You wont kill me, will you? Help!
+</T>
+<T>
+POLONIUS
+(from behind the tapestry) Hey! Help, help, help!
+</T>
+<T>
+HAMLET
+Whats this, a rat? Ill bet a buck hes a dead rat now.
+</T>
+<T>
+POLONIUS
+(from behind the tapestry) Oh, Ive been killed!
+</T>
+<T>
+GERTRUDE
+Oh my God, what have you done?
+</T>
+<T>
+HAMLET
+I dont know. Is it the king?
+</T>
+<T>
+GERTRUDE
+Oh, what a senseless, horrible act!
+</T>
+<T>
+HAMLET
+A horrible actalmost as bad, my good mother, as killing a king and marrying his brother.
+</T>
+<T>
+GERTRUDE
+Killing a king?
+</T>
+<T>
+HAMLET
+Thats what I said, my good woman.
+</T>
+<T>
+You low-life, nosy, busybody fool, goodbye. I thought you were somebody more important. Youve gotten what you deserve. I guess you found out its dangerous to be a busybody. (to GERTRUDE) Stop wringing your hands. Sit down and let me wring your heart instead, which I will do if its still soft enough, if your evil lifestyle has not toughened it against feeling anything at all.
+</T>
+<T>
+GERTRUDE
+What have I done that you dare to talk to me so rudely?
+</T>
+<T>
+HAMLET
+A deed that destroys modesty, turns virtue into hypocrisy, replaces the blossom on the face of true love with a nasty blemish, makes marriage vows as false as a gamblers oathoh, youve done a deed that plucks the soul out of marriage and turns religion into meaningless blather. Heaven looks down on this earth, as angry as if Judgment Day were here, and is sick at the thought of what youve done.
+</T>
+<T>
+GERTRUDE
+Cmon, whats this deed that sounds so awful even before I know what it is?
+</T>
+<T>
+HAMLET
+Look at this picture here, and that one there, the painted images of two brothersHamlet may be referring to miniatures they wear around their necks, or to pictures on the wall.the painted images of two brothers. Look how kind and gentlemanly this one is, with his curly hair and his forehead like a Greek god. His eye could command like the god of war. His body is as agile as Mercury just landing on a high hill.
+A figure and a combination of good qualities that seemed like every god had set his stamp on this man.
+</T>
+<T>
+That was your husband. Now look at this other one. Here is your present husband, like a mildewed ear of corn infecting the healthy one next to it. Do you have eyes? How could you leave the lofty heights of this man here and descend as low as this one? Ha! Do you have eyes? You cannot say you did it out of love, since at your age romantic passions have grown weak, and the heart obeys reason. But what reason could move you from this one to that one? You must have some sense in your head, since youre able to get around, but it seems to be paralyzed, since even if you were crazy you would know the difference between these two men. No one ever went so insane that they couldnt get an easy choice like this one right. What devil was it that blindfolded you? Eyes without feeling, feeling without sight, ears without hands or eyes, smell without anything else, the use of even one impaired sense would not permit such a mistake as yours. Oh, for shame, why arent you blushing? If evil can overtake even an old mothers bones, then let it melt my own. It turns out its no longer shameful to act on impulsenow that the old are doing so, and now that reason is a servant to desire.
+</T>
+<T>
+GERTRUDE
+Oh, Hamlet, stop! Youre making me look into my very soul, where the marks of sin are so thick and black they will never be washed away.
+</T>
+<T>
+HAMLET
+Yes, and you lie in the sweaty stench of your dirty sheets, wet with corruption, making love
+</T>
+<T>
+GERTRUDE
+Oh, you must stop! Your words are like daggers. Please, no more, sweet Hamlet.
+</T>
+<T>
+HAMLET
+A murderer and a villain, a low-life whos not worth a twentieth of a tenth of your first husbandthe worst of kings, a thief of the throne, who took the precious crown from a shelf and put it in his pocket
+</T>
+<T>
+GERTRUDE
+Stop!
+</T>
+<T>
+HAMLET
+A ragtag king
+</T>
+<T>
+Oh, angels in heaven, protect me with your wings!What can I do for you, my gracious lord?
+</T>
+<T>
+GERTRUDE
+Oh no! Hamlets gone completely crazy.
+</T>
+<T>
+HAMLET
+Have you come to scold your tardy son for straying from his mission, letting your important command slip by? Tell me!
+</T>
+<T>
+GHOST
+Dont forget. Ive come to sharpen your somewhat dull appetite for revenge. But look, your mother is in shock. Oh, keep her struggling soul from being overwhelmed by horrid visions. The imagination works strongest in those with the weakest bodies. Talk to her, Hamlet.
+</T>
+<T>
+HAMLET
+How are you doing, madam?
+</T>
+<T>
+GERTRUDE
+And how are you doing, staring into the empty air and talking to nobody? Your eyes give away your wild thoughts, and your hair is standing upright, like soldiers during a call to arms. Oh my dear son, calm yourself and cool off your overheated mind! What are you staring at?
+</T>
+<T>
+HAMLET
+At him, at him! Look how pale he is and how he glares at me. Preaching even at stones, he could get them to act. (to the GHOST) Dont look at me like that, unless you want me to cry instead of kill.
+</T>
+<T>
+GERTRUDE
+Who are you talking to?
+</T>
+<T>
+HAMLET
+You dont see anything?
+</T>
+<T>
+GERTRUDE
+Nothing at all, but I can see everything thats here.
+</T>
+<T>
+HAMLET
+And you dont hear anything?
+</T>
+<T>
+GERTRUDE
+No, nothing but us talking.
+</T>
+<T>
+HAMLET
+Look, look how its sneaking away! My father, dressed just like he was when he was alive!
+Look, hes going out the door right now!
+</T>
+<T>
+GERTRUDE
+This is only a figment of your imagination. Madness is good at creating hallucinations.
+</T>
+<T>
+HAMLET
+Madness? My heart beats just as evenly as yours does. Theres nothing crazy in what Ive just uttered. Put me to the test. Ill rephrase everything Ive just said, which a lunatic couldnt do. Mother, for the love of God, dont flatter yourself into believing that its my madness, not your crime, thats the problem. Youd just be concealing the rot thats eating you from the inside. Confess your sins to heaven. Repent and avoid damnation. Dont spread manure over the weeds in your heart; itll only make them more filthy. Forgive me my good intentions here since in these fat and spoiled times, virtuous people have to say, Beg your pardon to vile ones and beg for the chance to do any good.
+</T>
+<T>
+GERTRUDE
+Oh Hamlet, youve broken my heart in two!
+</T>
+<T>
+HAMLET
+Then throw away the worse half, and live a purer life with the other! Good night to you. But dont go to my uncles bed tonight. At least pretend to be virtuous, even if youre not. Habit is a terrible thing, in that its easy to get used to doing evil without feeling bad about it. But its also a good thing, in that being good can also become a habit.
+Say no to sex tonight, and that will make it easier to say no the next time, and still easier the time after that. Habit can change even ones natural instincts, and either rein in the devil in us, or kick him out. Once again, good night to you, and when you want to repent, Ill ask you for your blessing too. Im sorry about what happened to this gentleman (pointing to POLONIUS), but
+</T>
+<T>
+God wanted to punish me with this murder, and this man with me, so Im both Heavens executioner and its minister of justice. This is bad, but itll get worse soon. Oh, and one other thing, madam.
+</T>
+<T>
+GERTRUDE
+What should I do?
+</T>
+<T>
+HAMLET
+Whatever you do, dont do this: let the fat king seduce you into his bed again, so he can pinch your cheek, call you his bunny, and with filthy kisses and a massage of your neck with his damned fingers, make you admit that my madness is fake, all calculated. What a great idea that would be, because why would a fair, sober, wise queen hide such things from a toad, a pig, a monster like him? Who would do that? No, no, its much, much better to spill the beans right away, let the cat out of the bag, and break your neck in the process.
+</T>
+<T>
+GERTRUDE
+You can rest easy, since words are made of breath, and breathing requires that you be alive. I feel too dead to breathe a word of what youve told me.
+</T>
+<T>
+HAMLET
+I have to go to England, dont you know that?
+</T>
+<T>
+GERTRUDE
+Ah, Id forgotten all about that! Its been decided.
+</T>
+<T>
+HAMLET
+Yes, its a done deal, the documents are ready, and my two schoolmates, whom I trust about as much as rattlesnakes, are in charge. Theyre the ones wholl lead me on my march to mischief. Let it happen. Its fun to watch the engineer get blown up by his own explosives, and with any luck Ill dig a few feet below their bombs and blow them to the moon. Oh, its nice to kill two birds with one stone. (points to POLONIUS) Now that Ive killed this guy, Ill be off in a hurry. Ill lug his guts into the next room. Mother, have a good night. This politician who was in life a babbling idiot is now quiet and serious. Come on, sir, lets get to the end of our business. Good night, mother.
+</T>
+<T>
+CLAUDIUS
+(to GERTRUDE) These deep, heaving sighs of yours mean something. You have to tell me what. I need to know. Wheres your son?
+</T>
+<T>
+GERTRUDE
+(to ROSENCRANTZ and GUILDENSTERN) Let us speak privately awhile, please.
+</T>
+<T>
+Ah, my lord, you wouldnt believe what Ive witnessed tonight!
+</T>
+<T>
+CLAUDIUS
+What, Gertrude? How is Hamlet?
+</T>
+<T>
+GERTRUDE
+As mad as the waves and the wind when they struggle together in a storm. In an insane rage, he hears something behind the tapestry, whips out his sword, shouts, A rat, a rat! and in his deranged state of mind he kills the good old man, who is still hidden.
+</T>
+<T>
+CLAUDIUS
+Oh, this is terrible! It wouldve happened to me if Id been there. His wildness is a threat to all of usto you, to me, to everyone. How will we deal with this violent deed? Im the one who will be blamed for not restraining and confining this mad young man. But I loved him so much I didnt want to think about what I had to do.
+So, like someone suffering from a nasty disease who refuses to divulge his condition and lets it infect him to
+</T>
+<T>
+the core, I kept Hamlets condition secret and let it grow more and more dangerous. Where has he gone?
+</T>
+<T>
+GERTRUDE
+To remove the corpse of the man he killed. His madness allows a glimmering of morality to shine through, like a vein of gold in a chunk of coal. He weeps for what he has done.
+</T>
+<T>
+CLAUDIUS
+Oh, Gertrude, lets go. As soon as the sun sets well ship him off to England. Itll take all my diplomatic know-how to explain and excuse the murder hes committed. Hey, Guildenstern!
+</T>
+<T>
+My friends, go find others to help you. Hamlet in his madness has killed Polonius and dragged him out of his mothers bedroom. Go find him and speak nicely to him, and bring the corpse into the chapel. Please hurry.
+</T>
+<T>
+Come, Gertrude. Well confer with our wisest friends and tell them what were going to do, and what terrible deed has been done already. Lets hope slandera bullet that can travel halfway around the world and still hit its exact targetspares us. Oh, we must go. Im full of confusion and despair.
+</T>
+<T>
+HAMLET
+The body is safely hidden.
+</T>
+<T>
+GENTLEMEN
+(from offstage) Hamlet, Lord Hamlet!
+</T>
+<T>
+HAMLET
+Whats that noise? Whos calling for Hamlet? Oh, here they come.
+</T>
+<T>
+ROSENCRANTZ
+What have you done with the corpse, my lord?
+</T>
+<T>
+HAMLET
+Ive gotten it dirtyashes to ashes, and dust to dust.
+</T>
+<T>
+ROSENCRANTZ
+But tell us where it is, so we can take it to the chapel.
+</T>
+<T>
+HAMLET
+Dont believe it.
+</T>
+<T>
+ROSENCRANTZ
+Believe what?
+</T>
+<T>
+HAMLET
+That Id take your advice rather than keep my own secret. Besides, youre a sponge! What is the son of a king supposed to say to a sponge?
+</T>
+<T>
+ROSENCRANTZ
+You think Im a sponge, my lord?
+</T>
+<T>
+HAMLET
+Yes, sir, a sponge that soaks up the kings approval, his rewards, and his decisions. Officers like that give the king the best service in the end. He keeps them in his mouth like an ape. First he moves them around, then he swallows them. When he needs what you have found out, he can just squeeze you like a sponge and youll be dry again.
+</T>
+<T>
+ROSENCRANTZ
+I dont follow, my lord.
+</T>
+<T>
+HAMLET
+Im glad about that. Sly words are never understood by fools.
+</T>
+<T>
+ROSENCRANTZ
+My lord, you have to tell us where the body is, and then go with us to see the king.
+</T>
+<T>
+HAMLET
+The bodys with the king, but the kings not with the body. The kings a thing
+</T>
+<T>
+GUILDENSTERN
+A thing, my lord?
+</T>
+<T>
+HAMLET
+A thing of no importance. Take me to him. Ready or not, here I come!
+</T>
+<T>
+CLAUDIUS
+Ive sent men to find him and retrieve the body. How dangerous to have this madman on the loose! But we cant throw him in jail. The people love him, because they judge based on appearance rather than reason. Theyll pay attention to the severity of the punishment, not the severity of the crime. No, we must seem calm and fair-minded, and our sending him away must seem like a carefully considered move. But a terminal disease requires extreme treatment, or nothing at all.
+</T>
+<T>
+So whats happened?
+</T>
+<T>
+ROSENCRANTZ
+We cant get him to tell us where hes put the body.
+</T>
+<T>
+CLAUDIUS
+But where is he?
+</T>
+<T>
+ROSENCRANTZ
+Outside, my lord, under guard, waiting for your orders.
+</T>
+<T>
+CLAUDIUS
+Bring him to me.
+</T>
+<T>
+ROSENCRANTZ
+Hey, Guildenstern! Bring in my lord.
+</T>
+<T>
+CLAUDIUS
+Now, Hamlet, wheres Polonius?
+</T>
+<T>
+HAMLET
+At dinner.
+</T>
+<T>
+CLAUDIUS
+At dinner where?
+</T>
+<T>
+HAMLET
+Not where hes eating, but where hes being eaten. A certain conference of wormsHamlet is punning on a famous event in European history, the Diet of Worms, which was a gathering convened by the Holy Roman Emperor in 1521.conference of worms is chowing down on him. Worms are the emperor of all diets. We fatten up all creatures to feed ourselves, and we fatten ourselves for the worms to eat when were dead. A fat king and a skinny beggar are just two dishes at the same meal. Thats all I have to say.
+</T>
+<T>
+CLAUDIUS
+Oh no, oh no!
+</T>
+<T>
+HAMLET
+A man can fish with the worm that ate a king, and then eat the fish he catches with that worm.
+</T>
+<T>
+CLAUDIUS
+What do you mean by that?
+</T>
+<T>
+HAMLET
+Nothing much, just to demonstrate that a king can move through the bowels of a beggar.
+</T>
+<T>
+CLAUDIUS
+Where is Polonius?
+</T>
+<T>
+HAMLET
+In heaven. Send a messager there if you want to be sure. If your messenger cant find him, you can check hell yourself. But seriously, if you dont find him within the next month, youll be sure to smell him as you go upstairs into the main hall.
+</T>
+<T>
+CLAUDIUS
+(to attendants) Go look for him there.
+</T>
+<T>
+HAMLET
+No need to hurry, hes not going anywhere.
+</T>
+<T>
+CLAUDIUS
+Hamlet, I care for you just as much as I grieve for Polonius. For your own protection, I must send you to England at once. So get ready to leave. The ship is set to sail, the wind is favorable, your servants are waiting for youeverything is ready for you to go to England.
+</T>
+<T>
+HAMLET
+To England?
+</T>
+<T>
+CLAUDIUS
+Yes, Hamlet.
+</T>
+<T>
+HAMLET
+Good.
+</T>
+<T>
+CLAUDIUS
+Yes, youd think so, if you knew why I was sending you.
+</T>
+<T>
+HAMLET
+I know an angel who can read your mind. But okay, off to England! Good-bye, dear mother.
+</T>
+<T>
+CLAUDIUS
+Im your father, Hamletyour father who loves you.
+</T>
+<T>
+HAMLET
+Youre my mother. When you married my mother, the two of you became one flesh, so if youre my father youre also my mother. Come on, off to England!
+</T>
+<T>
+CLAUDIUS
+Follow him on foot, and get him on board as quickly as possible. Dont waste any time. I want him out of here tonight. Go now; everything else is ready. Please hurry.
+</T>
+<T>
+And you, dear king of England, if you care about me at alland you should, since you can still feel the damage that Denmark has done to you in the past and, so, fear and respect usthen you wont ignore my letters instructing you to kill Hamlet immediately. Do it,
+</T>
+<T>
+English king, since hes raging like a fever in my brain, and you must cure me. Until I know its been done, Ill never be happy, no matter how much luck I have.
+</T>
+<T>
+FORTINBRAS
+Go, Captain, and give the Danish king my greetings. Tell him that Fortinbras asks permission to move his troops across Denmark. You know the meeting place weve arranged. If His Majesty wants us to do any favor for him, tell him his wish is my command.
+</T>
+<T>
+CAPTAIN
+Ill tell him, my lord.
+</T>
+<T>
+FORTINBRAS
+Go ahead, then.
+</T>
+<T>
+HAMLET
+Sir, whose troops are these?
+</T>
+<T>
+CAPTAIN
+The king of Norways, sir.
+</T>
+<T>
+HAMLET
+What are they doing here, sir?
+</T>
+<T>
+CAPTAIN
+Theyre on their way to invade some part of Poland.
+</T>
+<T>
+HAMLET
+Whos commanding them, sir?
+</T>
+<T>
+CAPTAIN
+The nephew of the old king of Norway, Fortinbras.
+</T>
+<T>
+HAMLET
+Is he attacking the heartland of Poland or some frontier?
+</T>
+<T>
+CAPTAIN
+To tell the truth, were fighting to win a little patch of ground thats not worth anything. I myself wouldnt pay five ducats for it, if someone offered it to me to farm. And it wont provide any more profits than that to either the Norwegian or the Pole.
+</T>
+<T>
+HAMLET
+So then the Poles wont be willing to defend it.
+</T>
+<T>
+CAPTAIN
+Oh, yes they will. Theyve already stationed troops there.
+</T>
+<T>
+HAMLET
+(to himself) Even two thousand men and twenty-thousand ducats are just the beginning of what it will cost to settle this pointless matter. This is what happens when countries have too much money and peace. This quarrel is like an abcess that grows inside someone until it bursts and kills them, and no one knows why. (to the CAPTAIN) Thank you very much for the information, sir.
+</T>
+<T>
+CAPTAIN
+Good-bye, sir.
+</T>
+<T>
+ROSENCRANTZ
+Will you please come now, my lord?
+</T>
+<T>
+HAMLET
+Ill be there in a minute. Start without me.
+</T>
+<T>
+My God! Everything I see shows me how wrong I am and tells me to hurry up and get on with my revenge. What is a human being if he just eats and sleeps? Nothing more than a beast. God didnt create us with such a huge power of thought and a divine capacity for reason in order for us not to use them. Now, whether its animal-like mindlessness, or the cowardly hesitation
+</T>
+<T>
+that comes from thinking too much (thinking thoughts that are one part wisdom, three parts cowardice), I dont know why Im still alive to say I have to do this deed rather than having done it already. I have the motivation, the willpower, the ability, and the means to do it. Its as plain as the ground beneath my feet that I must do it. Look at this massive army led by a delicate and tender prince whos so puffed up with divine ambition that he puts his fragile life at risk, exposing it to danger and death, for a reason as thin as an eggshell. To be truly great doesnt mean youd only fight for a good reason. It means youd fight over nothing if your honor was at stake. So where does that leave me, whose father has been murdered and mother defiled, ignoring these mental and emotional provocations and letting well enough alone? Meanwhile, to my shame, I watch twenty thousand men go marching to their deaths for an illusion and a little bit of fame, fighting for a tiny piece of land not even big enough to bury them all. From now on, if my thoughts arent violent Ill consider them worthless.
+</T>
+<T>
+GERTRUDE
+I wont speak to her.
+</T>
+<T>
+GENTLEMAN
+Shes insistent. In fact, shes crazed. You cant help feeling sorry for her.
+</T>
+<T>
+GERTRUDE
+What does she want?
+</T>
+<T>
+GENTLEMAN
+She talks about her father a lot, and says she hears there are conspiracies around the world, and coughs, and beats her breast, and gets angry over tiny matters, and talks nonsense. Her words dont mean anything, but her babbling causes her listeners to draw conclusions. They hear what they want to hear. Her winks and nods and gestures do suggest that she means to convey a message, and not a happy one.
+</T>
+<T>
+HORATIO
+Its a good idea to speak to her, since she might lead those with evil intentions to dangerous conclusions.
+</T>
+<T>
+GERTRUDE
+Show her in.
+</T>
+<T>
+(to herself) To my sick soul (since sin is always a sickness), every detail looks like an omen of disaster to come. Guilt makes you so full of stupid suspicions that you give yourself away because youre trying so hard not to.
+</T>
+<T>
+OPHELIA
+Where is the beautiful queen of Denmark?
+</T>
+<T>
+GERTRUDE
+What are you doing, Ophelia?
+</T>
+<T>
+OPHELIA
+(sings)
+How can you tell the difference
+Between your true lover and some other?
+Your true one wears a pilgrims hat
+And a pilgrims sandals and staff.
+</T>
+<T>
+GERTRUDE
+Oh heavens, what does that song mean, my dear?
+</T>
+<T>
+OPHELIA
+Im sorry, did you say something? Please just listen.
+(sings)
+He is dead and gone, lady,
+He is dead and gone.
+At his head is a patch of green grass,
+And at his feet there is a tomb stone.
+Oh, ho!
+</T>
+<T>
+GERTRUDE
+No, Ophelia
+</T>
+<T>
+OPHELIA
+Just listen, please.
+(sings)
+His death shroud was as white as snow
+</T>
+<T>
+GERTRUDE
+My lord, look at this poor girl.
+</T>
+<T>
+OPHELIA
+(sings)
+Covered with sweet flowers
+Which did not fall to the ground
+In true-love showers.
+</T>
+<T>
+CLAUDIUS
+How are you doing, my pretty lady?
+</T>
+<T>
+OPHELIA
+Im quite well, and may God give you what you deserve. They say the bakers daughter was turned into an owl for refusing Jesus' bread. My lord, we know what we are now, but not what we may become. May God be at your table.
+</T>
+<T>
+CLAUDIUS
+Shes talking about her dead father.
+</T>
+<T>
+OPHELIA
+Oh, lets not talk about that, but when they ask you what it means, just say:
+(sings)
+Tomorrow is St. Valentines Day
+And early in the morning
+Im a girl below your window
+Waiting to be your Valentine.
+Then he got up and put on his clothes
+And opened the door to his room.
+He let in the girl, and when she left
+She wasnt a virgin anymore.
+</T>
+<T>
+CLAUDIUS
+Pretty Ophelia
+</T>
+<T>
+OPHELIA
+Hang on, Ill end it soon, I promise:
+(sings)
+By the name of Jesus and Saint Charity,
+My goodness, what a shame it is,
+Young men will do it if they get a chance:
+By God, theyre very bad.
+She said, Before you got me into bed,
+You promised to marry me.
+He answers:
+I would have married you, I swear,
+If you hadnt gone to bed with me.
+</T>
+<T>
+CLAUDIUS
+How long has she been like this?
+</T>
+<T>
+OPHELIA
+I hope everything will turn out fine. We must be patient, but I cant help crying when I think of him being laid in the cold ground. My brother will hear about this. And so I thank you for your good advice. Come, driver! Good night, ladies, good night, sweet ladies, good night, good night.
+</T>
+<T>
+CLAUDIUS
+Follow her. Keep an eye on her, please.
+</T>
+<T>
+Oh, her grief has poisoned her mind. Her father died and now look at her! Oh, Gertrude, Gertrude, when bad things happen, they dont come one at a time, like enemy spies, but all at once like an army. First her father was killed, then your son was taken awaybecause of his own violent actions. The people are confused and spreading nasty rumors about Poloniuss death, and I was a fool to bury him in a hurry, without a proper state funeral. Poor Ophelia has been robbed of her sanity, without which were just pictures, or animals. Last but not least, her brother has secretly returned from France and is surrounded by gossip-mongers, who fill his ears with wicked stories about his fathers death. Deprived of proper evidence, hell naturally attribute the murder to me. Oh, dear Gertrude, I feel as though Im being murdered many times over.
+</T>
+<T>
+GERTRUDE
+Oh, nowhats that noise?
+</T>
+<T>
+CLAUDIUS
+Listen! Where are my bodyguards? Let them guard the door.
+</T>
+<T>
+What is it?
+</T>
+<T>
+MESSENGER
+You must save yourself, my lord. The young Laertes, like the ocean when it floods the shore and devours the lowlands, is leading a rebellion against your government. The crowd calls him lord and shouts, We want Laertes to be king! Its as if they were starting the world from scratch right now, throwing out the traditions and ancient customs that are the support of every word we utter. They throw their caps in the air and yell, Laertes will be king! Laertes king!
+</T>
+<T>
+GERTRUDE
+They sound so cheerful as they hunt down the wrong prey! Oh, youre on the wrong track, you disloyal Danish dogs!
+</T>
+<T>
+CLAUDIUS
+The doors have been smashed open.
+</T>
+<T>
+LAERTES
+Wheres this so-called king? Men, wait outside.
+</T>
+<T>
+ALL
+No, let us in!
+</T>
+<T>
+LAERTES
+Please wait.
+</T>
+<T>
+ALL
+All right, we will, we will.
+</T>
+<T>
+LAERTES
+Thank you. Guard the door. (to CLAUDIUS) Oh, you vile king, give me my father!
+</T>
+<T>
+GERTRUDE
+Calm down, good Laertes.
+</T>
+<T>
+LAERTES
+Ive got exactly one calm drop of blood in my body, and it proclaims that Im a bastardLaertes suggests that since he hasnt yet punished his fathers murderer, he must not be his real son.Im a bastard, says my father was betrayed, and stamps the label whore on the pure forehead of my devoted mother.
+</T>
+<T>
+CLAUDIUS
+Laertes, what makes you so rebellious? Let him go, Gertrude. Dont worry about my getting hurt. God protects the king, so traitors cant hurt him.Tell me, Laertes, why youre so angry.Gertrude, let him go.Tell me, man.
+</T>
+<T>
+LAERTES
+Wheres my father?
+</T>
+<T>
+CLAUDIUS
+Hes dead.
+</T>
+<T>
+GERTRUDE
+But the king didnt kill him.
+</T>
+<T>
+CLAUDIUS
+Let him ask what he wants to ask.
+</T>
+<T>
+LAERTES
+How did he end up dead? Dont mess with me. To hell with my vows of allegiance to you! Vows can go to hell! Conscience, too! I dont care if Im damned. I dont care what happens to me in this world or the next. Whatever happens, happens, but Ill get revenge for my fathers murder.
+</T>
+<T>
+CLAUDIUS
+Whos stopping you?
+</T>
+<T>
+LAERTES
+Only my free willnothing else. What little means I have, Ill use against you.
+</T>
+<T>
+CLAUDIUS
+My dear Laertes, in your eagerness to know the truth about your fathers death, are you determined to hurt your fathers friends and enemies alike?
+</T>
+<T>
+LAERTES
+No, only his enemies.
+</T>
+<T>
+CLAUDIUS
+Do you want to know who they are, then?
+</T>
+<T>
+LAERTES
+Ill open my arms wide to his true friends, and like a mother pelicanPelicans were believed to feed their young with their own blood.pelican with her brood, Ill even give my life for them.
+</T>
+<T>
+CLAUDIUS
+Why, now youre talking like a good son and a true gentleman. Ill prove to you as clearly as daylight that Im innocent of your fathers death, and am struck with grief over it.
+</T>
+<T>
+LAERTES
+Whats that noise?
+</T>
+<T>
+Oh, heat, dry up my brains! Salty tears, burn my eyes! By heaven, Ill get revenge for your madness! Oh, you springtime rose, dear maiden, kind sister, sweet Ophelia! Is it possible that a young womans mind could fade away as easily as an old mans life? Human nature is refined and thoughtfulperson graciously gives a valuable part of herself away to her beloved, as Ophelia has sent off her sanity to her dead father.
+</T>
+<T>
+OPHELIA
+(sings)
+They carried him uncovered in the coffin,
+Hey non nonny, nonny, hey nonny.
+And tears poured down into his grave.
+Good-bye, honey.
+</T>
+<T>
+LAERTES
+If you were sane and could urge me to take revenge, you couldnt be more persuasive than you are now.
+</T>
+<T>
+OPHELIA
+Youre supposed to sing, A down a-down, and you, Call him a-down-a. Oh, how it turns around like a wheel! Like the worker who stole his bosss daughter.
+</T>
+<T>
+LAERTES
+This nonsense means more than rational speech.
+</T>
+<T>
+OPHELIA
+Look at my flowers. Theres rosemary, thats for remembering. Please remember, love. And there are pansies, theyre for thoughts.
+</T>
+<T>
+LAERTES
+A case study in madness, to connect memory and thought.
+</T>
+<T>
+OPHELIA
+(to GERTRUDE ) Here are fennel and columbines for youthey symbolize adultery. (to CLAUDIUS) And heres rue for youit symbolizes repentance. We can call it the merciful Sunday flower. You should wear it for a different reason. And heres a daisy, for unhappy love. Id give you some violets, flowers of faithfulness, but they all dried up when my father died. They say he looked good when he died. (sings) For good sweet Robin is all my joy.
+</T>
+<T>
+LAERTES
+Sadness and torment, suffering, hell itselfshe makes them almost pretty.
+</T>
+<T>
+OPHELIA
+(sings)
+And wont he come again?
+And wont he come again?
+No, no, hes dead.
+Go to your deathbed.
+Hell never come again.
+His beard was white as snow,
+His hair was all white too.
+Hes gone, hes gone,
+And we moan as were cast away.
+God have mercy on his soul.
+And on the souls of all good Christians, I hope. Goodbye, God be with you.
+</T>
+<T>
+LAERTES
+Do you see this, oh, God?
+</T>
+<T>
+CLAUDIUS
+Laertes, I have a right to share your grief. Go choose your wisest friends, and have them listen to both of us and decide which of us is right. If directly or indirectly they find me implicated in your fathers murder, Ill give up my kingdom, my crown, my life, and everything I call my own to you as restitution. But if they find me innocent, then be patient and Ill work to satisfy to the fullest extent your deepest need for revenge.
+</T>
+<T>
+LAERTES
+All right, then. The way he died, his secret funeral, no funeral rites or military display, no noble rites or formal ceremonyshout out from heaven and earth that I must call the way he died into question.
+</T>
+<T>
+CLAUDIUS
+And youre right to do so. May the guilty party be punished by death. Please, come with me.
+</T>
+<T>
+HORATIO
+Who are the people who want to speak with me?
+</T>
+<T>
+SERVANT
+Sailors, sir. They say they have letters for you.
+</T>
+<T>
+HORATIO
+Show them in.
+</T>
+<T>
+I dont know who else would send me a letter from abroad except Hamlet.
+</T>
+<T>
+SAILOR
+Hello, sir. God bless you.
+</T>
+<T>
+HORATIO
+May He bless you, too.
+</T>
+<T>
+SAILOR
+He will, sir, if He wants to. Theres a letter for you, sir. Its from the ambassador, Lord Hamlet, who was going to Englandif your names Horatio, as they told me it is. (he hands HORATIO a letter)
+</T>
+<T>
+HORATIO
+(reading the letter)
+Horatio,
+When youve read this letter, find a way to let these guys see the king. They have letters for him. Before we were at sea for even two days, a pirate ship equipped for battle pursued us. We were too slow to escape, so we were forced to stand and fight. In the battle that followed I ended up on the pirate ship. Just then they left our ship behind, so I became the only prisoner on board. Theyve treated me quite mercifully for thieves, but they knew what they were doing. They want me to do a favor for them.
+</T>
+<T>
+Give the king the letters Ive sent, and come to me as fast as you would run from death. Ive got things to tell you that will make you speechless, and they arent even half the story. These guys will take you to me. Rosencrantz and Guildenstern are on their way to England. I have a lot to tell you about them. Good-bye.
+Your trusted friend,
+Hamlet.
+Come, men. Ill show you where to deliver these letters as quickly as possible, so that you can take me to the man who sent them.
+</T>
+<T>
+CLAUDIUS
+Now youve got to acknowledge my innocence and believe Im your friend, since youve heard and understood that the man who killed your father was trying to kill me.
+</T>
+<T>
+LAERTES
+It looks that way. But tell me why you didnt take immediate action against his criminal acts, when your own safety and everything else would seem to call for it.
+</T>
+<T>
+CLAUDIUS
+Oh, for two main reasons which may seem weak to you, but strong to me. The queen, his mother, is devoted to him. And (for better or worse, whichever it is) she is such a part of my life and soul that I cant live apart from her, any more than a planet can leave its orbit. The other reason why I couldnt prosecute and arrest Hamlet is that the public loves him. In their affection they overlook all his faults. Like magic, they convert them into virtues, so whatever I said against him would end up hurting me, not him.
+</T>
+<T>
+LAERTES
+And so Ive lost my noble father, had my sister driven insanemy sister who once was (if I can praise her for what she once was, not what she is now) the most perfect girl who ever lived. But Ill get my revenge.
+</T>
+<T>
+CLAUDIUS
+Dont you worry about that. You must not think that Im so lazy and dull that I can be severely threatened and think its just a game. Youll hear more about my plans soon enough. I loved your father, and I love myself, which should be enough to
+</T>
+<T>
+What is it? Whats the news?
+</T>
+<T>
+MESSENGER
+Letters, my lord, from Hamlet. This ones for Your Highness, this one for the queen. (gives CLAUDIUS letters)
+</T>
+<T>
+CLAUDIUS
+From Hamlet? Who delivered them?
+</T>
+<T>
+MESSENGER
+Sailors, my lord, or so they say. I didnt see them. Claudio gave them to me, and he got them from the one who delivered them.
+</T>
+<T>
+CLAUDIUS
+Laertes, I want you to hear what they say. Leave us alone now.
+</T>
+<T>
+(reads)
+High and Mighty one,
+You know Ive been set down naked, you might say, in your kingdom. Tomorrow Ill beg permission to look into your kingly eyes, at which point Ill tell you the story (after first apologizing) of how I came back to Denmark so strangely and suddenly.
+Hamlet
+</T>
+<T>
+What does this mean? Has everyone else come back too? Or is it all a lieand no one has yet returned?
+</T>
+<T>
+LAERTES
+Do you recognize the handwriting?
+</T>
+<T>
+CLAUDIUS
+Its Hamlets writing. Naked, he says. And in a P.S. he adds, alone. Can you help me out with this?
+</T>
+<T>
+LAERTES
+I have no clue, my lord. But let him come. It warms my weary heart to think Ill get the chance to look him in the eye and say, You did this.
+</T>
+<T>
+CLAUDIUS
+If thats how you feel, Laertesand why shouldnt you? Will you let me guide and direct you?
+</T>
+<T>
+LAERTES
+Yes, my lord, as long as you wont lead me toward peace.
+</T>
+<T>
+CLAUDIUS
+No, just toward your own peace of mind. If hes come back to Denmark without plans to continue on his trip, then Ill trick him into an undertaking, which Im working out now, thats sure to kill him. When he dies, no one will be blamed, even his mother will call it an accident.
+</T>
+<T>
+LAERTES
+My lord, Ill let you make the decision. I only ask to be in on your plans, the agent of his death.
+</T>
+<T>
+CLAUDIUS
+Thatll be fine. Since you left, people have been talking aboutand within earshot of Hamleta certain quality of yours in which, they say, you shine. All your talents and gifts didnt arouse as much envy from him as this one quality did, though to me its far from your best attribute.
+</T>
+<T>
+LAERTES
+What quality is that, my lord?
+</T>
+<T>
+CLAUDIUS
+A trivial little ribbon on the cap of youthyet an important one, too, since casual clothes suit young people as much as serious business suits and overcoats suit the middle-aged. Two months ago I met a gentleman from Normandy. Ive fought against the French and have seen how well they ride, but this man was a magician on horseback. It was as if he were part of the horse, so skillful that even having seen him, I can hardly conceive of the tricks he did.
+</T>
+<T>
+LAERTES
+Hmm, he was from Normandy, you say?
+</T>
+<T>
+CLAUDIUS
+Yes, from Normandy.
+</T>
+<T>
+LAERTES
+I bet it was Lamond.
+</T>
+<T>
+CLAUDIUS
+Yes, thats the one.
+</T>
+<T>
+LAERTES
+I know him well. Hes his homelands jewel.
+</T>
+<T>
+CLAUDIUS
+He mentioned you to me, giving you such high marks in fencing that he exclaimed it would be a miracle if someone could match you. French fencers wouldnt be good enough for you, he said, since they dont have the right moves or skills. Hamlet was so jealous when he heard Lamonds report that he talked about nothing else but having you come over and play against him. Now, the point is
+</T>
+<T>
+LAERTES
+Whats the point, my lord?
+</T>
+<T>
+CLAUDIUS
+Laertes, did you love your father? Or is your grief just an illusiona mere painting of sorrow?
+</T>
+<T>
+LAERTES
+How could you ask?
+</T>
+<T>
+CLAUDIUS
+Not that I suspect you didnt love your father, but Ive seen it happen that, as the days go by, time dampens the flame of love. The fire of love always burns itself out, and nothing stays the way it began. Even a good thing can grow too big and die from its own excess. We should do what we intend to do right when we intend it, since our intentions are subject to as many weakenings and delays as there are words in the dictionary and accidents in life. And then all our woulds and shoulds are nothing but hot air. But back to my point:
+
+Hamlets coming back. What proof will you offerin action, not just wordsthat youre your fathers son?
+</T>
+<T>
+LAERTES
+Ill cut Hamlets throat in church.
+</T>
+<T>
+CLAUDIUS
+Its true, no placenot even a churchshould offer refuge to that murderer. Revenge should have no limits. But Laertes, will you do this: stay in your room? When Hamlet comes home hell learn youre here. Ill have people praise your excellence and put a double coat on the fame the Frenchman gave you. In short, well get you together and place bets on you. Hamlets so careless, high-minded, and unsuspecting that he wont examine the swords beforehand, so you can easily choose one with a sharpened point and in one thrust avenge the death of your father.
+</T>
+<T>
+LAERTES
+Ill do it, and Ill put a little dab of something on my sword as well. From a quack doctor I bought some oil so poisonous that if you dip a knife in it, no medicine in the world can save the person whos scratched by it. If I even graze his skin slightly, hes likely to die.
+</T>
+<T>
+CLAUDIUS
+Lets think about this, and consider what time and what method will be most appropriate. If our plan were to fail, and people found out about it, it would be better never to have tried it.
+We should have a backup ready in case the first plan doesnt work. Let me think. Well place bets on you and Hamletthats it! When the two of you have gotten all sweaty and hotkeep him jumping around a lot for that purposeHamlet will ask for something to drink. Ill have a cup ready for him. If by chance he
+</T>
+<T>
+escapes your poisoned sword tip, the drink will kill him. But wait, whats that sound?
+</T>
+<T>
+GERTRUDE
+The bad news just keeps on coming, one disaster after another. Your sisters drowned, Laertes.
+</T>
+<T>
+LAERTES
+Drowned? Oh, where?
+</T>
+<T>
+GERTRUDE
+Theres a willow that leans over the brook, dangling its white leaves over the glassy water. Ophelia made wild wreaths out of those leaves, braiding in crowflowers, thistles, daisies, and the orchises that vulgar shepherds have an obscene name for, but which pure-minded girls call dead mens fingers. Climbing into the tree to hang the wreath of weeds on the hanging branches, she and her flowers fell into the gurgling brook. Her clothes spread out wide in the water, and buoyed her up for a while as she sang bits of old hymns, acting like someone who doesnt realize the danger shes in, or like someone completely accustomed to danger. But it was only a matter of time before her clothes, heavy with the water they absorbed, pulled the poor thing out of her song, down into the mud at the bottom of the brook.
+</T>
+<T>
+LAERTES
+So she is drowned.
+</T>
+<T>
+GERTRUDE
+Drowned, drowned.
+</T>
+<T>
+LAERTES
+Youve had too much water already, poor Ophelia, so I wont shed watery tears for you. But crying is what humans do. We do whats in our nature, even if were ashamed of it. After I stop crying Ill be through acting like a woman. Good-bye, my lord. I have some fiery words I could speak now, but my foolish tears are drowning them out.
+</T>
+<T>
+CLAUDIUS
+Lets follow him, Gertrude. I worked so hard to calm him down, and now Im worried hes getting all excited again. Lets follow him.
+</T>
+<T>
+GRAVEDIGGER
+Are they really going to give her a Christian burial after she killed herself?In Shakespeares time, people who committed suicide were not given a Christian burial.after she killed herself?
+</T>
+<T>
+OTHER
+Im telling you, yes. So finish that grave right away. The coroner examined her case and says it should be a Christian funeral.
+</T>
+<T>
+GRAVEDIGGER
+But how, unless she drowned in self-defense?
+</T>
+<T>
+OTHER
+Thats what theyre saying she did.
+</T>
+<T>
+GRAVEDIGGER
+Sounds more like self-offense, if you ask me. What Im saying is, if she knew she was drowning herself, then thats an act. An act has three sides to it: to do, to act, and to perform. Therefore she must have known she was drowning herself.
+</T>
+<T>
+OTHER
+No, listen here, gravedigger sir
+</T>
+<T>
+GRAVEDIGGER
+Let me finish. Heres the water, right? And heres a man, okay? If the man goes into the water and drowns himself, hes the one doing it, like it or not. But if the water comes to him and drowns him, then he doesnt drown himself. Therefore, he who is innocent of his own death does not shorten his own life.
+</T>
+<T>
+OTHER
+Is that how the law sees it?
+</T>
+<T>
+GRAVEDIGGER
+It sure is. The coroners inquest law.
+</T>
+<T>
+OTHER
+Do you want to know the truth? If this woman hadnt been rich, she wouldnt have been given a Christian burial.
+</T>
+<T>
+GRAVEDIGGER
+Well there, now youve said it. Its a pity that the rich have more freedom to hang or drown themselves than the rest of us Christians. Come on, shovel. The most ancient aristocrats in the world are gardeners, ditch-diggers, and gravediggers. They keep up Adams profession.
+</T>
+<T>
+OTHER
+Was he an aristocrat? With a coat of arms?
+</T>
+<T>
+GRAVEDIGGER
+He was the first person who ever had arms.
+</T>
+<T>
+OTHER
+He didnt have any.
+</T>
+<T>
+GRAVEDIGGER
+What, arent you a Christian? The Bible says Adam dug in the ground. How could he dig without arms? Ill ask you another question. If you cant answer it
+</T>
+<T>
+OTHER
+Go ahead!
+</T>
+<T>
+GRAVEDIGGER
+What do you call a person who builds stronger things than a stonemason, a shipbuilder, or a carpenter does?
+</T>
+<T>
+OTHER
+The one who builds the gallows to hang people on, since his structure outlives a thousand inhabitants.
+</T>
+<T>
+GRAVEDIGGER
+Youre funny, and I like that. The gallows do a good job. But how? It does a good job for those who do bad.
+</T>
+<T>
+Now, its wrong to say that the gallows are stronger than a church. Therefore, the gallows may do you some good. Come on, your turn.
+</T>
+<T>
+OTHER
+Lets see, Who builds stronger things than a stonemason, a shipbuilder, or a carpenter?
+</T>
+<T>
+GRAVEDIGGER
+Thats the question, so answer it.
+</T>
+<T>
+OTHER
+Ah, Ive got it!
+</T>
+<T>
+GRAVEDIGGER
+Go ahead.
+</T>
+<T>
+OTHER
+Damn, I forgot.
+</T>
+<T>
+GRAVEDIGGER
+Dont beat your brains out over it. You cant make a slow donkey run by beating it. The next time someone asks you this riddle, say a gravedigger. The houses he makes last till Judgment Day. Now go and get me some booze.
+</T>
+<T>
+(the GRAVEDIGGER digs and sings)
+In my youth I loved, I loved,
+And I thought it was very sweet
+To setohhthe date forahhmy duty
+Oh, I thought itahhwas not right.
+</T>
+<T>
+HAMLET
+Doesnt this guy realize what hes doing? Hes singing while digging a grave.
+</T>
+<T>
+HORATIO
+Hes gotten so used to graves that they dont bother him anymore.
+</T>
+<T>
+HAMLET
+Yes, exactly. Only people who dont have to work can afford to be sensitive.
+</T>
+<T>
+GRAVEDIGGER
+(sings)
+But old age has sneaked up on me
+And grabbed me in his claws,
+And has shipped me into the ground
+As if Id never been like that.
+(he throws up a skull)
+</T>
+<T>
+HAMLET
+That skull had a tongue in it once and could sing. That jackass is throwing it around as if it belonged to Cain, who did the first murder! It might be the skull of a politician once capable of talking his way around God, right? And now this idiot is pulling rank on him.
+</T>
+<T>
+HORATIO
+Indeed, my lord.
+</T>
+<T>
+HAMLET
+Or a courtier, who could say things like, Good night, my sweet lord! How are you doing, good lord? This might be the skull of Lord So-and-So, who praised Lord Such-and-Suchs horse when he wanted to borrow it, right?
+</T>
+<T>
+HORATIO
+Yes, my lord.
+</T>
+<T>
+HAMLET
+Exactly. And now its the property of Lady Worm, its lower jaw knocked off and thwacked on the noggin with a shovel. Thats quite a reversal of fortune, isnt it, if we could only see it? Are these bones worth nothing more than bowling pins now? It makes my bones ache to think about it.
+</T>
+<T>
+GRAVEDIGGER
+(sings)
+A pickax and a shovel, a shovel,
+And a sheet for a funeral shroud,
+Oh, a pit of dirt is what we need
+For a guest like this one here.
+(he throws up another skull)
+</T>
+<T>
+HAMLET
+Theres another. Could that be a lawyers skull? Wheres all his razzle-dazzle legal jargon now? Why does he allow this idiot to knock him on the head with a dirty shovel, instead of suing him for assault and battery? Maybe this guy was once a great landowner, with his deeds and contracts, his tax shelters and his annuities. Is it part of his deed of ownership to have his skull filled up with dirt? Does he only get to keep as much land as a set of contracts would cover if you spread them out on the ground? The deeds to his properties would barely fit in this coffinand the coffins all the property he gets to keep?
+</T>
+<T>
+HORATIO
+No more than that, my lord.
+</T>
+<T>
+HAMLET
+Isnt the parchment of a legal document made of sheepskin?
+</T>
+<T>
+HORATIO
+Yes, my lord, and calfskin too.
+</T>
+<T>
+HAMLET
+Anyone who puts his trust in such documents is a sheep or a calf. Ill talk to this guy.Excuse me, sir, whose grave is this?
+</T>
+<T>
+GRAVEDIGGER
+Its mine, sir.
+</T>
+<T>
+(sings)
+Oh, a pit of dirt is what we need
+For a guest like this one here.
+</T>
+<T>
+HAMLET
+I think it really must be yours, since youre the one lying in it.
+</T>
+<T>
+GRAVEDIGGER
+And youre lying outside of it, so its not yours. As for me, Im not lying to you in itits really mine.
+</T>
+<T>
+HAMLET
+But you are lying in it, being in it and saying its yours. Its for the dead, not the living. So youre lying.
+</T>
+<T>
+GRAVEDIGGER
+Thats a lively lie, sirit jumps so fast from me to you.
+</T>
+<T>
+HAMLET
+What man are you digging it for?
+</T>
+<T>
+GRAVEDIGGER
+For no man, sir.
+</T>
+<T>
+HAMLET
+What woman, then?
+</T>
+<T>
+GRAVEDIGGER
+For no woman, either.
+</T>
+<T>
+HAMLET
+Whos to be buried in it?
+</T>
+<T>
+GRAVEDIGGER
+One who used to be a woman butbless her soulis dead now.
+</T>
+<T>
+HAMLET
+How literal this guy is! We have to speak precisely, or hell get the better of us with his wordplay. Lord, Horatio, Ive been noticing this for a few years now. The peasants have become so clever and witty that theyre nipping at the heels of noblemen.How long have you been a gravedigger?
+</T>
+<T>
+GRAVEDIGGER
+Of all the days in the year, I started the day that the late King Hamlet defeated Fortinbras.
+</T>
+<T>
+HAMLET
+How long ago was that?
+</T>
+<T>
+GRAVEDIGGER
+You dont know that? Any fool could tell you, it was the day that young Hamlet was bornthe one who went crazy and got sent off to England.
+</T>
+<T>
+HAMLET
+Why was he sent to England?
+</T>
+<T>
+GRAVEDIGGER
+Because he was crazy. Hell recover his sanity there. Or if he doesnt, it wont matter in England.
+</T>
+<T>
+HAMLET
+Why not?
+</T>
+<T>
+GRAVEDIGGER
+Because nobody will notice hes crazy. Everyone there is as crazy as he is.
+</T>
+<T>
+HAMLET
+How did he go crazy?
+</T>
+<T>
+GRAVEDIGGER
+In a strange way, they say.
+</T>
+<T>
+HAMLET
+What do you mean, in a strange way?
+</T>
+<T>
+GRAVEDIGGER
+By losing his mind.
+</T>
+<T>
+HAMLET
+On what grounds?
+</T>
+<T>
+GRAVEDIGGER
+Right here in Denmark. Ive been the church warden here for thirty years, since childhood.
+</T>
+<T>
+HAMLET
+How long will a man lie in his grave before he starts to rot?
+</T>
+<T>
+GRAVEDIGGER
+Well, if hes not rotten before he dies (and there are a lot of people now who are so rotten they start falling to pieces even before you put them in the coffin), hell last eight or nine years. A leathermaker will last nine years.
+</T>
+<T>
+HAMLET
+Why does he last longer?
+</T>
+<T>
+GRAVEDIGGER
+Because his hide is so leathery from his trade that he keeps the water off him a long time, and water is what makes your goddamn body rot more than anything. Heres a skull thats been here twenty-three years.
+</T>
+<T>
+HAMLET
+Whose was it?
+</T>
+<T>
+GRAVEDIGGER
+A crazy bastard. Who do you think?
+</T>
+<T>
+HAMLET
+I really dont know.
+</T>
+<T>
+GRAVEDIGGER
+Damn that crazy madman! He poured a pitcher of white wine on my head once. This is the skull of Yorick, the kings jester.
+</T>
+<T>
+HAMLET
+This one?
+</T>
+<T>
+GRAVEDIGGER
+Yes, that one.
+</T>
+<T>
+HAMLET
+Let me see. (he takes the skull) Oh, poor Yorick! I used to know him, Horatioa very funny guy, and with an excellent imagination. He carried me on his back a thousand times, and nowhow terriblethis is him. It makes my stomach turn. I dont know how many times I kissed the lips that used to be right here. Where are your jokes now? Your pranks? Your songs?
+Your flashes of wit that used to set the whole table laughing? You dont make anybody smile now. Are you sad about that? You need to go to my ladys room and tell her that no matter how much makeup she slathers on, shell end up just like you some day. Thatll make her laugh. Horatio, tell me something.
+</T>
+<T>
+HORATIO
+Whats that, my lord?
+</T>
+<T>
+HAMLET
+Do you think Alexander the Great looked like this when he was buried?
+</T>
+<T>
+HORATIO
+Exactly like that.
+</T>
+<T>
+HAMLET
+And smelled like that, too? Whew! (he puts down the skull)
+</T>
+<T>
+HORATIO
+Just as bad, my lord.
+</T>
+<T>
+HAMLET
+How low we can fall, Horatio. Isnt it possible to imagine that the noble ashes of Alexander the Great could end up plugging a hole in a barrel?
+</T>
+<T>
+HORATIO
+If you thought that youd be thinking too much.
+</T>
+<T>
+HAMLET
+No, not at all. Just follow the logic: Alexander died, Alexander was buried, Alexander returned to dust, the dust is dirt, and dirt makes mud we use to stop up holes. So why cant someone plug a beer barrel with the dirt that used to be Alexander? The great emperor Caesar, dead and turned to clay, might plug up a hole to keep the wind away. Oh, to think that the same body that once ruled the world could now patch up a wall! But quiet, be quiet a minute.
+</T>
+<T>
+Here comes the king, the queen, and the noblemen of court. Who are they following? And with such a plain and scrawny ceremony? It means the corpse theyre following took its own life. Must have been from a wealthy family. Lets stay and watch a while.
+</T>
+<T>
+LAERTES
+What other rites are you going to give her?
+</T>
+<T>
+HAMLET
+Thats Laertes, a very noble young man. Listen.
+</T>
+<T>
+LAERTES
+What other rites are you going to give her?
+</T>
+<T>
+PRIEST
+Ive performed as many rites as Im permitted. Her death was suspicious, and were it not for the fact that the king gave orders to bury her here, shed have been buried outside the church graveyard. She deserves to have rocks and stones thrown on her body. But she has had prayers read for her and is dressed up like a pure virgin, with flowers tossed on her grave and the bell tolling for her.
+</T>
+<T>
+LAERTES
+Isnt there any other rite you can perform?
+</T>
+<T>
+PRIEST
+No, nothing. We would profane the other dead souls here if we sang the same requiem for her that we sang for them.
+</T>
+<T>
+LAERTES
+Lay her in the ground, and let violets bloom from her lovely and pure flesh!
+Im telling you, you jerk priest, my sister will be an angel in heaven while youre howling in hell.
+</T>
+<T>
+HAMLET
+(to HORATIO) What, the beautiful Ophelia?
+</T>
+<T>
+QUEEN
+Sweet flowers for a sweet girl. Goodbye! (she scatters flowers) I once hoped youd be my Hamlets wife. I thought Id be tossing flowers on your wedding bed, my sweet girl, not on your grave.
+</T>
+<T>
+LAERTES
+Oh, damn three times, damn ten times the evil man whose wicked deed deprived you of your ingenious mind. Hold off burying her until Ive caught her in my arms once more.
+</T>
+<T>
+Now pile the dirt onto the living and the dead alike, till youve made a mountain higher thanMount Pelion or Mount OlympusIn Greek myth, Mt. Olympus is home to the gods, and giants piled Mt. Ossa on top of Mt. Pelion to climb to heaven.Mount Pelion or Mount Olympus.
+</T>
+<T>
+HAMLET
+(coming forward) Who is the one whose grief is so loud and clear, whose words of sadness make the planets stand still in the heavens as if theyve been hurt by what theyve heard? Its me, Hamlet the Dane. (he jumps into the grave)
+</T>
+<T>
+LAERTES
+To hell with your soul!
+</T>
+<T>
+HAMLET
+Thats no way to pray. (they fight) Please take your hands off my throat. I may not be rash and quick to anger, but I have something dangerous in me which you should beware of. Take your hands off.
+</T>
+<T>
+CLAUDIUS
+Pull them apart.
+</T>
+<T>
+GERTRUDE
+Hamlet! Hamlet!
+</T>
+<T>
+ALL
+Gentlemen!
+</T>
+<T>
+HORATIO
+(to HAMLET ) Please, my lord, calm down.
+</T>
+<T>
+HAMLET
+Ill fight him over this issue till I dont have the strength to blink.
+</T>
+<T>
+GERTRUDE
+Oh, my son, what issue is that?
+</T>
+<T>
+HAMLET
+I loved Ophelia. Forty thousand brothers, if you added all their love together, couldnt match mine. What are you going to do for her?
+</T>
+<T>
+CLAUDIUS
+Oh, hes crazy, Laertes!
+</T>
+<T>
+GERTRUDE
+For the love of God, be patient with him.
+</T>
+<T>
+HAMLET
+Damn it, show me what youre going to do for her. Will you cry? Fight? Stop eating? Cut yourself? Drink vinegar? Eat a crocodile? Ill do all that. Did you come here to whine? To outdo me by jumping into her grave so theatrically? To be buried alive with her? So will I. And if you rattle on about mountains, then let them throw millions of acres over us. It will be so high a peak that it scrapes against heaven and makes Mount Ossa look like a wart. See? I can talk crazy as well as you.
+</T>
+<T>
+GERTRUDE
+This is pure insanity. Hell be like this for a little while. Then hell be as calm and quiet as a dove waiting for her eggs to hatch.
+</T>
+<T>
+HAMLET
+Listen, sir, why do you treat me like this? I always loved you. But it doesnt matter. Even a hero like Hercules cant keep cats from acting like cats, and dogs like dogs.
+</T>
+<T>
+CLAUDIUS
+Please, Horatio, go with him.
+</T>
+<T>
+(to LAERTES) Dont forget our talk last night, and try to be patient. Well take care of this problem soon.Gertrude, have the guards keep an eye on your son. A monument shall be built for Ophelia that will last forever, I promise. Well have the quiet we need soon. In the meantime, lets proceed patiently.
+</T>
+<T>
+HAMLET
+Thats enough about that. Now Ill tell you the other story about my journey. Do you remember the circumstances?
+</T>
+<T>
+HORATIO
+How could I forget, my lord!
+</T>
+<T>
+HAMLET
+There was a kind of war in my brain that wouldnt let me sleep. It was worse than being a captive in chains. Sometimes its good to be rashsometimes it works out well to act impulsively when our careful plans lose steam. This should show us that theres a God in heaven whos always guiding us in the right direction, however often we screw up
+</T>
+<T>
+HORATIO
+Well, of course.
+</T>
+<T>
+HAMLET
+So I came up from my cabin with my robe tied around me, groped in the dark to find what I was looking for, found it, looked through their packet of papers, and returned to my cabin again. I was bold enough (I guess my fears made me forget my manners) to open the document containing the kings instructions. And there I found, Horatio, such royal mischiefa precisely worded order, sugared with lots of talk about Denmarks well-being and Englands too, to cut off my head, without even waiting to sharpen the ax.
+</T>
+<T>
+HORATIO
+Is it possible?
+</T>
+<T>
+HAMLET
+(he shows HORATIO a document) Heres the document. Read it in your free time. But do you want to hear what I did then?
+</T>
+<T>
+HORATIO
+Yes, please tell me.
+</T>
+<T>
+HAMLET
+So there I was, caught in their evil net. Before I could even start processing the situation, they had started the ball rolling. I sat down and wrote out a new official document with new instructions. I wrote it in a bureaucrats neat handwriting. I used to think having nice handwriting was for servants, just like our politicians think, and I had to work hard to overcome that prejudicebut it sure came in handy then. Do you want to know what I wrote?
+</T>
+<T>
+HORATIO
+Yes, my lord.
+</T>
+<T>
+HAMLET
+A sincere plea from the king, who commands the respect of England, and who hopes that the love between the two countries can flourish, and that peace can join them in friendshipand other fancy mumbo jumbo like thatsaying that, once they read this document, without any debate, the ones delivering the letter should be put to death immediately, without giving them time to confess to a priest.
+</T>
+<T>
+HORATIO
+But how could you put an official seal on it?
+</T>
+<T>
+HAMLET
+Heaven helped me out with that too. I had my fathers signet ring in my pocket, with the royal seal of Denmark on it. I folded up the new document, signed it, sealed it, and put it safely back so that no one noticed any difference. The next day we had our fight at sea, and you know what happened after that.
+</T>
+<T>
+HORATIO
+So Rosencrantz and Guildenstern are in for it.
+</T>
+<T>
+HAMLET
+Man, they were asking for it. I dont feel guilty about them at all. They got what they deserved. Its always dangerous when little people get caught in the crossfire of mighty opponents.
+</T>
+<T>
+HORATIO
+What a king Claudius is!
+</T>
+<T>
+HAMLET
+Dont you think its my duty now to kill him with this weapon? This man who killed my king, made my mother a whore, took the throne that I hoped for, and set a trap to kill me. Isnt it completely moral to kill him now with this swordand an easy conscience? And wouldnt I be damned if I let this monster live to do more harm?
+</T>
+<T>
+HORATIO
+Hell find out soon what happened in England.
+</T>
+<T>
+HAMLET
+Soon enough. But I have the meantime. A human life is hardly long enough to count to one in. But I really feel bad, Horatio, about losing control of myself with Laertes. His situation is very much like my own. Ill be nice to him. It was just that the showiness of his grief sent me into a fury.
+</T>
+<T>
+HORATIO
+Hang on a minutewho are you?
+</T>
+<T>
+OSRIC
+Welcome back to Denmark, my lord.
+</T>
+<T>
+HAMLET
+Thank you kindly, sir. (speaking so that only HORATIO can hear) Do you know this insect?
+</T>
+<T>
+HORATIO
+(speaking so that only HAMLET can hear) No, my lord.
+</T>
+<T>
+HAMLET
+(speaking so that only HORATIO can hear) Youre lucky, since knowing him is most unpleasant. He owns a lot of good land. Give an animal a lot of money, and hell be welcome at the kings table. Hes a jerk, but he owns a whole lot of dirt, so hes treated well.
+</T>
+<T>
+OSRIC
+My lord, if you have a free moment, I have a message from His Majesty.
+</T>
+<T>
+HAMLET
+Ill hang on every word you say. Put your hat back on, where it belongs: its for your head, not for your hands to hold.
+</T>
+<T>
+OSRIC
+No thank you, my lord. Its very hot.
+</T>
+<T>
+HAMLET
+No, Im telling you, its very cold, with a northerly wind.
+</T>
+<T>
+OSRIC
+It is rather cold, indeed, my lord.
+</T>
+<T>
+HAMLET
+And yet I feel its very hot and humid, which is bad for my complexion.
+</T>
+<T>
+OSRIC
+Yes indeed it is, sir. Very humid, I cant tell you how humid it is. My lord, His Majesty wanted me to tell you that hes placed a large bet on you. This is what its all about
+</T>
+<T>
+HAMLET
+Please, I beg you(he points to OSRIC s hat)
+</T>
+<T>
+OSRIC
+No, my lord, Im comfortable like this, thank you. Sir, theres someone named Laertes whos recently come to the court. Hes an absolute gentleman, totally outstanding in so many respects, very easy in society, and displaying all his excellent qualities. If I were to expose my true feelings about himOsrics language is vague and blustery, and Hamlets is too when he mimics Osric. Together they sometimes make almost no sense.If I were to expose my true feelings about him, Id have to say hes like a business card for the upper classeshes that wonderful. Youll find that hes the sum total of what a perfect gentleman should be.
+</T>
+<T>
+HAMLET
+Sir, your description of him doesnt detract from his good qualities, though I know that trying to list them all would make your head spin, and even so you wouldnt be able to keep up with him.
+</T>
+<T>
+Speaking the very truth of high praise, I can honestly say that I find him to possess a soul of such great importance, and so rare and unique in every respect, thatto speak the absolute truthhe can find an equal only when he gazes into a mirror. Anyone else is just a pale copy of him.
+</T>
+<T>
+OSRIC
+You speak absolutely correctly, sir.
+</T>
+<T>
+HAMLET
+And whats the point, sir? Why are we talking about him like this?
+</T>
+<T>
+OSRIC
+Sorry, sir?
+</T>
+<T>
+HORATIO
+(speaking so that only HAMLET can hear) Cant you talk to him in a different way?
+</T>
+<T>
+HAMLET
+(to OSRIC) What is the significance of referring to this individual?
+</T>
+<T>
+OSRIC
+Laertes, you mean?
+</T>
+<T>
+HORATIO
+(speaking so that only HAMLET can hear) All his fancy language has run out finally; his pockets are empty.
+</T>
+<T>
+HAMLET
+Yes, Laertes, sir.
+</T>
+<T>
+OSRIC
+I know you know something
+</T>
+<T>
+HAMLET
+Thanks for the compliment, Im happy you know that. But in fact it doesnt say much. Im sorry, you were saying?
+</T>
+<T>
+OSRIC
+I know you know something about how excellent Laertes is
+</T>
+<T>
+HAMLET
+I cant admit that, since youd have to compare his excellence to mine. But knowing a person well is a bit like knowing oneself.
+</T>
+<T>
+OSRIC
+Excellent in fencing, I mean, sir. His reputation in fencing is unrivaled.
+</T>
+<T>
+HAMLET
+What kind of weapon does he use?
+</T>
+<T>
+OSRIC
+The rapier and the dagger.
+</T>
+<T>
+HAMLET
+Those are only two of his weapons. But, go on.
+</T>
+<T>
+OSRIC
+The king has bet six Barbary horses, and he has prepared six French rapiers and daggers with all their accessories. Three of the carriages are very imaginatively designed, and they match the fencing accessories.
+</T>
+<T>
+HAMLET
+What do you mean by carriages?
+</T>
+<T>
+HORATIO
+(speaking so that only HAMLET can hear) I knew youd have to look something up in the dictionary before we were finished.
+</T>
+<T>
+OSRIC
+The carriages, sir, are the hangerswhere the swords hang.
+</T>
+<T>
+HAMLET
+Carriage makes it sound like its pulling around a cannon. I prefer to call it a hanger. But anyway. Six Barbary horses, six French swords with accessories, and three imaginatively designed carriagessounds like a French bet against the Danish. Why has all this been put on the table?
+</T>
+<T>
+OSRIC
+The king, sir, has bet that in a dozen rounds between you and Laertes, he wont beat you by more than three hits. You could get started immediately if youll give me your answer.
+</T>
+<T>
+HAMLET
+But what if my answers no?
+</T>
+<T>
+OSRIC
+I mean, if youd agree to play against Laertes, sir.
+</T>
+<T>
+HAMLET
+Sir, Im going to go for a walk in the hall here whether the king likes it or not. Its my exercise time. Bring in the swords, if the king still wants to go through with it and if Laertes is still willing. Ill have the king win his bet if I can. If not, Ill only have suffered some embarrassment and a few sword hits.
+</T>
+<T>
+OSRIC
+Shall I quote you in those exact words, sir?
+</T>
+<T>
+HAMLET
+Just get the point across, however flowery you want to be.
+</T>
+<T>
+OSRIC
+My services are at your command.
+</T>
+<T>
+HAMLET
+Thank you.
+</T>
+<T>
+Its a good thing hes here to recommend himself. No one else would.
+</T>
+<T>
+HORATIO
+That crazy birds only half-hatched.
+</T>
+<T>
+HAMLET
+He used to praise his mothers nipple before he sucked it. Hes like so many successful people in these trashy timeshes patched together enough fancy phrases and trendy opinions to carry him along. But blow a little on this bubbly talk, and itll burst. Theres no substance here.
+</T>
+<T>
+LORD
+My lord, Osric has told the king about your agreeing to the fencing match. The king wishes to know if you want to play against him right away, or wait awhile.
+</T>
+<T>
+HAMLET
+Ill do whatever the king wants. If hes ready now, so am I. Otherwise, Ill do it anytime, as long as Im able.
+</T>
+<T>
+LORD
+The king and queen are coming down with everyone else.
+</T>
+<T>
+HAMLET
+Right on cue.
+</T>
+<T>
+LORD
+The queen wants you to chat with Laertespolitelybefore you begin your match.
+</T>
+<T>
+HAMLET
+Shes full of good advice.
+</T>
+<T>
+HORATIO
+Youre going to lose this bet, my lord.
+</T>
+<T>
+HAMLET
+I dont think so. Ive been practicing fencing constantly since he went off to France. With the handicap theyve given me, I think Ill win. But I have a sinking feeling anyway. Oh well.
+</T>
+<T>
+HORATIO
+Wait, my lord
+</T>
+<T>
+HAMLET
+I know Im being foolish, but I have the kind of vague misgiving women often get.
+</T>
+<T>
+HORATIO
+If something is telling you not to play, listen to it. Ill say youre not feeling well.
+</T>
+<T>
+HAMLET
+Youll do no such thing. I thumb my nose at superstitions. God controls everythingeven something as trivial as a sparrows death. Everything will work out as it is destined. If something is supposed to happen now, it will. If its supposed to happen later, it wont happen now. Whats important is to be prepared. Since nobody knows anything about what he leaves behind, then what does it mean to leave early? Let it be.
+</T>
+<T>
+CLAUDIUS
+Come shake hands with Laertes, Hamlet. (CLAUDIUS places LAERTES' and HAMLETs hands together)
+</T>
+<T>
+HAMLET
+(to LAERTES) I beg your pardon, sir. Ive done you wrong. Forgive me as a gentleman. Everyone here knowsand Im sure youve heardthat Im suffering from a serious mental illness. When I insulted you it was due to insanity. Was Hamlet the one who insulted Laertes? No, not Hamlet. If Hamlet is robbed of his own mind, and insults Laertes when hes not really himself, then Hamlets not guilty of the offense. Who is guilty, then? Hamlets mental illness is.
+</T>
+<T>
+And if thats true, then Hamlet is the victim of his own illnesshis illness is his enemy. Sir, with this audience as witness, let me declare that Im as innocent of premeditated evil against you as I would be if I had happened to shoot an arrow over my house and accidentally hit my brother.
+</T>
+<T>
+LAERTES
+My feelings are satisfiedeven though what you have done to my father and sister should drive me to revenge. Yet when it comes to my honor, I cant forgive you so fast. I will accept no apology until experts in matters of honor show me how to make peace with you without staining my own reputation in doing so. Until then I will accept your love as love.
+</T>
+<T>
+HAMLET
+Im grateful for your love. Come on, give us the swords, and we will play this friendly fencing match enthusiastically.
+</T>
+<T>
+LAERTES
+Yes, hand me one too.
+</T>
+<T>
+HAMLET
+Im going to make you look sharp, Laertes. Im so bad at the game that your skill will shine like the brightest star in the darkest night.
+</T>
+<T>
+LAERTES
+Youre making fun of me.
+</T>
+<T>
+HAMLET
+No, I swear Im not.
+</T>
+<T>
+CLAUDIUS
+Give them the swords, Osric. Hamlet, you know the bet?
+</T>
+<T>
+HAMLET
+Yes, my lord, quite well. Youve bet on the weaker fencer.
+</T>
+<T>
+CLAUDIUS
+Im not worried. Ive seen both of you fence. But since Laertes is better, weve given him a handicap. Hes got to outdo you by three hits to win.
+</T>
+<T>
+LAERTES
+This swords too heavy. Show me another one.
+</T>
+<T>
+HAMLET
+I like this one. Are they all the same length?
+</T>
+<T>
+OSRIC
+Yes, my lord.
+</T>
+<T>
+CLAUDIUS
+Put the goblets of wine on that table. If Hamlet makes the first or second hit, or gets back at Laertes by making the third hit, then let my soldiers give him a military salute. Ill drink to Hamlets health, and into his goblet Ill drop a pearl even more costly than those in the crowns of the last four Danish kings. Give me the goblets. And now let the drum and the trumpet play, and the trumpet signal the cannon outside to fire, and let the cannon tell the heavens, and the heavens tell all the earth that the king is drinking now to Hamlets health. Come on, lets begin. Judges, pay close attention.
+</T>
+<T>
+HAMLET
+Come on, sir.
+</T>
+<T>
+LAERTES
+Come on, my lord.
+</T>
+<T>
+HAMLET
+That was one hit.
+</T>
+<T>
+LAERTES
+No, it wasnt.
+</T>
+<T>
+HAMLET
+Referee!
+</T>
+<T>
+OSRIC
+It was obviously a hit.
+</T>
+<T>
+LAERTES
+Well, lets go on.
+</T>
+<T>
+CLAUDIUS
+Give me a goblet.Hamlet, this pearls yours. Heres to your health.
+</T>
+<T>
+Give him the goblet.
+</T>
+<T>
+HAMLET
+Let me just finish this round. Set it down awhile. Lets play.
+</T>
+<T>
+Another hit. What do you say?
+</T>
+<T>
+LAERTES
+You got me, I admit it.
+</T>
+<T>
+CLAUDIUS
+My son will win.
+</T>
+<T>
+GERTRUDE
+Hes flabby and out of breath.Here, Hamlet, take my handkerchief and wipe your forehead.
+The queen drinks to your good luck and happiness, Hamlet. (she lifts the cup with the pearl)
+</T>
+<T>
+HAMLET
+Thank you, madam.
+</T>
+<T>
+CLAUDIUS
+Gertrude, dont drink that.
+</T>
+<T>
+GERTRUDE
+Excuse me. Ill drink it if I like. (she drinks)
+</T>
+<T>
+CLAUDIUS
+(to himself) That was the poisoned drink. Its too late.
+</T>
+<T>
+HAMLET
+Id better not drink now. Ill drink later.
+</T>
+<T>
+GERTRUDE
+Come on, let me wipe your face.
+</T>
+<T>
+LAERTES
+(to CLAUDIUS) Ill get him now.
+</T>
+<T>
+CLAUDIUS
+I doubt it.
+</T>
+<T>
+LAERTES
+(to himself) But I almost feel guilty.
+</T>
+<T>
+HAMLET
+Get ready for the third hit, Laertes. Youre just playing around. Come on, give me your best shot. I sense youre treating me like a child.
+</T>
+<T>
+LAERTES
+You think so? Come on.
+</T>
+<T>
+OSRIC
+Theyre neck and neck.
+</T>
+<T>
+LAERTES
+Take this!
+</T>
+<T>
+CLAUDIUS
+Separate them. Theyre overdoing it.
+</T>
+<T>
+HAMLET
+No, come on, one more time.
+</T>
+<T>
+OSRIC
+Take care of the queen!
+</T>
+<T>
+HORATIO
+Both fencers are bleedinghow do you feel, my lord?
+</T>
+<T>
+OSRIC
+How do you feel, Laertes?
+</T>
+<T>
+LAERTES
+Like a mouse caught in my own trap, Osric. (he collapses) Ive been killed by my own evil tricks.
+</T>
+<T>
+HAMLET
+Hows the queen?
+</T>
+<T>
+CLAUDIUS
+She fainted at the sight of them bleeding.
+</T>
+<T>
+GERTRUDE
+No, no, the drink, the drink! Oh, my dear Hamlet! The drink, the drink! Ive been poisoned. (she dies)
+</T>
+<T>
+HAMLET
+Oh, what evil! Lock the door.
+</T>
+<T>
+Weve been betrayed! Find out who did it!
+</T>
+<T>
+LAERTES
+Im the one, Hamlet. Hamlet, youre dead. No medicine in the world can cure you. You dont have more than half an hour to live. The treacherous weapon is right in your hand, sharp and dipped in poison. The foul plan backfired on me. Here I lie and will never get up again. Your mothers been poisoned. I cant speak anymore. The king, the kings to blame.
+</T>
+<T>
+HAMLET
+The blade poisoned! Then get to work, poison!
+</T>
+<T>
+ALL
+Treason! Treason!
+</T>
+<T>
+CLAUDIUS
+Protect me, my friends. Ive only been hurt, not killed.
+</T>
+<T>
+HAMLET
+Here, you goddamn incest-breeding Danish murderer, drink this. Is your little pearl in there? Follow my mother.
+</T>
+<T>
+LAERTES
+He got what he deserved. He mixed that poison himself. Please forgive me as I forgive you, Hamlet. Youre not responsible for my death and my fathers, and Im not responsible for yours. (he dies)
+</T>
+<T>
+HAMLET
+God will free you from blame. Ill follow you to heaven in a minute.Im dying, Horatio.Goodbye, miserable queen.And all you people watching, pale and trembling, speechless spectators of these acts, I could tell you a thing or two if I had the time (though this cruel officer, Death, doesnt allow much free time). Let it be.Horatio, Im dying. Youre alive. Tell everyone what happened; set the story straight.
+</T>
+<T>
+HORATIO
+Not for a second. Im more like an ancient Roman than a corrupt modern Dane. Some of this liquors still left in the goblet. (he picks up the poisoned cup to drink)
+</T>
+<T>
+HAMLET
+Please, give me that goblet, if you love me. Let go of it! Ill get it from you, I swear. Oh God, Horatio, what a damaged reputation Im leaving behind me, as no one knows the truth. If you ever loved me, then please postpone the sweet relief of death awhile, and stay in this harsh world long enough to tell my story.
+</T>
+<T>
+What are these warlike noises?
+</T>
+<T>
+OSRIC
+Young Fortinbras, returning in triumph from Poland, is firing his guns to greet the English ambassadors.
+</T>
+<T>
+HAMLET
+Oh, Im dying, Horatio! This strong poisons overpowering me. I will not live to hear the news from England. But I bet Fortinbras will win the election to the Danish crown. Hes got my vote as I die. So tell him that, given the recent events hereoh, the rest is silence. Oh, oh, oh, oh. (he dies)
+</T>
+<T>
+HORATIO
+Now a noble heart is breaking. Good night, sweet prince. May hosts of angels sing you to sleep.Why are those drums approaching?
+</T>
+<T>
+FORTINBRAS
+What do I see here?
+</T>
+<T>
+HORATIO
+What would you like to see? If its a tragedy, youve come to the right place.
+</T>
+<T>
+FORTINBRAS
+These corpses suggest mayhem. Oh, proud Death, what banquet are you preparing that youve needed to knock off so many princes at one stroke?
+</T>
+<T>
+AMBASSADOR
+This is a horrible sight. Our news arrives from England too late, since the people that should have heard it are dead. We meant to tell the king that his orders have been carried out, and Rosencrantz and Guildenstern are dead. Who will thank us now?
+</T>
+<T>
+HORATIO
+(indicates CLAUDIUS) Not the king, even if he were still alive to thank you. He never ordered their deaths. But since youve come so soon after this bloodbath, you from battles in Poland and you from England, then give your men orders to display these corpses on a high platform, and let me tell the world how all this happened.Youll hear of violent and unnatural acts, terrible accidents, casual murders, deaths caused by trickery and by threat, and finally murderous plans that backfired on their perpetrators. All this I can explain.
+</T>
+<T>
+FORTINBRAS
+Lets hear about it right away and invite all the noblemen to listen. As for me, I welcome my good luck with sadness. I have some rights to claim this kingdom, and by arriving at this moment I have an opportunity to put them into effect.
+</T>
+<T>
+HORATIO
+I also have a few things to say about that, which Hamlet just told me. But lets get down to businesseven though people are in a frenzy of griefto avoid any further plots and mishaps.
+</T>
+<T>
+FORTINBRAS
+Let four captains carry Hamlet like a soldier onto the stage. He would have been a great king if he had had the chance to prove himself. Military music and military rites will speak for his heroic qualities. Pick up the corpses. A sight like this suits a battlefield, but here at court it shows that much went wrong. Go outside and tell the soldiers to fire their guns in honor of Hamlet.
+</T>

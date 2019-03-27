@@ -6,9 +6,10 @@ import spacy
 import os
 from spacy.symbols import PRON
 import string
-import urllib.request
 from neo4j import GraphDatabase
 from stanfordnlp.server import CoreNLPClient
+import urllib.request
+import urllib.parse
 
 os.environ['CORENLP_HOME'] = os.path.join(os.getcwd(), 'stanford-corenlp-full-2018-10-05/')
 nlpClient = CoreNLPClient(timeout=30000, memory='16G', output_format='json')
@@ -19,8 +20,20 @@ neo4jUser = 'neo4j'
 neo4jPassword = 'password'
 neo4jUri = 'bolt://localhost:7687'
 
-def retrieveText(playName: str) -> List[Tuple[str, str]]:
-    return [('name', 'speech')] # For now, return tuple of speaker name to their text
+postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
+
+def retrieveText(url: str) -> List[Tuple[str, str]]:
+    response = urllib.request.urlopen(url)
+    playText = eval(response.read())
+    return playText
+
+def retrievePlayCharacters(playName: str) -> List[Tuple[str, str]]:
+    url = urllib.parse.urljoin(postGresBaseURL, playName + '/characters')
+    return retrieveText(url)
+
+def retrievePlayText(playName: str) -> List[Tuple[str, str]]:
+    url = urllib.parse.urljoin(postGresBaseURL, playName)
+    return retrieveText(url)
 
 def preprocessText(playText: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
     return playText
@@ -114,7 +127,7 @@ def coreferenceResolve(playText: List[Tuple[str, str]], verbose: bool = False) -
         processedDialogue = ""
         for s in tokenizedSentences:
             # Filter to remove any space tokens from the representative text substitution
-            original = functools.reduce(lambda a, b: a + ' ' + b, filter(lambda v: v != ' ', s[:-1]))
+            original = functools.reduce(lambda a, b: a + ' ' + b, filter(lambda v: v != ' ', s[:-1]), '')
             original += s[-1]
             processedDialogue += original + ' '
 
@@ -198,13 +211,19 @@ def extractRelationships(playText: List[Tuple[str, str]], verbose: bool = False)
     annotators = ['openie']
     # Extract just the play text
     inputText = functools.reduce(lambda a, b: a + ' ' + b, [l[1] for l in playText])
-    if verbose:
-        print('Sending input text to coreNLP: %s\n' % inputText)
 
-    annotations = nlpClient.annotate(inputText, annotators=annotators)
+    relations = []
+    for l in playText:
+        inputText = l[1]
+        if verbose:
+            print('Sending input text to coreNLP: %s\n' % inputText)
+        annotations = nlpClient.annotate(inputText, annotators=annotators)
+        for sentence in annotations['sentences']:
+            for result in sentence['openie']:
+                relations.append((result['subject'], result['relation'], result['object']))
 
     # Unwrapped list comprehension is shown below
-    relations = [(result['subject'], result['relation'], result['object']) for sentence in annotations['sentences'] for result in sentence['openie']]
+    # relations = [(result['subject'], result['relation'], result['object']) for sentence in annotations['sentences'] for result in sentence['openie']]
     """
     for sentence in annotations['sentences']:
         for result in sentence['openie']:
@@ -287,28 +306,30 @@ def writeToDB(triples: List[Tuple[str, str, str]], verbose: bool = False) -> Non
 
 def strToNodeName(str) -> str:
     """This function converts a string to a valid Neo4j node name."""
-    return ''.join(str.replace("'", '').split()).lower()
+    return ''.join(str.replace("'", '').replace('-', '_').replace('.', '').split()).lower()
 
 def strToRelationName(str) -> str:
     """This function converts a string to a valid Neo4j node name."""
-    return str.replace(' ', '_').replace("'", '')
+    return str.replace(' ', '_').replace("'", '').replace('-', '_').replace('.', '')
 
 def main():
     # Raw first few lines of Hamlet
     # playText = [["(stage directions)", "Enter two Sentinels-[first,] Francisco, [who paces up and down at his post; then] Bernardo, [who approaches him]."], ["Bernardo", "Who's there?"], ["Francisco", "Nay, answer me. Stand and unfold yourself."], ["Bernardo", "Long live the King!"], ["Francisco", "Bernardo?"], ["Bernardo", "He."], ["Francisco", "You come most carefully upon your hour."], ["Bernardo", "'Tis now struck twelve. Get thee to bed, Francisco."], ["Francisco", "For this relief much thanks. 'Tis bitter cold, And I am sick at heart."], ["Bernardo", "Have you had quiet guard?"], ["Francisco", "Not a mouse stirring."], ["Bernardo", "Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste."], ["(stage directions)", " Enter Horatio and Marcellus. "], ["Francisco", "I think I hear them. Stand, ho! Who is there?"], ["Horatio", "Friends to this ground."], ["Marcellus", "And liegemen to the Dane."], ["Francisco", "Give you good night."], ["Marcellus", "O, farewell, honest soldier. Who hath reliev'd you?"], ["Francisco", "Bernardo hath my place. Give you good night. Exit."], ["Marcellus", "Holla, Bernardo!"], ["Bernardo", "Say- What, is Horatio there ?"], ["Horatio", "A piece of him."], ["Bernardo", "Welcome, Horatio. Welcome, good Marcellus."], ["Marcellus", "What, has this thing appear'd again to-night?"], ["Bernardo", "I have seen nothing."], ["Marcellus", "Horatio says 'tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us. Therefore I have entreated him along, With us to watch the minutes of this night, That, if again this apparition come, He may approve our eyes and speak to it."], ["Horatio", "Tush, tush, 'twill not appear."], ["Bernardo", "Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."], ["Horatio", "Well, sit we down, And let us hear Bernardo speak of this."]]
     # Plot overview in modern english
-    playText = [('line', 'On a dark winter night, a ghost walks the ramparts of Elsinore Castle in Denmark.'), ('line', 'Discovered first by a pair of watchmen, then by the scholar Horatio, the ghost resembles the recently deceased King Hamlet, whose brother Claudius has inherited the throne and married the king’s widow, Queen Gertrude.'), ('line', 'When Horatio and the watchmen bring Prince Hamlet, the son of Gertrude and the dead king, to see the ghost, it speaks to him, declaring ominously that it is indeed his father’s spirit, and that he was murdered by none other than Claudius.'), ('line', 'Ordering Hamlet to seek revenge on the man who usurped his throne and married his wife, the ghost disappears with the dawn.'), ('line', 'Prince Hamlet devotes himself to avenging his father’s death, but, because he is contemplative and thoughtful by nature, he delays, entering into a deep melancholy and even apparent madness.'), ('line', 'Claudius and Gertrude worry about the prince’s erratic behavior and attempt to discover its cause.'), ('line', 'They employ a pair of Hamlet’s friends, Rosencrantz and Guildenstern, to watch him.'), ('line', 'When Polonius, the pompous Lord Chamberlain, suggests that Hamlet may be mad with love for his daughter, Ophelia, Claudius agrees to spy on Hamlet in conversation with the girl.'), ('line', 'But though Hamlet certainly seems mad, he does not seem to love Ophelia: he orders her to enter a nunnery and declares that he wishes to ban marriages'), ('line', 'A group of traveling actors comes to Elsinore, and Hamlet seizes upon an idea to test his uncle’s guilt.'), ('line', 'He will have the players perform a scene closely resembling the sequence by which Hamlet imagines his uncle to have murdered his father, so that if Claudius is guilty, he will surely react.'), ('line', 'When the moment of the murder arrives in the theater, Claudius leaps up and leaves the room.'), ('line', 'Hamlet and Horatio agree that this proves his guilt.'), ('line', 'Hamlet goes to kill Claudius but finds him praying.'), ('line', 'Since he believes that killing Claudius while in prayer would send Claudius’s soul to heaven, Hamlet considers that it would be an inadequate revenge and decides to wait.'), ('line', 'Claudius, now frightened of Hamlet’s madness and fearing for his own safety, orders that Hamlet be sent to England at once.'), ('line', 'Hamlet goes to confront his mother, in whose bedchamber Polonius has hidden behind a tapestry.'), ('line', 'Hearing a noise from behind the tapestry, Hamlet believes the king is hiding there.'), ('line', 'He draws his sword and stabs through the fabric, killing Polonius.'), ('line', 'For this crime, he is immediately dispatched to England with Rosencrantz and Guildenstern.'), ('line', 'However, Claudius’s plan for Hamlet includes more than banishment, as he has given Rosencrantz and Guildenstern sealed orders for the King of England demanding that Hamlet be put to death.'), ('line', 'In the aftermath of her father’s death, Ophelia goes mad with grief and drowns in the river.'), ('line', 'Polonius’s son, Laertes, who has been staying in France, returns to Denmark in a rage.'), ('line', 'Claudius convinces him that Hamlet is to blame for his father’s and sister’s deaths.'), ('line', 'When Horatio and the king receive letters from Hamlet indicating that the prince has returned to Denmark after pirates attacked his ship en route to England, Claudius concocts a plan to use Laertes’ desire for revenge to secure Hamlet’s death.'), ('line', 'Laertes will fence with Hamlet in innocent sport, but Claudius will poison Laertes’ blade so that if he draws blood, Hamlet will die.'), ('line', 'As a backup plan, the king decides to poison a goblet, which he will give Hamlet to drink should Hamlet score the first or second hits of the match.'), ('line', 'Hamlet returns to the vicinity of Elsinore just as Ophelia’s funeral is taking place.'), ('line', 'Stricken with grief, he attacks Laertes and declares that he had in fact always loved Ophelia.'), ('line', 'Back at the castle, he tells Horatio that he believes one must be prepared to die, since death can come at any moment.'), ('line', 'A foolish courtier named Osric arrives on Claudius’s orders to arrange the fencing match between Hamlet and Laertes.'), ('line', 'The sword-fighting begins.'), ('line', 'Hamlet scores the first hit, but declines to drink from the king’s proffered goblet.'), ('line', 'Instead, Gertrude takes a drink from it and is swiftly killed by the poison.'), ('line', 'Laertes succeeds in wounding Hamlet, though Hamlet does not die of the poison immediately.'), ('line', 'First, Laertes is cut by his own sword’s blade, and, after revealing to Hamlet that Claudius is responsible for the queen’s death, he dies from the blade’s poison.'), ('line', 'Hamlet then stabs Claudius through with the poisoned sword and forces him to drink down the rest of the poisoned wine.'), ('line', 'Claudius dies, and Hamlet dies immediately after achieving his revenge.'), ('line', 'At this moment, a Norwegian prince named Fortinbras, who has led an army to Denmark and attacked Poland earlier in the play, enters with ambassadors from England, who report that Rosencrantz and Guildenstern are dead.'), ('line', 'Fortinbras is stunned by the gruesome sight of the entire royal family lying sprawled on the floor dead.'), ('line', 'He moves to take power of the kingdom.'), ('line', 'Horatio, fulfilling Hamlet’s last request, tells him Hamlet’s tragic story.'), ('line', 'Fortinbras orders that Hamlet be carried away in a manner befitting a fallen soldier.')]
+    # playText = [('line', 'On a dark winter night, a ghost walks the ramparts of Elsinore Castle in Denmark.'), ('line', 'Discovered first by a pair of watchmen, then by the scholar Horatio, the ghost resembles the recently deceased King Hamlet, whose brother Claudius has inherited the throne and married the king’s widow, Queen Gertrude.'), ('line', 'When Horatio and the watchmen bring Prince Hamlet, the son of Gertrude and the dead king, to see the ghost, it speaks to him, declaring ominously that it is indeed his father’s spirit, and that he was murdered by none other than Claudius.'), ('line', 'Ordering Hamlet to seek revenge on the man who usurped his throne and married his wife, the ghost disappears with the dawn.'), ('line', 'Prince Hamlet devotes himself to avenging his father’s death, but, because he is contemplative and thoughtful by nature, he delays, entering into a deep melancholy and even apparent madness.'), ('line', 'Claudius and Gertrude worry about the prince’s erratic behavior and attempt to discover its cause.'), ('line', 'They employ a pair of Hamlet’s friends, Rosencrantz and Guildenstern, to watch him.'), ('line', 'When Polonius, the pompous Lord Chamberlain, suggests that Hamlet may be mad with love for his daughter, Ophelia, Claudius agrees to spy on Hamlet in conversation with the girl.'), ('line', 'But though Hamlet certainly seems mad, he does not seem to love Ophelia: he orders her to enter a nunnery and declares that he wishes to ban marriages'), ('line', 'A group of traveling actors comes to Elsinore, and Hamlet seizes upon an idea to test his uncle’s guilt.'), ('line', 'He will have the players perform a scene closely resembling the sequence by which Hamlet imagines his uncle to have murdered his father, so that if Claudius is guilty, he will surely react.'), ('line', 'When the moment of the murder arrives in the theater, Claudius leaps up and leaves the room.'), ('line', 'Hamlet and Horatio agree that this proves his guilt.'), ('line', 'Hamlet goes to kill Claudius but finds him praying.'), ('line', 'Since he believes that killing Claudius while in prayer would send Claudius’s soul to heaven, Hamlet considers that it would be an inadequate revenge and decides to wait.'), ('line', 'Claudius, now frightened of Hamlet’s madness and fearing for his own safety, orders that Hamlet be sent to England at once.'), ('line', 'Hamlet goes to confront his mother, in whose bedchamber Polonius has hidden behind a tapestry.'), ('line', 'Hearing a noise from behind the tapestry, Hamlet believes the king is hiding there.'), ('line', 'He draws his sword and stabs through the fabric, killing Polonius.'), ('line', 'For this crime, he is immediately dispatched to England with Rosencrantz and Guildenstern.'), ('line', 'However, Claudius’s plan for Hamlet includes more than banishment, as he has given Rosencrantz and Guildenstern sealed orders for the King of England demanding that Hamlet be put to death.'), ('line', 'In the aftermath of her father’s death, Ophelia goes mad with grief and drowns in the river.'), ('line', 'Polonius’s son, Laertes, who has been staying in France, returns to Denmark in a rage.'), ('line', 'Claudius convinces him that Hamlet is to blame for his father’s and sister’s deaths.'), ('line', 'When Horatio and the king receive letters from Hamlet indicating that the prince has returned to Denmark after pirates attacked his ship en route to England, Claudius concocts a plan to use Laertes’ desire for revenge to secure Hamlet’s death.'), ('line', 'Laertes will fence with Hamlet in innocent sport, but Claudius will poison Laertes’ blade so that if he draws blood, Hamlet will die.'), ('line', 'As a backup plan, the king decides to poison a goblet, which he will give Hamlet to drink should Hamlet score the first or second hits of the match.'), ('line', 'Hamlet returns to the vicinity of Elsinore just as Ophelia’s funeral is taking place.'), ('line', 'Stricken with grief, he attacks Laertes and declares that he had in fact always loved Ophelia.'), ('line', 'Back at the castle, he tells Horatio that he believes one must be prepared to die, since death can come at any moment.'), ('line', 'A foolish courtier named Osric arrives on Claudius’s orders to arrange the fencing match between Hamlet and Laertes.'), ('line', 'The sword-fighting begins.'), ('line', 'Hamlet scores the first hit, but declines to drink from the king’s proffered goblet.'), ('line', 'Instead, Gertrude takes a drink from it and is swiftly killed by the poison.'), ('line', 'Laertes succeeds in wounding Hamlet, though Hamlet does not die of the poison immediately.'), ('line', 'First, Laertes is cut by his own sword’s blade, and, after revealing to Hamlet that Claudius is responsible for the queen’s death, he dies from the blade’s poison.'), ('line', 'Hamlet then stabs Claudius through with the poisoned sword and forces him to drink down the rest of the poisoned wine.'), ('line', 'Claudius dies, and Hamlet dies immediately after achieving his revenge.'), ('line', 'At this moment, a Norwegian prince named Fortinbras, who has led an army to Denmark and attacked Poland earlier in the play, enters with ambassadors from England, who report that Rosencrantz and Guildenstern are dead.'), ('line', 'Fortinbras is stunned by the gruesome sight of the entire royal family lying sprawled on the floor dead.'), ('line', 'He moves to take power of the kingdom.'), ('line', 'Horatio, fulfilling Hamlet’s last request, tells him Hamlet’s tragic story.'), ('line', 'Fortinbras orders that Hamlet be carried away in a manner befitting a fallen soldier.')]
     # Load playText list from a file
     # playText = eval(open('hamlet-modern.txt', 'r').read())
     # Dummy sample text
     # playText = [("line one", "John ate a sandwich. He is full. Sally ate soup. He is not hungry. She is hungry."), ("line two", "The music is too loud for it to be enjoyed. If they are angry about it, the neighbors will call the cops.")]
-    # playText = substitutePronouns(playText, verbose=False)
+    # Retrieve play text from postgres
+    playText = retrievePlayText('hamlet')
+    playText = substitutePronouns(playText, verbose=False)
     playText = coreferenceResolve(playText, verbose=False)
     playText = spacy(playText, verbose=False)
     relations = extractRelationships(playText, verbose=False)
-    relations = postProcess(relations, verbose=False)
+    relations = postProcess(relations, verbose=True)
     writeToDB(relations)
-    print(relations)
+    # print(relations)
     return
 
 main()

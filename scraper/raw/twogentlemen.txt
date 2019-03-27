@@ -1,0 +1,3527 @@
+<T>
+VALENTINE
+Stop trying to persuade me, Proteus. Young homebodies have dull minds. If you werent so tied to the girl you love, Id ask you to come with me to see the distant wonders of the world rather than waste your youth living aimlessly as a sluggard at home. But, since youre in love, love constantly and thrive in your love. I would do the same were I in love.
+</T>
+<T>
+PROTEUS
+Are you going now? Goodbye, Valentine, my dear friend! Think of me when you happen to see some rare and noteworthy object in your travels. Wish me happiness, too, when you have good fortune. And if youre ever in danger, trust that my prayers will protect you, for I will pray for you, Valentine.
+</T>
+<T>
+VALENTINE
+And youll be praying for me on a book about loveAs opposed to the Bible. Valentine implies that Proteus makes love his religion.a book about love, I suspect?
+</T>
+<T>
+PROTEUS
+Ill pray for you on a book I love.
+</T>
+<T>
+VALENTINE
+No doubt on some shallow story of true love, like the one about young Leander crossing the HellespontIn classical myth, Leander swam across the Hellespont each night to see his love, Hero. But he drowned in a storm during his crossing one night.Leander crossing the Hellespont.
+</T>
+<T>
+PROTEUS
+Thats a deep story of a deeper lovethe love was so deep it covered his shoes.
+</T>
+<T>
+VALENTINE
+Its true. And your love is so deep it covers your boots, and yet you never swam across the Hellespont.
+</T>
+<T>
+PROTEUS
+Covers my boots? Dont make fun of me.
+</T>
+<T>
+VALENTINE
+No, I wont, for it doesnt profit you any.
+</T>
+<T>
+PROTEUS
+What?
+</T>
+<T>
+VALENTINE
+When youre in love, your love-sick groans only earn her scorn, your brokenhearted sighs just get you flirtatious glances, and twenty tedious, sleepless nights spent pining for your sweetheart only yield you a brief moment of happiness. If by chance you succeed, it may turn out to be an unlucky win. And if you dont, then youve only managed to waste your time. Either way, you win foolishness by being clever, or your cleverness is killed by foolishness.
+</T>
+<T>
+PROTEUS
+So, by your logic, Im a fool.
+</T>
+<T>
+VALENTINE
+Because of your logic, I fear youll become a fool.
+</T>
+<T>
+PROTEUS
+Its love you have a problem with. But dont blame meIm not Love.
+</T>
+<T>
+VALENTINE
+Love is your master, because hes got the better of you. And in my opinion, anyone whos been taken in by a fool shouldnt be considered very wise himself.
+</T>
+<T>
+PROTEUS
+Yet writers say that just as the destructive caterpillar dwells within the sweetest flower buds, love inhabits the cleverest minds.
+</T>
+<T>
+VALENTINE
+And writers also say that just as the caterpillar eats the greatest flower bud before it blooms, so too does love make young and fragile minds foolish. It destroys the young lover, who loses his youth while still in his prime, and takes away all his future hopes. But why am I wasting my time giving advice to you, a man who is devoted to foolish love? So, once again, farewell! My father expects to meet me at the harbor to see my ship off.
+</T>
+<T>
+PROTEUS
+Ill go with you, Valentine.
+</T>
+<T>
+VALENTINE
+My dear Proteus, no. We should say goodbye to each other now. Write to me in Milan, and tell me of your luck with love and whatever other news happens while Im away. Ill likewise write to you.
+</T>
+<T>
+PROTEUS
+May you find happiness in Milan!
+</T>
+<T>
+VALENTINE
+And the same to you here at home! Farewell!
+</T>
+<T>
+PROTEUS
+He hunts for honor, while I hunt for love. He leaves his friends to bring them more honor, but I neglect myself, my friends, and everything else for love. Oh, Julia, youve transformed me. Youve made me neglect my studies, waste my time, argue against all reasonable advice, and set myself against the world. Youve made my brain weak from thinking about you so much, and my heart sick with melancholy.
+</T>
+<T>
+SPEED
+God save you, Sir Proteus! Have you seen my master?
+</T>
+<T>
+PROTEUS
+He just left here a minute ago on his way to Milan.
+</T>
+<T>
+SPEED
+Id wager twenty to one, then, that his ship has already left. Im foolish for having lost him.
+</T>
+<T>
+PROTEUS
+Indeed, sheep often go astray when the shepherd has gone away.
+</T>
+<T>
+SPEED
+Youre saying that my master is a shepherd, then, and Im a sheep?
+</T>
+<T>
+PROTEUS
+Yes.
+</T>
+<T>
+SPEED
+Well then, my horns are his horns, whether Im awake or asleep.
+</T>
+<T>
+PROTEUS
+What a silly answervery fitting for a sheep.
+</T>
+<T>
+SPEED
+This means you think Im still a sheep.
+</T>
+<T>
+PROTEUS
+Yes, and your master a shepherd.
+</T>
+<T>
+SPEED
+No, I can disprove that with an example.
+</T>
+<T>
+PROTEUS
+Itll be a challenge, but Ill prove it with another example.
+</T>
+<T>
+SPEED
+The shepherd looks for the sheep, but the sheep doesnt look for the shepherd. Im looking for my master, but my master isnt looking for me. Therefore, Im not a sheep.
+</T>
+<T>
+PROTEUS
+The sheep follows the shepherd because it wants food, but the shepherd doesnt follow the sheep for food. You follow your master for your pay, but your master doesnt follow you for pay. Therefore, youre a sheep.
+</T>
+<T>
+SPEED
+Another bad example like that and Ill say, Baa.
+</T>
+<T>
+PROTEUS
+But anyway, what happened? Did you give my letter to Julia?
+</T>
+<T>
+SPEED
+Yes, sir. I, a lost sheep, gave your letter to her, a prostituteThe term mutton used in Shakespeares original was slang for prostitute.prostitute. And she, the prostitute, gave me, a lost sheep, nothing for all my hard work.
+</T>
+<T>
+PROTEUS
+The world isnt big enough for all these darn sheep.
+</T>
+<T>
+SPEED
+If its too crowded for you, then you should stick her.
+</T>
+<T>
+PROTEUS
+No, now youve really gone astray. I ought to pound you.
+</T>
+<T>
+SPEED
+No, sir, less than a pound will suffice for delivering your letter.
+</T>
+<T>
+PROTEUS
+You misunderstood. I meant give you a pounding, pinhead.
+</T>
+<T>
+SPEED
+Youve gone from a pound down to a pinhead? No, I want more than thatthats far too little payment for delivering a letter to your lover.
+</T>
+<T>
+PROTEUS
+So what did she say?
+</T>
+<T>
+SPEED
+(nodding) Ay.
+</T>
+<T>
+PROTEUS
+Nod-ay? Well, thats naughty.
+</T>
+<T>
+SPEED
+You misunderstood, sir. I said she nodded, and you asked me if she nodded, and I said, Ay.
+</T>
+<T>
+PROTEUS
+And all that put together is naughty.
+</T>
+<T>
+SPEED
+Now that youve taken the trouble to figure it out, take that for your trouble and consider it your answer.
+</T>
+<T>
+PROTEUS
+No, no, you shall have it for delivering the letter.
+</T>
+<T>
+SPEED
+Well, I guess I must be willing to put up with you.
+</T>
+<T>
+PROTEUS
+Why, sir, what do you mean, put up with me?
+</T>
+<T>
+SPEED
+Geez, sir, I mean getting nothing but the word naughty as payment for my delivery.
+</T>
+<T>
+PROTEUS
+Damn, you have a quick wit.
+</T>
+<T>
+SPEED
+And yet I cant speed past your slowness in paying me.
+</T>
+<T>
+PROTEUS
+Come on, come on, tell me briefly. What did she say?
+</T>
+<T>
+SPEED
+Open your wallet, and the money and her response will both be delivered.
+</T>
+<T>
+PROTEUS
+(giving him money) Well, sir, heres something for your trouble. What did she say?
+</T>
+<T>
+SPEED
+Honestly, sir, I think youll have a hard time winning her.
+</T>
+<T>
+PROTEUS
+Why? Did you get that from speaking with her?
+</T>
+<T>
+SPEED
+Sir, I couldnt get anything at all out of her, not even so much as a tip for delivering your letter. And since she was so stingy to me for having delivered your thoughts, I fear shell prove just as stingy with you. Dont give her any little gifts except stones, because shes as hard as steel.
+</T>
+<T>
+PROTEUS
+What did she say? Nothing?
+</T>
+<T>
+SPEED
+No, not even so much as Take this for your trouble. I can attest to your generosity since youve given me a small tip. In return, you can deliver your own letters from now on. And so, sir, Ill say hello to my master for you.
+</T>
+<T>
+PROTEUS
+Go on, get out of here. Youll save your ship from sinking since youre destined to die on dry landRefers to the saying He that is born to be hanged shall never be drowned.youre destined to die on dry land.
+</T>
+<T>
+I must send a letter with a better messenger. Im afraid my Julia wouldnt accept my letter because she received it from such a worthless postman.
+</T>
+<T>
+JULIA
+Now that were alone, tell me, Lucetta, would you recommend that I fall in love?
+</T>
+<T>
+LUCETTA
+Yes, madam, so you stumble into it on purpose.
+</T>
+<T>
+JULIA
+Of all the attractive gentlemen that speak with me daily, which do you think would be best to love?
+</T>
+<T>
+LUCETTA
+Please tell me their names again, and Ill tell you my opinion about them as best I can.
+</T>
+<T>
+JULIA
+What do you think of the attractive Sir Eglamour?
+</T>
+<T>
+LUCETTA
+As a knight, hes well spoken, elegant, and fine. But if I were you, I wouldnt fall in love with him.
+</T>
+<T>
+JULIA
+What do you think of Mercatio, who is rich?
+</T>
+<T>
+LUCETTA
+I like his money a lot, but him only so-so.
+</T>
+<T>
+JULIA
+What do you think of kind Proteus?
+</T>
+<T>
+LUCETTA
+Good Lord, how foolish people are!
+</T>
+<T>
+JULIA
+Whats that for? Why this outburst at his name?
+</T>
+<T>
+LUCETTA
+Pardon me, dear madam, its inexcusable that I, the unworthy servant that I am, should criticize such lovely gentlemen.
+</T>
+<T>
+JULIA
+Why dont you think well of Proteus out of all the rest?
+</T>
+<T>
+LUCETTA
+Fine thenof all the good men, I think Proteus is best.
+</T>
+<T>
+JULIA
+Whats your reason?
+</T>
+<T>
+LUCETTA
+I have no other reason than a womans intuition: I think hes the best simply because I do.
+</T>
+<T>
+JULIA
+And would you have me throw my love at him?
+</T>
+<T>
+LUCETTA
+Yes, if you thought your love wouldnt be thrown away.
+</T>
+<T>
+JULIA
+But, of all the others, he has never proposed to me.
+</T>
+<T>
+LUCETTA
+Yet, of all the others, I think he loves you the most.
+</T>
+<T>
+JULIA
+The fact that he doesnt say much to me shows he doesnt love me much.
+</T>
+<T>
+LUCETTA
+Fire thats most enclosed burns most of all.
+</T>
+<T>
+JULIA
+Those who dont show their love dont love at all.
+</T>
+<T>
+LUCETTA
+Oh, those who tell others of their love love the least of all.
+</T>
+<T>
+JULIA
+I wish I knew how he felt.
+</T>
+<T>
+LUCETTA
+(giving her a letter) Read this paper, madam.
+</T>
+<T>
+JULIA
+To Julia. Tell me, whos it from?
+</T>
+<T>
+LUCETTA
+The letter will say.
+</T>
+<T>
+JULIA
+Tell me, who gave it to you?
+</T>
+<T>
+LUCETTA
+Sir Valentines servant, but I think it was sent from Proteus. He would have given it to you himself, but I ran into him first and took it in your name. Please forgive me.
+</T>
+<T>
+JULIA
+Well, youre a fine go-between! Do you dare receive love letters, and to whisper and conspire against me because of my lack of experience? Trust me, its an important job, and youre just the kind of person for it. There, take the letter. See that its returned, or else dont let me see you again. (giving the letter back)
+</T>
+<T>
+LUCETTA
+A request for your love deserves more in return than your hatred.
+</T>
+<T>
+JULIA
+Will you get going?
+</T>
+<T>
+LUCETTA
+Just think about it.
+</T>
+<T>
+JULIA
+Then again, I wish I had read the letter. It would be embarrassing to call her back again and do the very thing I chided her for. How foolish she is, since she knows Im a single girl but still wouldnt make me read it! Out of modesty girls say no when they wish the giver would construe it as yes. How difficult this foolish thing called love is, like a cranky baby that will scratch its nurse and then immediately after show affection. How rudely I scolded Lucetta, when really I wanted her here. Ive taught myself to appear angry even when my heart smiles with joy! My punishment is to call Lucetta back and ask forgiveness for my mistake. Hey, Lucetta!
+</T>
+<T>
+LUCETTA
+What would you like, my lady?
+</T>
+<T>
+JULIA
+Is it almost dinnertime?
+</T>
+<T>
+LUCETTA
+I wish it were, so that you could chew on your food instead of your servant.
+</T>
+<T>
+JULIA
+What is that that you picked up so carefully?
+</T>
+<T>
+LUCETTA
+Nothing.
+</T>
+<T>
+JULIA
+Why did you bend over, then?
+</T>
+<T>
+LUCETTA
+To pick up the paper that I dropped.
+</T>
+<T>
+JULIA
+And that paper is nothing?
+</T>
+<T>
+LUCETTA
+Nothing that concerns me.
+</T>
+<T>
+JULIA
+Then let it lie on the ground for the people it does concern.
+</T>
+<T>
+LUCETTA
+Madam, it will not lie about what it concerns unless a liar reads it.
+</T>
+<T>
+JULIA
+Some lover of yours has written a poem to you.
+</T>
+<T>
+LUCETTA
+Ill sing it, madam, to a tune. Give me the note to sing it in. Your ladyship can choose it.
+</T>
+<T>
+JULIA
+I place as little value as possible in such trifles. You should sing it to the tune of Light o Love.
+</T>
+<T>
+LUCETTA
+The poem is too heavy for so light a tune.
+</T>
+<T>
+JULIA
+Too heavy! I guess the note is serious, then?
+</T>
+<T>
+LUCETTA
+Yes, and it would be melodious, too, if youd sing it.
+</T>
+<T>
+JULIA
+And why wont you sing it?
+</T>
+<T>
+LUCETTA
+I cannot reach such high notes.
+</T>
+<T>
+JULIA
+Lets see your poem. What is it, you hussy?
+</T>
+<T>
+LUCETTA
+Keep your mood in check and get over your anger. I dont like this new tune youre singing.
+</T>
+<T>
+JULIA
+You dont?
+</T>
+<T>
+LUCETTA
+No, madame, its too sharp.
+</T>
+<T>
+JULIA
+You, hussy, are too sassy.
+</T>
+<T>
+LUCETTA
+No, now youre too flat. Youre ruining the harmony with a melody thats too harsh. Your song only needs a tenorIn other words, Julia needs a man.tenor.
+</T>
+<T>
+JULIA
+The tenor is ruined with your unruly bass.
+</T>
+<T>
+LUCETTA
+Indeed, I sing for Proteus.
+</T>
+<T>
+JULIA
+This letter wont trouble me from now on. Heres a fuss over a love letter!
+</T>
+<T>
+Go, get out of here, and leave the papers where they are. I know youd try to pick them up just to anger me.
+</T>
+<T>
+LUCETTA
+She pretends not to care, but she would be happy to be so angered by another love letter.
+</T>
+<T>
+JULIA
+No, I wish I were so angry with this one!
+</T>
+<T>
+Stupid hands, to tear up such lovely words! Destructive fingers, to feed on such sweet words and then rip up the letter they came from! Ill apologize by kissing each piece of paper. Here, this one says kind Julia. It should say unkind Julia! Out of revenge for my own ingratitude Ill throw the paper on the floor and hatefully trample my name in disdain.
+</T>
+<T>
+And heres one that says love-wounded Proteus. Poor wounded name! My breast will serve as your bed until your wounds are completely healed. I cleanse them with a healing kiss. But Proteus was written down two or three times. Be still, good wind, and dont blow these pieces of paper away until Ive found each word in the letter, except for the piece with my own name on itmay some whirlwind take that piece, hurl it onto a frightening cliff, and from there throw it into the raging sea! Look, his name is written twice in this line: Poor forlorn Proteus, passionate Proteus, to the sweet Julia. Ill tear that last part off. Then again, maybe I wont, since he tied it so prettily to his own sorrowful names. Ill fold them up, one on top of another. Now the names may kiss, hug, battle, or do what they will.
+</T>
+<T>
+LUCETTA
+Madame, dinner is ready, and your father waits for you.
+</T>
+<T>
+JULIA
+Well, lets go then.
+</T>
+<T>
+LUCETTA
+What, should these papers just lie on the ground revealing everything?
+</T>
+<T>
+JULIA
+If you respect them, then it would be best to pick them up.
+</T>
+<T>
+LUCETTA
+No, you yelled at me for dropping them in the first place. But we shouldnt leave them here or theyll catch a cold.
+</T>
+<T>
+JULIA
+I see you have a strong desire for them.
+</T>
+<T>
+LUCETTA
+Yes, madame, you can interpret my behavior as you like. But I see things, too, even though you think my eyes are closed.
+</T>
+<T>
+JULIA
+Come on, come on. Will you please hurry up?
+</T>
+<T>
+ANTONIO
+Tell me, Panthino, what were you and my brother talking so seriously about in the walkway back there?
+</T>
+<T>
+PANTHINO
+We were talking about his nephew, your son, Proteus.
+</T>
+<T>
+ANTONIO
+Why? What about him?
+</T>
+<T>
+PANTHINO
+He wondered why your lordship would let him spend his youth here at home. Other men with lesser reputations send their sons to seek opportunities abroad, or to find their fortunes fighting in the wars, or to discover far away islands, or to study in the universities. He said that Proteus was capable of doing any or all of these things, and he asked me to urge you not to let him spend any more time at home. It would be a shame for him in old age not to have traveled in his youth.
+</T>
+<T>
+ANTONIO
+You dont need to urge me on this matter. Ive thought about it a lot this month. Ive considered how much time hes wasting, and how he cannot be a complete man without having some real-world trials and tests. Experience comes from hard work and is perfected over the course of time. Tell me, though, where would it be best to send him?
+</T>
+<T>
+PANTHINO
+I think your lordship knows that his friend, the young Valentine, has gone off to visit the emperor in his royal court in Milan.
+</T>
+<T>
+ANTONIO
+Im fully aware.
+</T>
+<T>
+PANTHINO
+It would be good, I think, if your lordship sent him there. There he can take part in jousts and tournaments, listen to learned discussions, speak with noblemen, and witness everything befitting his youth and nobleness of birth.
+</T>
+<T>
+ANTONIO
+I like what you say. Youve advised me well. And so you may see how much I like it, Ill announce it publicly. Ill send him off to the emperors court immediately.
+</T>
+<T>
+PANTHINO
+If it pleases you, Don Alphonso and some other noblemen are setting off tomorrow to visit the emperor and to offer their services to help him in whatever he needs.
+</T>
+<T>
+ANTONIO
+Sounds like a good group. Proteus will go with them.
+PROTEUS enters, reading a letter.
+</T>
+<T>
+Just in time! Ill talk to him now.
+</T>
+<T>
+PROTEUS
+(to himself) Sweet love, sweet poetry, sweet life! Here is a letter in her handwriting, which does the bidding of her heart. Here is her pledge of love, which vows she will be faithful. Oh, I wish our fathers would approve of our love and consent to let us marry, sealing our happiness forever. Oh, heavenly Julia!
+</T>
+<T>
+ANTONIO
+Whats that you say? Whats that letter youre reading there?
+</T>
+<T>
+PROTEUS
+Your lordship, its just a short note of greeting from Valentine, delivered to me by a friend of his.
+</T>
+<T>
+ANTONIO
+Give me the letter. Let me see what news it brings.
+</T>
+<T>
+PROTEUS
+There is no news, my lord. He just writes how happy he is and that the emperor likes him and honors him each day. He wishes I were with him to share his good luck.
+</T>
+<T>
+ANTONIO
+And how do you feel about his wish?
+</T>
+<T>
+PROTEUS
+Like one who is used to following your orders and not able to honor Valentines wishes.
+</T>
+<T>
+ANTONIO
+My wish is similar to Valentines. Now dont think that I decided this rashly, because I get what I want, and thats final. Ive decided that you should spend some time with Valentine in the emperors court. Ill provide you with the same money for room and board that he receives from his family. Be ready to go tomorrow. Dont try to get out of it now, because Ive made up my mind.
+</T>
+<T>
+PROTEUS
+My lord, I cant get ready that quickly. Please, think about this a day or two longer.
+</T>
+<T>
+ANTONIO
+Look, whatever you want will be sent to you after you leave. Youre not going to stay here any longer. You must go tomorrow. Come on, Panthino, you will help get everything ready so he can leave as soon as possible.
+</T>
+<T>
+PROTEUS
+I dove into the sea to avoid being burned by the fire, and now Im drowning instead. I was afraid to show Julias letter to my father because I didnt want him to disapprove of my love, but taking advantage of my lie he raised more obstacles against it. Oh, our new love is like the uncertain days of April, which will be sunny one moment, and suddenly a cloud takes the sunshine away!
+</T>
+<T>
+PANTHINO
+Sir Proteus, your father calls for you. Hes in a hurry, so I beg you, go quickly.
+</T>
+<T>
+PROTEUS
+This is how it is: my heart agrees to it but wants to say no a thousand times.
+</T>
+<T>
+SPEED
+Sir, here is your glove.
+</T>
+<T>
+VALENTINE
+That isnt mine. Im already wearing my gloves.
+</T>
+<T>
+SPEED
+Well, then, this may be your glove, because its all by itself.
+</T>
+<T>
+VALENTINE
+Ha! Let me see it. Yes, give it to me. Its mine. Sweet accessory that Sylvias divine hand wears. Ah Sylvia, Sylvia!
+</T>
+<T>
+SPEED
+(calling) Madame Sylvia! Madama Sylvia!
+</T>
+<T>
+VALENTINE
+What are you doing, palSirrah, the word used in Shakespeares original language, is used to address a social inferior.pal?
+</T>
+<T>
+SPEED
+Shes too far away to hear me, sir.
+</T>
+<T>
+VALENTINE
+But, sir, who asked you to call out for her?
+</T>
+<T>
+SPEED
+You did, sir, or else I misunderstood you.
+</T>
+<T>
+VALENTINE
+Well, youre always too presumptuous.
+</T>
+<T>
+SPEED
+Even though last time I was scolded for being too slow.
+</T>
+<T>
+VALENTINE
+Enough, sir. Tell me, do you know Madame Sylvia?
+</T>
+<T>
+SPEED
+The Madame Sylvia you love, your worship?
+</T>
+<T>
+VALENTINE
+Why, how do you know that I am in love?
+</T>
+<T>
+SPEED
+Because of all the right signs, of course: First, like Sir Proteus, you have started to fold your arms like youre unhappy about something. You go around singing love songs like a redbreasted robin. You walk alone, like one who has the plague. You sigh like a schoolboy who has lost his textbook. You weep, like a young girl who has just buried her grandmother. You dont eat, like one whos on a diet. You cant sleep, like one who fears being robbed. You whine, like a beggar on HallowmasHallowmas, or All Saints Day, took place on November 1, and it was customary on that day to give charity to beggars.like a beggar on Hallowmas It used to be that when you laughed, you crowed like a rooster. When you walked, you walked like a lion. When you didnt eat, it was because youd just finished lunch. When you looked sad, it was because you were out of money. And now a mistress has changed you. When I look at you, I can hardly recognize you as my master.
+</T>
+<T>
+VALENTINE
+Can you see all these things in me?
+</T>
+<T>
+SPEED
+They are all outside of you, in your outward appearance.
+</T>
+<T>
+VALENTINE
+Outside of me? They cannot be outside of me.
+</T>
+<T>
+SPEED
+Outside of you? No, Im sure, because if you werent so obvious no one would see them. But your appearance is so marked by these foolish traits that they must be inside you, and they shine through you as if you were water in a jar. Everyone that sees you is like a physician who knows why youre sick.
+</T>
+<T>
+VALENTINE
+But tell me, do you know my lady Sylvia?
+</T>
+<T>
+SPEED
+The woman you stare at while she sits at the dinner table?
+</T>
+<T>
+VALENTINE
+Have you noticed me doing that? Yes, thats the woman I mean.
+</T>
+<T>
+SPEED
+Well, sir, I dont know her at all.
+</T>
+<T>
+VALENTINE
+Do you know her only by my staring at her and not otherwise?
+</T>
+<T>
+SPEED
+Isnt she ugly, sir?
+</T>
+<T>
+VALENTINE
+Shes not as beautiful, boy, as she is gracious.
+</T>
+<T>
+SPEED
+Sir, I know that very well.
+</T>
+<T>
+VALENTINE
+What do you know?
+</T>
+<T>
+SPEED
+The she isnt as pretty as she is looked on favorably by you.
+</T>
+<T>
+VALENTINE
+I mean that her beauty is exquisite but her graciousness is infinite.
+</T>
+<T>
+SPEED
+Thats because the first one is done with makeup and the other cant be counted.
+</T>
+<T>
+VALENTINE
+What do you mean, done with makeup? And why cant you count the other?
+</T>
+<T>
+SPEED
+I mean, sir, shes so painted with makeup to look beautiful that no man values her beauty.
+</T>
+<T>
+VALENTINE
+So what do you think of me, then? I think shes very beautiful.
+</T>
+<T>
+SPEED
+You havent seen her since she was deformed.
+</T>
+<T>
+VALENTINE
+How long has she been deformed?
+</T>
+<T>
+SPEED
+Ever since you fell in love with her.
+</T>
+<T>
+VALENTINE
+I have loved her ever since I first saw her, and I still think shes beautiful.
+</T>
+<T>
+SPEED
+If you love her then you cannot see her.
+</T>
+<T>
+VALENTINE
+Why not?
+</T>
+<T>
+SPEED
+Because Love is blind. Oh, if you had my eyes, or if you could see as clearly as you did when you scolded Sir Proteus for not wearing a garterGarters were used to keep stockings from falling, and going without garters was popularly considered a sign of lovesickness.not wearing a garter!
+</T>
+<T>
+VALENTINE
+What would I see then?
+</T>
+<T>
+SPEED
+Your own current foolishness and her enormous deformity. Proteus, because he was in love, forgot to put on a garter to keep his stockings up, and you, also being in love, cant see well enough to even put on your stockings.
+</T>
+<T>
+VALENTINE
+Then maybe, boy, youre in love, because this morning you couldnt see well enough to polish my shoes.
+</T>
+<T>
+SPEED
+True, sir. I was in love with my bed. I thank youyou hit me because I was so in love, which has made me bold enough to scold you for your love.
+</T>
+<T>
+VALENTINE
+In conclusion, Im in love with her.
+</T>
+<T>
+SPEED
+I wish you werent standing erect. Maybe then your love would go away.
+</T>
+<T>
+VALENTINE
+Last night she asked me to write some lines of poetry to the one she loves.
+</T>
+<T>
+SPEED
+And did you?
+</T>
+<T>
+VALENTINE
+I did.
+</T>
+<T>
+SPEED
+Theyre badly written, arent they?
+</T>
+<T>
+VALENTINE
+No, boy, I wrote them as well as I could. Be quiet nowhere she comes.
+</T>
+<T>
+SPEED
+(aside) Oh, what a puppet show! Such a wonderful puppet she makes. Now hell give his commentary on the show.
+</T>
+<T>
+VALENTINE
+Madame and mistress, I wish you a thousand good mornings.
+</T>
+<T>
+SPEED
+(aside) And God give you a good evening! What manners!
+</T>
+<T>
+SYLVIA
+Sir Valentine and servant, to you I wish two thousand good mornings.
+</T>
+<T>
+SPEED
+(aside) He should outdo her in compliments, but she outdoes him.
+</T>
+<T>
+VALENTINE
+As you asked, I have written your letter to that secret, anonymous friend of yours. Though I didnt want to do it, I wrote it out of duty to your ladyship.
+</T>
+<T>
+SYLVIA
+I thank you, gentle servant. Its very smartly written.
+</T>
+<T>
+VALENTINE
+Now trust me, madame, it wasnt easy to write this, because I had to be somewhat vague since I didnt know to whom it would go.
+</T>
+<T>
+SYLVIA
+Perhaps you think it was too much trouble?
+</T>
+<T>
+VALENTINE
+No, madame. If it helps you, I will write a thousand times as many lines if you like. And yet . . .
+</T>
+<T>
+SYLVIA
+A fine pause! I can guess what youre going to say next. And yet I will not say it. And yet I dont care. And yet you can take this back. And yet thanks anyway, meaning I wont bother you again.
+</T>
+<T>
+SPEED
+(aside) And yet you will, and yet say another yet.
+</T>
+<T>
+VALENTINE
+What do you mean, your ladyship? Dont you like it?
+</T>
+<T>
+SYLVIA
+Yes, yes. The lines are very nicely written, but since you wrote them so unwillingly, take them back. No, take them.
+</T>
+<T>
+VALENTINE
+Madame, they are for you.
+</T>
+<T>
+SYLVIA
+Yes, yes. You wrote them, sir, at my request, but I dont want them. They are for you. I wish they had been more movingly written.
+</T>
+<T>
+VALENTINE
+If it pleases you, Ill write another for your ladyship.
+</T>
+<T>
+SYLVIA
+And when its written, read it over for my sake. And if it pleases you, fine. And if it doesnt, well, thats also fine.
+</T>
+<T>
+VALENTINE
+If it pleases me, madame, what then?
+</T>
+<T>
+SYLVIA
+Why, if it pleases you, then take it as payment for your hard work. And so good morning and goodbye to you, servant.
+</T>
+<T>
+SPEED
+(aside) Oh, that joke is as hard to see as a nose on a mans face or a weathercock on a steeple! My master pleads with her, and she has taught him, her student, to become her teacher. What an excellent trick! Has anyone ever heard anything better than my master, the scribe, writing the letter to himself?
+</T>
+<T>
+VALENTINE
+Whats that, sir? What are you reasoning to yourself over there?
+</T>
+<T>
+SPEED
+No, I was rhyming. Its you whos been doing the reasoning.
+</T>
+<T>
+VALENTINE
+Reasoning what?
+</T>
+<T>
+SPEED
+To be a spokesman for Madame Sylvia.
+</T>
+<T>
+VALENTINE
+To whom?
+</T>
+<T>
+SPEED
+To yourself. Why, shes wooing you indirectly with this trick.
+</T>
+<T>
+VALENTINE
+What trick?
+</T>
+<T>
+SPEED
+By a letter, I should say.
+</T>
+<T>
+VALENTINE
+But, she hasnt written to me.
+</T>
+<T>
+SPEED
+Why would she need to when shes made you write to yourself? Why, dont you get the joke?
+</T>
+<T>
+VALENTINE
+No, believe me.
+</T>
+<T>
+SPEED
+No believing you, indeed, sir. Did you think she was being serious?
+</T>
+<T>
+VALENTINE
+She gave me nothing except an angry word.
+</T>
+<T>
+SPEED
+Why, shes given you a letter.
+</T>
+<T>
+VALENTINE
+Thats the letter I wrote to her friend.
+</T>
+<T>
+SPEED
+And shes delivered that letter, and thats the end of it.
+</T>
+<T>
+VALENTINE
+I wish it were that good.
+</T>
+<T>
+SPEED
+I promise you, it is that good. Because youve often written to her, and she, whether out of modesty or because she didnt have the time, or out of fear that the messenger carrying the letter would discover her feelings, couldnt reply. So she taught the man she loves to write to himself. I say all this very carefully, because I read it in her as if it were printed on a page. Why do you look so pensive, sir? Its lunchtime.
+</T>
+<T>
+VALENTINE
+Ive already eaten.
+</T>
+<T>
+SPEED
+Yes, but listen, sir: even though the chameleon LoveChameleons were thought to feed on air since they can go long periods without eating. Here it also refers to loves fickleness, since chameleons can change their color.the chameleon Love can feed off the air, I need real food for nourishment, and Im eager to have meat. Oh, dont be like your mistresshave a heart!
+</T>
+<T>
+PROTEUS
+Be patient, gentle Julia.
+</T>
+<T>
+JULIA
+I have to be, since there is no way to fix the situation.
+</T>
+<T>
+PROTEUS
+I will return as soon as I can.
+</T>
+<T>
+JULIA
+If youre not unfaithful youll return sooner. Keep this to remember me by, for my sake.
+She gives him a ring.
+</T>
+<T>
+PROTEUS
+Well, then, well exchange rings. Here, you take this.
+</T>
+<T>
+JULIA
+And we will seal the bargain with a holy kiss.
+</T>
+<T>
+PROTEUS
+Here is my hand to show my fidelity. And if an hour in the day passes when I dont sigh when thinking of you, Julia, then may some disaster torment me in the next hour to punish my loves forgetfulness! My father is waiting for me. Dont say anything. The tide is right for me to set outno, not your tide of tears. Those tears will keep me here longer than I should stay. Farewell, Julia!
+</T>
+<T>
+What, shes gone without saying a word? Yes, thats how it should be with true love. It cannot speak, because truth is best expressed through action, not words.
+</T>
+<T>
+PANTHINO
+Sir Proteus, everyone is waiting for you.
+</T>
+<T>
+PROTEUS
+Go on. Im coming, Im coming. Too bad! This parting has left us poor lovers without words.
+</T>
+<T>
+LANCE
+No, itll be this time tomorrow before Ive stopped crying. All the members of the Lance family have this fault. Ive received my portion of the family trait, just like the prodigious sonLance, who frequently confuses words, means to refer to the Bible story of the prodigal son.prodigious son, and now Im going with Sir Proteus to the Imperial court in Milan. I think Crab, my dog, has the sourest personality of any dog alive. Even with my mother weeping, my father wailing, my sister crying, our maid howling, and our cat wringing her hands, this cruel-hearted mutt didnt shed a single tear. Even a Jew would have wept to see us saying goodbye to each other. Why, my grandmotherwho doesnt have use of her eyes, you seecried herself blind when I said goodbye. No, Ill demonstrate what happened. This shoe represents my father. No, this left shoe is my father. No, no, this left shoe is my mother. No, that cant be right either. Yes it is, it isit has the sole that isnt as good. This shoe, with the hole in it, is my mother, and this one is my father. Take that! Thats right now. Now, sir, this wooden stick is my sister, because, you see, it is as white as a lily and as thin as a twig. This hat is Nan, our maid. I am the dog. No wait, the dog is himself, and I am the dogoh, I mean, the dog is me, and I am myself. Okay, okay, thats it. Now I go to my father and say, Father, give me your blessing. Now the shoe cant say a word because its crying so hard. Now Ill kiss my father. Well, he keeps crying. Now I come to my mother. Oh, I wish this shoe could speak full of emotion now! Well, I kiss her. And thats the way it happened. Heres how she breathed from crying so much. Now I come to my sister. Listen to the moans she makes because shes so sad. All the while the dog doesnt shed a single tear or speak a word. See how I flatten the dust with my tears?
+</T>
+<T>
+PANTHINO
+Lance, go on, go on, board the ship! Your master is already aboard, and youre supposed to hurry after him in a rowboat. Whats the matter? Why are you crying, man? Get on, you ass! Youll lose the tide if you delay any longer.
+</T>
+<T>
+LANCE
+It doesnt matter if this tied-up dog is lost, because its the unkindest tied-up thing any man ever tied up.
+</T>
+<T>
+PANTHINO
+Whats the unkindest tide?
+</T>
+<T>
+LANCE
+Why, the dog thats tied up right hereCrab, my dog.
+</T>
+<T>
+PANTHINO
+No, no, man, I mean youll lose the ocean tide. And if you lose the ocean tide, then youll lose the whole trip, and if you lose the whole trip, then youll lose your master, and if you lose your master, then youll lose your job, and if you lose your job
+</T>
+<T>
+Why are you covering my mouth?
+</T>
+<T>
+LANCE
+Because I was afraid youd lose your tongue.
+</T>
+<T>
+PANTHINO
+Where would I lose my tongue?
+</T>
+<T>
+LANCE
+In your tale.
+</T>
+<T>
+PANTHINO
+Up your tail!
+</T>
+<T>
+LANCE
+Lose the tide, and the voyage, and my master, and my job, and the tied-up dog! Why, man, if the river where the ship is moored dried up, Id be able to fill it with my tears. And if the wind werent blowing, I could blow the boat forward with my sighs.
+</T>
+<T>
+PANTHINO
+Come on, come on, man. I was sent here to get you.
+</T>
+<T>
+LANCE
+Sir, you can call me whatever you like.
+</T>
+<T>
+PANTHINO
+Well, are you going to go?
+</T>
+<T>
+LANCE
+Yes, Ill go.
+</T>
+<T>
+SYLVIA
+Servant!
+</T>
+<T>
+VALENTINE
+Mistress?
+</T>
+<T>
+SPEED
+Master, Sir Thurio is frowning at you.
+</T>
+<T>
+VALENTINE
+Yes, boy, its because hes in love.
+</T>
+<T>
+SPEED
+Not with you.
+</T>
+<T>
+VALENTINE
+With my mistress, then.
+</T>
+<T>
+SPEED
+It would be good if you punched him.
+</T>
+<T>
+SYLVIA
+Servant, you are sad.
+</T>
+<T>
+VALENTINE
+Indeed, madame, I seem to be.
+</T>
+<T>
+THURIO
+It seems youre sad when you are not?
+</T>
+<T>
+VALENTINE
+As it happens, I seem to be something Im not.
+</T>
+<T>
+THURIO
+Just like a fake.
+</T>
+<T>
+VALENTINE
+You also seem to be something youre not.
+</T>
+<T>
+THURIO
+What do I seem like that I am not?
+</T>
+<T>
+VALENTINE
+Wise.
+</T>
+<T>
+THURIO
+What proof do you have to the contrary?
+</T>
+<T>
+VALENTINE
+Your foolishness.
+</T>
+<T>
+THURIO
+And what do you know of my foolishness?
+</T>
+<T>
+VALENTINE
+Because youre wearing a jerkinA short coat.jerkin.
+</T>
+<T>
+THURIO
+My jerkin is actually a doubletA jacket.doublet.
+</T>
+<T>
+VALENTINE
+Well, then, youre doubly foolish.
+</T>
+<T>
+THURIO
+Why?
+</T>
+<T>
+SYLVIA
+What, are you angry, Sir Thurio? Is your face turning red?
+</T>
+<T>
+VALENTINE
+Leave him be, madame. Hes just a kind of chameleon.
+</T>
+<T>
+THURIO
+One that would rather feed off your blood, Valentine, than its usual diet of air.
+</T>
+<T>
+VALENTINE
+So you say, sir.
+</T>
+<T>
+THURIO
+Yes, sir, and itll be done, too.
+</T>
+<T>
+VALENTINE
+I know its done, sir. You always end before you begin.
+</T>
+<T>
+SYLVIA
+A fine volley of words, gentlemen, and quickly fired.
+</T>
+<T>
+VALENTINE
+It is indeed, madame. We have the giver to thank for that.
+</T>
+<T>
+SYLVIA
+And who is the giver, servant?
+</T>
+<T>
+VALENTINE
+Yourself, sweet lady, for you provided the spark that set it off. Sir Thurio gets his witty remarks from your ladyships good looks, and appropriately he spends what he borrows in your presence.
+</T>
+<T>
+THURIO
+Sir, if you spar word for word with me, I shall make your wit dry up.
+</T>
+<T>
+VALENTINE
+I know it well, sir. You have a whole treasury of words, and, I think, no other treasure to give your servants, since it appears, by their ragged clothing, that they live by your worthless words alone.
+</T>
+<T>
+SYLVIA
+No more, gentlemen, no more. Here comes my father.
+</T>
+<T>
+DUKE
+Now, my daughter Sylvia, you are being assaulted. Sir Valentine, your father is healthy. What would you say to a letter from your friends filled with good news?
+</T>
+<T>
+VALENTINE
+My lord, I would be thankful to anyone who brought good news from home.
+</T>
+<T>
+DUKE
+Do you know Don Antonio, who is also from your country?
+</T>
+<T>
+VALENTINE
+Yes, my good lord. I know the gentleman is noble and has a good reputation, which is well-deserved.
+</T>
+<T>
+DUKE
+Doesnt he have a son?
+</T>
+<T>
+VALENTINE
+Yes, my good lord, a son that is also deserving of the honor and reputation of his esteemed father.
+</T>
+<T>
+DUKE
+Do you know him well?
+</T>
+<T>
+VALENTINE
+I know him as well as I know myself, since he and I have been in each others company and spent time together since we were infants. And even though I myself have been an unproductive delinquent and have wasted my youth on frivolity, Sir Proteusthats his name, you seemade good use of his time. He may be young, but he has the experience of a much older person. His hair isnt gray, but his judgment is wise. Any praise I give is far less than he deserves, but in a word, he is perfect physically and mentally, with all the good graces of a true gentleman.
+</T>
+<T>
+DUKE
+Damn! Sir, if this account is true, he is as worthy of an empresss love as he is fit to be an emperors adviser. Well, sir, this gentleman has come to me with commendations from powerful men, and he intends to spend his time here for a while. I think its good news for you.
+</T>
+<T>
+VALENTINE
+If I had wished for anything, it would have been for him to come.
+</T>
+<T>
+DUKE
+Then give him the welcome he deserves. Im speaking to you, Sylvia, and you, Sir Thurio. Valentine needs no urging. I will send him to you here shortly.
+</T>
+<T>
+VALENTINE
+This is the gentlemen I told your ladyship would have come along with me had the woman he loved not captivated him with her beauty.
+</T>
+<T>
+SYLVIA
+Perhaps now shes freed him because some other lover has pledged devotion to her.
+</T>
+<T>
+VALENTINE
+No, Im sure she still holds him prisoner.
+</T>
+<T>
+SYLVIA
+No, if that were true, then he would be blind, and if he were blind, how could he see to find his way to you?
+</T>
+<T>
+VALENTINE
+Why, lady, Love has twenty pairs of eyes.
+</T>
+<T>
+THURIO
+They say that Love is blind and has no eyes at all.
+</T>
+<T>
+VALENTINE
+Love has no eyes for people like you, Thurio. Love can shut its eyes to ugly things.
+</T>
+<T>
+SYLVIA
+Stop, stop. Here comes the gentleman.
+</T>
+<T>
+VALENTINE
+Welcome, dear Proteus! Mistress, I beg you, make him feel welcome by giving him some sign of your affection.
+</T>
+<T>
+SYLVIA
+His worthiness is enough for us to welcome here if hes the one youve often wished to hear from.
+</T>
+<T>
+VALENTINE
+Mistress, it is he. Sweet lady, take him into your service to be my fellow servant to your ladyship.
+</T>
+<T>
+SYLVIA
+Im too unworthy a mistress for so noble a servant.
+</T>
+<T>
+PROTEUS
+Not so, sweet lady. Im too unworthy a servant to have caught a look from a worthy mistress.
+</T>
+<T>
+VALENTINE
+Dont talk about unworthiness. Sweet lady, ask him to be your servant.
+</T>
+<T>
+PROTEUS
+Ill only boast of my duty, nothing else.
+</T>
+<T>
+SYLVIA
+And duty never did go unrewarded. Servant, I, a worthless mistress, welcome you.
+</T>
+<T>
+PROTEUS
+Ill die fighting anyone who says that but you.
+</T>
+<T>
+SYLVIA
+That you are welcome?
+</T>
+<T>
+PROTEUS
+That you are worthless.
+</T>
+<T>
+SERVANT
+Madame, my lordyour fatherwould like to speak with you.
+</T>
+<T>
+SYLVIA
+Ill be there in a moment.
+</T>
+<T>
+Come, Sir Thurio, go with me. Again, I welcome you, new servant. Ill leave you to talk with your friend about affairs back home. We look forward to seeing you when youre finished.
+</T>
+<T>
+PROTEUS
+Well both be back to serve you shortly, your ladyship.
+</T>
+<T>
+VALENTINE
+Now tell me, how is everyone back home?
+</T>
+<T>
+PROTEUS
+Your friends are well and send their regards.
+</T>
+<T>
+VALENTINE
+And how are your friends?
+</T>
+<T>
+PROTEUS
+They were all fine and healthy when I left.
+</T>
+<T>
+VALENTINE
+How is your lady, and is your love thriving?
+</T>
+<T>
+PROTEUS
+My tales of love used to bore you. I know you dont enjoy talking about love.
+</T>
+<T>
+VALENTINE
+Yes, Proteus, but my life is different now. I have atoned for condemning Love. Overbearing thoughts of love punish me with bitter periods of not eating, remorseful groans, nightly tears, and daily lovesick sighs. In revenge for my contempt, Love keeps me awake and makes my eyes watch the woman responsible for my hearts sorrow. Oh, kind Proteus, Loves a powerful ruler and has so humbled me that I confess there is no sorrow as bad as his punishment and no joy equal to being in love. Now, speak no more unless its about love. Now I can eat again, have lunch and dinner, and sleep thinking of love.
+</T>
+<T>
+PROTEUS
+Enough. I knew how you felt from the look in your eyes. Was that the woman you worship like an idol?
+</T>
+<T>
+VALENTINE
+That was she. Isnt she a heavenly saint?
+</T>
+<T>
+PROTEUS
+No, but she is a model of beauty here on earth.
+</T>
+<T>
+VALENTINE
+Call her a goddess.
+</T>
+<T>
+PROTEUS
+I will not fawn over her.
+</T>
+<T>
+VALENTINE
+Oh, flatter me, then, because those who are in love delight in praise.
+</T>
+<T>
+PROTEUS
+When I was lovesick, you gave me the hard truth, and now I must give it to you.
+</T>
+<T>
+VALENTINE
+Then speak the truth about her. If she isnt a goddess, then call her an angel who is superior to all the creatures on earth.
+</T>
+<T>
+PROTEUS
+Except my mistress.
+</T>
+<T>
+VALENTINE
+No exceptions, my friend, unless you mean to insult my love.
+</T>
+<T>
+PROTEUS
+Dont I have reason to put forward my own girl?
+</T>
+<T>
+VALENTINE
+And I will help you to put her forward, too. She shall have the dignity of having this high honor: she can carry the train of my ladys dress so that the dirty ground cant steal a kiss of her clothing. If it did, the ground would swell so much with pride that it would no longer accept the roots of the summer flowers, and rough winter would last forever.
+</T>
+<T>
+PROTEUS
+Geez, Valentine, why are you bragging so much?
+</T>
+<T>
+VALENTINE
+Pardon me, Proteus, any praise I can give is nothing in comparison with her. She is unique and alone among women.
+</T>
+<T>
+PROTEUS
+Then leave her alone.
+</T>
+<T>
+VALENTINE
+Not for the world. Why, man, she is mine, and having a jewel such as her, Im as rich as if I had twenty oceans with sands made of pearls, water of nectar, and rocks of pure gold. Forgive me for not paying attention to you, because Im doting on the woman I love, as you can tell. Her father likes my foolish rival, Thurio, because he has so much wealth. Thurio has gone with her, and I must follow after them, because love, as you know, is prone to jealousy.
+</T>
+<T>
+PROTEUS
+But does she love you?
+</T>
+<T>
+VALENTINE
+Yes, and were engaged to be married. No, whats more, weve determined all the details of how well sneak away and elopehow I must climb up to her window on a ladder made of rope. Everything is arranged and agreed upon for my happiness. Good Proteus, go with me to my bedroom to give me some advice on these matters.
+</T>
+<T>
+PROTEUS
+Go on ahead. Ill find you shortly. I must go down to the harbor to bring ashore some necessities that I need. Then Ill come see you right away.
+</T>
+<T>
+VALENTINE
+Will you hurry?
+</T>
+<T>
+PROTEUS
+I will. Just as one heat can extinguish anotherAt the time, it was believed that applying heat on a burn would take away the pain.one heat can extinguish another, or as one nail can drive another out with force, so too has a new love, Sylvia, driven out the memory of my former love, Julia. Is it my own attraction for her, or Valentines praise, or her own perfection, or going against my love for Julia that makes me feel this way? She is beautiful, but so is Julia, whom I lovewhom I did love, because now my love for her has melted away, like a wax figure melted by a fire that no longer looks as it did. I think that my fondness for Valentine has diminished, too, and that I like him less than I used to. Oh, but I love his lady, Syliva, far too much, and thats why I like him less now. How can I keep from loving her after further deliberation when I begin to love her with no deliberation at all! Its only her surface Ive seen so far, and that has already confused my sense of reason. But when I look at her perfection, there is no doubt I will be blind with love. If I can stop my love, I will. If not, Ill use my skill to win her.
+</T>
+<T>
+SPEED
+Lance, honestly, welcome to Milan!
+</T>
+<T>
+LANCE
+Dont lie, my friend, because I am not welcome. I always believe a man is never sunk until hes hanged, nor ever welcome to a place until the bill has been paid and the hostess says, Welcome!
+</T>
+<T>
+SPEED
+Come you, you lunatic, Ill go to the pub with you soon, where you can have five thousand welcomes for five pence. But tell me, pal, how did your master say goodbye to Madame Julia?
+</T>
+<T>
+LANCE
+You know, after they said their earnest goodbyes, they parted with a few jokes.
+</T>
+<T>
+SPEED
+But will she marry him?
+</T>
+<T>
+LANCE
+No.
+</T>
+<T>
+SPEED
+What then? Will he marry her?
+</T>
+<T>
+LANCE
+No, not that either.
+</T>
+<T>
+SPEED
+What, have they broken up?
+</T>
+<T>
+LANCE
+No, theyre as whole as ever.
+</T>
+<T>
+SPEED
+Well, then, where do they stand on the matter?
+</T>
+<T>
+LANCE
+Indeed, thats the way it is: when he stands erect, hes in good standing with her.
+</T>
+<T>
+SPEED
+What an ass you are! I dont understand you.
+</T>
+<T>
+LANCE
+What a blockhead you are, since you cant understand me! My wooden staff understands me.
+</T>
+<T>
+SPEED
+What are you talking about?
+</T>
+<T>
+LANCE
+Yes, and its what I do, too. Look hereI simply have to lean, and my staff understands me.
+</T>
+<T>
+SPEED
+It stands under you, indeed.
+</T>
+<T>
+LANCE
+Well, standing-under, under-standingits all the same.
+</T>
+<T>
+SPEED
+But tell me honestly, will they get married?
+</T>
+<T>
+LANCE
+Ask my dog. If he says yes, then they will. If he says no, then they will. If he shakes his tail and says nothing, then they will.
+</T>
+<T>
+SPEED
+So no matter what then, they will get married.
+</T>
+<T>
+LANCE
+Youll never get me to reveal the secret except in riddles.
+</T>
+<T>
+SPEED
+Its best that I find out that way. But, Lance, what can you tell me about the fact that my master has become a well-known lover?
+</T>
+<T>
+LANCE
+I never knew him otherwise.
+</T>
+<T>
+SPEED
+Than what?
+</T>
+<T>
+LANCE
+A well-known lubberA big, clumsy oaf.lubberand idiot, as youve told me he is.
+</T>
+<T>
+SPEED
+Why, you jackass son of a whoreThis term was often used jokingly.son of a whore! You misunderstand me.
+</T>
+<T>
+LANCE
+Why, fool, I didnt mean you. I meant your master.
+</T>
+<T>
+SPEED
+I tell you, my master has become an excellent lover.
+</T>
+<T>
+LANCE
+Well, I tell you that I dont really care, even if he burns himself from being so hot in love. Come with me to the pub if you will. If not, then youre a Hebrew, a Jew, and not worthy to be called a Christian.
+</T>
+<T>
+SPEED
+Why?
+</T>
+<T>
+LANCE
+Because you dont even have enough compassion in you to go to the churchs ale festivalA charitable festival in which ale was sold and the proceeds helped the church or went to the poor.the churchs ale festival with a Christian. So, are you coming?
+</T>
+<T>
+SPEED
+Im at your service.
+</T>
+<T>
+PROTEUS
+If I leave my Julia, Ill break my vow and prove it a lie. If I love the beautiful Sylvia, Ill break my vow. If I wrong my friend, Valentine, Ill very much break my vow. And even that love that made me first declare my devotion provokes me to break my vow three times over. Love made me swear an oath, and love bids me to break it. Oh, sweet, seductive Love, if you have sinned, teach me, your tempted servant, how to pardon that sin. At first, I adored a twinkling star, but now I worship a heavenly sun. Vows made carelessly may be broken with careful thought, and the man who doesnt have the will to teach his mind to trade something bad for something better lacks intelligence. Shame, shame! What a disrespectful tongue I have to call Julia bad, when my tongue has so often praised her superiority with twenty thousand devout oaths of love! I cannot stop loving her, and yet I do. But in ceasing to love her I go to the woman I should love. I lose Julia, and I lose Valentine. If I keep them, then I will lose myself. If I lose them, then Ill gain myself instead of Valentine, and Ill gain Sylvia instead of Julia. I cherish myself more than I cherish any friend, for love of oneself is always most precious. And Sylviawith heaven, which made her white and beautiful, as witnessmakes Julia look like a dark-skinned EthiopianFair skin was part of the European ideal of beauty.dark-skinned Ethiopian. I will forget that Julia is alive, and remember that my love for her is gone. Ill consider Valentine an enemy and focus on Sylvia as a more important friend. I cannot now keep my promise to myself without acting treacherously toward Valentine. Tonight he plans to climb a rope ladder to the heavenly Sylvias bedroom window with me helping as his partner. Now Ill go immediately and inform her father of their secret and their plan to run away. He will be enraged and will banish Valentine, because he intends Thurio to marry his daughter. With Valentine gone, Ill ruin stupid Thurios plans with some sly trick. Love, lend me wings so that I may accomplish my aims quickly, as youve lent me cleverness to plot this scheme!
+</T>
+<T>
+JULIA
+I need your advice, Lucetta. Kind girl, help me. And even in kind love I ask you to help me. You are my drawing board where all my thoughts can be visibly laid out and arranged. Teach me and tell me a good way I can make a journey to my loving Proteus with my honor intact.
+</T>
+<T>
+LUCETTA
+Unfortunately, the way is exhausting and long!
+</T>
+<T>
+JULIA
+A truly devoted traveler doesnt fear crossing entire kingdoms with small steps. She who has Loves wings to help her fly will get much less tired, especially when she makes the flight to one who so dear and of such divine perfection as Sir Proteus.
+</T>
+<T>
+LUCETTA
+It would be better if you waited until Proteus returns.
+</T>
+<T>
+JULIA
+Oh, dont you know that his looks are food for my soul? Pity the famine Ive endured by being without that food for so long. If you only knew the inner touch of love, you would as soon try to start a fire with snow as you would try to snuff the loves fire with words.
+</T>
+<T>
+LUCETTA
+I do not seek to snuff your loves hot fire but merely want to reduce the intensity of the fire so that it doesnt burn out of your control.
+</T>
+<T>
+JULIA
+The more you try to smother the fire, the more it burns. A gentle current of water will rage turbulently if blocked, you know. But when the current isnt hindered, it makes a sweet noise over the smooth, shiny stones, giving a gentle kiss to every blade of sedge grass that it passes over on its journey. And so it wanders past many curvy nooks as it heads playfully to the wild ocean. So let me go, and dont hinder my course. Ill be as patient as a gentle stream and enjoy each tiring step, until the last step has brought me to my love. There Ill rest, just like a blessed soul rests in ElysiumThe paradise of Greek myth.Elysium after a tumultuous life.
+</T>
+<T>
+LUCETTA
+But what clothing will you wear on your journey?
+</T>
+<T>
+JULIA
+I wont dress like a woman so that I can prevent the shameless sexual advances of lustful men. Kind Lucetta, outfit me with clothing appropriate for a young man from a good family.
+</T>
+<T>
+LUCETTA
+Well, then, your ladyship must cut your hair.
+</T>
+<T>
+JULIA
+No, girl, Ill tie it up in strange knots with silk ribbons. Fancy frills would look more appropriate on a young man who is slightly older than Ill appear to be.
+</T>
+<T>
+LUCETTA
+In what style, madame, should I make your pants?
+</T>
+<T>
+JULIA
+Any style that wont make men ask, Tell me, good lord, how big around is the hoop in your hoop skirt? Why, you should make them in whatever style you like best, Lucetta.
+</T>
+<T>
+LUCETTA
+Youll need to wear a cup in your crotch, madame.
+</T>
+<T>
+JULIA
+Not so, Lucetta! That would be ugly.
+</T>
+<T>
+LUCETTA
+Tight leggings, madame, wont be much of a disguise unless you wear a cup.
+</T>
+<T>
+JULIA
+Lucetta, if you love me, let me have whatever you think is the most appropriate and fitting. But tell me, girl, what will people think of me for going on such a risky journey? Im afraid it would make others think less of me.
+</T>
+<T>
+LUCETTA
+If thats what you think, then stay home and dont go.
+</T>
+<T>
+JULIA
+No, I wont stay.
+</T>
+<T>
+LUCETTA
+Then go, and dont worry what others might say. If Proteus is happy with your journey it doesnt matter whos displeased when they find out youve left. Im afraid, though, that he wont be pleased.
+</T>
+<T>
+JULIA
+That is the least of my fears, Lucetta. A thousand oaths, an ocean of tears he cried, and many examples of his infinite love for me guarantee that Proteus will welcome me.
+</T>
+<T>
+LUCETTA
+These are the tricks of deceitful men.
+</T>
+<T>
+JULIA
+Crude men who use them for crude reasons! But more honest stars were in the sky when Proteus was born. He carries out what he says he will, his oaths are prophecies, his love is sincere, his thoughts are pure, his tears are honest messengers sent from his heart, and his heart is as far from lying as heaven is from earth.
+</T>
+<T>
+LUCETTA
+I pray to God he proves to be that way when you see him!
+</T>
+<T>
+JULIA
+Now, if you love me, dont wrong him by doubting his honesty. Earn my love by loving him, and go with me right now to my bedroom to take note of what other items I need for my lovesick journey. All that I own I leave in your care, including my goods, my lands, and my reputation. Now help me leave right away. Come, dont say anything, but lets go immediately. Im impatient from the delay.
+</T>
+<T>
+DUKE
+Sir Thurio, leave us alone a while, please. We have some private matters to discuss.
+</T>
+<T>
+Now tell me, Proteus, why did you want to see me?
+</T>
+<T>
+PROTEUS
+My gracious lord, the rules of friendship require that I keep secret what Im about to reveal to you. But when I think of all youve graciously done for me, undeserving as I am, my duty urges me to divulge what nothing else in the world could pull out of me. You should know, your highness, that Sir Valentine, my friend, intends to run away with your daughter tonight. I was informed of the plot. I know youve decided to marry her to Thurio, whom your lovely daughter hates. And should she be taken away from you this way, it would greatly upset you in your old age. So, for the sake of my duty, I chose to go against my friend and his intended scheme rather than hide it and burden your mind with a pack of sorrows that would weigh you down and send you to an early grave.
+</T>
+<T>
+DUKE
+Proteus, I thank you for your honest concern. In return, ask anything you want of me while I still live. Ive often happened to see this love of theirs for myself, when theyve thought me asleep, and frequently Ive considered forbidding Sir Valentine from seeing her or attending my court. But Ive been afraid my jealousy might be misplaced, and as a result I might needlessly disgrace himIve always disdained foolish impulsiveness. So I treated him kindly, only to learn of this deceitful plot youve just revealed. And, so you know how much I fear this, I make her sleep in one of the upper towers of the castle every night, because I know how impressionable youth can be led astray. I always keep the key myself, so that she cannot be taken away.
+</T>
+<T>
+PROTEUS
+You should know, my noble lord, they have devised a way for him to climb up to her bedroom window and bring her down using a rope ladder. Thats why this young lover has gone away, but hes coming back with it soon, allowing you to intercept him, if you like. But, my good lord, be cunning about it, so that he wont know I told you. It was because of my love for you, not hatred for my friend, that I told you of this plot.
+</T>
+<T>
+DUKE
+I swear on my honor he will never know I learned this information from you.
+</T>
+<T>
+PROTEUS
+Goodbye, my lord. Sir Valentine is coming.
+</T>
+<T>
+DUKE
+Sir Valentine, whats the rush?
+</T>
+<T>
+VALENTINE
+If you please, Your Grace, there is a messenger that waits to take my letters to my friends, and I am on my way to deliver them.
+</T>
+<T>
+DUKE
+Are they very important?
+</T>
+<T>
+VALENTINE
+In essence they describe how healthy and happy I am here in your kingdom.
+</T>
+<T>
+DUKE
+No, then, they dont matter. Stay with me a while. I want to tell you about some affairs that affect me personally, which you must keep secret. Youre surely aware that I have sought to match my friend Sir Thurio with my daughter.
+</T>
+<T>
+VALENTINE
+I know that very well, my lord, and surely the match would be profitable and honorable. Besides, the gentleman is full of virtue, wealth, worth, and qualities fit for a wife such as your beautiful daughter. Can Your Grace not get her to want him for a husband?
+</T>
+<T>
+DUKE
+No, trust me. She is irritable, sullen, difficult, proud, disobedient, stubborn, irresponsible, and neither does she care that she must obey me as my child nor does she fear me as her father. And, may I tell you, after thinking about it, this pride of hers has made me love her less. I once thought she would fulfill her duty and take care of me in my old age, but now Ive resolved to find a new wife and marry my daughter off to whomever will take her. Her beauty will be her dowry, because she doesnt value me or my possessions.
+</T>
+<T>
+VALENTINE
+What part would Your Grace like me to play in this?
+</T>
+<T>
+DUKE
+There is a lady here in Verona whom I love, but she is hard to please and coy and doesnt appreciate my old-fashioned eloquence. Id like you to teach me how to win her over, since I long ago forgot how to court a woman, and besides, times have changed. How should I act in order for her bright eyes to take notice of me?
+</T>
+<T>
+VALENTINE
+Win her with gifts if she doesnt pay attention to words. Jewels, which cant speak, often sway a womans mind more than fast-talking.
+</T>
+<T>
+DUKE
+But she already sneered at one present I sent her.
+</T>
+<T>
+VALENTINE
+A woman will sometimes scorn the very thing that pleases her most. Send her another gift. Never give up, because her initial disdain will make her eventual feelings of love even stronger. If she frowns, its not out of hatred for you but rather to make you love her even more. If she chides you, its not so that youll go away, because the foolsThat is, women.the fools will go crazy if theyre left alone. Dont be offended, whatever she says. By Get out of here, she doesnt really mean, Go away! Flatter and praise women, compliment them, talk about their graces. Even if they have the blackest skin, say they have the faces of angels. In my opinion, any man that has a tongue isnt really a man unless he can use it to win a woman.
+</T>
+<T>
+DUKE
+But the family of the woman Im talking about has promised her to a young, worthy gentleman, and theyve strictly kept her away from other men so that no man can meet with her during the day.
+</T>
+<T>
+VALENTINE
+Why, then I would see her at night.
+</T>
+<T>
+DUKE
+Yes, but the doors are locked and the keys tightly guarded so that no man has access to her at night.
+</T>
+<T>
+VALENTINE
+Whats stopping anyone from entering her room through the window?
+</T>
+<T>
+DUKE
+Her room is high up, far from the ground, and it projects out like a shelf so that one cannot climb it without risking his life.
+</T>
+<T>
+VALENTINE
+Why then, a skillfully made ladder of rope to toss up, with a pair of grappling hooks to anchor it, would work to scale this new Heros towerIn Greek myth, Hero and Leander were lovers. Leander would swim across the Hellespont each night to see her, guided by a light she set at the top of a tower.new Heros tower, allowing another daring Leander to climb it.
+</T>
+<T>
+DUKE
+Now, from one nobleman by birth to another, tell me where I can get such a ladder.
+</T>
+<T>
+VALENTINE
+When would you need to use it? Please, sir, tell me that.
+</T>
+<T>
+DUKE
+Tonight, because Love is like a child that wants everything he sees.
+</T>
+<T>
+VALENTINE
+Ill get you such a ladder by seven oclock.
+</T>
+<T>
+DUKE
+But listen, I will go see her alone. Whats the best way to carry the ladder there?
+</T>
+<T>
+VALENTINE
+It will be so light, my lord, that youll be able to carry it under any size cloak.
+</T>
+<T>
+DUKE
+A cloak as long as yours will do?
+</T>
+<T>
+VALENTINE
+Yes, my lord.
+</T>
+<T>
+DUKE
+Then let me see your cloak. Ill get one of that same length.
+</T>
+<T>
+VALENTINE
+Why, any cloak will work just fine, my lord.
+</T>
+<T>
+DUKE
+How will I get used to wearing a cloak? Please, let me try on your cloak.
+</T>
+<T>
+Whats this letter? What does it say? To Sylvia! And a tool for climbing like the kind you suggested. Ill be so bold as to break the seal.
+</T>
+<T>
+My thoughts are with my Sylvia every night. They are like my slaves, and I send them flying. Oh, I wish that I could come and go to her just as easily, and lie where my thoughts, which cannot feel, are lying. Let my thoughts, which come to you as my messengers, rest in your breast, while I, their king who sent them, curse the luck that has blessed them with such favor. I want to be as fortunate as my slaves. I curse myself, too, because I sent them to the place where I, their lord, should be. Whats this here at the end? Sylvia, this night I will free you. So thats it, and heres the ladder you planned to use. Why, Phaethonfor you are Merops sonIn Greek myth, Phaethon set the world on fire when he accidentally drove the chariot of his father, Helios, the sun god, too close to the earth. The Duke may refer to Valentine as Merops son as a way of calling him an illegitimate child, because even though Phaethons mother was married to Merops, she had Phaethon with Helios.Phaethonfor you are Merops sonwill you try to drive the sun gods chariot and burn the world in your brash idiocy? Will you grasp at the stars because they shine on you, as you grasp at my daughter for favoring you? Go, vulgar intruder, arrogant slave! Flash your fawning smiles on someone in your own class, and know that my patiencewhich is more than you deserveallows you to leave this place. Thank me for this more than youve thanked me for all the favors Ive granted you, which were too many. But if you stay here in my kingdom any longer than it takes to hurry away, then by heaven my anger will be far greater than any love Ive ever felt for my daughter or for you. Get out of here! I will not hear your futile excuses. If you love your life, then youll hurry on your way from here.
+</T>
+<T>
+VALENTINE
+Why not death instead of being tortured alive? To die is to be banished from myself, and Sylvia is my very being. Being banished from her is like being banished from myselfa deadly banishment! What good is light if I cant see Sylvia? What joy is joy if Sylvia isnt nearby? Unless I can be happy to think she is near and live on the mere thought of her perfection. Unless I can be near Sylvia in the night, there is no music in the nightingales singing. Unless I can look on Sylvia in the day, the day doesnt even exist. She is my essence, and Ill cease to exist if Im not cared for, shined upon, valued, and kept alive by her gentle power. I dont run from death if I run from the dukes deadly threats. If I stay here, I am just waiting for death, but if I flee this place, then I flee from life itself.
+</T>
+<T>
+PROTEUS
+Run, boy, run, run, and find him.
+</T>
+<T>
+LANCE
+I found him! I found him!
+</T>
+<T>
+PROTEUS
+What do you see?
+</T>
+<T>
+LANCE
+The man we were looking for. Its a Valentine, down to the last hair.
+</T>
+<T>
+PROTEUS
+Valentine?
+</T>
+<T>
+VALENTINE
+No.
+</T>
+<T>
+PROTEUS
+Who are you then? His ghost?
+</T>
+<T>
+VALENTINE
+Not his ghost either.
+</T>
+<T>
+PROTEUS
+What are you then?
+</T>
+<T>
+VALENTINE
+Nothing.
+</T>
+<T>
+LANCE
+Can nothing speak? Master, should I attack?
+</T>
+<T>
+PROTEUS
+Who would you attack?
+</T>
+<T>
+LANCE
+Nothing.
+</T>
+<T>
+PROTEUS
+Stop, man.
+</T>
+<T>
+LANCE
+But, sir, Im going to attack nothing. Please
+</T>
+<T>
+PROTEUS
+Man, I say stop. Valentine, my friend, lets talk.
+</T>
+<T>
+VALENTINE
+My ears are plugged up and cannot hear good newsthey are already filled with bad news.
+</T>
+<T>
+PROTEUS
+Then Ill stay silent and not tell you, because my news is harsh, uncomfortable to hear, and bad.
+</T>
+<T>
+VALENTINE
+Is Sylvia dead?
+</T>
+<T>
+PROTEUS
+No, Valentine.
+</T>
+<T>
+VALENTINE
+There is no Valentine, indeed, for sacred Sylvia. Has she renounced her love for me?
+</T>
+<T>
+PROTEUS
+No, Valentine.
+</T>
+<T>
+VALENTINE
+Theres no Valentine if Sylvia ever stops loving me. Whats your news?
+</T>
+<T>
+LANCE
+Sir, theres been an announcement that you are banished.
+</T>
+<T>
+PROTEUS
+That you are banished. Oh, thats the news! Banished from here, from Sylvia, and from me, your friend.
+</T>
+<T>
+VALENTINE
+Oh, Ive already had my fill of this awful news, and now hearing more of it will make me sick. Does Sylvia know that Im banished?
+</T>
+<T>
+PROTEUS
+Yes, yes, and shes responded to the sentencewhich, if not revoked, will be enforcedby crying a sea of melting pearls, which some people call tears. She cried them out at the feet of her ill-mannered father, and did so upon her knees, wringing her hands, whose beautiful whiteness appropriately seemed to result from her sorrow. But neither begging on her knees, nor extending her pure hands, nor heaving sad sighs, deep groans, or crying tears that flow like silver streams would move her unsympathetic father to change his order that Valentine must die if captured. Besides, her begging to repeal the order of banishment against you bothered him so much that he ordered her locked away and threatened to keep her there permanently.
+</T>
+<T>
+VALENTINE
+Dont say any more, or the next word you say may kill me! If so, I beg you to whisper it into my ear as a final hymn for my endless misery.
+</T>
+<T>
+PROTEUS
+Stop grieving over things you cant help, and think of ways to fix the things that cause you grief. Time nurtures and breeds all good things. If you stay here, you cant see your love. Besides, staying here will shorten your life. Hope is a lovers crutchwalk forward with it and use it to prop yourself up against despair. Your letters can be here though you are far away, and if you write them to me I will deliver them to the milk-white breast of your love. Now is not the time to complain. Come, Ill escort you through the city gate, and we can talk about everything concerning your love affairs before I part with you. Consider the danger youre in, if not for yourself then for your love of Sylvia, and come along with me!
+</T>
+<T>
+VALENTINE
+Please, Lance, if you see my servant boy, tell him to hurry and meet me at the north gate.
+</T>
+<T>
+PROTEUS
+Go, boy, find him. Come, Valentine.
+</T>
+<T>
+VALENTINE
+Oh, my dear Sylvia! Unlucky Valentine!
+</T>
+<T>
+LANCE
+You know, Im just a fool, but I still have enough brains to think my master is kind of a scoundrel. But its fine if he is a scoundrel if hes only a scoundrel regarding love. No one thinks I am in love, yet I am. But a whole team of horses couldnt tear that secret, or who it is I love, out of me. And yet its a woman, but what kind of woman I wont even say to myself. Its a milkmaid, but shes not a virgin since she has given birthThe term gossips in Shakespeares original language refers to women who assist in childbirth and the people who serve as sponsors in the baptism of a newborn, suggesting that the woman has had a child.since she has given birth. Yet she is a maid, because she is her masters maid and works for wages. She has more abilities than a water spaniel, which is a lot for a simple Christian.
+</T>
+<T>
+Here is a list of all her traits. In the first place, she can fetch and carry. Why, a horse cant do more. No, a horse cant fetch. It can only carry. Therefore, she is better than a horse. Also: she can milk. Look at that! What a sweet virtue for a maid with clean hands.
+</T>
+<T>
+SPEED
+How goes it, Signor Lance? Any news of your mastership?
+</T>
+<T>
+LANCE
+About my masters ship? Well, its at sea.
+</T>
+<T>
+SPEED
+There you go againyou misunderstand me. What news is that, then, on your piece of paper?
+</T>
+<T>
+LANCE
+The darkest news that youve ever heard.
+</T>
+<T>
+SPEED
+Why, man, how dark?
+</T>
+<T>
+LANCE
+Well, as dark as ink.
+</T>
+<T>
+SPEED
+Let me read it.
+</T>
+<T>
+LANCE
+Get away, you blockhead! You cant read.
+</T>
+<T>
+SPEED
+You lie. I can.
+</T>
+<T>
+LANCE
+Ill test you. Tell me: who conceived you?
+</T>
+<T>
+SPEED
+The son of my grandfather, of course.
+</T>
+<T>
+LANCE
+Oh, illiterate loafer! It was the son of your grandmother. This proves that you cannot read.
+</T>
+<T>
+SPEED
+Come on, fool, come on. Test me with the paper.
+</T>
+<T>
+LANCE
+(giving him the paper) There, and Saint NicholasPatron saint of scholars and schoolchildren.Saint Nicholas protect you!
+</T>
+<T>
+SPEED
+(reads) In the first place, she can milk.
+</T>
+<T>
+LANCE
+Yes, that she can.
+</T>
+<T>
+SPEED
+Also: she can brew good beer.
+</T>
+<T>
+LANCE
+And thats where the proverb comes inBlessing of your heart, you brew good ale.
+</T>
+<T>
+SPEED
+Also: she can sew.
+</T>
+<T>
+LANCE
+To that I say, Can she so?
+</T>
+<T>
+SPEED
+Also: she can knit.
+</T>
+<T>
+LANCE
+What does a man care if a girls dowry doesnt include stockings, when she can knit him a stocking?
+</T>
+<T>
+SPEED
+Also: she can wash and scour.
+</T>
+<T>
+LANCE
+Thats a special virtue, because then she doesnt need to be washed and scoured to keep her in lineWashed and scoured was a slang phrase meaning knocked down and beaten.washed and scoured to keep her in line.
+</T>
+<T>
+SPEED
+Also: she can spin yarn.
+</T>
+<T>
+LANCE
+Then I can take it easy, since she can spin for a living.
+</T>
+<T>
+SPEED
+Also: she has many virtues that cant be named.
+</T>
+<T>
+LANCE
+Thats the same as saying theyre bastard virtues that dont know their fathers and therefore have no names.
+</T>
+<T>
+SPEED
+Now comes a list of her vices.
+</T>
+<T>
+LANCE
+Following right behind her virtues.
+</T>
+<T>
+SPEED
+Also: she is not to be kissed while fasting, because of her bad breath.
+</T>
+<T>
+LANCE
+Well, that fault can be fixed with some breakfast. Read on.
+</T>
+<T>
+SPEED
+Also: she has a sweet tooth.
+</T>
+<T>
+LANCE
+That makes up for her sour breath.
+</T>
+<T>
+SPEED
+Also: she talks in her sleep.
+</T>
+<T>
+LANCE
+That doesnt matter, as long as she doesnt sleep while she talks.
+</T>
+<T>
+SPEED
+Also: she is slow with words.
+</T>
+<T>
+LANCE
+What a scoundrel who listed this among her vices! To speak little is a womans only virtue! Please, cross that out and list it as her chief virtue.
+</T>
+<T>
+SPEED
+Also: she is proud.
+</T>
+<T>
+LANCE
+Cross that out, too. It was Eves legacy to all women, so it cant be taken from her.
+</T>
+<T>
+SPEED
+Also: she has no teeth.
+</T>
+<T>
+LANCE
+I dont care about that either, because I love gums.
+</T>
+<T>
+SPEED
+Also: shes a bitch.
+</T>
+<T>
+LANCE
+Well, at least she has no teeth with which to bite.
+</T>
+<T>
+SPEED
+Also: she will taste and appraise her liquor before buying it.
+</T>
+<T>
+LANCE
+If her liquor is good, then she should. And if she wont, I will, because good things should be praised.
+</T>
+<T>
+SPEED
+Also: she is too loose.
+</T>
+<T>
+LANCE
+That cant mean her tongue, since its already written down that shes slow with words. And it isnt about her purse, because Ill keep that shut. Now she may be loose in another way, and that I cant help. Well, keep going.
+</T>
+<T>
+SPEED
+Also: she has more hair than brains, and more faults than hair, and more wealth than faults.
+</T>
+<T>
+LANCE
+Stop right there. Ill take her. She was mine and then not mine two or three times in that last item. Repeat it once more.
+</T>
+<T>
+SPEED
+Also: she has more hair than brains
+</T>
+<T>
+LANCE
+More hair than brains? Maybe thats so. Ill prove it. The top of a saltshaker hides the salt, so therefore it is more than the salt. The hair that covers the brains is more than the brains, because the larger thing hides the smaller thing. Okay, whats next?
+</T>
+<T>
+SPEED
+And more faults than hair
+</T>
+<T>
+LANCE
+Thats awful. Oh, I wish that werent on the list!
+</T>
+<T>
+SPEED
+And more wealth than the faults.
+</T>
+<T>
+LANCE
+Why, that line makes the many faults a good thing. Well, Ill have her. If it is a good match, since nothing is impossible
+</T>
+<T>
+SPEED
+What then?
+</T>
+<T>
+LANCE
+Why, then Ill tell you that your master is waiting for you at the north gate.
+</T>
+<T>
+SPEED
+For me?
+</T>
+<T>
+LANCE
+For you? Yeah, who are you? Hes been waiting for a better man than you.
+</T>
+<T>
+SPEED
+And I have to go to him?
+</T>
+<T>
+LANCE
+You must run to him, because you have stayed so long that simply walking isnt going to cut it.
+</T>
+<T>
+SPEED
+Why didnt you tell me sooner? A disease take your love letters!
+</T>
+<T>
+LANCE
+Now hell get beaten for reading my letter. What a rude slave for having stuck his nose in someone elses secrets. Ill follow after him, to rejoice in seeing his master whip him.
+</T>
+<T>
+DUKE
+Sir Thurio, dont worry. She is sure to love you now that Valentine has been banished from her sight.
+</T>
+<T>
+THURIO
+Since his exile she has despised me even more, she has refused to be around me, and she has condemned me, so that I have no hope of winning her.
+</T>
+<T>
+DUKE
+The weak impression love makes on the heart is like an ice sculpture, which melts into water and loses its form after being exposed to heat for just an hour. A little time will ease her disdain, and worthless Valentine will be forgotten.
+</T>
+<T>
+Hows it going, Sir Proteus? Is your countryman gone, as our proclamation commands?
+</T>
+<T>
+PROTEUS
+Hes gone, my good lord.
+</T>
+<T>
+DUKE
+My daughter is upset over his departure.
+</T>
+<T>
+PROTEUS
+A little time, my lord, will kill that grief.
+</T>
+<T>
+DUKE
+Thats what I believe, too, but Thurio doesnt think so. Proteus, the high esteem I have for youfor youve shown me that you deserve itmakes me more inclined to discuss this matter with you.
+</T>
+<T>
+PROTEUS
+Let me die if I ever live to see the day I am disloyal to Your Grace.
+</T>
+<T>
+DUKE
+You know how much I would like to arrange a marriage between Sir Thurio and my daughter.
+</T>
+<T>
+PROTEUS
+I do, my lord.
+</T>
+<T>
+DUKE
+And also, I think, youre aware that she refuses to obey my will?
+</T>
+<T>
+PROTEUS
+She refused when Valentine was here, my lord.
+</T>
+<T>
+DUKE
+Yes, and oddly enough she continues to oppose me. What can we do to make this girl forget her love for Valentine and love Sir Thurio?
+</T>
+<T>
+PROTEUS
+The best way is to slander Valentine and make up lies about his infidelity, cowardice, and poor parentagethree things women strongly hate.
+</T>
+<T>
+DUKE
+Yes, but shell think these things are only said out of hatred for him.
+</T>
+<T>
+PROTEUS
+Yes, if his enemy tells her these things. Therefore, someone she believes to be his friend must tell her the details.
+</T>
+<T>
+DUKE
+Then you must make it your job to slander him.
+</T>
+<T>
+PROTEUS
+I would hate to do that, my lord. Its a job unsuitable for a gentleman, especially against his own friend.
+</T>
+<T>
+DUKE
+If your praise cant help him, then your slander cant do him any harm. Therefore the task is neither good nor bad, since I, your friend, ask you to do it.
+</T>
+<T>
+PROTEUS
+Youve convinced me, my lord. If I do what I can to speak against him, she wont love him much longer. But even if she stops loving Valentine, it doesnt mean she will love Sir Thurio.
+</T>
+<T>
+THURIO
+So, as you break down her love for him, you must build it back up around me, so that it doesnt come apart and become useless to everyone. You must do this by praising me as much as you dispraise Sir Valentine.
+</T>
+<T>
+DUKE
+And, Proteus, we feel we can trust you with this task because we know, from what Valentine told us, that youre already in love and cant quickly fall out of love. For this reason you will be allowed to speak to Sylvia as you like. She is sad, sullen, and melancholy, and shell be happy to see you because youre close to Valentine. Then you can shape her by your persuasion to hate young Valentine and love my friend, Sir Thurio.
+</T>
+<T>
+PROTEUS
+I will do as much as I can. But you, Sir Thurio, arent doing enough to win her. To entice her and capture her desires, you must write sonnets whose well-crafted rhymes should be filled with vows of devotion.
+</T>
+<T>
+DUKE
+Yes, poetry bred by heaven is very powerful.
+</T>
+<T>
+PROTEUS
+Say that you sacrifice your tears, your sighs, and your heart on the altar of her beauty. Write until your ink dries up and then moisten it again with your tears, and craft some emotional line that reveals your sincerityafter all, Orpheuss luteIn Greek myth, Orpheus was known as such a masterful musician that animals and even inanimate objects would follow him. He played the lute, a stringed instrument played by plucking.Orpheuss lute was made from the same stuff as poetry and could soften steel and stones, make tigers tame, and cause huge whales to leave the deep ocean and dance on the sand. After you give her your love poems, go to her bedroom window at night with a group of musicians. While they play, sing a sad melody, and the silent night will enhance such sweet heartsick yearning. If that doesnt win her, nothing will.
+</T>
+<T>
+DUKE
+Your instructions show that youve been in love before.
+</T>
+<T>
+THURIO
+And Ill act on your advice tonight. Therefore, good Proteus, my guide, lets go into the city to find some gentlemen skilled at playing instruments. I have a sonnet that will work to set your plan into action.
+</T>
+<T>
+DUKE
+Lets do it, gentlemen!
+</T>
+<T>
+PROTEUS
+Well visit Your Grace after supper and then determine our next move.
+</T>
+<T>
+DUKE
+Like I said, lets do it! Youre excused.
+</T>
+<T>
+FIRST OUTLAW
+Men, get ready. I see a traveler.
+</T>
+<T>
+SECOND OUTLAW
+Even if there are ten of them, dont back down. Take them down.
+</T>
+<T>
+THIRD OUTLAW
+Stop, sir! Give us what you have on you. If you dont, well make you sit and well search you.
+</T>
+<T>
+SPEED
+Sir, were ruined. These are the bandits that all the travelers in this area fear so much.
+</T>
+<T>
+VALENTINE
+My friends
+</T>
+<T>
+FIRST OUTLAW
+Thats not how it is, sir. We are your enemies.
+</T>
+<T>
+SECOND OUTLAW
+Quiet! Lets hear him out.
+</T>
+<T>
+THIRD OUTLAW
+Yeah, by the hair on my chin well hear him out, because he is a handsome man.
+</T>
+<T>
+VALENTINE
+You should know that I have little wealth to lose. I am a man whos been struck by hardship. My only riches are these poor clothes Im wearing, and if you take them then you take the sum total of everything I own.
+</T>
+<T>
+SECOND OUTLAW
+Where are you going?
+</T>
+<T>
+VALENTINE
+To Verona.
+</T>
+<T>
+FIRST OUTLAW
+Where did you come from?
+</T>
+<T>
+VALENTINE
+From Milan.
+</T>
+<T>
+THIRD OUTLAW
+How long were you there?
+</T>
+<T>
+VALENTINE
+About sixteen months, and I might have stayed longer if bad luck hadnt thwarted me.
+</T>
+<T>
+FIRST OUTLAW
+What! Were you banished?
+</T>
+<T>
+VALENTINE
+I was.
+</T>
+<T>
+SECOND OUTLAW
+For what crime?
+</T>
+<T>
+VALENTINE
+For something that now hurts me to repeat: I killed a man, whose death I greatly regret, even though I killed him in a fair fight without deceit or wicked treachery.
+</T>
+<T>
+FIRST OUTLAW
+Why, never regret it if thats the way it happened. Were you really banished for such a small offense?
+</T>
+<T>
+VALENTINE
+I was, and was grateful to have just been banished.
+</T>
+<T>
+SECOND OUTLAW
+Do you speak any other languages?
+</T>
+<T>
+VALENTINE
+I traveled when I was young, which made me happy. Otherwise, I would have been miserable.
+</T>
+<T>
+THIRD OUTLAW
+By the bald head of Robin Hoods fat Friar Tuck! This fellow would make a great king for our group of bandits!
+</T>
+<T>
+FIRST OUTLAW
+Well take him. Sirs, a word with you all.
+</T>
+<T>
+SPEED
+Master, become one of them. Its an honorable kind of thievery.
+</T>
+<T>
+VALENTINE
+Quiet, rascal!
+</T>
+<T>
+SECOND OUTLAW
+(returning to Valentine) Tell us this: do you have any way to support yourself?
+</T>
+<T>
+VALENTINE
+Nothing but my luck.
+</T>
+<T>
+THIRD OUTLAW
+You should know, then, that some of us are gentlemen who were forced out of respectable society by our unrestrained youth. I myself was banished from Verona for planning to elope with a lady, an heir who was close to the Duke.
+</T>
+<T>
+SECOND OUTLAW
+And I am from Mantua. I stabbed a gentleman in the heart out of anger.
+</T>
+<T>
+FIRST OUTLAW
+And I was banished for such petty crimes like these. But to get to the point, we state our crimes in part because they explain why we live lives of lawlessness, and also partly because seeing that youre attractive, and by your own description a linguist, and since we are in need of a man of such qualities in our profession
+</T>
+<T>
+SECOND OUTLAW
+In fact, because you are a banished man, and for that more than any other reason, wed like to speak to you. Would you like to be our leader, to consider poverty an asset, and live as we do in this forest?
+</T>
+<T>
+THIRD OUTLAW
+What do you say? Will you join our band of highwaymen?
+Say yes, and become our captain. Well respect you, be ruled by you, and love you as our leader and our king.
+</T>
+<T>
+FIRST OUTLAW
+But if you reject our offer you die.
+</T>
+<T>
+SECOND OUTLAW
+You wont live to brag about what weve offered.
+</T>
+<T>
+VALENTINE
+I accept your offer and will live with you, provided that you do not harm any helpless women or poor passengers.
+</T>
+<T>
+THIRD OUTLAW
+No, we detest such vile, wicked practices. Come, go with us. Well take you to the rest of our band and show you all the treasure we have, which along with ourselves is at your disposal.
+</T>
+<T>
+PROTEUS
+Ive already had to lie to Valentine, and now I must be just as unfair to Thurio. Under the guise of praising him, I now have the ability to express my own feelings of love to Sylvia. But Sylvia is too beautiful, too faithful, too holy to be corrupted by my worthless praises. When I declare my loyalty to her, she criticizes me for being false to my friend, Valentine. When I praise her beauty, she tells me to think about how Ive been unfaithful to Julia, whom I once loved. And yet, despite all of her scolding, the least of which could kill a lovers hopes, my love grows and fawns on her like a dog the more she spurns it. But here comes Thurio. Now we must go to her window and play some evening music for her to hear.
+</T>
+<T>
+THURIO
+Hows it going, Sir Proteus? Did you creep over here before us?
+</T>
+<T>
+PROTEUS
+Yes, kind Thurio, because you know that love has to creep where it isnt allowed to walk.
+</T>
+<T>
+THURIO
+Yes, but I hope, sir, that you arent in love in this situation.
+</T>
+<T>
+PROTEUS
+But I am, or else I wouldnt be here.
+</T>
+<T>
+THURIO
+Who are you in love with? Sylvia?
+</T>
+<T>
+PROTEUS
+Yes, Sylviafor your sake.
+</T>
+<T>
+THURIO
+I thank you for your own sake. Now, gentlemen, lets start playing, and be sure to give it all youve got.
+</T>
+<T>
+HOST
+Now, my young guest, it seems to me you feel melancholy. Please tell me, why is it?
+</T>
+<T>
+JULIA
+In fact, my host, its because I cannot be happy.
+</T>
+<T>
+HOST
+Come, well make you happy. Ill take you where you shall hear music and see the gentleman that you asked for.
+</T>
+<T>
+JULIA
+But will I hear him speak?
+</T>
+<T>
+HOST
+Yes, you will.
+</T>
+<T>
+JULIA
+Thats music that I hear.
+</T>
+<T>
+HOST
+Listen! Listen!
+</T>
+<T>
+JULIA
+Is he among these musicians?
+</T>
+<T>
+HOST
+Yes, but be quiet! Lets listen to them.
+</T>
+<T>
+MUSICIAN
+Who is Sylvia? What is she like,
+That all our young men praise her?
+She is holy and fair and wise;
+And Heaven has lent her such grace
+So that she may be admired.
+Is she as kind as she is beautiful?
+Because beauty and kindness are joined.
+Cupid makes visits to her eyes
+To cure him of his blindness,
+And, being cured, he stays there to live.
+Then let us sing to Sylvia,
+That Sylvia is superior.
+She surpasses every mortal thing
+That lives on this dull earth.
+Let us bring her flower garlands.
+</T>
+<T>
+HOST
+Whats this? Are you sadder than you were before? Whats going on, man? You dont like the music?
+</T>
+<T>
+JULIA
+Youre mistaken. The musician doesnt like me.
+</T>
+<T>
+HOST
+Why, my young friend?
+</T>
+<T>
+JULIA
+He is being false, sir.
+</T>
+<T>
+HOST
+How so? Are his instruments strings out of tune?
+</T>
+<T>
+JULIA
+No, but hes being so false that it hurts my very heartstrings.
+</T>
+<T>
+HOST
+You have a good ear.
+</T>
+<T>
+JULIA
+Yes, but I wish I were deaf. It makes my heart sad.
+</T>
+<T>
+HOST
+I see you dont enjoy listening to music.
+</T>
+<T>
+JULIA
+Not at all, when it sounds so awful.
+</T>
+<T>
+HOST
+Listen, how they change their tune!
+</T>
+<T>
+JULIA
+Yes, that change is the problem.
+</T>
+<T>
+HOST
+Would you prefer that they always play just one thing?
+</T>
+<T>
+JULIA
+I would always have one of them play only one song. But, host, does this Sir Proteus were talking about often go to this lady?
+</T>
+<T>
+HOST
+Ill tell you what Lance, his servant, told me: he loved her more than anything.
+</T>
+<T>
+JULIA
+Where is Lance?
+</T>
+<T>
+HOST
+Gone to find his dog, which he must deliver as a present to Sylvia tomorrow upon his masters command.
+</T>
+<T>
+JULIA
+Quiet! Step aside. The musicians are leaving.
+</T>
+<T>
+PROTEUS
+Sir Thurio, dont worry. I will plead to Sylvia so effectively that youll say my cunning scheme is excellent.
+</T>
+<T>
+THURIO
+Where will we meet?
+</T>
+<T>
+PROTEUS
+At Saint Gregorys well.
+</T>
+<T>
+THURIO
+Farewell.
+</T>
+<T>
+PROTEUS
+Madame, good evening to your ladyship.
+</T>
+<T>
+SYLVIA
+I thank you for your music, sir. Who is that who spoke?
+</T>
+<T>
+PROTEUS
+Someone, lady, whom you would quickly learn to recognize by his voice if you knew how he truly felt.
+</T>
+<T>
+SYLVIA
+Sir Proteus, I take it.
+</T>
+<T>
+PROTEUS
+Sir Proteus, gentle lady, and also your servant.
+</T>
+<T>
+SYLVIA
+What do you want?
+</T>
+<T>
+PROTEUS
+For you to want me.
+</T>
+<T>
+SYLVIA
+Then you have your wish. I want this of you: that you take yourself home to bed. You sly, lying, false, disloyal man! Do you think Im so shallow, so stupid, that you can seduce me with your flattery when youve deceived so many others with your vows? Go back, go back, and apologize to your love. I swear on the moon, I am so far from granting your request that I despise you for your misguided plea. In a moment I intend to scold myself for spending even this much time talking to you.
+</T>
+<T>
+PROTEUS
+I admit, sweet love, that I did love a lady. But she is dead.
+</T>
+<T>
+JULIA
+(aside) Thats false, if I do say so myself, because Im sure shes not dead and buried.
+</T>
+<T>
+SYLVIA
+Even if she is dead, Valentineyour friendis still alive, and you know that Im betrothed to him. Arent you ashamed to wrong him with your disrespect?
+</T>
+<T>
+PROTEUS
+I also hear that Valentine is dead.
+</T>
+<T>
+SYLVIA
+Then consider me dead, too, because you can be sure my love is buried with him in his grave.
+</T>
+<T>
+PROTEUS
+Sweet lady, let me dig up your love from the earth.
+</T>
+<T>
+SYLVIA
+Go to your ladys grave and dig up her love then. Or at least bury yours in her tomb.
+</T>
+<T>
+JULIA
+(aside) He didnt hear that.
+</T>
+<T>
+PROTEUS
+Madame, if your heart is so stubborn, at least indulge my love by giving me a portrait of yourselfthe picture that is hanging in your bedroom. Ill speak, sigh, and weep to that. Since you are completely devoted to someone else, I am nothing, and therefore I will love your image and not you.
+</T>
+<T>
+JULIA
+(aside) If it were a real woman you would certainly deceive her and make her into nothing, just as I am nothing now.
+</T>
+<T>
+SYLVIA
+I dont want to be your idol, sir. But since its appropriate that your deceiving self should worship shadows and adore images rather than the real thing, send your servant to me in the morning, and Ill send you the portrait. So go on, and good night.
+</T>
+<T>
+PROTEUS
+Ill have as good a night as the condemned man who awaits execution in the morning.
+</T>
+<T>
+JULIA
+Host, are you leaving?
+</T>
+<T>
+HOST
+My goodness, I was fast asleep.
+</T>
+<T>
+JULIA
+Please, where is Sir Proteus staying?
+</T>
+<T>
+HOST
+Why, at my house. Oh my word, I think its almost dawn.
+</T>
+<T>
+JULIA
+No, it isnt. Its been the longest night Ive ever had, and the saddest.
+</T>
+<T>
+EGLAMOUR
+This is the time that Madame Sylvia asked me to come by so that she could tell me something. Theres an important matter shed like my help with. Madame! Madame!
+</T>
+<T>
+SYLVIA
+Whos there?
+</T>
+<T>
+EGLAMOUR
+Your servant and your friendone that is here to obey your ladyships orders.
+</T>
+<T>
+SYLVIA
+Sir Eglamour, good morning a thousand times over.
+</T>
+<T>
+EGLAMOUR
+As many to you, my worthy lady. Ive come as your ladyship asked and have arrived a little early to find out what youd like me to do for you.
+</T>
+<T>
+SYLVIA
+Oh, Eglamour, you are a gentleman, valiant, wise, and very successful. Dont think Im trying to flatter you, because I swear Im not. Im sure you know how dearly I feel about the banished Valentine, and how my father wants to force me to marry that conceited Thurio, whom I hate down to my very soul. Youve been in love before, and Ive heard you say youve never experienced more grief than when your lady and true love died. You swore a vow of chastity on her grave. Sir Eglamour, I want to go to Valentine in Mantua, where I hear he is living. Because the journey there is a dangerous one, Id like you to accompany me, as I trust in your faith and honor. Dont use my fathers anger as an excuse, Eglamour, but think about my griefa ladys griefand about why its fair that I run away to avoid this terrible marriage, the kind heaven always afflicts with problems. Even though my heart is as full of sorrow as the sea is full of sand, I want you to keep me company and go with me. If you dont want to go, then please dont reveal what Ive said to you, so that I can leave without anyone knowing.
+</T>
+<T>
+EGLAMOUR
+Madame, I pity you for your grievances. Since I know they are legitimate, I agree to go along with you. Im not concerned what may happen to me, and I wish you the best of luck. When will you go?
+</T>
+<T>
+SYLVIA
+This evening.
+</T>
+<T>
+EGLAMOUR
+Where should I meet you?
+</T>
+<T>
+SYLVIA
+At Friar Patricks chambers, where I intend to take holy confession.
+</T>
+<T>
+EGLAMOUR
+I wont fail you, your ladyship. Good day, gentle lady.
+</T>
+<T>
+SYLVIA
+Good day, kind Sir Eglamour.
+</T>
+<T>
+LANCE
+When a mans pet behaves like a stupid mongrel, mind you, its hard to takea dog that I brought up from a puppy, one that I saved from drowning when three or four of his newborn brothers and sisters were drowned. I have trained him quite literally as I would teach a dog, as the saying goes. I was sent to deliver him as a present to Mistress Sylvia from my master, but no sooner had I stepped into the dining room than he ran ahead of me to the plate and stole her drumstick. Oh, it is a foul thing when a mongrel cant behave himself in front of company! It seems I have a dog that tries to be a dog indeeddog-gone good at all things, as one would say. If I hadnt had the brains to take the blame for what hed done, I honestly think he would have been hanged for it. As sure as Im alive he would have been punished for it. You be the judge. He thrusts himself under the dukes table and into the company of three or four fancier dogs. He hadnt been there a second or two before everyone in the whole room could smell his pisspardon my French! Out with the dog! says one person; What mangy mutt is that? asks another. Whip him, says a third. Hang him! says the duke. I, having smelled that smell before, knew it was Crab, so I went to the fellow whose job it is to whip the dogs. Friend, I said, are you going to whip the dog? Yes, in fact, I am, he replied. Then youre doing him a great injustice, I answered back, because it was I who peed all over the place. He didnt say anything else but just whipped me out of the room. How many masters would do this for their pets? No, I swear Ive sat in the stocks for meat pies he has stolenotherwise he would have been executed. I have stood on the pillory for geese he has killedotherwise he would have suffered the consequences. You dont remember any of this now, do you, Crab? No, I remember the trick you pulled on me when I said goodbye to Madame Sylvia. Didnt I tell you that you should still obey me and do as I do? When did you ever see me lift up my leg and urinate on a noble womans undergarments? Did you ever see me do such a thing?
+</T>
+<T>
+PROTEUS
+(to Julia) Your name is Sebastian, right? I like you, and Id like to hire you for a job I need done.
+</T>
+<T>
+JULIA
+Name it. Ill do what I can.
+</T>
+<T>
+PROTEUS
+I hope you will.
+</T>
+<T>
+Hows it going, you poor son of a bitch? Where have you been hanging around these past two days?
+</T>
+<T>
+LANCE
+Well, sir, I brought the dog to Mistress Sylvia, as you instructed.
+</T>
+<T>
+PROTEUS
+What did she say about my little jewel of a gift?
+</T>
+<T>
+LANCE
+Actually, she said your dog was a mongrel and said that a shabby thanks is good enough for such a present.
+</T>
+<T>
+PROTEUS
+But she accepted my dog?
+</T>
+<T>
+LANCE
+No, indeed, she didnt. Here, Ive brought him back again.
+</T>
+<T>
+PROTEUS
+What, did you offer her this mutt from me?
+</T>
+<T>
+LANCE
+Yes, sir. The other runt was stolen from me by a gang of boys in the marketplace. So, I offered her my own, which is a bigger dog than ten of your little dogs, and so a better gift.
+</T>
+<T>
+PROTEUS
+Go on and get out of here, and find my dog again, or never let me see you again. Away, I say! Are you staying here to make me angry?
+</T>
+<T>
+What a scoundrel, who never fails to disgrace me! Sebastian, Ive hired you partly because I have need of a young man who can take care of some business for me quietly, and theres no trusting that foolish lout Lance. But Ive chiefly hired you for the way you look and act, which if my intuition doesnt deceive me mean you are honest, lucky, and have been brought up well. Know that this is why I hired you. Now go, and take this ring with you.
+</T>
+<T>
+The woman who gave it to me loved me very much. Deliver it to Madame Sylvia.
+</T>
+<T>
+JULIA
+It seems you didnt love her if youre giving away her gift. Is she dead?
+</T>
+<T>
+PROTEUS
+No. I think shes alive.
+</T>
+<T>
+JULIA
+Oh no!
+</T>
+<T>
+PROTEUS
+Why do you cry Oh no!?
+</T>
+<T>
+JULIA
+I cant help but feel sorry for her.
+</T>
+<T>
+PROTEUS
+Why would you feel sorry for her?
+</T>
+<T>
+JULIA
+Because I suspect she loved you as much as you love your lady Sylvia. She dreams of that man who has forgotten her love. You dote on a woman who doesnt care for your love. Its a pity love is so difficult, and thinking about it makes me cry Oh no!
+</T>
+<T>
+PROTEUS
+Well, give her that ring and with it this letter. (giving a letter) Thats her room. Tell her I want the heavenly picture she promised me. When youve finished delivering the message, return home to my room, where youll find me sad and alone.
+</T>
+<T>
+JULIA
+How many women would deliver such a message? Too bad, poor Proteus! Youve hired a fox to be the shepherd of your lambs. Why, poor fool that I am, do I pity the man who despises me? He despises me because he loves her, and I feel sorry for him because I love him. This is the ring I gave him when he left, and it was to remind him always of my feelings. And now Im an unhappy messenger who is supposed to ask for the picture I dont want him to have, to deliver the ring I want Sylvia to refuse, and to praise his loyalty, which I want to disparage. I am my masters true love, but I cant be a loyal servant to my master without being a traitor to myself. Still Ill woo Sylvia for him, but heaven knows Ill do it coldly, because I dont want him to win her.
+</T>
+<T>
+Gentlewoman, good day! Would you please take me to Madame Sylvia so that I may speak with her?
+</T>
+<T>
+SYLVIA
+What do you want with her, assuming I am she?
+</T>
+<T>
+JULIA
+If you are she, I ask your patience to hear me deliver the message Ive been instructed to bring you.
+</T>
+<T>
+SYLVIA
+From whom?
+</T>
+<T>
+JULIA
+From my master, Sir Proteus, madam.
+</T>
+<T>
+SYLVIA
+Oh, did he send you for a picture of me?
+</T>
+<T>
+JULIA
+Yes, madame.
+</T>
+<T>
+SYLVIA
+Ursula, bring my picture there.
+</T>
+<T>
+Go, give your master this. Tell him from me that a woman named Julia, whom his fickle heart has forgotten, would be more appropriate for his bedroom than this image of me.
+</T>
+<T>
+JULIA
+Madame, please read this letter.
+</T>
+<T>
+Pardon me, madameI accidentally gave you a paper I shouldnt have.
+</T>
+<T>
+This is the letter for your ladyship.
+</T>
+<T>
+SYLVIA
+Please, let me look at that other letter again.
+</T>
+<T>
+JULIA
+I cant do that. Forgive me, good madam.
+</T>
+<T>
+SYLVIA
+Wait, stop! I will not look at your masters letter. I know it is filled with vows and full of newly made oaths, which he will break as easily as I tear up his letter.
+</T>
+<T>
+JULIA
+(offering the ring) Madame, he sends your ladyship this ring.
+</T>
+<T>
+SYLVIA
+He should be even more ashamed for sending it to me, since I have heard him say a thousand times that his love Julia gave it to him when he departed. Even though his deceitful finger has sullied the ring, my finger will not mistreat Julia so much.
+</T>
+<T>
+JULIA
+She thanks you.
+</T>
+<T>
+SYLVIA
+What did you say?
+</T>
+<T>
+JULIA
+I thank you, madam, that you consider her feelings. Poor gentlewoman! My master mistreats her very much.
+</T>
+<T>
+SYLVIA
+Do you know her?
+</T>
+<T>
+JULIA
+Almost as well as I know myself. I swear Ive wept several hundred times thinking about her sorrows.
+</T>
+<T>
+SYLVIA
+She probably thinks that Proteus has rejected her.
+</T>
+<T>
+JULIA
+I think she does, and thats the cause of her sorrow.
+</T>
+<T>
+SYLVIA
+Isnt she very beautiful?
+</T>
+<T>
+JULIA
+She has been more beautiful, madam, than she is now. When she thought my master loved her deeply, she was as beautiful as you, in my opinion. But since she no longer takes care of her appearance and has thrown her sunblocking maskA mask worn by women to keep the sun off their faces.sunblocking mask away, the air has taken the rosiness from her cheeks and stolen the whiteness from her face, so that now she is as ugly as I am.
+</T>
+<T>
+SYLVIA
+How tall was she?
+</T>
+<T>
+JULIA
+About my height. When we put on a pageant at PentecostA religious holiday period that followed seven weeks after Easter.Pentecost, the young men got me to play the part of a woman, and I was dressed in Madam Julias gown, which everyone said fit me very well, as if the garment had been made for me. Therefore, I know she is about my height. And at the time I made her cry a lot, because I played a really sad partI was AriadneIn Greek myth, Ariadne fell in love with Theseus and promised to help him find his way out of the Minotaurs labrynth if he would take her to Athens and marry her. But on the way, Theseus abandoned her, either accidentally or deliberately depending on the account.Ariadne, Madame, suffering from Theseus lies and unfair departure. I acted the part so convincingly with my tears that poor Julia, moved with the performance, wept bitterly. I would wish I were dead if I didnt feel her very sorrow!
+</T>
+<T>
+SYLVIA
+She is indebted to you, young man. Such a shamethe poor lady, desolate and abandoned! I weep myself just hearing your story. Here, young man, there is my purse.
+</T>
+<T>
+I give this to you for your sweet mistresses sake, because you love her. Farewell.
+</T>
+<T>
+JULIA
+And she will thank you for it, if you ever meet her. A virtuous gentlewoman, kind and beautiful! I hope my masters endeavors to win her love will fail since she respects the love I feel for him so much. Its too bad how love can fool itself! Here is her picture.
+</T>
+<T>
+Let me see, I think if I had a similar headdress my face would be as lovely as hers. And yet the painter made her prettier than she is, unless I flatter myself too much in thinking Im as pretty. Her hair is auburn, while mine is perfect yellow. If thats the only thing he likes better about her, then Ill get myself a blond wig. Her eyes are as gray as glass, and so are mine. Yes, but her foreheads low, and mine is as high as hers is low. If Love is really blind, what does he value in her that I cant make him value in myself? Lets go, Sebastian. Lets go and get rid of this picture, since its your rival.
+</T>
+<T>
+Oh you unfeeling image, youll be worshipped, kissed, loved, and adored! Were there any sense in his worship, it would be the real me he worships instead. Ill treat this picture kindly for the sake of its mistress, who treated me so well. Otherwise, by Jove, I would have scratched out your unseeing eyes to make my master fall out of love with you!
+</T>
+<T>
+EGLAMOUR
+The setting sun begins to color the western sky, and now its almost the time that Sylvia is supposed to meet me at Friar Patricks chamber. She will not fail, because those who are in love are always on time, unless they arrive early to speed up their progress.
+</T>
+<T>
+See, here she comes now. Good evening, my lady!
+</T>
+<T>
+SYLVIA
+Thank God, thank God! Go on, my good Eglamour. Go out to the back door by the abbey wall. Im afraid some spies have followed me.
+</T>
+<T>
+EGLAMOUR
+Dont worry. The forest is less than nine miles away. If we make it there, we are safe.
+</T>
+<T>
+THURIO
+Sir Proteus, what does Sylvia have to say about my declarations of love for her?
+</T>
+<T>
+PROTEUS
+Oh, sir, shes not as cold as she used to be, though she still objects to you.
+</T>
+<T>
+THURIO
+What, because my leg is too long?
+</T>
+<T>
+PROTEUS
+No, because its too skinny.
+</T>
+<T>
+THURIO
+Ill wear a boot with spurs, then, to make it look thicker.
+</T>
+<T>
+JULIA
+(aside) But love cant be spurred to like what it hates.
+</T>
+<T>
+THURIO
+What does she have to say about my face?
+</T>
+<T>
+PROTEUS
+She says it is an attractive one.
+</T>
+<T>
+THURIO
+No, then, shes lyingmy face is ugly.
+</T>
+<T>
+PROTEUS
+But pearls are beautiful, and the old saying is that ugly men are pearls in beautiful womens eyes.
+</T>
+<T>
+JULIA
+(aside) Its truethe kind of pearls that make ladies go blindMeaning cataracts, a condition in which the lens of the eye grows opaque and white, blurring vision and making the eye somewhat resemble a pearl.pearls that make ladies go blind. Id rather shut my eyes than look at them.
+</T>
+<T>
+THURIO
+How does she like my conversation?
+</T>
+<T>
+PROTEUS
+Not much, when you talk about war.
+</T>
+<T>
+THURIO
+But she likes it when I talk about love and peace?
+</T>
+<T>
+JULIA
+(aside) But even better when you hold your peace and dont talk at all.
+</T>
+<T>
+THURIO
+What does she have to say about my bravery?
+</T>
+<T>
+PROTEUS
+Oh, sir, she doesnt question it at all.
+</T>
+<T>
+JULIA
+(aside) She doesnt need to, since she knows hes a coward.
+</T>
+<T>
+THURIO
+What does she have to say about my lineage?
+</T>
+<T>
+PROTEUS
+That you are of good descent.
+</T>
+<T>
+JULIA
+(aside) Truehes descended from a gentleman to a fool.
+</T>
+<T>
+THURIO
+Has she thought about all the lands that I own?
+</T>
+<T>
+PROTEUS
+Oh, yes, and she pities them.
+</T>
+<T>
+THURIO
+Why?
+</T>
+<T>
+JULIA
+(aside) Because an ass like him owns them.
+</T>
+<T>
+PROTEUS
+Because youve leased them to others.
+</T>
+<T>
+JULIA
+Here comes the duke.
+</T>
+<T>
+DUKE
+How are you, Sir Proteus? How are you, Thurio? Has either of you seen Eglamour lately?
+</T>
+<T>
+THURIO
+I havent.
+</T>
+<T>
+PROTEUS
+Nor have I.
+</T>
+<T>
+DUKE
+Have you seen my daughter?
+</T>
+<T>
+PROTEUS
+I havent seen her either.
+</T>
+<T>
+DUKE
+That means shes run off to that rascal Valentine, and Eglamour is with her. I know its true, because Friar Lawrence met them both as he wandered through the forest in penance. He knew Eglamour well and guessed that the girl was Sylvia, but he wasnt sure since she had a mask on. Besides, shed planned to take confession at Friar Patricks chamber tonight, but she didnt show up. These coincidences confirm that shes run away. Therefore, I beg you, stop talking and mount your horses immediately. Meet me on the rise at the foot of the mountain that leads toward Mantua, where they fled to. Hurry, kind gentlemen, and follow me.
+</T>
+<T>
+THURIO
+Why, what a silly girl she is to throw away everything good that was coming to her. Ill follow them, more to get revenge on Eglamour than out of love for reckless Sylvia.
+</T>
+<T>
+PROTEUS
+And Ill follow, too, more out of love for Sylvia than hatred of Elgamour, who goes with her.
+</T>
+<T>
+JULIA
+And I will follow as well, more to thwart Proteuss love for Sylvia than out of any hatred of Sylvia, who flees because of love.
+</T>
+<T>
+FIRST OUTLAW
+Come on, come on. Be patient. We must bring you to our captain.
+</T>
+<T>
+SYLVIA
+A thousand misfortunes worse than this one have taught me how to endure this patiently.
+</T>
+<T>
+SECOND OUTLAW
+Go on, take her away.
+</T>
+<T>
+FIRST OUTLAW
+Where is the gentleman that was with herMeaning Eglamour.the gentleman that was with her?
+</T>
+<T>
+SECOND OUTLAW
+He was fast so he outran us, but Moses and Valerius are following him. Go with her to the west end of the woods. Our captain is there. Well follow the guy who fled. The woods are surrounded by our menhe cannot escape.
+</T>
+<T>
+FIRST OUTLAW
+Come on, I must take you to our captains cave. Dont be afraid. He is an honorable man and will not rape you.
+</T>
+<T>
+SYLVIA
+Oh, Valentine, I endure all this for you!
+</T>
+<T>
+VALENTINE
+Repetition can make a man accustomed to anything! This shadowy deserted place, these woods that are rarely visitedI can take them better than bustling towns with lots of people. Here I can sit alone without anyone seeing me, and accompanied by the nightingales sad song I can sing about my worries and list all my troubles. Oh you, Sylvia, who lives in my heart, dont leave your home empty for long, or rotting from within, the entire building falls and leaves no trace of what it was! Heal me with your presence, Sylvia. Gentle nymph, cherish your sad lover!
+</T>
+<T>
+Whats all this shouting and commotion I hear? Those are my friends, the outlaws who do whatever they like, who are chasing some unfortunate traveler. They like me enough, but I have to work hard to keep them from violent crimes. Hide yourself, Valentine. Who is this that comes here?
+</T>
+<T>
+PROTEUS
+Madame, Ive helped youeven though you dont value what I doand risked my life to rescue you from that man who would have raped you. For my reward, give me just one kind look. I cant beg for a smaller favor than this, and Im sure that you cant give anything less than this.
+</T>
+<T>
+VALENTINE
+(aside) What I see and hear is like a dream! Love, give me strength to be patient just a little while longer.
+</T>
+<T>
+SYLVIA
+Oh, what a miserable, unhappy woman I am!
+</T>
+<T>
+PROTEUS
+You were unhappy, madam, before I came. But in coming Ive made you happy.
+</T>
+<T>
+SYLVIA
+Your advances make me very unhappy.
+</T>
+<T>
+JULIA
+(aside) And makes me unhappy when he flirts with you.
+</T>
+<T>
+SYLVIA
+If a hungry lion had seized me, I would rather have been eaten by the beast than have treacherous Proteus rescue me. Oh, heaven knows how I love Valentine, whose life is as precious to me as my own soul! And with just as much feelingfor I couldnt feel any more stronglyI hate the lying, deceitful Proteus. So get out of here, and stop trying to win me.
+</T>
+<T>
+PROTEUS
+What dangerous action, even if it put me at risk of death, would I not undertake for just one gentle look from you? Oh, it is the curse of love, and it is always the case that women never love those who love them!
+</T>
+<T>
+SYLVIA
+You mean Proteus never loves those who love him. Think of Julias feelings for you. She was your first, best love, and for her sake you swore your fidelity a thousand times. Now those oaths of faithfulness have sunk into lies, so that you can love me. You have no loyalty left now, unless you were to love two women, and thats far worse than loving no one. Better not love at all than love two women, which is too many by one. You deceiver of your true friend!
+</T>
+<T>
+PROTEUS
+Who honors their friendships when it comes to love?
+</T>
+<T>
+SYLVIA
+All men but you, Proteus.
+</T>
+<T>
+PROTEUS
+No, if the gentle spirit of heartfelt words cant persuade you to think kindly of me, then Ill woo you at knifepoint like a soldier and make love to you in a manner contrary to the nature of loveby raping you.
+</T>
+<T>
+SYLVIA
+Oh, heaven!
+</T>
+<T>
+PROTEUS
+(Proteus assaults her.) Ill force you to yield to my desire.
+</T>
+<T>
+VALENTINE
+(Valentine comes out of hiding.) Scoundrel, keep your savage hands off her, you foul friend!
+</T>
+<T>
+PROTEUS
+Valentine!
+</T>
+<T>
+VALENTINE
+You lying friend, without loyalty or love! Thats what you are now. Treacherous man, you tricked me with my hopes. Nothing could have persuaded me of what you really are but seeing it with my eyes. Now I wont even say I have one friend aliveif I did, youd prove me wrong. Who can you trust when your closest friend is false down to his core? Proteus, Im sorry I must never trust you again, and because of you Ill never think again that I know the world. Personal treachery makes the deepest wounds. Curse the day when a friend is the worst of all your enemies!
+</T>
+<T>
+PROTEUS
+Shame and guilt overwhelm me. Forgive me, Valentine. If heartfelt sadness is enough punishment for what Ive done, then I offer it to you here. I feel truly miserable for everything Ive done.
+</T>
+<T>
+VALENTINE
+Then youve paid your debt to me, and I consider you to be honest once again. Whoever isnt satisfied by such heartfelt repentence is neither from heaven nor earth, for repentance is enough to please both. Gods wrath comes in the form of penitence. And, so that you know my love for you is honest and free, I give you any claim I had to Sylvia.
+</T>
+<T>
+JULIA
+Oh, unhappy me!
+</T>
+<T>
+PROTEUS
+Look at the boy!
+</T>
+<T>
+VALENTINE
+Hey, boy! Hey, kid! Are you okay? Whats the matter? Open your eyes. Say something.
+</T>
+<T>
+JULIA
+(recovering) Oh, good sir, my master ordered me to deliver a ring to Madam Sylvia, which, out of neglect on my part, I never did.
+</T>
+<T>
+PROTEUS
+Where is that ring, boy?
+</T>
+<T>
+JULIA
+(giving her own ring) Here it is. This is it.
+</T>
+<T>
+PROTEUS
+How? Let me see that. Why, this is the ring I gave to Julia.
+</T>
+<T>
+JULIA
+Oh, please forgive me, sir, Ive made a mistake. This is the ring you sent to Sylvia.
+</T>
+<T>
+PROTEUS
+But how did you get this ring? I gave it to Julia when I departed from Verona.
+</T>
+<T>
+JULIA
+And Julia herself gave it to me. And Julia herself has brought it here.
+</T>
+<T>
+PROTEUS
+What? Julia?
+</T>
+<T>
+JULIA
+Its me, the woman who was the object of all your oaths and believed them deeply in her heart. Your lies have often cut me to the core! Oh, Proteus, I hope my appearance makes you blush! You should be ashamed that I have put on such an immodest outfit, if shame can live in someone who fakes love. Modesty says its better for women to transform their appearances than for men to change their minds.
+</T>
+<T>
+PROTEUS
+Than for men to change their minds! Its true. Oh, God! Were men more constant and less fickle, he would be perfect. That one error leads to numerous faults and makes him commit all the deadly sins. The fickle man begins deceiving before he even tries to be constant. What does Sylvia have that I wouldnt see to be even better in Julia if I were faithful?
+</T>
+<T>
+VALENTINE
+Come, come on, each of you give me a hand. Let me be blessed to bring this to a happy end. It would be a pity if two such good friends as you were enemies forever.
+</T>
+<T>
+PROTEUS
+As God as my witness, I have what I want forever.
+</T>
+<T>
+JULIA
+And I as well.
+</T>
+<T>
+A prize! A prize! A prize!
+</T>
+<T>
+VALENTINE
+Stop, stop, I say! This is my lord, the duke.
+They release the Duke and Thurio.
+</T>
+<T>
+I welcome you, Your Grace, as a disgraced man, banished Valentine.
+</T>
+<T>
+DUKE
+Sir Valentine!
+</T>
+<T>
+THURIO
+(advancing) Sylvia is over there, and shes mine.
+</T>
+<T>
+VALENTINE
+(drawing his sword) Thurio, move back, or else be prepared to die. Dont come within a step of my anger. Do not call Sylvia yours. If you do it again, youll never be welcome in Verona. Go ahead, try to even touch her. I dare you to even breathe upon my love.
+</T>
+<T>
+THURIO
+Sir Valentine, I dont care about her. I consider anyone a fool who will endanger his life for a girl who doesnt love him. I dont claim her, and therefore she is yours.
+</T>
+<T>
+DUKE
+Then you are even more degenerate and awful, having made such great efforts to win her as you have and now leaving her for such minor reasons. Now, by the honor of my ancestors, I applaud your spirit, Valentine, and think you worthy of an empress love. I disregard all my former grievances with you, cancel all grudges, welcome you home again, and give you a clean record because of your unrivaled excellence, which I bear witness to. Sir Valentine, you are a gentleman and well-born. Take your Sylvia, for you have earned her.
+</T>
+<T>
+VALENTINE
+I thank Your Grace. Your gift has made me happy. Now I beg you, for your daughters sake, to grant one favor that Ill ask of you.
+</T>
+<T>
+DUKE
+I grant it for your own sake, whatever it may be.
+</T>
+<T>
+VALENTINE
+These banished men, whom I have lived with, are men with good qualities. Forgive the crimes theyve committed here, and declare an end to their exile. They are reformed, peaceful, goodhearted, and fit for great work, worthy lord.
+</T>
+<T>
+DUKE
+You win: I pardon them and you. Ill leave you in charge of them, since you know what they deserve. Come, lets go. Well put all quarrels behind us with pageants, happiness, and festivities.
+</T>
+<T>
+VALENTINE
+And, as we walk along, Id like to be so bold as to tell you something to make Your Grace smile. What do you think of this young servant boy, my lord?
+</T>
+<T>
+DUKE
+I think the boy has a feminine charm. Look, hes blushing.
+</T>
+<T>
+VALENTINE
+I tell you, my lord, theres more feminine charm in him than boy.
+</T>
+<T>
+DUKE
+What do you mean by that?
+</T>
+<T>
+VALENTINE
+If it please you, Ill tell you on the way, and youll be amazed at whats been going on. Come, Proteus, its your punishment to hear the story of your two loves revealed. When thats done, our wedding day will also be yours: one feast, one house, and one mutual happiness.
+</T>

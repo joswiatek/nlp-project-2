@@ -13,6 +13,13 @@ def index():
     return 'This is the API for Open Source Shakespeare (OSS).'
 
 
+@api.route('/play/<string:name>/characters', methods=['GET'])
+def get_play_characters(name):
+    play = get_play(name)
+    characters = get_characters(name)
+    return json.dumps(characters)
+
+
 @api.route('/play/raw/<string:name>', methods=['GET'])
 def get_play_raw(name):
     play = get_play(name)
@@ -75,6 +82,17 @@ def get_paragraphs(play, chapters):
         paragraphs += chapter_paragraphs
 
     return paragraphs
+
+
+def get_characters(play):
+    search = '%{}%'.format(play)
+    query = models.Characters.query
+    query = query.with_entities(models.Characters.charname,
+                                models.Characters.description)
+    query = query.filter(models.Characters.works.like(search))
+    results = query.all()
+    print(results)
+    return results
 
 
 def clean_text(paragraph, modern=False):

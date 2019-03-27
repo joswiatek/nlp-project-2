@@ -1,0 +1,3887 @@
+<T>
+ORSINO
+If its true that music makes people more in love, keep playing. Give me too much of it, so Ill get sick of it and stop loving. Play that part again! It sounded sad. Oh, it sounded like a sweet breeze blowing gently over a bank of violets, taking their scent with it. Thats enough. Stop. It doesnt sound as sweet as it did before. Oh, love is so restless! It makes you want everything, but it makes you sick of things a minute later, no matter how good they are. Love is so vivid and fantastical that nothing compares to it.
+</T>
+<T>
+CURIO
+Do you want to go hunting, my lord?
+</T>
+<T>
+ORSINO
+Hunting what, Curio?
+</T>
+<T>
+CURIO
+The harthart = male deerhart.
+</T>
+<T>
+ORSINO
+Thats what Im doingonly its my heart thats being hunted. Oh, when I first saw Olivia, it seemed like she made the air around her sweeter and purer. In that instant I was transformed into a hart, and my desire for her has hounded me like a pack of vicious dogs.
+</T>
+<T>
+Whats going on? What have you heard from her?
+</T>
+<T>
+VALENTINE
+Im sorry, but they wouldnt let me in. But I got the following answer from her handmaid. Olivias not going to show her face for the next seven yearsnot even to the sky itself. Instead, shell go around veiled like a nun, and once a day shell water her room with tears. Shes doing this out of love for her dead brother, whom she wants to keep fresh in her memory forever.
+</T>
+<T>
+ORSINO
+Oh, if she loves her brother this much, think how shell love me when I finally win her over and make her forget all her other attachments! Her mind and heart will be ruled by one man aloneme! Take me to the garden. I need a beautiful place to sit and think about love.
+</T>
+<T>
+VIOLA
+What country is this, friends?
+</T>
+<T>
+CAPTAIN
+This is Illyria, lady.
+</T>
+<T>
+VIOLA
+And what am I supposed to do in Illyria? My brother is in heaven. Or maybe theres a chance he didnt drown.What do you think, sailors?
+</T>
+<T>
+CAPTAIN
+It was a total fluke that you yourself were saved.
+</T>
+<T>
+VIOLA
+Oh, my poor brother! But maybe by some fluke he was saved too.
+</T>
+<T>
+CAPTAIN
+Its possible, ma'am. Dont give up yet. When our ship was wrecked and you and a few other survivors were clinging onto our lifeboat, I saw your brother tie himself to a big mast floating in the sea. He was acting resourcefully and courageously in a dangerous situation. For as long as I could see him, he stayed afloat on the waves like ArionArion was a Greek poet who was saved from drowning by a dolphin.Arion on the dolphins back.
+</T>
+<T>
+VIOLA
+(giving him money) Thank you for saying thatheres some money to express my gratitude. Since I survived, its easier for me to imagine he survived too, and what you say gives me a reason to hope for the best. Do you know this area were in?
+</T>
+<T>
+CAPTAIN
+Yes, ma'am, I know it well. I was born and raised less than three hours from here.
+</T>
+<T>
+VIOLA
+Whos the ruler here?
+</T>
+<T>
+CAPTAIN
+A duke who is noble in name and character.
+</T>
+<T>
+VIOLA
+Whats his name?
+</T>
+<T>
+CAPTAIN
+Orsino.
+</T>
+<T>
+VIOLA
+Orsino. Ive heard my father mention him. When I first heard about him, he was still a bachelor.
+</T>
+<T>
+CAPTAIN
+Hes still a bachelor, or at least he was a month ago, when I left. But there was a rumoryou know, people always gossip about royaltythat he was in love with the beautiful Olivia.
+</T>
+<T>
+VIOLA
+Whos she?
+</T>
+<T>
+CAPTAIN
+A virtuous young woman, the daughter of a count who died last year. Her brother had custody of her for a while, but then he died too. They say shes totally sworn off men now, in memory of her brother.
+</T>
+<T>
+VIOLA
+I wish I could work for that lady! Itd be a good way to hide from the world until the time was right to identify myself.
+</T>
+<T>
+CAPTAIN
+That would be hard to do. She wont allow anyone in to see her, not even the dukes messengers.
+</T>
+<T>
+VIOLA
+You seem to be a good person, captain, and although people who look beautiful are often corrupt inside, I believe that you have a beautiful mind to go with your good looks and manners. Pleaseand Ill pay you plenty for thishelp me conceal my identity, and find me the right disguise so I can look the way I want. I want to be this Dukes servant. Youll introduce me to him as a eunuch. You wont be wasting your time, because I really can sing and talk to him about many different kinds of music, so hell be happy to have me in his service. Only time will tell what will happen after thatjust please keep quiet about what Im trying to do.
+</T>
+<T>
+CAPTAIN
+I wont say a word. You can be a eunuch, but Ill be mute. I swear on my life I wont tell your secret.
+</T>
+<T>
+VIOLA
+Thank you. Show me the way.
+</T>
+<T>
+SIR TOBY BELCH
+Whats wrong with my niece? Why is she reacting so strangely to her brothers death? Grief is bad for peoples health.
+</T>
+<T>
+MARIA
+For Gods sake, Sir Toby, youve got to come home earlier at night. My lady Olivia, your niece, disapproves of your late-night partying.
+</T>
+<T>
+SIR TOBY BELCH
+Well, she can get used to it.
+</T>
+<T>
+MARIA
+Yes, but you need to keep yourself within the limits of order and decency.
+</T>
+<T>
+SIR TOBY BELCH
+Keep myself? The only thing Im keeping myself in is the clothes Im wearing. Theyre good enough to drink in, and so are these boots. If they arent, they can go hang themselves by their own laces!
+</T>
+<T>
+MARIA
+Youre going to destroy yourself with all this drinking. Lady Olivia said so yesterday. She also mentioned some stupid knight you brought in one night as a possible husband for her.
+</T>
+<T>
+SIR TOBY BELCH
+Who, Sir Andrew Aguecheek?
+</T>
+<T>
+MARIA
+Yes, thats the one.
+</T>
+<T>
+SIR TOBY BELCH
+Hes as tallTall could be used as slang for brave.tall as a man in Illyria.
+</T>
+<T>
+MARIA
+What does his height have to do with anything?
+</T>
+<T>
+SIR TOBY BELCH
+Why, he has an income of three thousand ducats a year.
+</T>
+<T>
+MARIA
+I bet hell spend his whole inheritance in a year. Hes a fool and a spendthrift.
+</T>
+<T>
+SIR TOBY BELCH
+You shouldnt talk about him like that! He plays the violin and speaks three or four languages word for word without a dictionary. He has all of natures best gifts.
+</T>
+<T>
+MARIA
+Righthes a natural-born idiot. Besides being a fool, hes argumentative. If he didnt have the cowards gift for backing down from a fight, they say hed be dead by now.
+</T>
+<T>
+SIR TOBY BELCH
+Anyone who says that is a lying piece of garbage. Who said that?
+</T>
+<T>
+MARIA
+The same people who say he gets drunk with you every night.
+</T>
+<T>
+SIR TOBY BELCH
+We only drink toasts to my niece. Ill drink to her as long as theres a hole in my throat and booze in Illyria. Anyone who refuses to drink to my niece until his brain spins around like a merry-go-round is scum. But speak of the devil, here comes Sir Andrew Agueface.
+</T>
+<T>
+SIR ANDREW
+Sir Toby Belch! How are you, Sir Toby Belch?
+</T>
+<T>
+SIR TOBY BELCH
+Sweet Sir Andrew!
+</T>
+<T>
+SIR ANDREW
+(to MARIA) And hello to you, my little wench.
+</T>
+<T>
+MARIA
+Hello, sir.
+</T>
+<T>
+SIR TOBY BELCH
+Chat her up, Sir Andrew. Chat her up.
+</T>
+<T>
+SIR ANDREW
+What?
+</T>
+<T>
+SIR TOBY BELCH
+This is my nieces maid.
+</T>
+<T>
+SIR ANDREW
+My dear Miss Chat-her-up, I look forward to getting to know you better.
+</T>
+<T>
+MARIA
+My name is Mary, sir.
+</T>
+<T>
+SIR ANDREW
+Miss Mary Chat-her-up
+</T>
+<T>
+SIR TOBY BELCH
+No, youve got it wrong. When I said chat her up, I wasnt saying her name. I was telling you to go after her, woo her, confront her.
+</T>
+<T>
+SIR ANDREW
+Good heavens, Id never do that with people watching. Is that really what you meant?
+</T>
+<T>
+MARIA
+Goodbye, gentlemen. (she starts to exit)
+</T>
+<T>
+SIR TOBY BELCH
+Shes leaving. If you let her go this easily, Sir Andrew, you dont deserve to ever use your sword again.
+</T>
+<T>
+SIR ANDREW
+If you leave like this, my dear, I wont ever use my sword again. Im not just talking nonsense to you, I mean everything I say. Do you think youve got a couple of fools on your hands here?
+</T>
+<T>
+MARIA
+Im not holding your hand, sir.
+</T>
+<T>
+SIR ANDREW
+But you will. Heres my hand. (he offers her his hand)
+</T>
+<T>
+MARIA
+(taking his hand) A girls got a right to her opinions. Take your hand to a bar and put a drink in it.
+</T>
+<T>
+SIR ANDREW
+Why, sweetheart? Is there a hidden meaning in this?
+</T>
+<T>
+MARIA
+Youre not holding a glass. Your hand is dryMaria implies that hes old and dried-up.dry, sir.
+</T>
+<T>
+SIR ANDREW
+Well, I hope so. Im not such an idiot that I cant keep my hands dry. But I dont get itwhats the joke?
+</T>
+<T>
+MARIA
+Just a bit of my dry humor, sir.
+</T>
+<T>
+SIR ANDREW
+Are you always so funny?
+</T>
+<T>
+MARIA
+Yes, Ive got a handful of jokes. But oops, when I let go of your hand, I let go of the biggest joke of all.
+</T>
+<T>
+SIR TOBY BELCH
+Sir, you need a drink. When has anyone ever put you down like that.
+</T>
+<T>
+SIR ANDREW
+Never. Ive only been that far down when Ive drunk myself under the table. Sometimes I think Im no smarter than average. I eat a lot of red meat, and maybe that makes me stupid.
+</T>
+<T>
+SIR TOBY BELCH
+Absolutely.
+</T>
+<T>
+SIR ANDREW
+If I really believed that, Id give up red meat totally. By the way, Im going home tomorrow, Sir Toby.
+</T>
+<T>
+SIR TOBY BELCH
+PourquoiPourquoi means why in French.Pourquoi, my friend?
+</T>
+<T>
+SIR ANDREW
+What does pourquoi mean? Does it mean I will or I wont? Oh, I wish Id spent as much time learning languages as I spent on fencing, dancing, and bear-baitingBear-baiting, in which a bear was tied to a stake and attacked by dogs, was a popular entertainment in Shakespeares time.bear-baiting! If only Id taken school more seriously!
+</T>
+<T>
+SIR TOBY BELCH
+Youd have a great hairstyle if you had.
+</T>
+<T>
+SIR ANDREW
+Why, would that have fixed my hair?
+</T>
+<T>
+SIR TOBY BELCH
+Oh, no questionit wont style itself.
+</T>
+<T>
+SIR ANDREW
+But my hair looks good anyway, doesnt it?
+</T>
+<T>
+SIR TOBY BELCH
+It looks great. It hangs like an old worn-out mop. Some woman should give you syphilis so you go bald.
+</T>
+<T>
+SIR ANDREW
+Listen, Im going home tomorrow, Sir Toby. Your niece is refusing to see anyone, and even if she saw me, ten to one shed want nothing to do with me. That duke who lives nearby is courting her.
+</T>
+<T>
+SIR TOBY BELCH
+Shes not interested in the duke. She doesnt want to marry anyone of higher social rank than her, or anyone richer, older, or smarter. Ive heard her say that. So cheer up, theres still hope for you, man.
+</T>
+<T>
+SIR ANDREW
+All right, Ill stay another month. Ah, Im an odd kind of guy. Sometimes all I want to do is see plays and go out dancing.
+</T>
+<T>
+SIR TOBY BELCH
+Are you good at those kinds of things?
+</T>
+<T>
+SIR ANDREW
+Yes, as good as any man in Illyria, except for the ones who are better at it than I am. Im not as good as someone whos been dancing for years.
+</T>
+<T>
+SIR TOBY BELCH
+How good are you at those fast dances?
+</T>
+<T>
+SIR ANDREW
+Believe me, I can cut a capercut a caper = dancecut a caper.
+</T>
+<T>
+SIR TOBY BELCH
+And I can cut some meat to go with your caperscaper = a condimentcapers.
+</T>
+<T>
+SIR ANDREW
+And I can do that fancy backward step as well as any man in Illyria.
+</T>
+<T>
+SIR TOBY BELCH
+Why do you hide these things? Why do you keep these talents behind a curtain? Are they likely to get dusty? Why dont you go off to church dancing one way, and come home dancing another way? If I had your talents, Id be dancing a jig every time I walked down the street. I wouldnt even pee without dancing a waltz. What are you thinking? Is this the kind of world where we hide our accomplishments? Youre a born dancer. Look how shapely your legs are.
+</T>
+<T>
+SIR ANDREW
+Thats true. Theyre strong, and they look pretty good in brown tights. Should we throw a little dance party?
+</T>
+<T>
+SIR TOBY BELCH
+Why not? Werent we both born under Taurus?
+</T>
+<T>
+SIR ANDREW
+Taurus! That governs the torso and heart, doesnt it?
+</T>
+<T>
+SIR TOBY BELCH
+No, the legs and thighs. Let me see you dance. (SIR ANDREW dances) Ha, higher! Ha, ha, excellent!
+</T>
+<T>
+VALENTINE
+If the Duke keeps treating you so well, Cesario, youll go far. Hes only known you for three days, but hes already treating you like a close friend.
+</T>
+<T>
+VIOLA
+When you wonder whether hell keep treating me well, it makes me think his mood might changeor else Ill mess up somehow. Do his feelings toward people change suddenly?
+</T>
+<T>
+VALENTINE
+No, not at all.
+</T>
+<T>
+VIOLA
+Thanks for telling me. Here comes the Duke now.
+</T>
+<T>
+ORSINO
+Has anyone seen Cesario?
+</T>
+<T>
+VIOLA
+Im right here, my lord, at your service.
+</T>
+<T>
+ORSINO
+(to VIOLA and attendants) Well need some privacy for a little while. (to VIOLA) Cesario, I want a word with you. You know everything about me. Ive told you all the secrets of my soul. So please go to her house; if they dont let you in, plant yourself outside her door and tell them you wont leave until they let you see her.
+</T>
+<T>
+VIOLA
+But my lord, Im sure that if shes as depressed as people say, shell never let me in.
+</T>
+<T>
+ORSINO
+Be loud and obnoxious. Do whatever it takes, just get the job done.
+</T>
+<T>
+VIOLA
+Well, all right, lets say hypothetically that I do get a chance to speak with her, my lord. What do I do then?
+</T>
+<T>
+ORSINO
+Tell her how passionately I love her. Overwhelm her with examples of how faithful I am. The best thing would be to act out my feelings for her. Shell pay more attention to a young guy like you than to an older, more serious man.
+</T>
+<T>
+VIOLA
+I dont think so, my lord.
+</T>
+<T>
+ORSINO
+My boy, its true. Anyone who says youre a man must not notice how young you are. Your lips are as smooth and red as the goddess Dianas. Your soft voice is like a young girls, high and clear, and the rest of you is pretty feminine too. I know youre the right person for this job. (to CURIO and attendants) Four or five of you go along with him, or you can all go if you like. Im most comfortable when Im alone. (to VIOLA) If you succeed at this assignment, Ill reward you well. My whole fortune will be yours.
+</T>
+<T>
+VIOLA
+Ill do my best to make this lady love you.(to herself) But what a tough task!I have to go matchmaking for the man I want to marry myself!
+</T>
+<T>
+MARIA
+No. Either tell me where youve been, or I wont make any excuses for you to Lady Olivia. Lady Olivia will have you executed for not showing up.
+</T>
+<T>
+FOOL
+So let her execute me. Anyone whos executed doesnt have to be afraid of anything he sees.
+</T>
+<T>
+MARIA
+How do you know?
+</T>
+<T>
+FOOL
+Well, hell be dead, so he wont see anything.
+</T>
+<T>
+MARIA
+Thats a lame answer. By the way, I know where you get all your brave talk about not being afraid of anything.
+</T>
+<T>
+FOOL
+Where, good Miss Mary?
+</T>
+<T>
+MARIA
+From soldiers. But youll never see the front lines. Its easy for you to talk about bravery, working as a fool in this palace.
+</T>
+<T>
+FOOL
+Well, we all have our special gifts. Some people are born wise; those of us who were meant to be fools should do what they do best.
+</T>
+<T>
+MARIA
+But still, shes going to kill you for being gone so long. Or at least fire you. And wouldnt that be as bad for you as being killed?
+</T>
+<T>
+FOOL
+Sometimes getting killed is a good way to avoid getting married. And as for being fired, its summer, so it wont be that bad to be homeless.
+</T>
+<T>
+MARIA
+Youve made up your mind, then?
+</T>
+<T>
+FOOL
+No, but Ive made up my mind on two points.
+</T>
+<T>
+MARIA
+Ah yes, the two points where your suspenders are attached to your buttons. If one breaks, the other will hold, but if both points break, your pants will fall down.
+</T>
+<T>
+FOOL
+Clever, very clever. Well, go along now. Youd be the funniest person in Illyria if Sir Toby ever stopped drinking.
+</T>
+<T>
+MARIA
+Shut up, you troublemaker, no more of that. Here comes my lady. If you know whats good for you, youll think up some good excuse for being away so long.
+</T>
+<T>
+FOOL
+(to himself) Please, let me think of something funny to say now! Smart people who think theyre witty often turn out to be fools, but I know Im not witty, so I might pass for smart. What did that philosopher QuinapalusQuinapalus is a made-up nameQuinapalus say? Ah yes, A witty fools better than a foolish wit.
+</T>
+<T>
+Greetings to you, madam!
+</T>
+<T>
+OLIVIA
+Get that fool out of here.
+</T>
+<T>
+FOOL
+Didnt you hear her, guys? Get the lady out of here.
+</T>
+<T>
+OLIVIA
+Oh, go away, youre a boring fool. I dont want to have anything to do with you anymore. Besides, youve gotten unreliable.
+</T>
+<T>
+FOOL
+Madam, those are two character flaws that a little booze and some common sense can fix. If you hand a drink to a sober fool, he wont be thirsty anymore. If you tell a bad man to mend his wicked ways, and he does, he wont be bad anymore. If he cannot, let the tailor mend him. Anything thats mended is only patched up. A good person who does something wrong is only patched up with sin. And a sinner who does something good is only patched up with goodness. If this logic works, thats great. If not, what can you do about it? Since the only real betrayed husband in the world is the one deserted by Lady Luckbecause were all married to herbeauty is a flower. The lady gave orders to take away the fool, so Im telling you again, take her away.
+</T>
+<T>
+OLIVIA
+I told them to take you away.
+</T>
+<T>
+FOOL
+Oh, what a big mistake! Madam, you cant judge a book by its cover. I mean, I may look like a fool, but my minds sharp. Please let me prove youre a fool.
+</T>
+<T>
+OLIVIA
+Can you do that?
+</T>
+<T>
+FOOL
+Easily, madam.
+</T>
+<T>
+OLIVIA
+Then go ahead and prove it.
+</T>
+<T>
+FOOL
+Ill have to ask you some questions, madam. Please answer, my good little student.
+</T>
+<T>
+OLIVIA
+Im listening to you only because Ive got nothing better to do.
+</T>
+<T>
+FOOL
+My dear madam, why are you in mourning?
+</T>
+<T>
+OLIVIA
+My dear fool, because my brother died.
+</T>
+<T>
+FOOL
+I think his souls in hell, my lady.
+</T>
+<T>
+OLIVIA
+I know his souls in heaven, fool.
+</T>
+<T>
+FOOL
+Then youre a fool for being sad that your brothers soul is in heaven. Take away this fool, gentlemen.
+</T>
+<T>
+OLIVIA
+What do you think of this fool, Malvolio? Isnt he getting funnier?
+</T>
+<T>
+MALVOLIO
+Yes, and hell keep getting funnier till he dies. Old age always makes people act funnyeven wise people, but fools more than anybody.
+</T>
+<T>
+FOOL
+I hope you go senile soon, sir, so you can become a more foolish fool! Sir Toby would bet a fortune that Im not smart, but he wouldnt bet two cents that youre not a fool.
+</T>
+<T>
+OLIVIA
+What do you say to that, Malvolio?
+</T>
+<T>
+MALVOLIO
+Im surprised you enjoy the company of this stupid troublemaker. The other day I saw him defeated in a
+</T>
+<T>
+battle of wits by an ordinary jester with no more brains than a rock. Look at him, hes at a loss for words already. Unless hes got somebody laughing at him, he cant think of anything to say. I swear, anyone smart who laughs at these courts jesters is nothing but a jesters apprentice.
+</T>
+<T>
+OLIVIA
+Malvolio, your vanity is damaging your good taste. If you were generous, innocent, and good-natured, you wouldnt get so upset by what the fool says. Youd think of his wisecracks as harmless little firecrackers, not hurtful bullets. A court jester isnt really criticizing people, even if he does nothing but make fun of them all day long. And a wise person doesnt make fun of people, even if all he does is criticize them.
+</T>
+<T>
+FOOL
+You speak so highly of fools! I hope the god of deception rewards you by making you a wonderful liar.
+</T>
+<T>
+MARIA
+Madam, theres a young gentleman at the gate who really wants to speak to you.
+</T>
+<T>
+OLIVIA
+Was he sent by Count Orsino?
+</T>
+<T>
+MARIA
+I dont know, madam. Hes a good-looking young man, and there are a lot of people with him.
+</T>
+<T>
+OLIVIA
+Whos talking to him now?
+</T>
+<T>
+MARIA
+Sir Toby, madam, your relative.
+</T>
+<T>
+OLIVIA
+Send Toby away, please. He talks nothing but nonsense.
+</T>
+<T>
+Go out and talk to this visitor, Malvolio. If hes got a message from the count, tell him Im sick, or not home. Tell him anything you want, as long as you make him go away.
+</T>
+<T>
+Now you see how your fooling gets boring, and people dont like it.
+</T>
+<T>
+FOOL
+Madam, youve spoken so highly of us fools, youd think your oldest son was going into that line of work. I hope God crams his skull full of brains, because here comes one of your relatives whos pretty weak in the head.
+</T>
+<T>
+OLIVIA
+I swear, hes half drunk already. Whos that at the gate, uncle?
+</T>
+<T>
+SIR TOBY BELCH
+A gentleman.
+</T>
+<T>
+OLIVIA
+A gentleman? What gentleman?
+</T>
+<T>
+SIR TOBY BELCH
+Theres some gentleman out there.(belching) Damn these pickled herring! They upset my stomach. Hows it going, fool?
+</T>
+<T>
+FOOL
+Good Sir Toby!
+</T>
+<T>
+OLIVIA
+Uncle, uncle, how are you already so brain-dead so early in the day?
+</T>
+<T>
+SIR TOBY BELCH
+Brain-dead! Nonsense. I defy brain-death! I told you, someones at the gate.
+</T>
+<T>
+OLIVIA
+Yes, but who is he?
+</T>
+<T>
+SIR TOBY BELCH
+Let him be the devil if he wants to, I dont care. God will protect me. What do I care who it is?
+</T>
+<T>
+OLIVIA
+Tell me what a drunk is like, fool.
+</T>
+<T>
+FOOL
+Hes a fool, a madman, and a drowned man. The first drink makes him a fool, the second makes him crazy, and the third drowns him.
+</T>
+<T>
+OLIVIA
+Go find the coroner and tell him to perform an inquest on my uncle, because hes in the third degree of drunkennesshes drowned. Go take care of him.
+</T>
+<T>
+FOOL
+Hes still only in the crazy phase. The fool will go take care of the madman.
+</T>
+<T>
+MALVOLIO
+Madam, that young man out there says hes got to speak to you. I told him you were sick. He claimed he knew that, and thats why hes come to speak with you. I told him you were asleep. He claimed to know that already too, and said thats the reason hes come to speak with you. What can I say to him, lady? Hes got an answer for everything.
+</T>
+<T>
+OLIVIA
+Tell him hes not going to speak with me.
+</T>
+<T>
+MALVOLIO
+I told him that. He says hell stand at your door like a signpost or a bench until he speaks with you.
+</T>
+<T>
+OLIVIA
+What kind of man is he?
+</T>
+<T>
+MALVOLIO
+Just a man, like any other.
+</T>
+<T>
+OLIVIA
+But whats he like?
+</T>
+<T>
+MALVOLIO
+Hes very rude. He insists hell speak with you whether you want him to or not.
+</T>
+<T>
+OLIVIA
+What does he look like? How old is he?
+</T>
+<T>
+MALVOLIO
+Not old enough to be a man, but not young enough to be a boy. Hes like a bud before it becomes a pea pod, or like a little green apple before it gets big and ripe. Hes somewhere between boy and man. Hes very handsome and speaks well, but hes very young. He looks like he just recently stopped breastfeeding.
+</T>
+<T>
+OLIVIA
+Show him in. Call in my maid.
+</T>
+<T>
+MALVOLIO
+Maria, our lady wants you.
+</T>
+<T>
+OLIVIA
+Give me my veil. Come, put it over my face. (OLIVIA puts on her veil) Were going to hear Orsinos pleas again.
+</T>
+<T>
+VIOLA
+Which one of you is the lady of the house?
+</T>
+<T>
+OLIVIA
+You can speak to me. I represent her. What do you want?
+</T>
+<T>
+VIOLA
+What stunning, exquisite, and unmatchable beautybut please, tell me if youre the lady of the house, because Ive never seen her. Id hate to waste my speech on the wrong person, because Its very well written and I spent a lot of time and energy memorizing it. Beautiful ladies, please dont treat me badly. Im very sensitive, and even the smallest bit of rudeness hurts my feelings.
+</T>
+<T>
+OLIVIA
+Where do you come from, sir?
+</T>
+<T>
+VIOLA
+Im sorry, but I memorized what Im supposed to say here today, and that question isnt part of the speech I learned. Please, my lady, just confirm that youre the lady of the house so I can get on with my speech.
+</T>
+<T>
+OLIVIA
+Are you an actor?
+</T>
+<T>
+VIOLA
+No, madam. But I swear Im not the person Im playing. Are you the lady of the house?
+</T>
+<T>
+OLIVIA
+I am, unless I somehow stole this role.
+</T>
+<T>
+VIOLA
+If youre the lady of the house, then its true youre stealing your role, because whats yours to give away is not yours to keep for yourself. But thats not part of what Im supposed to say. Ill go on with my speech praising you, and then Ill get to the point.
+</T>
+<T>
+OLIVIA
+Get to the point now. Ill let you get away with skipping the praise.
+</T>
+<T>
+VIOLA
+Thats too bad, because I spent a long time memorizing it, and its poetic.
+</T>
+<T>
+OLIVIA
+That means its more likely to be fake. Please, keep it to yourself. I heard you were rude when you were standing outside my gate, and thats the only reason I let you in. I was curious. But I dont necessarily want to listen to you. If youre just insane, then get out of here. If youre in your right mind, get to the point. Ive got no patience for lunacy at the moment, and I dont want to waste my time on ridiculous conversations.
+</T>
+<T>
+MARIA
+Ready to set sail, sir? The doors right here.
+</T>
+<T>
+VIOLA
+No, this boats docking here a bit longer, little sailor.My lady, would you mind asking your giant here to back off a bit?
+</T>
+<T>
+OLIVIA
+Tell me what you want.
+</T>
+<T>
+VIOLA
+I have a message to deliver.
+</T>
+<T>
+OLIVIA
+It must be a message about something horrible, since you deliver it so rudely. Tell me what its about.
+</T>
+<T>
+VIOLA
+Its about you. Im not bringing any declarations of war or demands for cash. Im coming in peace.
+</T>
+<T>
+OLIVIA
+But you began so rudely. Who are you? What do you want?
+</T>
+<T>
+VIOLA
+If I seemed rude, its because of how badly I was treated when I got here. Who I am and what I want are a secret. Youre the only one I can share the secret with. Its sacred, just for you. Its not for anyone else to hear.
+</T>
+<T>
+OLIVIA
+Everyone, please leave us alone for a moment. Ive got a sacred secret to hear.
+</T>
+<T>
+Now, sir, whats this holy secret you wanted to tell me?
+</T>
+<T>
+VIOLA
+Most sweet lady
+</T>
+<T>
+OLIVIA
+Oh, sweet! It sounds like a nice and gentle kind of faith. Wheres the passage of holy scripture that youre basing your sermon on?
+</T>
+<T>
+VIOLA
+In Orsinos heart.
+</T>
+<T>
+OLIVIA
+In his heart? In what chapter and verse of his heart?
+</T>
+<T>
+VIOLA
+The table of contents says its in the first chapter of his heart.
+</T>
+<T>
+OLIVIA
+Oh, Ive read that. Thats not holy, its heresy. Do you have anything else to say?
+</T>
+<T>
+VIOLA
+Madam, please let me see your face.
+</T>
+<T>
+OLIVIA
+Has your lord given you any orders to negotiate with my face? I dont think so. Youre overstepping your bounds now. But Ill open the curtain and let you see the picture. Look, sir, this is a portrait of me as I am at this particular moment. Its pretty well done, isnt it?
+</T>
+<T>
+VIOLA
+It was done excellently, if its all-natural, the way God made it.
+</T>
+<T>
+OLIVIA
+Oh, its all-natural, sir. Wind and rain cant wash it off.
+</T>
+<T>
+VIOLA
+Thats true beauty. Mother Nature herself painted your skin so white and your lips so red. My lady, youd be the cruelest woman alive if you let your beauty die with you, with no children to inherit your good looks for future generations to enjoy.
+</T>
+<T>
+OLIVIA
+Oh, Id never be that cruel. Ill definitely do as you say and leave my beauty for the rest of the world to enjoy. Ill write out a detailed inventory of my beauty and label every part. For exampleitem: two lips, ordinary red. Item: two gray eyes, with lids on them. Item: one neck, one chin, and so on. Anyway, were you sent here just to tell me Im beautiful?
+</T>
+<T>
+VIOLA
+I see what youre like. Youre proud. But youd still be gorgeous even if you were as proud as the devil. My lord loves you. You should return a love as deep as his, even if youre the most beautiful woman in the world.
+</T>
+<T>
+OLIVIA
+How does he love me?
+</T>
+<T>
+VIOLA
+He adores you. He cries and groans and sighs.
+</T>
+<T>
+OLIVIA
+Your lord knows what I think. I cant love him. Im sure hes a very nice man. I know hes noble, rich, young, and with a fine reputation. People say hes generous, well educated, and brave, and hes very attractive.
+</T>
+<T>
+But I just cant love him. He should have resigned himself to that a long time ago.
+</T>
+<T>
+VIOLA
+If I loved you as passionately as my master does, and suffered like he does, your rejection would make no sense to me. I wouldnt understand it.
+</T>
+<T>
+OLIVIA
+What would you do about it?
+</T>
+<T>
+VIOLA
+Id build myself a sad little cabin near your house, where my souls imprisoned. From that cabin Id call out to my soul. Id write sad songs about unrequited love and sing them loudly in the middle of the night. Id shout your name to the hills and make the air echo with your name, Olivia! Oh, you wouldnt be able to go anywhere without feeling sorry for me.
+</T>
+<T>
+OLIVIA
+Not bad; you might accomplish something. Who are your parents?
+</T>
+<T>
+VIOLA
+I was born to a higher position than Ive got now. But Im still fairly high-ranking. Im a gentleman.
+</T>
+<T>
+OLIVIA
+Go back to your lord. I cant love him. Tell him not to send any more messengersunless you feel like coming back to tell me how he took the bad news. Goodbye. Thanks for your trouble. Heres some money for you.
+</T>
+<T>
+VIOLA
+Im not a paid messenger, my lady. Keep your money. Its my master whos not getting the reward he deserves, not me. I hope you fall in love with a man whose heart is hard as a rock and who treats your love like a big joke, just like youve done. Goodbye, you beautiful, cruel woman.
+</T>
+<T>
+OLIVIA
+Who are your parents? I was born to a higher position than Ive got now. But Im still fairly high-ranking. Im a gentleman. Yes, Im sure you are. Your way of talking, your face, your body, your behavior, and your sensitive soul all prove youre a gentleman. Ah, no. Calm down, calm down. If only his lord were more like him. How strange Im feeling! Can someone fall in love this quickly? I can feel this young mans perfection creeping in through my eyes like some kind of disease, slowly and invisibly. Oh, well.Malvolio! Come here!
+</T>
+<T>
+MALVOLIO
+At your service, madam.
+</T>
+<T>
+OLIVIA
+Run after that obnoxious messenger, the dukes servant. He insisted on leaving this ring with me whether I wanted it or not. Tell him I want nothing to do with it. (she hands him a ring) Ask him not to encourage Orsino or to get his hopes up. Im not for him. If that young man comes here again tomorrow, Ill tell him why. Hurry, Malvolio.
+</T>
+<T>
+MALVOLIO
+Madam, I will.
+</T>
+<T>
+OLIVIA
+I dont know what Im doing. Im afraid Im not using my head, and Im falling for his good looks. Fate, do your work. We human beings dont control our own destinies. What is fated to happen must happen. So let it happen!
+</T>
+<T>
+ANTONIO
+You wont stay any longer? And you dont want me to come with you?
+</T>
+<T>
+SEBASTIAN
+No, Id rather you stayed here. My luck is pretty bad right now, and it might rub off on you. So just let me say goodbye and face the bad stuff aloneotherwise I wouldnt be thanking you very well for all youve done for me.
+</T>
+<T>
+ANTONIO
+At least tell me where youre going.
+</T>
+<T>
+SEBASTIAN
+Honestly, I cant. Im just wandering, with no particular destination. But I know youd never force me to tell you things I dont want to, so I should be polite and tell you what I can. My names Sebastian, though Ive been calling myself Roderigo. My father was Sebastian of Messaline. I know youve heard of him. Hes dead now. He left behind myself and my twin sister, who was born in the same hour as me. If God had been willing, I wish we had died in the same hour too! But you kept that from happening. An hour before you pulled me out of the breaking waves, my sister drowned.
+</T>
+<T>
+ANTONIO
+How tragic!
+</T>
+<T>
+SEBASTIAN
+Although many people said she looked like me, she was considered beautiful. And though I cant believe everything people said about her beauty, Ill be so bold as to say she had a beautiful mind. Even those who were jealous of her would have to admit that. Shes been drowned in salty sea water, and now my salty tears are about to drown her memory all over again.
+</T>
+<T>
+ANTONIO
+Im sorry I wasnt a better host for you, sir.
+</T>
+<T>
+SEBASTIAN
+Oh, Antonio, Im sorry I caused you so much trouble.
+</T>
+<T>
+ANTONIO
+I care about you a lot. Please let me be your servant so I can be with you. Youll be killing me if you dont.
+</T>
+<T>
+SEBASTIAN
+If you dont want to break my heart, then say goodbye to me right now. I like you very much. Im really about to cry, just like my mother would do. Im going to Count Orsinos court. Goodbye.
+</T>
+<T>
+ANTONIO
+I wish you all the best. If I didnt have so many enemies in Orsinos court, Id go join you there. But who cares. Im so crazy about you that danger doesnt bother me. Ill go anyway.
+</T>
+<T>
+MALVOLIO
+Excuse me, werent you with Countess Olivia just now?
+</T>
+<T>
+VIOLA
+Yes, sir. Ive only made it this far since I left her place, walking at a moderate pace.
+</T>
+<T>
+MALVOLIO
+Shes sending this ring back to you, sir. You shouldve saved me some trouble and taken it away yourself. She wants you to make it very clear to your lord that she wants nothing to do with him, and that you should never come again on his behalf, unless you want to come back to tell her how he reacted to the bad news. Here, take the ring.
+</T>
+<T>
+VIOLA
+She took that ring from me. I wont take it back.
+</T>
+<T>
+MALVOLIO
+You threw it at her rudely, and she wants you to take it back. (he throws down the ring) If its worth bending over to pick up, there it is on the ground, where you can see it. If not, whoever finds it can have it.
+</T>
+<T>
+VIOLA
+I didnt give her any ring. Whats she trying to say? I hope she doesnt have a crush on me! Its true she looked at me a lot, in fact, she looked at me so much that she seemed distracted, and couldnt really finish her sentences very well. Oh, I really think she loves me! She sent this rude messenger to tell me to come back, instead of coming herself, which would be indis-
+</T>
+<T>
+creet. She doesnt want Orsinos ring! Orsino never sent her a ring. Im the man she wants. If thats true, which it is, she might as well be in love with a dream, the poor lady. Now I understand why its bad to wear disguises. Disguises help the devil do his work. Its so easy for a good-looking but deceitful man to make women fall in love with him. Its not our faultwe women are weak. We cant help what were made of. Ah, how will this all turn out? My lord loves her, and. poor me, I love him just as much. And shes deluded enough to be in love with me. What can possibly fix this situation? Im pretending to be a man, so my love for the Duke is hopeless. And since Im a womantoo bad Im a womanOlivias love for me is hopeless as well! Oh, only time can sort out this mess. I cant figure it out by myself!
+</T>
+<T>
+SIR TOBY BELCH
+Come on, Sir Andrew. If were still awake after midnight, then were up early in the morning. And the doctors say its healthy to get up early
+</T>
+<T>
+SIR ANDREW
+I dont know what the doctors say. All I know is that staying up late is staying up late.
+</T>
+<T>
+SIR TOBY BELCH
+A false conclusion. I hate your logic as much as I hate an empty drinking cup. Staying up after midnight means that you go to bed after midnight, in the wee hours of the morning, which is early. So its like going to bed early. Isnt everybody made up of the four elementsearth, water, fire, and air?
+</T>
+<T>
+SIR ANDREW
+Thats what they say, but I think life consists of food and booze.
+</T>
+<T>
+SIR TOBY BELCH
+Youre a smart guy. So we should eat and drink. Maria! Bring us some wine!
+</T>
+<T>
+SIR ANDREW
+Look, here comes the fool.
+</T>
+<T>
+FOOL
+Hello, my friends! What a pretty picture, three fools all together.
+</T>
+<T>
+SIR TOBY BELCH
+Hello, you idiot. Sing us a song.
+</T>
+<T>
+SIR ANDREW
+I swear, this fool has an excellent singing voice. Id give forty shillings to have his nice legs and his beautiful voice. (to the FOOL) Fool, you were very funny last night talking that astrological nonsenseThese are nonsense words that sound like astrology.astrological nonsense about Pigrogromitus and the Vapians passing the equinox of Queubus. Very amusing. I sent you some money to spend on your girlfriend. Did you get it?
+</T>
+<T>
+FOOL
+I gave your little present to my girlfriend because you cant get a grip on Malvolios nose to whip your horse with it. My girlfriend has beautiful white hands, and great warriors arent mom-and-pop dinersThis is more nonsense to amuse Sir Andrew.mom-and-pop diners, you know.
+</T>
+<T>
+SIR ANDREW
+Ha, ha! I love it when you talk nonsensethats what fools should do. Come on now, sing for us.
+</T>
+<T>
+SIR TOBY BELCH
+(giving the FOOL money) Yes, come on. Heres sixpence for you. Lets hear a song.
+</T>
+<T>
+SIR ANDREW
+(giving the FOOL money) Heres something from me too. If one knight gives
+</T>
+<T>
+FOOL
+Would you rather hear a love song or a song about the good life?
+</T>
+<T>
+SIR TOBY BELCH
+A love song, a love song.
+</T>
+<T>
+SIR ANDREW
+Yes, yes. Im not interested in being good.
+</T>
+<T>
+FOOL
+(he sings)
+Oh my lover, where are you roaming? Stay and listen! Your true loves coming, the one who can sing both high and low: Dont roam any further, pretty darling. Your journey ends when you meet a lover, as every wise mans son knows.
+</T>
+<T>
+SIR ANDREW
+That was excellent, really excellent.
+</T>
+<T>
+SIR TOBY BELCH
+Good, very good.
+</T>
+<T>
+FOOL
+(singing)
+What is love? It isnt in the future. When youre having fun now, youre laughing right now. The futures unsure, and theres no reason to waste time. Come kiss me while youre twenty. You wont be young forever.
+</T>
+<T>
+SIR ANDREW
+A beautiful voice, I swear.
+</T>
+<T>
+SIR TOBY BELCH
+His breath stinks.
+</T>
+<T>
+SIR ANDREW
+Yes, it stinks very sweetly.
+</T>
+<T>
+SIR TOBY BELCH
+If we could listen to him with our noses, we would definitely say he stinks very sweetly. So what do you say, should we sing loud enough to shake the heavens? Should we sing a round to wake up the night owl? Should we do that?
+</T>
+<T>
+SIR ANDREW
+Lets go for it. Im a very good singer, and can sing rounds like a dogdog = expertdog.
+</T>
+<T>
+FOOL
+Then youll be good at catchy tunes. Dogs like to play catch.
+</T>
+<T>
+SIR ANDREW
+Absolutely. Lets dance to You Jerk.
+</T>
+<T>
+FOOL
+You mean, Shut up, you jerk? Thats the song where the singers call each other jerks, right? So Ill be forced to call you a jerk, Sir Andrew.
+</T>
+<T>
+SIR ANDREW
+It wont be the first time someone was forced to call me that. You start, Fool. It starts, Shut up.
+</T>
+<T>
+FOOL
+Ill never be able to start if I shut up.
+</T>
+<T>
+SIR ANDREW
+Thats true. But come on, start.
+</T>
+<T>
+MARIA
+Youre making a terrible racket out here! Lady Olivia told her servant Malvolio to kick you out of the house. I swear its true.
+</T>
+<T>
+SIR TOBY BELCH
+Lady Olivia can go to China for all I care. Were very smart guys, and Malvolios Little Bo Peep. (he sings) Were just having some fun.Arent I her relative, after all? Arent we related? Fiddle-dee-dee, Lady! (singing) There lived a man in Babylon, lady, lady!
+</T>
+<T>
+FOOL
+Gosh, the knights very good at acting like a fool.
+</T>
+<T>
+SIR ANDREW
+Yes, hes good at it when hes in the mood, and so am I. Hes practiced more, but it comes more naturally to me.
+</T>
+<T>
+SIR TOBY BELCH
+(he sings) On the twelfth day of December
+</T>
+<T>
+MARIA
+For Gods sake, shut up!
+</T>
+<T>
+MALVOLIO
+Are you all crazy? Whats wrong with you? Are you making all this noise at this time of night because you have no manners, or because youre just stupid? Are you trying to turn my mistresss house into a noisy bar? Is that why youre squealing out these ridiculous vulgar songs without lowering your voices at all? Dont you have any respect for anything?
+</T>
+<T>
+SIR TOBY BELCH
+We respected the beat of the song, sir. So shut up!
+</T>
+<T>
+MALVOLIO
+Sir Toby, Ive got to be frank with you. My lady told me to tell you that while she lets you stay at her house because youre a relative, she doesnt approve of your behavior. If you can shape up, youre welcome to stay in the house. If you cant, and would prefer to leave, shes very willing to say goodbye to you.
+</T>
+<T>
+SIR TOBY BELCH
+(hesingsIn this line and the following lines, Sir Toby and the fool are singing variations on the lyrics of a popular song of the day.sings) Goodnight, sweetheart, Im going to leave you now.
+</T>
+<T>
+MARIA
+No, good Sir Toby.
+</T>
+<T>
+FOOL
+(singing) You can tell from his eyes that his life is almost over.
+</T>
+<T>
+MALVOLIO
+Is this how its going to be?
+</T>
+<T>
+SIR TOBY BELCH
+(singing) But I will never die.
+</T>
+<T>
+FOOL
+(singing) Sir Toby, thats a lie.
+</T>
+<T>
+MALVOLIO
+This behavior really makes you look great.
+</T>
+<T>
+SIR TOBY BELCH
+(singing) Should I tell him to go?
+</T>
+<T>
+FOOL
+(singing) What if y,ou do?
+</T>
+<T>
+SIR TOBY BELCH
+(singing) Should I tell him to go, and be harsh with him?
+</T>
+<T>
+FOOL
+(singing) Oh no, no, no, no, dont you dare.
+</T>
+<T>
+SIR TOBY BELCH
+Thats out of tune, sir. You lie. (to MALVOLIO) Youre nothing more than a servant here. Do you think that just because youre a goody two shoes, no one else can enjoy himself?
+</T>
+<T>
+FOOL
+They certainly will. Theyll have double helpings, too.
+</T>
+<T>
+SIR TOBY BELCH
+Youre right. (to MALVOLIO) Go polish your stewards chain, sir. Maria, bring us some wine!
+</T>
+<T>
+MALVOLIO
+Miss Mary, if you cared what Lady Olivia thinks about you at all, you wouldnt contribute to this rude behavior. I assure you, shell find out about this.
+</T>
+<T>
+MARIA
+Go and wiggle your ears!
+</T>
+<T>
+SIR ANDREW
+Theres nothing Id love more than to make a fool out of that guy somehow. I could challenge him to a duel and then not show up. That would do the trick.
+</T>
+<T>
+SIR TOBY BELCH
+Do that. Ill write a letter challenging him to a duel on your behalf. Or Ill deliver your insults to his face.
+</T>
+<T>
+MARIA
+Dear Sir Toby, dont do anything rash tonight. Ever since the Dukes messenger visited Olivia, shes been upset. As for Monsieur Malvolio, let me take care of him. Ill make a big fool out of him, just trust me. Ill make him famous for his stupidity. Everyone will laugh at him. I know I can do it.
+</T>
+<T>
+SIR TOBY BELCH
+Tell us something about him. Come on, tell us something.
+</T>
+<T>
+MARIA
+Well, sometimes he acts like a goody two shoes.
+</T>
+<T>
+SIR ANDREW
+Oh, Ill beat him up for that!
+</T>
+<T>
+SIR TOBY BELCH
+Youre going to beat him up for being good? And whats your brilliant reason for that, please?
+</T>
+<T>
+SIR ANDREW
+I dont have any brilliant reason for it, but I have a good enough reason.
+</T>
+<T>
+MARIA
+He isnt really that pure and good. Hes just a conceited flatterer. Hes a pretentious guy who aspires to speak and act like nobility. Hes proud, and he thinks hes so stuffed full of wonderful qualities that everyone loves him. Thats the weakness Ill use to get revenge on him.
+</T>
+<T>
+SIR TOBY BELCH
+What are you going to do?
+</T>
+<T>
+MARIA
+Ill drop some mysterious love letters in his path. Hell think theyre addressed to him, because theyll describe the color of his beard, the shape of his legs, the way he walks, and the expression on his face. I can make my handwriting look just like Lady Olivias: she
+</T>
+<T>
+and I cant tell the difference between each others handwriting.
+</T>
+<T>
+SIR TOBY BELCH
+Excellent! Sounds like youve got a good trick in mind.
+</T>
+<T>
+SIR ANDREW
+I like it too.
+</T>
+<T>
+SIR TOBY BELCH
+Hell think these letters are from Olivia and that shes in love with him.
+</T>
+<T>
+MARIA
+Yes, thats the idea.
+</T>
+<T>
+SIR ANDREW
+Hes going to look like a total idiot.
+</T>
+<T>
+MARIA
+Absolutely, you idiot.
+</T>
+<T>
+SIR ANDREW
+This is going to be great!
+</T>
+<T>
+MARIA
+Its going to be fun, I promise. I know my medicine will work on him. Ill have you two hideand the fool tooright where hell find the letter. Watch his reaction. Meanwhile, lets go to bed and dream about this. Good night.
+</T>
+<T>
+SIR TOBY BELCH
+Good night, you amazing woman, you.
+</T>
+<T>
+SIR ANDREW
+Shes a fine woman, all right.
+</T>
+<T>
+SIR TOBY BELCH
+Shes a good little woman, and she adores me. What about it?
+</T>
+<T>
+SIR ANDREW
+Someone adored me once, too.
+</T>
+<T>
+SIR TOBY BELCH
+Lets go to bed, knight. Tomorrow you need to get more money sent to you.
+</T>
+<T>
+SIR ANDREW
+If I cant persuade your niece to marry me, Im going to be in some serious financial trouble.
+</T>
+<T>
+SIR TOBY BELCH
+Get your hands on some money and everything will be all right. I know youll win over Olivia in the end.
+</T>
+<T>
+SIR ANDREW
+I know I will too, if its the last thing I do.
+</T>
+<T>
+SIR TOBY BELCH
+Come on, Ill go warm up a nice glass of sherry for us. Its too late to go to bed now. Come on, my friend, come on.
+</T>
+<T>
+ORSINO
+Play me some music. (music plays) Good morning, my friends.Have them sing me that song again, Cesario, that old-fashioned song someone sang last night. It made me feel better and took my mind off my troubles much better than the silly songs they sing nowadays. Please, have them sing just one verse.
+</T>
+<T>
+CURIO
+Sir, the person who should sing that song isnt here.
+</T>
+<T>
+ORSINO
+Who was it?
+</T>
+<T>
+CURIO
+Feste, the jester, my lord. Olivias father used to like him. Hes somewhere else in the house.
+</T>
+<T>
+ORSINO
+Then go find him. Meanwhile, play the tune.
+</T>
+<T>
+(to VIOLA) Come here, boy. If you ever fall in love and feel the bittersweet pain it brings, think of me. Because the way I am now, moody and unable to focus on anything except the face of the woman I love, is exactly how all true lovers are. What do you think of this song?
+</T>
+<T>
+VIOLA
+It really makes you feel what a lover feels.
+</T>
+<T>
+ORSINO
+Youre absolutely right. Id bet my life that, as young as you are, youve fallen in love with someone. Havent you, boy?
+</T>
+<T>
+VIOLA
+A little bit.
+</T>
+<T>
+ORSINO
+What kind of woman is she?
+</T>
+<T>
+VIOLA
+Shes a lot like you.
+</T>
+<T>
+ORSINO
+Shes not good enough for you, then. How old is she?
+</T>
+<T>
+VIOLA
+About as old as you are, my lord.
+</T>
+<T>
+ORSINO
+Thats definitely too old. A woman should always pick an older man. That way shell adjust herself to what her husband wants, and the husband will be happy and faithful to her. Because however much we like to brag, boy, the truth is that we men change our minds a lot more than women do, and our desires come and go a lot faster than theirs.
+</T>
+<T>
+VIOLA
+I think youre right, sir.
+</T>
+<T>
+ORSINO
+So find someone younger to love, or you wont be able to maintain your feelings. Women are like roses: the moment their beauty is in full bloom, its about to decay.
+</T>
+<T>
+VIOLA
+Thats true. Its too bad their beauty fades right when it reaches perfection!
+</T>
+<T>
+ORSINO
+My friend, sing us the song you sang last night.Listen to it carefully, Cesario, its a simple old song. Spinners and knitters used to sing it while they sewed, and maidens used to sing it over their weaving. It tells the simple truth about innocent love, as it was in the good old days.
+</T>
+<T>
+FOOL
+Are you ready, sir?
+</T>
+<T>
+ORSINO
+Yes. Please, sing.
+</T>
+<T>
+FOOL
+(he sings)
+Come on, let me die now
+And put my body in a dark coffin.
+I feel my breath leaving me.
+Ive been killed by a beautiful girl.
+Prepare my shroud of white,
+Adorned with sprigs of yew-tree.
+Im the most faithful person
+Who ever lived or died.
+Dont scatter sweet flowers
+On my black coffin.
+Dont let my friends
+See my poor corpse.
+I dont want to hear sad sighs,
+So bury me where no sad lovers
+can find my grave to weep over it!
+</T>
+<T>
+ORSINO
+(giving the FOOL money) Heres some money for your trouble.
+</T>
+<T>
+FOOL
+No trouble, sir. I like singing.
+</T>
+<T>
+ORSINO
+Then Ill pay you for doing what you like.
+</T>
+<T>
+FOOL
+Well, in that case, all right. We all pay for what we like sooner or later.
+</T>
+<T>
+ORSINO
+You may leave.
+</T>
+<T>
+FOOL
+Ill pray for the god of sadness to protect you, sir. And I hope your tailor will make you an outfit out of fabric that changes color, because your mind is like an opal that changes colors constantly. Men as wonderfully changeable as you are should all go drifting on the sea, where they can do whatever comes their way, and go wherever the current takes them. Those are the men whose trips are always successful. Goodbye.
+</T>
+<T>
+ORSINO
+All the rest of you can leave too.
+</T>
+<T>
+Cesario, go visit that cruel Olivia one more time. Tell her my love is purer than anything else in the whole world, and has nothing to do with her property. The wealth shes inherited isnt what makes me value her. Its her rich, jewel-like beauty that attracts me.
+</T>
+<T>
+VIOLA
+But if she cant love you, sir?
+</T>
+<T>
+ORSINO
+I refuse to accept that.
+</T>
+<T>
+VIOLA
+But you have to. Just imagine some lady might exist who loves you as powerfully and agonizingly as you love Olivia. But you cant love her, and you tell her so. Shouldnt she just accept that?
+</T>
+<T>
+ORSINO
+No woman is strong enough to put up with the kind of intense passion I feel. No womans heart is big enough to hold all my love. Women dont feel love like thatlove is as shallow as appetite for them. It has nothing to do with their hearts, just their sense of taste. They eat too much and get indigestion and nausea. But my loves different. Its as all-consuming and insatiable as the sea, and it can swallow as much as the sea can. Dont compare a womans love for a man with my love for Olivia.
+</T>
+<T>
+VIOLA
+Yes, but I know
+</T>
+<T>
+ORSINO
+What do you know?
+</T>
+<T>
+VIOLA
+I know a lot about the love women can feel for men. Actually, their hearts are as sensitive and loyal as ours are. My father had a daughter who loved a man in the same way that I might love you, if I were a woman.
+</T>
+<T>
+ORSINO
+And whats her story?
+</T>
+<T>
+VIOLA
+There was no story, my lord. She never told him she loved him. She kept her love bottled up inside her until it destroyed her, ruining her beauty. She pined away. She just sat waiting patiently, sadly, smiling despite her sadness. Her complexion turned greenish from depression. Doesnt that sound like true love? We men might talk more and promise more, but in fact we talk more than we really feel. We might be great at making vows, but our love isnt sincere.
+</T>
+<T>
+ORSINO
+But did your sister die of love?
+</T>
+<T>
+VIOLA
+I am the only daughter in my fathers family, and all the brothers toobut Im not completely sure about that. Anyway, sir, should I go see the lady?
+</T>
+<T>
+ORSINO
+Yes, go quickly and give her this jewel. Tell her my love wont go away and wont be denied. (he hands her a jewel)
+</T>
+<T>
+SIR TOBY BELCH
+Come along with us, Signor Fabian.
+</T>
+<T>
+FABIAN
+Im coming, dont worry. If I miss this, let me be boiled alive.
+</T>
+<T>
+SIR TOBY BELCH
+Wont you be glad to see that rascal dog humiliated?
+</T>
+<T>
+FABIAN
+Ill be thrilled. You know, he got me in trouble with the lady of the house once when I arranged a bear-baiting here.
+</T>
+<T>
+SIR TOBY BELCH
+Well have another bear-baiting just to make him angry, and well mock him till hes black and blue. Wont we, Sir Andrew?
+</T>
+<T>
+SIR ANDREW
+If we dont, itll be the biggest disappointment of our lives.
+</T>
+<T>
+SIR TOBY BELCH
+Here comes the little villain herself.
+</T>
+<T>
+How are you, my golden girl?
+</T>
+<T>
+MARIA
+Hide behind the boxwood hedge, all three of you. Malvolios coming down the path. Hes been over there practicing how to act for the past half hour. Watch him carefully if you want to have some fun, guys. This letters going to turn him into a starry-eyed idiot. Now hide, for Gods sake!
+</T>
+<T>
+Now, you lie there on the path. (MARIA throws down a letter) Here comes the fish thats going to gobble up our bait.
+</T>
+<T>
+MALVOLIO
+Its all luck. Everythings luck. Maria once told me Olivia was fond of me. Ive almost heard Olivia say that herself. She said if she were interested in someone, it would be someone who looked like me. Besides, she treats me more respectfully than the other servants. Whats the obvious conclusion from that?
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) What an egomaniac!
+</T>
+<T>
+FABIAN
+(whispering) Shh! When hes alone with his thoughts, hes even more like a haughty peacock. Watch him strut!
+</T>
+<T>
+SIR ANDREW
+(whispering) I swear, Id like to beat the jerk so hard!
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Be quiet!
+</T>
+<T>
+MALVOLIO
+Just think, I could be Count Malvolio!
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Ah, what a jerk!
+</T>
+<T>
+SIR ANDREW
+(whispering) Shoot him, just shoot him.
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Shh, shh!
+</T>
+<T>
+MALVOLIO
+After all, it wouldnt be the first time that kind of thing has happened. Lady Strachy married her wardrobe manager.
+</T>
+<T>
+SIR ANDREW
+(whispering) Damn him, the arrogant fool!
+</T>
+<T>
+FABIAN
+(whispering) Shh! Weve got him right where we want him. Hes on a big ego trip.
+</T>
+<T>
+MALVOLIO
+Just think of me, having been married to her for three months, sitting around majestically
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) If only I had a slingshot so I could hit him in the eye!
+</T>
+<T>
+MALVOLIO
+Calling my servants together, wearing an embroidered robe, having just come from a couch where Ive left Olivia sleeping
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) That does it!
+</T>
+<T>
+FABIAN
+(whispering) Oh, be quiet, be quiet!
+</T>
+<T>
+MALVOLIO
+Then Id put on a lofty and exalted expression. Id look around the room calmly, then tell them that I know my place, and Id like them to know theirs. Then Id tell them to go find my cousin Toby
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) That really does it!
+</T>
+<T>
+FABIAN
+(whispering) Oh, quiet, quiet! Please, please.
+</T>
+<T>
+MALVOLIO
+Id send seven of my servants to go get him. While I waited, Id frown impatiently, and perhaps wind my watch, or play with mywith some expensive piece of jewelry I happen to be wearing. Toby would approach me. Hed bow to me
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Are we going to let this guy live?
+</T>
+<T>
+FABIAN
+(whispering) Yes, we have to be quiet, even if its torture.
+</T>
+<T>
+MALVOLIO
+I reach out my hand to him like this, giving him a stern look instead of my usual friendly smile
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) And then doesnt Toby punch you in the mouth?
+</T>
+<T>
+MALVOLIO
+And Id say to him, Cousin Toby, since Ive been lucky enough to marry your niece, I have the right to say a few things to you
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Oh yeah, like what?
+</T>
+<T>
+MALVOLIO
+You must stop being such a drunk.
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Get out of here, you scab!
+</T>
+<T>
+FABIAN
+(whispering) No, be quiet, or well screw up the joke.
+</T>
+<T>
+MALVOLIO
+And youre wasting your time with that foolish knight
+</T>
+<T>
+SIR ANDREW
+(whispering) Thats me, I bet.
+</T>
+<T>
+MALVOLIO
+That Sir Andrew
+</T>
+<T>
+SIR ANDREW
+(whispering) I knew he was talking about me. A lot of people call me foolish.
+</T>
+<T>
+MALVOLIO
+(seeing the letter) Whats this?
+</T>
+<T>
+FABIAN
+(whispering) Hes taking the bait.
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Shhh! I hope he reads it out loud, to make it funnier!
+</T>
+<T>
+MALVOLIO
+(picking up the letter) My goodness, this is my ladys handwritingThis is an obscene joke: Malvolio unwittingly spells out cut, Elizabethan slang for vagina, which is what she uses to make her pees.handwriting! These are her Cs, her Us and her Ts, and thats how she makes her big Ps. Its definitely her handwriting, no doubt about it.
+</T>
+<T>
+SIR ANDREW
+(whispering) Her Cs, her Us, and her Ts. Why focus on that?
+</T>
+<T>
+MALVOLIO
+(reads) To my dear beloved who doesnt know I love him, I send you this letter with all my heartThats exactly how she talks! Excuse me, sealing wax. (he breaks the seal) Wait! This is the stamp my lady seals her letters withit has a picture of Lucrece on it. This letter is from Olivia. Who is this written to?
+</T>
+<T>
+FABIAN
+(whispering) Thisll get him.
+</T>
+<T>
+MALVOLIO
+(he reads)
+God knows I love someone.
+But who?
+I cant let my lips say his name;
+No man must know.
+</T>
+<T>
+MALVOLIO
+No man must know. What comes after that? Look, the meter changes in her poem. No man must know. What if this someone were you, Malvolio?
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Go hang yourself, you stinking badger!
+</T>
+<T>
+MALVOLIO
+(reading)
+I may order the one I love.
+But silence, like a knife, cuts open my heart
+With strokes that draw no blood.
+M.O.A.I. rules my life.
+</T>
+<T>
+FABIAN
+(whispering) What a pretentious riddle!
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) That Maria has outdone herself!
+</T>
+<T>
+MALVOLIO
+M.O.A.I. rules my life. Hmm, let me see, let me see, let me see.
+</T>
+<T>
+FABIAN
+(whispering) What a dish of poison shes mixed for him!
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) And look how willingly hes taking the bait.
+</T>
+<T>
+MALVOLIO
+I may command the one I love. Well, she commands me. Im her servant. Shes my boss. Why, anyone can see what this means. Theres no ambiguity here. But the end, what do those letters mean? If only I could somehow relate them to me! Hmm. M.O.A.I.
+</T>
+<T>
+SIR TOBY BELCH
+(whispering) Oh, bad dog.Hes losing the scent!
+</T>
+<T>
+FABIAN
+(whispering) Hell find it again, no matter how much it stinks.
+</T>
+<T>
+MALVOLIO
+MMalvolio. Mwhy, thats the first letter in my name.
+</T>
+<T>
+FABIAN
+(whispering) Didnt I tell you hed figure it out? This dogs excellent at following false leads.
+</T>
+<T>
+MALVOLIO
+M. But then the next letter isnt the same. A should be next, but instead O comes next.
+</T>
+<T>
+FABIAN
+(whispering) And an O like a noose will end this, I hope.
+</T>
+<T>
+SIR TOBY BELCH
+(whispering)Yeah, or Ill beat him up and make him yell Oh!
+</T>
+<T>
+MALVOLIO
+And then the I comes next.
+</T>
+<T>
+FABIAN
+(whispering) If you had an I in the back of your head, youd see trouble behind you.
+</T>
+<T>
+MALVOLIO
+M.O.A.I. This codes not as easy to crack as the other one. But if I shake it up a little itll work, because every one of those letters is in my name. But wait, theres some prose after her poem.
+</T>
+<T>
+(he reads)
+If this letter falls into your hands, think carefully about what it says. By my birth I rank above you, but dont be afraid of my greatness. Some are born great, some achieve greatness, and some have greatness thrust upon them. Your fate awaits you. Accept it in body and spirit. To get used to the life youll most likely be leading soon, get rid of your low-class trappings. Show some eagerness for the new upscale lifestyle thats waiting
+</T>
+<T>
+for you. Argue with a relative like a nobleman, and be rude to servants. Talk about politics and affairs of state, and act free and independent. The woman who advises you to do this loves you. Remember the woman who complimented you on your yellow stockings, and said she always wanted to see you with crisscrossing laces going up your legsremember her. Go ahead. A happy new life is there if you want it. If you dont want it, just keep acting like a lowly servant whos not brave enough to grab the happiness there before him. Goodbye. Signed, she who would be your servant,
+The Fortunate Unhappy.
+</T>
+<T>
+This is as clear as sunlight in an open field. Ill do it. Ill be vain and proud, Ill read up on politics, Ill insult Sir Toby, Ill get rid of my lower-class friends, and Ill be the perfect man for her. I know Im not fooling myself, or letting myself get carried away by my imagination, because every clue points to the fact that Lady Olivia loves me. She did compliment me on my yellow stockings recently, and she said she liked how the crisscross laces looked on my legs. Thats her way of saying she loves me. Oh, I thank my lucky stars, Im so happy. For her Ill be strange and condescending, and Ill put on my yellow stockings and crisscross laces right away. Thank God and my horoscope! Heres a postscript!.
+</T>
+<T>
+(reads)
+You must have figured out who I am. If you love me, let me know by smiling at me. Youre so attractive when you smile. Please smile whenever youre near me, my dearest darling.
+</T>
+<T>
+Dear God, thank you! Ill do everything she wants me to do.
+</T>
+<T>
+FABIAN
+I wouldnt have missed this even for a pension of thousands of pounds, to be paid by the shah of Persia.
+</T>
+<T>
+SIR TOBY BELCH
+I could marry that Maria for thinking this up.
+</T>
+<T>
+SIR ANDREW
+So could I.
+</T>
+<T>
+SIR TOBY BELCH
+And I wouldnt ask for any dowry except for her to play another trick like this one.
+</T>
+<T>
+SIR ANDREW
+Neither would I.
+</T>
+<T>
+FABIAN
+Here she comes, the brilliant fool-catcher.
+</T>
+<T>
+SIR TOBY BELCH
+May I kiss your feet?
+</T>
+<T>
+SIR ANDREW
+And I too?
+</T>
+<T>
+SIR TOBY BELCH
+Shall I be your slave?
+</T>
+<T>
+SIR ANDREW
+Me too.
+</T>
+<T>
+SIR TOBY BELCH
+Youve made him so delusional hell go crazy when he learns the truth.
+</T>
+<T>
+MARIA
+Did it really work?
+</T>
+<T>
+SIR TOBY BELCH
+Like medicine for a sick man.
+</T>
+<T>
+MARIA
+If you want to really have some fun, watch him next time hes near Lady Olivia. Hell show up in yellow stockingsshe hates yellowand with laces crisscrossing up his legsshe hates that style of dressand hell smile, which will go completely against her mood, since shes addicted to sadness now. Shell definitely get upset with him. If you want to watch, follow me.
+</T>
+<T>
+SIR TOBY BELCH
+Id follow you to the gates of Hell, you sneaky little devil!
+</T>
+<T>
+SIR ANDREW
+Ill come too.
+</T>
+<T>
+VIOLA
+God bless you, my friend, and your music too. Do you make your living by playing that drum?
+</T>
+<T>
+FOOL
+No, sir, I live by the church.
+</T>
+<T>
+VIOLA
+Oh, youre a clergyman?
+</T>
+<T>
+FOOL
+No, I live by the church because I live in a house, and my house is by the church.
+</T>
+<T>
+VIOLA
+You could just as easily say that a king sleeps near a beggar if the beggar lives near him, or that the church is supported by your drum because it stands by your drum.
+</T>
+<T>
+FOOL
+Youre right, sir. What a wonderful time to be alive! Sentences can be turned inside out so easily nowadays!
+</T>
+<T>
+VIOLA
+Thats true. People who fool around with words too much can make words act like whoreschanging all the time, and immoral too.
+</T>
+<T>
+FOOL
+Thats why I wish my sister didnt have a name, sir.
+</T>
+<T>
+VIOLA
+Why, man?
+</T>
+<T>
+FOOL
+Well, her names a word, and if you fooled around with it you might make her into a whore. But, you know, words have been rascals ever since people started using written contracts rather than their word of honor.
+</T>
+<T>
+VIOLA
+Why do you say that?
+</T>
+<T>
+FOOL
+Honestly, sir, Id need to use words to explain why, and since words are so unreliable and false, Id rather avoid using them in a serious discussion.
+</T>
+<T>
+VIOLA
+I bet youre a happy fellow who doesnt care about anything.
+</T>
+<T>
+FOOL
+Youre wrong, sir, I do care about something. But Ill admit I dont care for you. If that means I dont care about anything, you should disappear right now, since youre nothing.
+</T>
+<T>
+VIOLA
+Arent you Lady Olivias fool?
+</T>
+<T>
+FOOL
+No, sir. Lady Olivia doesnt want to have anything to do with foolishness. So she wont have a fool until she gets married. Fools are to husbands as anchovies are to sardineshusbands are the bigger ones. Im not her fool. I just make words into whores for her.
+</T>
+<T>
+VIOLA
+I saw you at Count Orsinos recently.
+</T>
+<T>
+FOOL
+Im everywhere. Foolishness is all over the world, just like sunshine. Id be sorry if people thought your master was less familiar with foolishness than my mistress is. I think I saw you there, you wise man.
+</T>
+<T>
+VIOLA
+Oh no, if youre joking around with me, Im leaving. Wait, heres a coin for you.
+</T>
+<T>
+FOOL
+Next time God sends out a shipment of hair, I hope he gives you a beard!
+</T>
+<T>
+VIOLA
+Oh, I know. Seriously, Im dying for one, (to herself) I mean, Im dying for a man who has a beard; I dont want one to grow on my chin. (to the FOOL) Is Lady Olivia inside?
+</T>
+<T>
+FOOL
+If I had two of these coins, do you think theyd breed more coins?
+</T>
+<T>
+VIOLA
+Yes, if you kept them together and invested them.
+</T>
+<T>
+FOOL
+Id like to be like that famous pimp, Lord Pandarus, and get a Cressida for my TroilusA Cressida for my Troilus means a female coin for my male coin. Troilus and Cressida were famous lovers, brought together by Cressidas uncle Pandarus, traditionally regarded as the first pimp.Cressida for my Troilus.
+</T>
+<T>
+VIOLA
+(giving the FOOL money) I get what youre driving at, sir. Youre a very clever beggar.
+</T>
+<T>
+FOOL
+It shouldnt be too much to ask; Im only begging for a beggar. They say Cressida became a beggar in her old age. My lady Olivias inside, sir. Ill tell them where you come from, though I dont know who you are or what you want. Id say I was out of my element, but that phrase is overused, so Ill say Im out of my air.
+</T>
+<T>
+VIOLA
+This guys wise enough to play the fool, and only clever people can do that. He pays attention to the mood and social rank of the person hes joking with, and also to the time of day. And he doesnt let go of his target when a distraction appears. His job requires as much effort and skill as any wise mans occupation could. And he shows hes very smart at playing the fool, while smart people look stupid when they play the fool.
+</T>
+<T>
+SIR TOBY BELCH
+Hello, sir.
+</T>
+<T>
+VIOLA
+Hello to you too, sir.
+</T>
+<T>
+SIR ANDREW
+(speaking in French) May God protect you, sir.
+</T>
+<T>
+VIOLA
+(speaking in French) And you too, sir. Im at your service.
+</T>
+<T>
+SIR ANDREW
+(stammeringSir Andrews awkwardness reveals that hes bad at French.stammering) Oh, good, I am too.
+</T>
+<T>
+SIR TOBY BELCH
+My niece would like you to come in to the house, if your business here has to do with her.
+</T>
+<T>
+VIOLA
+Im headed for your niece, sir. Shes the reason Im here.
+</T>
+<T>
+SIR TOBY BELCH
+Taste your legs, sir. Please go inside.
+</T>
+<T>
+VIOLA
+Taste my legs? My legs stand under me, but I dont understand what taste your legs means.
+</T>
+<T>
+SIR TOBY BELCH
+I mean please go into the house, sir.
+</T>
+<T>
+VIOLA
+I will. But now we dont have to!
+</T>
+<T>
+Oh, beautiful and accomplished lady, may the heavens rain odors upon you!
+</T>
+<T>
+SIR ANDREW
+(to himself) That young mans classy. Rain odors. Thats good.
+</T>
+<T>
+VIOLA
+My message is not for anyone else to hear, my lady. Its only for your willing and receptive ear.
+</T>
+<T>
+SIR ANDREW
+(to himself) Odors, willing, and deserving. Ill have to remember those words so I can use them later myself.
+</T>
+<T>
+OLIVIA
+Close the garden door and leave me alone to hear his message.
+</T>
+<T>
+Give me your hand, sir.
+</T>
+<T>
+VIOLA
+I give you my obedience and my humble service, madam.
+</T>
+<T>
+OLIVIA
+Whats your name?
+</T>
+<T>
+VIOLA
+Cesario is my nameyour servants namefair princess.
+</T>
+<T>
+OLIVIA
+My servant! The worlds gone downhill since fake humility started passing for compliments. Youre not my servant, young man. Youre Count Orsinos servant.
+</T>
+<T>
+VIOLA
+But hes your servant, so everything thats his must be yours too. Your servants servant is your servant, madam.
+</T>
+<T>
+OLIVIA
+As for him, I never think about him. As for his thoughts, I wish hed think about nothing at all rather than think about me all the time.
+</T>
+<T>
+VIOLA
+Madam, Ive come here to try to make you like him.
+</T>
+<T>
+OLIVIA
+Oh, please, Im begging you, dont mention him again. But if you want to tell me that someone else loves me, Id enjoy hearing that more than Id enjoy listening to angels sing.
+</T>
+<T>
+VIOLA
+My dear lady
+</T>
+<T>
+OLIVIA
+Please let me say something, Im begging you. After you cast your magic spell on me last time, I sent you a ring. I fear it was a mistake, since I tricked my servant, myself, and you too. You probably think poorly of me after I forced that ring on you with such outrageous trickery. What else could you possibly think of me?
+</T>
+<T>
+Havent you totally dismissed my honor and integrity in your anger? For someone as intelligent as you the situation must be clear enough. Im wearing my heart on my sleeve, and I cant hide my feelings. So let me hear what you have to say.
+</T>
+<T>
+VIOLA
+I feel sorry for you.
+</T>
+<T>
+OLIVIA
+Thats a step in the direction of love.
+</T>
+<T>
+VIOLA
+No, not at all. Its a perfectly ordinary experience for us to feel sorry for our enemies.
+</T>
+<T>
+OLIVIA
+Well, enough of my whining then. Thats that! I was getting carried away with fantasies I didnt deserve to have. But I should consider myself lucky. Its much better to be destroyed by a noble enemy than by a cruel and heartless one. (a clock strikes) Listen to that, the clocks scolding me for wasting my time loving you. Dont worry, young man, I wont stalk you. And when youre older and wiser and ready for marriage, your future wife will have a fine husband. Theres the way back home for you, due west.
+</T>
+<T>
+VIOLA
+Then west is where Im headed! I wish you all the best. You do
+</T>
+<T>
+OLIVIA
+Stay, Please, tell me what you think of me.
+</T>
+<T>
+VIOLA
+I think youre denying what you really are.
+</T>
+<T>
+OLIVIA
+If thats true, I think the same thing about you.
+</T>
+<T>
+VIOLA
+Youre right. I am not what I am.
+</T>
+<T>
+OLIVIA
+I wish you were what I wanted you to be!
+</T>
+<T>
+VIOLA
+Would it be better if I were that, instead of what I am? I wish I were something better, because right now Im a big fool.
+</T>
+<T>
+OLIVIA
+(to herself) Oh, how beautiful he is even when hes angry and full of contempt! A murderer can hide his guilt longer than someone in love can hide her love. Love shines brightly and cant be hidden. (to VIOLA) Cesario, I swear by the spring roses, by virginity, honor, truth, and everything, I swear I love you. I love you so much that I cant hide my passion for you, as clever as I am. Dont assume that because Im pursuing you theres no reason to pursue me. Put two and two together and realize that asking for love is good, but getting it without asking is much better.
+</T>
+<T>
+VIOLA
+And I swear by my youth and innocence that Ive only got one heart and one love to give, and that Ive never given them to a woman and never will. So goodbye, my lady. I wont ever come to complain about my lords love for you again.
+</T>
+<T>
+OLIVIA
+Then come again for another reason. You might still be able to make yourself fall in love with me, the person he loves, even though you hate me now.
+</T>
+<T>
+SIR ANDREW
+No, I wont stay a second longer.
+</T>
+<T>
+SIR TOBY BELCH
+Why are you leaving, my angry friend?
+</T>
+<T>
+FABIAN
+Yes, you have to tell us why, Sir Andrew.
+</T>
+<T>
+SIR ANDREW
+Well, because I saw your niece Olivia treat the counts messenger better than shes ever treated me. I saw it in the orchard.
+</T>
+<T>
+SIR TOBY BELCH
+Did she see you there the whole time, old boy? Tell me that.
+</T>
+<T>
+SIR ANDREW
+Yes, she saw me quite clearly.
+</T>
+<T>
+FABIAN
+Well, that proves shes in love with you.
+</T>
+<T>
+SIR ANDREW
+Are you trying to make fun of me?
+</T>
+<T>
+FABIAN
+No, Ill prove it with airtight evidence and logical argument.
+</T>
+<T>
+SIR TOBY BELCH
+And you cant deny evidence and argumentTheyve been around since Noahs ark.
+</T>
+<T>
+FABIAN
+She flirted with the messenger boy to exasperate you, fire up your passions, and make you angry and jealous. You should have run up to her, unleashed a few excellent quips invented on the spot, and rendered the young man speechless.
+</T>
+<T>
+Thats what she was expecting, and you let her down. You wasted a golden opportunity, and now my lady thinks badly of you. You can only raise her opinion of you with some impressive act of courage or complicated intrigue.
+</T>
+<T>
+SIR ANDREW
+Ill have to do something courageous then, because I hate intrigue. Id rather be a heretic than a schemer with fancy plots.
+</T>
+<T>
+SIR TOBY BELCH
+Well then, improve your situation with a show of courage. Challenge the counts young servant to a fight. Hurt him in eleven different places. My niece Olivia will notice, and let me tell you, no matchmaker in the world can get you a woman faster than a reputation for courage.
+</T>
+<T>
+FABIAN
+Its really the only way, Sir Andrew.
+</T>
+<T>
+SIR ANDREW
+Will either of you give him the message that Im challenging him to a duel?
+</T>
+<T>
+SIR TOBY BELCH
+Go ahead and write it down. Make your handwriting look like a soldiers. Be pointed and brief. It doesnt need to be witty as long as its eloquent and imaginative. Taunt him as much as you want, since youre only doing it in writing. Its fine if you refer to him as thou instead of you.Thou was an informal version of you, and thus insulting when used to an aristocrat.you. Write down as many lies as you can fit on a sheet of paper. Go ahead, get on with it. You may be using an ordinary pen, but you can fill it with poison ink. Now get busy.
+</T>
+<T>
+SIR ANDREW
+Where will I find you when Ive finished it?
+</T>
+<T>
+SIR TOBY BELCH
+Well come find you in the bedroom. Go on.
+</T>
+<T>
+FABIAN
+This precious little guy is putty in your hands, Sir Toby.
+</T>
+<T>
+SIR TOBY BELCH
+He must like me, since hes let me spend two thousand of his ducats.
+</T>
+<T>
+FABIAN
+His letters going to be hilarious. But youre not going to deliver it, are you?
+</T>
+<T>
+SIR TOBY BELCH
+Never trust me again if I dont. And by all means see if you can get the young man to answer it. I dont think a team of oxen could get them close enough to fight. If you dissected Andrew and found enough red blood in his liverIt was commonly believed that cowards had white livers with no blood in them.liver for a flea to eat, then Id eat the rest of his corpse. Hes a coward.
+</T>
+<T>
+FABIAN
+And his opponent, the young messenger, doesnt look like hed be very aggressive in a fight.
+</T>
+<T>
+SIR TOBY BELCH
+Here comes my little bird.
+</T>
+<T>
+MARIA
+Listen, if you want a good laughand I mean a side-splitting onethen follow me. That gullible idiot Malvolio must have renounced Christianity, since no Christian could do such outrageous things as hes doing. Hes wearing yellow stockings.
+</T>
+<T>
+SIR TOBY BELCH
+With crisscrossed laces?
+</T>
+<T>
+MARIA
+Oh, he looks like a pathetic Sunday school teacher. Ive stalked him like a murderer, and hes done everything the letter told him to. He smiles so much his face has more lines in it than a map of the East Indies. Youve never seen anything like it. I can hardly keep myself from throwing things at him. I know that my ladys going to end up hitting him. And when she does, hell imagine shes flirting with him.
+</T>
+<T>
+SIR TOBY BELCH
+Come on, take us to him.
+</T>
+<T>
+SEBASTIAN
+I really didnt want to inconvenience you. But since you seem to enjoy helping me, I wont nag you to stop any more.
+</T>
+<T>
+ANTONIO
+I couldnt stay behind after you left. I just felt a sharp desire to follow you. It wasnt just that I wanted to see you, though I very much did want that. I was also worried about what might happen to you while you were traveling, since youre not familiar with this area, and its rough and unwelcoming to a stranger with no guide. I followed you because I love you and I was worried about you.
+</T>
+<T>
+SEBASTIAN
+My friend Antonio, all I can say is thank you. I know words are cheap. If I had any money Id back up my gratitude with cash. Anyway, what should we do? Should we go see the sights in the town?
+</T>
+<T>
+ANTONIO
+We can do that tomorrow, sir. First we should make sure you have somewhere to stay.
+</T>
+<T>
+SEBASTIAN
+Im not tired, and night is a long time away. Come on, lets go see the sights.
+</T>
+<T>
+ANTONIO
+Im sorry, but I cant. You see, its dangerous for me to walk in these streets. Once in a battle at sea I did a lot of damage to Count Orsinos warships. If they arrested me here, itd be the end of me.
+</T>
+<T>
+SEBASTIAN
+You probably killed a lot of his men?
+</T>
+<T>
+ANTONIO
+No, I didnt do anything as violent as that, though we wouldve been justified in shedding a little blood over the matter. The whole quarrel might have been resolved since then when we repaid what we stole from themwhich most of our city did, for the sake of friendly trade relations. I was the only one who refused to give back what I stole. Thats why Ill pay dearly if they find me here.
+</T>
+<T>
+SEBASTIAN
+Then dont make yourself too conspicuous.
+</T>
+<T>
+ANTONIO
+Youre right. Hang on a minute, heres some money for you. (he gives SEBASTIAN money) The best place to stay around here is an inn called the Elephant, in the suburbs south of the city. Ill arrange for our meals while you enjoy yourself and educate yourself by looking at the town. Youll find me at the Elephant.
+</T>
+<T>
+SEBASTIAN
+Why are you giving me your purse?
+</T>
+<T>
+ANTONIO
+Maybe youll see some little trinket you want to buy. I doubt youve got enough money for little purchases like that.
+</T>
+<T>
+SEBASTIAN
+Ill hold on to your money and leave you for an hour.
+</T>
+<T>
+ANTONIO
+Well meet at the Elephant.
+</T>
+<T>
+SEBASTIAN
+I remember.
+</T>
+<T>
+OLIVIA
+Ive sent for him. He says hell come. What kind of food should I serve him? What presents should I give him? Its easier to buy young people than to beg or borrow them. Oh, Im talking too loud.Wheres Malvolio? Hes very serious, which is right for someone in mourning like me. Where is Malvolio?
+</T>
+<T>
+MARIA
+Hes coming, madam; but hes acting very strangely. He must be possessed by the devil.
+</T>
+<T>
+OLIVIA
+Why, whats the matter with him? Is he talking nonsense?
+</T>
+<T>
+MARIA
+No, he just smiles. You should have a guard nearby if he comes in here, because hes clearly disturbed.
+</T>
+<T>
+OLIVIA
+Ask him in here.
+</T>
+<T>
+Im as crazy as he is, if sad craziness and happy craziness are equivalent.
+</T>
+<T>
+Whats going on, Malvolio?
+</T>
+<T>
+MALVOLIO
+Hello, sweet lady.
+</T>
+<T>
+OLIVIA
+Youre smiling? I sent for you about a sad occasion.
+</T>
+<T>
+MALVOLIO
+Sad, my lady! I could be sad if I wanted to be. These crisscrossing laces do cut off the circulation in my legs a bit, but who cares? As the sonnet says, If you please one special person, you please everyone who matters.
+</T>
+<T>
+OLIVIA
+Why, whats going on? Whats the matter with you?
+</T>
+<T>
+MALVOLIO
+My legs may be yellow, but I dont feel blue. It was addressed to him, and orders must be obeyed. I think we know whose fancy handwriting that was.
+</T>
+<T>
+OLIVIA
+Dont you think you should go to bed, Malvolio?
+</T>
+<T>
+MALVOLIO
+To bed! Yes, sweetheart, Ill come to you.
+</T>
+<T>
+OLIVIA
+For heavens sake, why are you smiling like that and kissing your hand so much?
+</T>
+<T>
+MARIA
+How are you feeling, Malvolio?
+</T>
+<T>
+MALVOLIO
+Youre asking me! Noble people dont answer to peasants!
+</T>
+<T>
+MARIA
+Why are you acting so brazen toward my lady?
+</T>
+<T>
+MALVOLIO
+Dont be afraid of greatness. That was well written.
+</T>
+<T>
+OLIVIA
+What do you mean by that, Malvolio?
+</T>
+<T>
+MALVOLIO
+Some are born great
+</T>
+<T>
+OLIVIA
+What?
+</T>
+<T>
+MALVOLIO
+Some achieve greatness
+</T>
+<T>
+OLIVIA
+What are you saying?
+</T>
+<T>
+MALVOLIO
+And some have greatness thrust upon them.
+</T>
+<T>
+OLIVIA
+Heaven help you!
+</T>
+<T>
+MALVOLIO
+Remember who liked your yellow stockings
+</T>
+<T>
+OLIVIA
+Your yellow stockings?
+</T>
+<T>
+MALVOLIO
+And wanted to see you with laces crisscrossed over your legs.
+</T>
+<T>
+OLIVIA
+Crisscrossed?
+</T>
+<T>
+MALVOLIO
+Go ahead. A happy new life is there if you want it
+</T>
+<T>
+OLIVIA
+Am I a new life?
+</T>
+<T>
+MALVOLIO
+If you dont want it, just keep acting like a lowly servant.
+</T>
+<T>
+OLIVIA
+This is completely insane.
+</T>
+<T>
+SERVANT
+Madam, Count Orsinos young messenger has returned. It was hard to get him to come back, but hes here now, waiting for you.
+</T>
+<T>
+OLIVIA
+Ill go to him.
+</T>
+<T>
+Maria, take care of this poor fellow here. Wheres my cousin Toby? Have some of my servants take care of Malvolio. Id give half my dowry to keep anything bad from happening to him.
+</T>
+<T>
+MALVOLIO
+Oh ho! Look at me now! No less a person than Sir Toby, Lady Olivias own relative, is going to take care of me. This is just what the letter said. Shes sending him to me on purpose, so I can be rude to him just like she said in the letter. Get rid of your low-class trapping, she said. Argue with a relative of mine like a nobleman, and be rude to servants. Talk about politics and affairs of state, and act free and independent. And then she explains how to do it: I should have a serious face and dignified demeanor, well-modulated speech, acting like a distinguished gentleman and so on. Ive got her now, but Ive got God to thank for it! And when she left just now, she said Take care of this poor fellow here. Fellow! Not Malvolio, not anything referring to my low station in life, but fellow. Everythings going perfectly. Not the tiniest ounce, not the littlest insignificant amount of trouble or bad luck could ruin itwhat can I say? Nothing can come between me and the fulfillment of all my hopes. Well, God is responsible for that, not me, and he deserves thanks.
+</T>
+<T>
+SIR TOBY BELCH
+Where is he, for Gods sake? I dont care if all the devils in hell crammed together to possess him, I still want to speak to him.
+</T>
+<T>
+FABIAN
+Here he is, here he is. How are you, sir?
+</T>
+<T>
+MALVOLIO
+Go away. I dont want to see your face. Let me enjoy my privacy. Go away.
+</T>
+<T>
+MARIA
+(to SIR TOBY BELCH) Ooh, listen to the scary devil speaking from inside him! Didnt I tell you? Sir Toby, Lady Olivia wants you to take care of him.
+</T>
+<T>
+MALVOLIO
+Ah-ha! Does she?
+</T>
+<T>
+SIR TOBY BELCH
+(to FABIAN and MARIA) Come on, come on! Calm down, calm down. We need to treat him gently. Let me take care of this.How are you, Malvolio? How are things? Come on, man, just say no to the devil! Think about it, hes the enemy of mankind.
+</T>
+<T>
+MALVOLIO
+Do you even know what youre talking about?
+</T>
+<T>
+MARIA
+(to SIR TOBY BELCH) Look at that, he acts insulted if you say bad things about the devil! I hope to God hes not bewitched!
+</T>
+<T>
+FABIAN
+Get a urine sample and take it to a witch doctor to find out.
+</T>
+<T>
+MARIA
+Sure thing, well do it tomorrow morning. My lady would never want to lose him.
+</T>
+<T>
+MALVOLIO
+What are you saying, mistress?
+</T>
+<T>
+MARIA
+Oh, Lord!
+</T>
+<T>
+SIR TOBY BELCH
+(to MARIA) Please, keep quiet. This is not the way to act. Dont you see youre upsetting him? Leave me alone with him.
+</T>
+<T>
+FABIAN
+Gentleness is the only way to gogently, gently. The devil inside him is rough, but we cant treat it roughly.
+</T>
+<T>
+SIR TOBY BELCH
+(to the imaginary devil inside MALVOLIO) So how are you, my pretty little bird? How are you doing in there, sweet little chicken?
+</T>
+<T>
+MALVOLIO
+Sir!
+</T>
+<T>
+SIR TOBY BELCH
+Yes, dear little chick, come along with me.Shut up, man! Youre serious enough to know not to play games with Satan. Damn that dirty black coalminer of a devil!
+</T>
+<T>
+MARIA
+Get him to say his prayers, Sir Toby, get him to pray.
+</T>
+<T>
+MALVOLIO
+My prayers, you hussy?
+</T>
+<T>
+MARIA
+(to SIR TOBY BELCH) No, Im telling you, he refuses to hear anything about religion.
+</T>
+<T>
+MALVOLIO
+Go hang yourselves, all of you! Youre all lazy and shallow. Im not like you. I have a higher future waiting for me. Youll know more about it later.
+</T>
+<T>
+SIR TOBY BELCH
+Is it possible?
+</T>
+<T>
+FABIAN
+If this were a play, Id complain it was unrealistic.
+</T>
+<T>
+SIR TOBY BELCH
+Hes really taken this prank to heart. Hes playing the role perfectly.
+</T>
+<T>
+MARIA
+No, follow him now, before he divulges the prank and ruins everything.
+</T>
+<T>
+FABIAN
+Wow, were really going to drive him crazy.
+</T>
+<T>
+MARIA
+The house will be so much quieter.
+</T>
+<T>
+SIR TOBY BELCH
+Come on, lets put him in a dark room and tie him up. My niece already thinks hes insane. We can go on like this, punishing him and having some fun, until were tired of it. Then we can take mercy on him and let him out, and talk about how well the joke went. Well also worship you for setting up this trick. Lets do it, lets do it!
+</T>
+<T>
+FABIAN
+Heres more insanity for us.
+</T>
+<T>
+SIR ANDREW
+(presenting them a piece of paper) Heres the challenge, read it. Its bursting with fighting words.
+</T>
+<T>
+FABIAN
+Is it that aggressive?
+</T>
+<T>
+SIR ANDREW
+Yes, it is, I think. Just read it.
+</T>
+<T>
+SIR TOBY BELCH
+Give it to me. (he reads) Young man, whatever you are, youre a real scum bucket.
+</T>
+<T>
+FABIAN
+Nice. Very courageous.
+</T>
+<T>
+SIR TOBY BELCH
+(reading) Dont even ask why I call you that, because I wont give you any explanation.
+</T>
+<T>
+FABIAN
+Thats a good thing to put init keeps you from getting in trouble with the law.
+</T>
+<T>
+SIR TOBY BELCH
+(reading) You come to see the lady Olivia, and shes kind to you. But youre a complete liar. Thats not why Im challenging you to a duel.
+</T>
+<T>
+FABIAN
+Nice and short and full of good senseor should I say nonsense?
+</T>
+<T>
+SIR TOBY BELCH
+(reading) Ill ambush you on your way home, and if youre lucky enough to kill me
+</T>
+<T>
+FABIAN
+Good.
+</T>
+<T>
+SIR TOBY BELCH
+(reading) Youll be killing me like a common criminal, a mugger.
+</T>
+<T>
+FABIAN
+You still havent said anything incriminating. Good.
+</T>
+<T>
+SIR TOBY BELCH
+(reading) Good luck, and may God have mercy on one of our souls. He may have mercy upon mine. But I have a better chance of surviving, so watch out. Signed, your friend, if you treat him right, and your sworn enemy,
+Andrew Aguecheek
+</T>
+<T>
+If this letter doesnt make him fight, I dont know what will. Ill give it to him.
+</T>
+<T>
+MARIA
+You might have a great opportunity to give it to him right now. Hes conducting some business with my lady, and sooner or later hell leave.
+</T>
+<T>
+SIR TOBY BELCH
+Go, Sir Andrew. Look out for him in the corner of the orchard as if you were a sheriffs deputy. As soon as you see him, draw your sword, and as you draw it, start swearing horribly. Sometimes a terrible swear word, like a well-shot arrow, makes you look more brave and manly than getting in a fight would. Now go!
+</T>
+<T>
+SIR ANDREW
+Dont worry about me not swearing enough.
+</T>
+<T>
+SIR TOBY BELCH
+I wont deliver this letter. The young gentlemans behavior shows that hes sensible and has good manners. The fact that he serves as a go-between for his lord and my niece Olivia confirms this. So this letter, which is so incredibly stupid and ignorant, isnt going to scare him at all. Hell just think an idiot wrote it. But Ill deliver Sir Andrews challenge by word of mouth, describing Sir Andrew as courageous in battle and convincing the young gentleman that Sir Andrew is furious, impetuous, and a skilled fighter (hell believe me because hes young). This will make them both so afraid that theyll kill each other just by looking at each other.
+</T>
+<T>
+FABIAN
+Here comes the messenger with your niece. Leave them alone until he sets off home, and then follow him.
+</T>
+<T>
+SIR TOBY BELCH
+Meanwhile, Ill think of some horrible way to phrase the challenge.
+</T>
+<T>
+OLIVIA
+Ive said too much to someone with a heart of stone. Ive foolishly jeopardized my honor and reputation. I hate myself for behaving that way, but I just had to, and no criticism could have stopped me.
+</T>
+<T>
+VIOLA
+My lord acts just as crazy with love as you do.
+</T>
+<T>
+OLIVIA
+Here, take this piece of jewelry. Theres a picture of me inside. Dont refuse it. It wont annoy you like me, because it doesnt have a voice. And I beg you, please come here again tomorrow. What could you possibly ask of me that I wouldnt give you, as long as it didnt damage my honor and self-respect?
+</T>
+<T>
+VIOLA
+Nothing, except your true love for my lord.
+</T>
+<T>
+OLIVIA
+How could I honorably give him what Ive already given you?
+</T>
+<T>
+VIOLA
+Ill give it back to you.
+</T>
+<T>
+OLIVIA
+Just come again tomorrow. Good-bye. A devil like you could lead me to hell.
+</T>
+<T>
+SIR TOBY BELCH
+Hello, sir.
+</T>
+<T>
+VIOLA
+Hello to you.
+</T>
+<T>
+SIR TOBY BELCH
+Youd better think up a way to defend yourself. I dont know what youve done to upset him, but someone has challenged you to a duel. Hes riled up and bloodthirsty, and hes waiting for you at the back of the orchard. Draw your sword and get on your toes, because your assailant is quick, skillful, and deadly.
+</T>
+<T>
+VIOLA
+There must be some mistake, sir. Im sure nobody would have any reason to fight with me. I cant remember anything Ive ever done to offend anyone.
+</T>
+<T>
+SIR TOBY BELCH
+Youre wrong about that, I assure you. So if you value your life at all, be on your guard. Your opponent has enough youth, strength, skill, and anger to outfight anyone.
+</T>
+<T>
+VIOLA
+But who is this person, sir?
+</T>
+<T>
+SIR TOBY BELCH
+Hes a knight. He was made a knight because of his court connections, but when hes fighting a civilian hes a real monster. Hes killed three people, and hes so furious right now that the only thing that will satisfy him is seeing you die. Fight to the death is his motto.
+</T>
+<T>
+VIOLA
+Ill go back inside and ask the lady for some kind of escort. Im not a fighter. Ive heard of men who pick fights with other people on purpose, just to see how brave they are. This man is probably like that.
+</T>
+<T>
+SIR TOBY BELCH
+No, sir. Hes furious because you insulted him, and he has a right to satisfaction. So go out there and give him what he wants. You cant go back into the house unless you want to fight with meand if youre willing to do that, you might as well just go and fight with him. So go to the orchard, or take out your sword right now. Youre going to have to fight one way or another, theres no doubt about that, or else youll have to stop wearing a sword and claiming to be a gentleman.
+</T>
+<T>
+VIOLA
+This is as rude as it is strange. Please, do me this one favor: find out what Ive done to offend this knight. It must be something I did accidentally.
+</T>
+<T>
+SIR TOBY BELCH
+I will do so. Mr. Fabian, stay with this gentleman until I come back.
+</T>
+<T>
+VIOLA
+Excuse me, sir, do you know anything about this?
+</T>
+<T>
+FABIAN
+I know the knight is furious with you, so much that hes willing to fight you to the death, but I dont know anything else about it.
+</T>
+<T>
+VIOLA
+What kind of man is he?
+</T>
+<T>
+FABIAN
+Hes not much to look at, but hes very brave in battle. He really is the most skillful, bloodthirsty, and dangerous opponent you can find in Illyria. Do you want to go see him? Ill try to calm him down for you if I can.
+</T>
+<T>
+VIOLA
+Id be very grateful to you if you did. Im much more of a religious type than a fighter, and I dont care who knows it.
+</T>
+<T>
+SIR TOBY BELCH
+Wow, hes a real devil. Ive never seen such a monster. I had a round with him, and his sword thrust is so deadly that you cant even duck out of the way. And when he strikes back at you, hell hit you as sure as youre standing there. They say he used to fence for the shah of Persia.
+</T>
+<T>
+SIR ANDREW
+Thats it! I wont mess with him.
+</T>
+<T>
+SIR TOBY BELCH
+Yes, but now theres no way to calm him down. Fabian can hardly control him over there.
+</T>
+<T>
+SIR ANDREW
+Darn it, if Id guessed he was so brave and such a good swordsman, I never would have challenged him. Ill give him my gray horse Capilet if he forgets the whole thing.
+</T>
+<T>
+SIR TOBY BELCH
+Ill give it a try. Stay right here and try to look good. This may end without anyone getting killed. (to himself) Ill ride your horse just like I ride you.
+</T>
+<T>
+(to FABIAN) Hes given me his horse to try to avoid the fightIve persuaded him that the young man is a fighting machine.
+</T>
+<T>
+FABIAN
+Hes just as terrified of Sir Andrew. Hes pale and hyperventilating, as if a bear were chasing him.
+</T>
+<T>
+SIR TOBY BELCH
+(to VIOLA) Theres nothing you can do about it, sir. He insists on fighting with you because he swore he would. But hes thought over his reason for challenging you to fight, and he realizes its so insignificant that its not worth thinking about. So draw your sword so he can carry out his vow. He promises not to hurt you.
+</T>
+<T>
+VIOLA
+(to herself) God help me! If anything happens Im going to have to tell them exactly how unmanly I am.
+</T>
+<T>
+FABIAN
+Back off if he seems really furious.
+</T>
+<T>
+SIR TOBY BELCH
+Come on, Sir Andrew, theres nothing you can do about it. The gentleman insists on fighting a round with you, for the sake of his honor. The rules of dueling say he has to. But as a gentleman and a soldier hes promised me he wont hurt you. Come on, get ready.
+</T>
+<T>
+SIR ANDREW
+I hope to God he keeps his promise!
+</T>
+<T>
+VIOLA
+I swear to you, I dont want to be doing this.
+</T>
+<T>
+ANTONIO
+Put your sword away. If this young gentleman has offended you, Ill take the blame for it. If youve offended him, Ill fight you.
+</T>
+<T>
+SIR TOBY BELCH
+You, sir? Who are you?
+</T>
+<T>
+ANTONIO
+Im just a good friend of his. In fact, Id do even more to him than what youve heard him promise to do.
+</T>
+<T>
+SIR TOBY BELCH
+If youre someone who gets into fights, Ill fight with you.
+</T>
+<T>
+FABIAN
+Oh, Sir Toby, stop! The police are here.
+</T>
+<T>
+SIR TOBY BELCH
+(to ANTONIO) Ill be back for you soon.
+</T>
+<T>
+VIOLA
+(to ANDREW) Please, sir, put away your sword. Please.
+</T>
+<T>
+SIR ANDREW
+I certainly will, sir. And as for what I promised to you, Im as good as my word. You can ride him easily, and he responds well when you pull the reins.
+</T>
+<T>
+FIRST OFFICER
+This is the man. Do your job.
+</T>
+<T>
+SECOND OFFICER
+Antonio, youre under arrest on the orders of Count Orsino.
+</T>
+<T>
+ANTONIO
+You must be mistaking me for someone else, sir.
+</T>
+<T>
+FIRST OFFICER
+No, sir, not at all. I recognize your face perfectly, even without a sailors cap on your head.Take him away. He knows I recognize him.
+</T>
+<T>
+ANTONIO
+I have to obey. (to VIOLA) This has happened because I came looking for you, but theres nothing I can do about it now. Ill take whats coming to me. But whatll you do now that I have to ask you for my purse back?
+</T>
+<T>
+Im more upset about not being able to help you than I am about whats going to happen to me. You look so confused. Dont worry about me.
+</T>
+<T>
+SECOND OFFICER
+Come on, sir, lets go.
+</T>
+<T>
+ANTONIO
+(to VIOLA) Really, I must ask you for some of that money.
+</T>
+<T>
+VIOLA
+What money, sir? I feel sorry for you in this situation, and I want to thank you for the kindness youve shown me here, so Ill lend you some of my money, though I dont have much. Ill give you half of everything I have right now. Take this. Its half of all my money. (she offers him money)
+</T>
+<T>
+ANTONIO
+Are you really going to pretend you dont know me now? After everything Ive done for you, youre refusing to help me? Dont make me more miserable than I am. I might do something really weak and unmanly, like listing the kind things Ive done for you.
+</T>
+<T>
+VIOLA
+I dont know any kind things youve done for me, and I dont recognize your voice or your face. I hate an ungrateful man more than I hate lying, vanity, babbling, drunkenness, or any other vice that we feeble human beings are susceptible to.
+</T>
+<T>
+ANTONIO
+Oh, my God!
+</T>
+<T>
+SECOND OFFICER
+Come on, sir, please. Lets go.
+</T>
+<T>
+ANTONIO
+No, Ive got something to say. I saved this young mans life when he was half-dead, and nursed him back to health lovingly and tenderly. I devoted myself to him, since he looked noble and good.
+</T>
+<T>
+FIRST OFFICER
+Why should we care? Times passing. Lets go!
+</T>
+<T>
+ANTONIO
+But oh, what a deceiver he turned out to be! You dont live up to your good looks, Sebastian. You look good but youre bad on the inside, where it counts, since the only real flaws in nature are in a persons mind and soul. Only really cruel people can be called deformed. Virtue is beauty, but someone beautiful and wicked is like an empty box decorated by the devil.
+</T>
+<T>
+FIRST OFFICER
+The mans going crazy. Take him away. Come on, sir. Come on.
+</T>
+<T>
+ANTONIO
+Take me.
+</T>
+<T>
+VIOLA
+He was so angry I feel he must really believe what he was saying. I dont believe it. Yet I wish I could. Oh, please be true, please let it be that this man has mistaken me for you, my dear brother!
+</T>
+<T>
+SIR TOBY BELCH
+Come here, Sir Andrew. You too, Fabian. Weve got some words of wisdom to mull over.
+</T>
+<T>
+VIOLA
+He called me Sebastian. I know my brothers still alive in a sense, since I see him whenever I look in the mirror. My brother looked like me, and he dressed the same way that Im dressed nowin the same colors,
+</T>
+<T>
+with the same accessories. Oh, if it turns out to be true that he survived, then that storm was kind, and the ocean was full of love!
+</T>
+<T>
+SIR TOBY BELCH
+Hes a very dishonest, puny boy, and more cowardly than a rabbit. He abandoned his friend here in an emergency, and even pretended he didnt know him. That shows hes dishonest. As for his cowardliness, ask Fabian.
+</T>
+<T>
+FABIAN
+Hes a coward, a total coward. Hes religiously devoted to his cowardice.
+</T>
+<T>
+SIR ANDREW
+By God, Ill go after him again and beat him up.
+</T>
+<T>
+SIR TOBY BELCH
+Please do. Beat him up well, but dont draw your sword.
+</T>
+<T>
+SIR ANDREW
+I swear I will
+</T>
+<T>
+FABIAN
+Come on, lets go see what happens.
+</T>
+<T>
+SIR TOBY BELCH
+Ill bet anything you like that nothing will happen, once again.
+</T>
+<T>
+FOOL
+Are you trying to tell me that I wasnt sent to get you?
+</T>
+<T>
+SEBASTIAN
+Oh, who cares, youre acting like a fool. Leave me alone.
+</T>
+<T>
+FOOL
+Good for you, holding out on me like this! No, I dont know you, and my lady didnt send me to get you, and Im not supposed to tell you to come speak with her, and your name is not Master Cesario, and this is not my nose, either. Nothing is what it is.
+</T>
+<T>
+SEBASTIAN
+Oh please, go somewhere else to blab your nonsense. You dont know me.
+</T>
+<T>
+FOOL
+Blab my nonsense? He mustve heard that phrase describing some great man and now hes using it on a jester. Blab my nonsense! What an idiotic place this world is. Now please stop being so strange and tell me what exactly I should blab to my lady. Should I blab to her that youre coming?
+</T>
+<T>
+SEBASTIAN
+Please, fool, go away. Heres money for you. (giving him money) If you stay any longer, Ill give you something worse.
+</T>
+<T>
+FOOL
+Well, well. Youre a generous man. Wise men who give fools money might get a good reputationif they keep up regular payments for fourteen years.
+</T>
+<T>
+SIR ANDREW
+Well, sir, we meet again? Take that.
+</T>
+<T>
+SEBASTIAN
+(returning the blow) Well, then, take that, and that, and that. Is everyone here insane?
+</T>
+<T>
+SIR TOBY BELCH
+Stop right now or Ill throw your dagger over the roof.
+</T>
+<T>
+FOOL
+(to himself) Im going to tell my lady about this right away. I wouldnt be in any of your shoes if you paid me.
+</T>
+<T>
+SIR TOBY BELCH
+(grabbing SEBASTIAN) Come on, sir, stop!
+</T>
+<T>
+SIR ANDREW
+No, leave him alone. Ill get back at him another way. Ill sue him for assault and battery, if theres any justice in Illyria. It doesnt matter that I hit him first.
+</T>
+<T>
+SEBASTIAN
+(to SIR TOBY BELCH) Let me go.
+</T>
+<T>
+SIR TOBY BELCH
+No, sir, I wont let you go. Come on, put your sword away, my little soldier. Youre awfully eager to fight. Come on.
+</T>
+<T>
+SEBASTIAN
+Ill get free of you.
+</T>
+<T>
+What are you going to do now? If you insist on trying my patience any further, then take out your sword right now.
+</T>
+<T>
+SIR TOBY BELCH
+What? No. Because then Id have to shed an ounce or two of your impudent blood.
+</T>
+<T>
+OLIVIA
+Stop, Sir Toby! I order you to stop!
+</T>
+<T>
+SIR TOBY BELCH
+Madam!
+</T>
+<T>
+OLIVIA
+Are you always going to be like this? Youre an ungrateful slob whos only fit to live in the mountains, in caves far from civilized people where you wont ever need good manners! Get out of my sight!Dear Cesario, please dont be offended.Get out of here, you barbarian!
+</T>
+<T>
+Oh, my dear friend, please dont get too upset by these rude people who bothered you. Come with me to my house. Ill tell you about all the pointless, clumsy pranks this thug uncle of mine has come up with, so that you can laugh at this one. You have to come with me. Please dont say no. Damn that Toby! He made my heart leap for you.
+</T>
+<T>
+SEBASTIAN
+(to himself) What does this mean? Where is this all going? Either Im insane or this is a dream. I hope these
+</T>
+<T>
+delusions continue. If this is a dream, let me keep on sleeping!
+</T>
+<T>
+OLIVIA
+Come with me, please. I wish youd do what I ask!
+</T>
+<T>
+SEBASTIAN
+Madam, I will.
+</T>
+<T>
+OLIVIA
+Oh, say it, and mean it!
+</T>
+<T>
+MARIA
+No, Im telling you, put on this robe and beard. Make him think youre Sir Topas the priest. Be quick. Meanwhile, Ill get Sir Toby.
+</T>
+<T>
+FOOL
+Well, Ill put it on and disguise myself. I wish I were the first person who ever told lies in a priests robe.
+</T>
+<T>
+Im not tall enough to make a believable priest, or skinny enough to look like a good student. But if youre an honest man and a good host, thats almost as good as being moral and studious. Here come the conspirators.
+</T>
+<T>
+SIR TOBY BELCH
+God bless you, Mr. Priest.
+</T>
+<T>
+FOOL
+Bonos diesThe fool is saying hello in an imitation of Latin.Bonos dies, Sir Toby. As the old hermit of Prague, who couldnt read or write, said very wittily to a niece of King Gorboduc, Whatever is, is. So since Im Mr. Priest, Im Mr. Priest. Because isnt that that, and isnt is is?
+</T>
+<T>
+SIR TOBY BELCH
+Go to him, Sir Topas.
+</T>
+<T>
+FOOL
+(disguising his voice) Quiet down in this prison!
+</T>
+<T>
+SIR TOBY BELCH
+The fools a good actor. A good fool.
+</T>
+<T>
+MALVOLIO
+(offstage) Whos shouting?
+</T>
+<T>
+FOOL
+Im Sir Topas the priest. Ive come to visit Malvolio the lunatic.
+</T>
+<T>
+MALVOLIO
+Sir Topas, Sir Topas, good Sir Topas, please go find my lady Olivia
+</T>
+<T>
+FOOL
+Get out, demon! Why are you bothering this poor man! Cant you talk about anything besides ladies?
+</T>
+<T>
+SIR TOBY BELCH
+(to himself) Well said, Mr. Priest.
+</T>
+<T>
+MALVOLIO
+Sir Topas, nobodys ever been as badly treated as Ive been. Good Sir Topas, dont believe Im insane, Theyve shut me up here in horrible darkness.
+</T>
+<T>
+FOOL
+You should be ashamed of yourself, Satan, you liar! Im being gentle with you, because Im one of those good-hearted people who are polite to the devil himself. You call this house dark?
+</T>
+<T>
+MALVOLIO
+Dark as hell, Sir Topas.
+</T>
+<T>
+FOOL
+But it has bay windows that are as transparent as stone walls, and the upper windows facing south-north are as clear as coal. But youre still complaining of darkness and a bad view?
+</T>
+<T>
+MALVOLIO
+Im not insane, Sir Topas. Im telling you, this house is dark.
+</T>
+<T>
+FOOL
+Youre wrong, you madman. Theres no darkness except ignorance, and youre more ignorant than the Egyptians during the plague of fog.
+</T>
+<T>
+MALVOLIO
+I tell you, this house is as dark as ignorance. And I tell you, no man has ever been treated worse than me. Im no more insane than you are, and Ill prove it. Ask me any commonsense question.
+</T>
+<T>
+FOOL
+What was the philosopher Pythagorass belief about wild birds?
+</T>
+<T>
+MALVOLIO
+That our grandmothers soul could end up inhabiting a bird.
+</T>
+<T>
+FOOL
+What do you think of his belief?
+</T>
+<T>
+MALVOLIO
+I respect the soul very much, so I disagree with his belief.
+</T>
+<T>
+FOOL
+Well then, goodbye. Stay in the dark. Ill only admit that youre sane when you agree with Pythagoras and hesitate to kill a bird because it might contain your grandmothers soul. Goodbye.
+</T>
+<T>
+MALVOLIO
+Sir Topas, Sir Topas!
+</T>
+<T>
+SIR TOBY BELCH
+The brilliant Sir Topas!
+</T>
+<T>
+FOOL
+I can do anything!
+</T>
+<T>
+MARIA
+You couldve done this without your beard and gown. He couldnt see you.
+</T>
+<T>
+SIR TOBY BELCH
+Now talk to him in your own voice, and tell me how he is. I wish this trick would be over. If we can find a convenient way to let him go, I want to do it. Im in so much trouble with my niece that it wouldnt be safe to let this prank go to its conclusion. Come to my room later on.
+</T>
+<T>
+FOOL
+(he sings in his own voice)
+Hey, Robin, jolly Robin,
+Tell me how your lady is.
+</T>
+<T>
+MALVOLIO
+Fool!
+</T>
+<T>
+FOOL
+(singing) My ladys mean, and thats a fact.
+</T>
+<T>
+MALVOLIO
+Fool!
+</T>
+<T>
+FOOL
+(singing) Oh, Im sorry, why is she mean?
+</T>
+<T>
+MALVOLIO
+Fool, I say!
+</T>
+<T>
+FOOL
+(singing) She loves someone elseWhos shouting?
+</T>
+<T>
+MALVOLIO
+Good fool, good jester, Ill make it worth your while if you get me a candle, and a pen, ink and paper. You have my word as a gentleman that Ill always be grateful to you.
+</T>
+<T>
+FOOL
+Master Malvolio?
+</T>
+<T>
+MALVOLIO
+Yes, good fool.
+</T>
+<T>
+FOOL
+Poor man, how did you go insane?
+</T>
+<T>
+MALVOLIO
+Fool, no one has ever been as mistreated as I am. Im completely sane, Fool. Im as sane as you are.
+</T>
+<T>
+FOOL
+As sane as me? Then you really are insane, if youre no saner than a fool.
+</T>
+<T>
+MALVOLIO
+They treat me like garbage here. They keep me in darkness, and send idiotic priests to talk to methose asses!and do everything they can to insist Im insane.
+</T>
+<T>
+FOOL
+Be careful what you saythe priest is here. (in the voice of Sir Topas) Malvolio, Malvolio, may heaven make you sane again! Try to sleep, and stop your pointless babbling.
+</T>
+<T>
+MALVOLIO
+Sir Topas!
+</T>
+<T>
+FOOL
+(as Sir Topas) Dont talk to him, my friend. (in his own voice) Who, me, sir? Not me, sir. God be with you, Sir Topas, goodbye. (as Sir Topas) Well then, amen. (in his own voice) Goodbye, sir.
+</T>
+<T>
+MALVOLIO
+Fool, fool, hey, fool!
+</T>
+<T>
+FOOL
+Please, sir, be quiet. What do you want to say, sir? Ive just been scolded for speaking to you.
+</T>
+<T>
+MALVOLIO
+Be a nice fool and help me find a candle and some paper. I tell you, Im as sane as any man in Illyria.
+</T>
+<T>
+FOOL
+If only you were, sir.
+</T>
+<T>
+MALVOLIO
+I swear I am. Get me some ink, paper, and a candle. Ill write a letter and youll take it to my lady. Youll get a bigger reward than you ever got delivering a letter before.
+</T>
+<T>
+FOOL
+Ill help you. But tell me honestly, are you sure youre not insane? Or are you just pretending?
+</T>
+<T>
+MALVOLIO
+Believe me, Im not. Im telling the truth.
+</T>
+<T>
+FOOL
+Ill never believe a madman until I can see his brains. But Ill get you a candle and paper and ink.
+</T>
+<T>
+MALVOLIO
+Fool, Ill repay you for this favor. Please, hurry.
+</T>
+<T>
+FOOL
+(he sings)
+Im going now, sir, but soon
+Ill be with you again,
+To help you resist the devil,
+Like the sidekick in the old plays
+Who shakes a wooden dagger,
+Fumes in rage and wrath,
+And shouts Whoa! to the devil.
+He yells, Trim your nails, old man.
+And goodbye, Satan, you peasant.
+</T>
+<T>
+SEBASTIAN
+This is the air, thats the glorious sun. I can feel and see this pearl she gave me. I may be dazed and confused, but Im not insane. Wheres Antonio, then? I didnt find him at the Elephant. But hed been there before me, and they told me hed gone out looking for me. I could really use his advice right now. I feel sure this situation is due to some mistake, and I dont think Im crazy. But this sudden flood of good luck is so unbelievable that Im ready to distrust my own eyes and my own rational mind when they tell me Im not insanemaybe the ladys insane. But if that were the case, she wouldnt be able to run her house, command her servants, listen to reports, make decisions, and take care of business as smoothly as she does. Theres something going on thats not what it seems. But here she comes.
+</T>
+<T>
+OLIVIA
+(to SEBASTIAN) Dont be angry with me for acting so quickly. If your intentions toward me are honorable, come with me and this holy man into the chapel over there, where you can soothe all my worries by making your marriage vows to me. The priest will keep it secret until youre ready to make the news public and we can throw a full marriage celebration that befits my social standing. What do you say?
+</T>
+<T>
+SEBASTIAN
+Ill follow the priest and go with you; and after Ive sworn to be faithful, Ill be faithful forever.
+</T>
+<T>
+OLIVIA
+Then lead the way, father. I want the skies bright and shining to show its approval of our wedding.
+</T>
+<T>
+FABIAN
+If youre my friend, youll let me see his letter.
+</T>
+<T>
+FOOL
+Dear Mr. Fabian, do me another favor first.
+</T>
+<T>
+FABIAN
+Anything.
+</T>
+<T>
+FOOL
+Dont ask to see this letter.
+</T>
+<T>
+FABIAN
+Thats like giving someone a dog as a present, and then asking for the dog back in return.
+</T>
+<T>
+ORSINO
+My friends, are you all Lady Olivias servants?
+</T>
+<T>
+FOOL
+Yes, sir, were part of her entourage.
+</T>
+<T>
+ORSINO
+I know you. How are you, my friend?
+</T>
+<T>
+FOOL
+Im better off because of my enemies, and worse off because of my friends.
+</T>
+<T>
+ORSINO
+You mean it the other way around. Youre better off because of your friends.
+</T>
+<T>
+FOOL
+No, sir, worse off.
+</T>
+<T>
+ORSINO
+How can that be?
+</T>
+<T>
+FOOL
+Well, my friends praise me and make me look like an idiot, while my enemies tell me straightforwardly that I am an idiot. My enemies help me understand myself better, which is an advantage, and my friends help me lie about myself, which is a disadvantage. So if four negatives make two affirmatives, Im worse off because of my friends and better off because of my foes.
+</T>
+<T>
+ORSINO
+Thats excellent.
+</T>
+<T>
+FOOL
+Dont say thatunless you want to be one of my friends.
+</T>
+<T>
+ORSINO
+(he gives him a coin) You wont be worse off because of me: heres some money.
+</T>
+<T>
+FOOL
+Thats a nice hand you dealt me. But if its not double-dealing, sir, I wish youd deal me another.
+</T>
+<T>
+ORSINO
+Oh, youre a naughty one, encouraging double-dealing.
+</T>
+<T>
+FOOL
+Ignore your virtue and nobility just this once, sir, go ahead.
+</T>
+<T>
+ORSINO
+Well, Ill commit the sin of double-dealing, and deal you a second coin. Here it is. (he gives him another coin)
+</T>
+<T>
+FOOL
+And maybe a third? You know, theres a game called third times the charm, which is fun to play, and they always say that threes a magic number. The three-beat rhythm is a good for dancing, and the church bells chimeone, two, three.
+</T>
+<T>
+ORSINO
+You cant get any more money out of me right now. If you tell your lady Im here to speak with her, and bring her out with you when you come back, you might make me more generous.
+</T>
+<T>
+FOOL
+Well then, sing a lullaby to your generosity: itll nap until I come back. But dont think Im doing this because Im greedy. Ill be back soon to wake up your generosity.
+</T>
+<T>
+VIOLA
+Here comes the man who rescued me, sir.
+</T>
+<T>
+ORSINO
+I remember his face well. Though the last time I saw him it was black from the smoke of war. He was the captain of a flimsy boat that was practically worthless because it was so small. But with that tiny boat he fought such a fierce battle against the largest warship in our fleet that we had to admire his courage and skill even though he caused us a lot of damage.Whats going on?
+</T>
+<T>
+FIRST OFFICER
+Orsino, this is the same Antonio who took the Phoenix and her cargo from Crete and captured our ship the Tiger during the battle where your young nephew Titus lost his leg. We arrested him here for fighting in the streets. Its as if he didnt care we were on the lookout for him here.
+</T>
+<T>
+VIOLA
+He was kind to me and took my side in the fight. But then he said strange things to me. He might be insane. I dont know what else it could be.
+</T>
+<T>
+ORSINO
+But youre a famous pirate! A master thief of the seas! What made you stupid and careless enough to come visit the people you robbed and slaughtered?
+</T>
+<T>
+ANTONIO
+Orsino, sir, please dont call me those names. I was never a thief or a pirate, though I admit I was your enemy for good reasons. I came here because someone put a spell on me. I rescued that ungrateful boy next to you from drowning. He was a wreck, almost past hope. I saved his life and gave him my love, without reservation. I dedicated myself to him. For his sake I ran the risk of revisiting this unfriendly town, and I drew my sword to defend him when he was in trouble. But when the police caught us, he was clever and treacherous enough to pretend hed never met me before. He acted like someone who barely knew me. He refused to give me my own wallet, which I had lent him only half an hour before.
+</T>
+<T>
+VIOLA
+How is that possible?
+</T>
+<T>
+ORSINO
+(to ANTONIO) When did he come to town?
+</T>
+<T>
+ANTONIO
+Today, my lord. And for three months before that, we spent every day and night together.
+</T>
+<T>
+ORSINO
+Ah, the countess is coming! An angel is walking on earth. But as for you, mister, what youre saying is insane. This young man has worked for me for three months; but more about that later. (to an officer) Take him away.
+</T>
+<T>
+OLIVIA
+What can I give you that you want, my lord, except the one thing you cant have? Cesario, you missed your appointment with me.
+</T>
+<T>
+VIOLA
+Madam?
+</T>
+<T>
+ORSINO
+Dearest Olivia
+</T>
+<T>
+OLIVIA
+What do you have to say for yourself, Cesario?My lord, please
+</T>
+<T>
+VIOLA
+My lord wants to speak. Its my duty to be quiet.
+</T>
+<T>
+OLIVIA
+If what you have to say is anything like what you used to say, itll be as repulsive to my ears as wild screams after beautiful music.
+</T>
+<T>
+ORSINO
+Are you still so cruel?
+</T>
+<T>
+OLIVIA
+I am still so faithful, my lord.
+</T>
+<T>
+ORSINO
+What, faithful to being mean and nasty? Youre not polite! I breathed from my soul the most faithful offerings to your ungrateful altars that any devoted person has ever offeredwhat more am I supposed to do?
+</T>
+<T>
+OLIVIA
+You can do whatever you want as long as its socially appropriate.
+</T>
+<T>
+ORSINO
+Maybe I should act like the Egyptian thief who kills the woman he loves before he dies? That kind of savage jealousy sometimes seems noble. But listen to me. Since you keep denying the love I feel for you, and since I know whos stealing my place in your heart, you can go on being cold-hearted, but Im going to take this boy from you. He knows his master loves you. Im doing this, even though hes dear to me, because I know you love him. Come with me, boy. Im ready to do something extreme. Ill sacrifice this boy I care for, just to spite a beautiful woman with a heart of stone.
+</T>
+<T>
+VIOLA
+And I would die a thousand deaths cheerfully, if it made your life easier.
+</T>
+<T>
+OLIVIA
+Wheres Cesario going?
+</T>
+<T>
+VIOLA
+Following the one I love more than my eyes or my life. More than I will ever love a wife. Thats the truth. The angels in heaven are my witnesses, and can see how pure my love is.
+</T>
+<T>
+OLIVIA
+Ah, how awful, I feel so used! Ive been tricked!
+</T>
+<T>
+VIOLA
+Who tricked you? Who treated you badly?
+</T>
+<T>
+OLIVIA
+Have you completely forgotten? Has it been so long? Call the priest.
+</T>
+<T>
+ORSINO
+(to VIOLA) Come on, lets go!
+</T>
+<T>
+OLIVIA
+Go where, my lord?Cesario, my husband, stay here.
+</T>
+<T>
+ORSINO
+Husband?
+</T>
+<T>
+OLIVIA
+Yes, husband. Can he deny it?
+</T>
+<T>
+ORSINO
+Are you her husband, boy?
+</T>
+<T>
+VIOLA
+No, my lord, not me.
+</T>
+<T>
+OLIVIA
+Youre afraid, so you hide your identity. But dont be afraid, Cesario. Accept the good luck thats come your way. Be the person you know you are, and youll be as powerful as this person you fear.
+</T>
+<T>
+Oh, hello, father! Father, could I please ask you to tell these people what happened between me and this young man? (I know we wanted to hide it, but now the situation demands that we reveal everything.)
+</T>
+<T>
+PRIEST
+They were joined in an eternal bond of love and matrimony, and it was confirmed by a holy kiss and an exchange of rings. I witnessed it all as priest. It took place just two hours ago.
+</T>
+<T>
+ORSINO
+(to VIOLA) Oh, you little liar! How much worse will you be when youre older? Maybe youll get so good at deceit that your tricks will destroy you. Goodbye, and take her. Just never set foot in any place where you and I might happen to meet.
+</T>
+<T>
+VIOLA
+My lord, I swear to you
+</T>
+<T>
+OLIVIA
+Oh, dont swear! Keep a little bit of honesty, even if youre afraid.
+</T>
+<T>
+SIR ANDREW
+For the love of God, call a doctor! Sir Toby needs help right away.
+</T>
+<T>
+OLIVIA
+Whats the matter?
+</T>
+<T>
+SIR ANDREW
+He cut my head and gave Sir Toby a bloody head, too. For the love of God, help us! Id give forty pounds to be safe at home right now.
+</T>
+<T>
+OLIVIA
+Who did this, Sir Andrew?
+</T>
+<T>
+SIR ANDREW
+The counts messenger, Cesario. We thought he was a coward, but he fights like a devil.
+</T>
+<T>
+ORSINO
+My Cesario?
+</T>
+<T>
+SIR ANDREW
+Oh, no, there he is! You cut my head for no reason. Anything I did to you, I did it because Sir Toby made me.
+</T>
+<T>
+VIOLA
+Why are you talking like this? I never hurt you. You waved your sword at me for no reason, but I was nice to you. I didnt hurt you.
+</T>
+<T>
+SIR ANDREW
+If a bloody head counts as a hurt, then you hurt me. Apparently you think theres nothing unusual about a bloody head.
+</T>
+<T>
+Here comes Sir Toby, limping. Hell tell you more of the story. If he hadnt been drunk, he wouldve really roughed you up.
+</T>
+<T>
+ORSINO
+Hello, sir! How are you?
+</T>
+<T>
+SIR TOBY BELCH
+It doesnt matter how I am: he hurt me, and thats that. (to FOOL) Fool, have you seen Dick the surgeon?
+</T>
+<T>
+FOOL
+Oh, hes drunk, Sir Toby, for a whole hour now. His eyes started glazing over around eight in the morning.
+</T>
+<T>
+SIR TOBY BELCH
+Then hes no good. I hate no-good drunks.
+</T>
+<T>
+OLIVIA
+Take him away! Who did this to him?
+</T>
+<T>
+SIR ANDREW
+Ill help you, Sir Toby. Theyll treat our wounds together.
+</T>
+<T>
+SIR TOBY BELCH
+Will you help me?What an ass and a fool, a gullible no-good idiot!
+</T>
+<T>
+OLIVIA
+Get him to bed and make sure his wounds are treated.
+</T>
+<T>
+SEBASTIAN
+Im sorry, madam. I wounded your relative. But I wouldve been forced to do the same thing to my brother, since my safety was at stake. Youre looking at me strangely, so I guess youre offended. But please forgive me, darling, for the sake of the vows we made to each other so recently.
+</T>
+<T>
+ORSINO
+One face, one voice, one way of dressing, but two people! Its like an optical illusion. It is and isnt the same person!
+</T>
+<T>
+SEBASTIAN
+Antonio, oh my dear Antonio! Ive been so tortured since I lost track of you!
+</T>
+<T>
+ANTONIO
+Are you Sebastian?
+</T>
+<T>
+SEBASTIAN
+Do you have any doubts, Antonio?
+</T>
+<T>
+ANTONIO
+How did you divide yourself in two? These two people are as identical as two halves of an apple. Which one is Sebastian?
+</T>
+<T>
+OLIVIA
+How unbelievable!
+</T>
+<T>
+SEBASTIAN
+(looking at VIOLA) Is that me standing over there? I never had a brother, and Im certainly not a god who can be in two places at once. I had a sister who drowned. Please tell me, how am I related to you? Are you from my country? Whats your name? Who are your parents?
+</T>
+<T>
+VIOLA
+Im from Messaline. Sebastian was my fathers name, and my brother was named Sebastian too. He was dressed just like you are when he drowned. If ghosts can take on someones body and clothes, you must be a spirit whos come to frighten us.
+</T>
+<T>
+SEBASTIAN
+I am a spirit, yes, since I have a soul. But my spirit has a body attached to it, one that Ive carried since I was in the womb. If you were a woman, Id hug you now and cry, and say Welcome back, drowned Viola!
+</T>
+<T>
+VIOLA
+My father had a mole on his forehead.
+</T>
+<T>
+SEBASTIAN
+Mine did too.
+</T>
+<T>
+VIOLA
+He died on Violas thirteenth birthday.
+</T>
+<T>
+SEBASTIAN
+Oh, I remember that very clearly! Its true, he died on the day my sister turned thirteen.
+</T>
+<T>
+VIOLA
+If the only thing keeping us from rejoicing is the fact that Im wearing mens clothes, then dont hug me till I can prove beyond the shadow of a doubt that Im Viola. Ill take you to a sea captain here in town whos got my womens clothing in storage. He saved my life so I could serve this noble count. Everything thats happened to me since then has involved my relationship with this lady and this lord.
+</T>
+<T>
+SEBASTIAN
+(to OLIVIA) So you got it wrong, my lady. But nature fixed everything, turning your love for my sister into a love for me. If you hadnt, you wouldve married a maiden. But thats not completely wrong. Im still a virgin, so in a sense Im a maiden too.
+</T>
+<T>
+ORSINO
+(to OLIVIA) Dont be shocked. His blood is noble. If this is all as true as it seems to be, then Im going to have a share in that lucky shipwreck. (to VIOLA) Boy, you told me a thousand times youd never love a woman as much as you love me.
+</T>
+<T>
+VIOLA
+Everything I said before Ill say again. I swear I meant every word.
+</T>
+<T>
+ORSINO
+Give me your hand and let me see you dressed in womans clothing.
+</T>
+<T>
+VIOLA
+The captain who brought me to shore has my womens clothes. For some reason hes in prison now on some legal technicality, on Malvolios orders. Malvolio is a gentleman in my ladys entourage.
+</T>
+<T>
+OLIVIA
+Hell release him.
+</T>
+<T>
+Go and get MalvolioBut, oh no! Now I remember, they say the poor man is mentally ill. I was so crazy myself that I forgot all about him. (to the FOOL) How is Malvolio doing, do you know?
+</T>
+<T>
+FOOL
+Well, he keeps the devil away as well as a man can in his situation. Hes written you a letter. I wouldve given it to you this morning, but a madmans letters arent Gospel, so it doesnt matter much if Im a bit late.
+</T>
+<T>
+OLIVIA
+Open it and read it.
+</T>
+<T>
+FOOL
+Theres a lot to learn when a fool recites the words of a madman. (he reads) I swear to God, madam,
+</T>
+<T>
+OLIVIA
+Why are you talking like that? Are you insane?
+</T>
+<T>
+FOOL
+No, madam, Im just reading an insane letter. If you want things done in the right way, youll have to let me read a crazy letter in a crazy voice.
+</T>
+<T>
+OLIVIA
+No, please, read it like a sane person.
+</T>
+<T>
+FOOL
+I will, my lady, but a sane person reading this would make it sound crazy. So listen up, princess.
+</T>
+<T>
+OLIVIA
+(giving the letter to FABIAN) Oh, you read it, sir.
+</T>
+<T>
+FABIAN
+(he reads)
+I swear to God, madam, youve wronged me, and Ill tell the whole world. Youve shut me up in a dark room and given your drunken cousin authority over me, but Im as sane as you are. Ive got a letter from you encouraging me to act the way I did. If I didnt have it, I couldnt prove that Im right and youre wrong. I dont care what you think of me. Im going to forget my duties to you a little bit and complain about the injuries youve caused me. Signed,
+The poorly treated Malvolio.
+</T>
+<T>
+OLIVIA
+Did he write this?
+</T>
+<T>
+FOOL
+Yes, madam.
+</T>
+<T>
+ORSINO
+It doesnt sound like an insane persons letter.
+</T>
+<T>
+OLIVIA
+Set him free. Fabian, bring him here.
+</T>
+<T>
+My lord, I hope that after you think things over a bit youll come to like the idea of having me as a sister-in-law instead of a wife. We can have the weddings tomorrow if you want, here at my own house. Ill pay for everything.
+</T>
+<T>
+ORSINO
+I accept that offer happily, madam. (to VIOLA) So youre free now. Im offering you my hand in marriage because of your loyal service to me, which was far from what any woman should be expected to do, especially a noble woman. Youve called me master for so long. And now youll be your masters mistress.
+</T>
+<T>
+OLIVIA
+(to VIOLA) Youll be my sister-in-law!
+</T>
+<T>
+ORSINO
+Is this the madman?
+</T>
+<T>
+OLIVIA
+Yes, my lord. How are you, Malvolio?
+</T>
+<T>
+MALVOLIO
+Madam, youve treated me badly, very badly.
+</T>
+<T>
+OLIVIA
+I did, Malvolio? No.
+</T>
+<T>
+MALVOLIO
+(he hands OLIVIA a paper) You did. Please have a look at this letter. You cant deny that its your handwriting. Go ahead and try to write differently, and try to pretend thats not your seal with your design on it. You cant. So just admit it. And tell me honestly, why did you show me such fondness and asked me to smile at you, wear yellow stockings and crisscrossed laces for you, and be rude to Sir Toby and the servants?
+</T>
+<T>
+And then tell me why you imprisoned me in a dark house after I followed your instructions perfectly. You made me look like the biggest fool that anybody ever tricked. Tell me why you did it.
+</T>
+<T>
+OLIVIA
+Im sorry, Malvolio, but this isnt my writing, though I admit it looks like mine. Its definitely Marias handwriting. Now that I think about it, Maria was the one who first told me you were insane. Thats when you came in smiling at me, dressed up like the letter said, and acting just like it told you to act. Someone has played a very mean trick on you, but when we find out whos responsible, you wont just be the victim, but the judge who sentences the culprit. I promise.
+</T>
+<T>
+FABIAN
+Madam, let me say something. Please dont let squabbles ruin this beautiful and miraculous moment. I confess that Toby and I were the ones who tricked Malvolio because we hated his strict and heavy-handed ways. Sir Toby had Maria wrote that letter, and he married her as a reward. We should just laugh about the whole thing rather than get upset about it, especially if we consider that each of the two parties offended the other equally.
+</T>
+<T>
+OLIVIA
+(to MALVOLIO) Oh, poor fool, theyve really humiliated you!
+</T>
+<T>
+FOOL
+Well, you know, some are born great, some achieve greatness, and some have greatness thrust upon them. Anyway, I was part of the trick, sir. I pretended to be a priest named Sir Topas. But what does it matter? (he imitates MALVOLIO) I swear, fool, Im not crazy.But do you remember what he said about me before? Im surprised you enjoy the company of this stupid troublemakerunless hes got somebody laughing at him, he cant think of anything to say. What goes around comes around.
+</T>
+<T>
+MALVOLIO
+Ill get my revenge on every last one of you.
+</T>
+<T>
+OLIVIA
+He really was tricked horribly.
+</T>
+<T>
+ORSINO
+Go after him and try to calm him down a little.
+</T>
+<T>
+He still hasnt told us about the captain. When thats been taken care of and the time is right, well all get married. Until then, well stay here, my dear sister-in-law. Cesario, come here. Ill keep calling you Cesario while youre still a man, but when we see you in womens clothes youll be the queen of my dreams, Orsinos true love.
+</T>
+<T>
+FOOL
+(he sings)
+When I was a tiny little boy,
+With, hey, ho, the wind and the rain,
+A foolish thing didnt matter much,
+Because the rain it rains every day.
+But when I became a man,
+With, hey, ho, the wind and the rain,
+People stopped talking to bad guys and thieves.
+Because the rain it rains every day.
+But when I got married, ah, too bad!
+With, hey, ho, the wind and the rain,
+It did me no good to boast and show off,
+Because the rain, it rains every day.
+But when I had to go to bed
+With, hey, ho, the wind and the rain,
+With idiots drunk out of their minds,
+Because the rain it rains every day.
+The world began a long time ago,
+With, hey, ho, the wind and the rain,
+But that doesnt matter, our play is done,
+And well try to please you every day.
+</T>

@@ -1,0 +1,2294 @@
+<T>
+KING RICHARD II
+Old John of Gaunt, did you do as you promised and bring your brave son Henry here? Id like to hear the violent accusation he wanted to make against the Duke of Norfolk, Thomas Mowbray, which I didnt have time for earlier.
+</T>
+<T>
+JOHN OF GAUNT
+Ive brought him, my lord.
+</T>
+<T>
+KING RICHARD II
+Have you asked him if the source of his complaint is an old feud, or if he knows of some treason the duke has committed?
+</T>
+<T>
+JOHN OF GAUNT
+As far as I could tell, its not some personal malice. My son believes that the duke means to harm you in some way.
+</T>
+<T>
+KING RICHARD II
+Then call them both in to see me. I want to hear in person what each has to say. Theyre both so proud and full of anger that they act recklessly and dont listen to reason.
+</T>
+<T>
+HENRY BOLINGBROKE
+May you have many years of happiness, my gracious and loving lord.
+</T>
+<T>
+THOMAS MOWBRAY
+May each day be happier than the last, and heaven give you immortality!
+</T>
+<T>
+KING RICHARD II
+Thank you both. But I know one of you isnt sincere since each of you accuses the other of treason against me. Henry of Hereford, what do you have to say against the Duke of Norfolk, Thomas Mowbray?
+</T>
+<T>
+HENRY BOLINGBROKE
+First, may heaven be my witness! Ive come here as an accuser because I am a devoted subject who cares for the safety of my prince, not because of any other prejudice against the duke. Now, Thomas Mowbray, I will turn to you. Pay attention to this. I will prove that what I am about to say is true, either with my body here on earth or with my immortal soul in heaven. You are a traitor and a villain, born into too good a family to be so and too bad to live. The more beautiful the sky, the uglier the clouds look. Once more, to emphasize my accusation, I call you a traitor. And with my kings permission, Id like to follow what I say with my sword.
+</T>
+<T>
+THOMAS MOWBRAY
+Dont let my calm words cast doubt on my loyalty. I know that angry words will not settle this argument, so Ill try to keep myself under control. But I cant be so calm as to not say anything in my own defense. First, my respect for you, my king, prevents me from saying what I want and throwing those charges of treason right back at Bolingbroke. I defy him and spit on him as if he werent your relative, my lord. Hes a trash-talking coward and a villain, and Id back up those charges in a duel, even if I gave him an advantage by handicapping myself. For now, Ive defended my loyalty and made it known that he lies.
+</T>
+<T>
+HENRY BOLINGBROKE
+You pale coward. There Ill throw my glove in challenge to you and set aside my relationship to the king and my royal blood. Its fearnot respect for the kings bloodlinethat keeps you quiet. If your guilt has given you the guts to accept my challenge, then pick up my glove. Ill show your cowardice and treason by defeating you in knightly combat.
+</T>
+<T>
+THOMAS MOWBRAY
+Ill take that challenge. And I promise, by my knighthood, that Ill fight you fairly in whatever contest you wish. And when I mount my horse, let me not dismount alive if Im a traitor or if I cheat in any way!
+</T>
+<T>
+KING RICHARD II
+What do you accuse Mowbray of, my cousin? It will have to be something terrible if its going to make me think badly of him in any way.
+</T>
+<T>
+HENRY BOLINGBROKE
+Ill prove with my life that what I say is true. Mowbray has received eight thousand gold coins that he was supposed to pay to your soldiers as advances on their wages. But hes used the money improperly, just like a traitor and harmful villain would. Even more, I declare and will prove in battle that all treasonous plots over the past eighteen years originated with Mowbray. And further, I know that he caused the death of the Duke of Gloucester by encouraging the dukes easily influenced enemies, like any coward would, to slay the innocent duke. The duke was murdered like AbelRefers to the biblical story of Cain and Abel, in which Cain kills his brother Abel out of jealousy.Abel, and his blood demands that I seek revenge and justice. By my own good name, Ill inflict that justice on Mowbray or die trying.
+</T>
+<T>
+KING RICHARD II
+He is so determined! Thomas, how do you respond?
+</T>
+<T>
+THOMAS MOWBRAY
+I wish you would turn away and not listen till Ive told this fellow, who disgraces his bloodline, how much God and good men hate liars like him.
+</T>
+<T>
+KING RICHARD II
+Mowbray, my eyes and ears are impartial, even if he were my brother, or even my heir, rather than just my cousin. I vow on my scepter that his relation to me doesnt give him any advantage or prejudice me in his favor. Hes my subject, Mowbray, and so are you, so speak freely and without fear.
+</T>
+<T>
+THOMAS MOWBRAY
+Then, Bolingbroke, you lie from your heart up through your false throat. I gave three quarters of the money I received to the kings soldiers. The other quarter I had permission to keep, because I was owed the money for my service in going to fetch the queen from France. Now take back your lie. As for Gloucester, I didnt kill him, but I admit I disgracefully neglected my duty. I once laid in wait to kill you, my noble lord of Lancaster, the father of my enemy. It was a terrible sin and troubles me greatly. But I confessed it already and specifically begged your pardon, and I hoped you had forgiven me. That is my fault. As for the rest of the charges, they come from a villains evil nature, and Ill defend myself against this faithless and cowardly traitor. Ill throw my glove down onto this arrogant traitors foot, and Ill show that Im loyal even compared to this member of the royal bloodline. I therefore pray that your highness will assign a day for our duel soon.
+</T>
+<T>
+KING RICHARD II
+Obey what I say, my hot-headed gentlemen. Lets settle this feud without violence. Such fierce anger causes too great an injury. Forget it and forgive each other. Come to terms and agree to put this to an end. The astrologers have said that this is no month to shed blood. Good uncle, lets end this now. Ill calm down the Duke of Norfolk. You calm down your son.
+</T>
+<T>
+JOHN OF GAUNT
+For someone my age it is appropriate to make peace. My son, throw down the Duke of Norfolks glove.
+</T>
+<T>
+KING RICHARD II
+And Norfolk, throw down his.
+</T>
+<T>
+JOHN OF GAUNT
+Come on, Henry, when are you going to do it? I shouldnt have to ask you again.
+</T>
+<T>
+KING RICHARD II
+Throw it down, Norfolk, Im telling you. There is no advantage in refusing.
+</T>
+<T>
+THOMAS MOWBRAY
+Ill throw myself at your feet, most revered king. You may command my life but not my shame. I owe you my life out of duty, but I cannot, even under pain of death, let you order this dishonor of my good reputation. I am accused and disgraced publicly here, pierced by the venom of slander. The only thing that will ease that pain is to kill the man who uttered these poisonous words.
+</T>
+<T>
+KING RICHARD II
+Such rage should be resisted. Give me his glove. I, as king, will tame these lesser nobles.
+</T>
+<T>
+THOMAS MOWBRAY
+Yes, but you wont take away the stain of these charges. If youll clear my name, Ill give up my glove. My dear, dear lord, the greatest treasure in our earthly lives is to have a good reputation. Without that, men are nothing. To have a brave spirit is as valuable as a well-guarded jewel. My honor is my life. One is inseparable from the other. Take my honor, and my life is over. So, my lord, let me prove my honor, since I live for it and I will die for it.
+</T>
+<T>
+KING RICHARD II
+Cousin, take up your glove. Be the one to start.
+</T>
+<T>
+HENRY BOLINGBROKE
+Oh, God, keep me from such a terrible sin! Should I appear humbled in front of my father? Or discredit my rank out of fear before this terrified coward? Before Id let my tongue utter such lies against my honor or make such a false truce, Id rip it apart with my teeth and spit it into Mowbrays shameful face.
+</T>
+<T>
+KING RICHARD II
+I was born to command, not to beg. But since I cant order you to be friends, be ready to settle this feud with your lives at Coventry on Saint Lamberts daySeptember 17.Saint Lamberts day. Then you can let your weapons resolve this hatred, since I cant bring you to terms. Justice will be on the side of the winner. Lord marshal, tell my officers to be ready to control these domestic disturbances.
+</T>
+<T>
+JOHN OF GAUNT
+Even more than your uproar, its the fact that the Duke of Gloucester was my brother that makes me want to act against his murderers. But since it was Richard who was responsible for the murder in the first place and also controls how it will be avenged, Ill have to trust in the will of heaven to bring justice to my brothers killers.
+</T>
+<T>
+DUCHESS OF GLOUCESTER
+Dont you feel compelled to do more since he was your brother? Is there no passion in your love for him? Your father EdwardEdward III, who was king of England from 1327 to 1377.Edward treasured you and your six brothers. Some of you died natural deaths, and some of your lives were cut short. But Thomas, who was my love and one of Edwards precious sons, is dead, killed by people who hated him. Oh, Gaunt, he was your own blood! The same mother and father who made you made him, and though you live and breathe, a part of you died with him. And because your father was the model for him, by watching him die you have in a sense consented to see your father die. You arent being patient. Youre giving up. In allowing your brother to be murdered, you have shown how you yourself might be killed. What we might call patience in common men is simply cowardice in noble men. What else can I say? The best way to protect your own life is to get revenge for Gloucesters death.
+</T>
+<T>
+JOHN OF GAUNT
+Its Gods quarrel now, because it was his chosen king, who serves as Gods deputy on earth, who caused Gloucesters death. If it was a crime, let heaven punish it, because I wont raise a hand against Gods minister.
+</T>
+<T>
+DUCHESS OF GLOUCESTER
+Whom should I complain to then?
+</T>
+<T>
+JOHN OF GAUNT
+To God, who defends widows.
+</T>
+<T>
+DUCHESS OF GLOUCESTER
+Why then, I will. Goodbye, old Gaunt. You are going to Coventry to see our kinsman Hereford and ruthless Mowbray fight. I hope that the weight of the crime against my husband will give force to Herefords spear, letting it pierce the killer Mowbrays breast! Or, if he misses in the first attempt, that Mowbrays sins weigh so heavily on him that his horses back breaks and throws him to the ground! Goodbye, old Gaunt. My grief is so great that I must end my life.
+</T>
+<T>
+JOHN OF GAUNT
+Sister, goodbye. I have to go to Coventry. May we both fare well!
+</T>
+<T>
+DUCHESS OF GLOUCESTER
+Just one more word. When grief falls, it rises again, even though it is heavy and not light and empty. Ive said goodbye before I said everything that I wanted to say. Give my respects to your brother, Edmund York. Thats all, but waitdont leave yet! Ill think of something else. Tell himwhat?tell him to visit me at Plashy soon. Alas, what will he see there but empty servants quarters, bare walls, and floors that no one walks on? What will he hear as a welcome but my groans? So give my greetings, but dont tell him to visit me there, since he can find sorrow easily enough elsewhere. Ill go and die alone, and now I weep, having to finally say goodbye to you.
+</T>
+<T>
+LORD MARSHAL
+My Lord Aumerle, does Harry Hereford have his weapons?
+</T>
+<T>
+DUKE OF AUMERLE
+Yes, completely, and he wants to begin.
+</T>
+<T>
+LORD MARSHAL
+The spirited and bold Duke of Norfolk is just waiting for his accusers summons.
+</T>
+<T>
+DUKE OF AUMERLE
+Why, then, they are both ready, and were only waiting on the kings entrance.
+</T>
+<T>
+KING RICHARD II
+Marshal, ask the combatant why hes come here with weapons. Ask him his name and make him swear in accordance with the rules that his mission is one of justice.
+</T>
+<T>
+LORD MARSHAL
+In Gods name and the kings, tell us who you are and why you have come here with armor and weapons. Who is your opponent, and what is your quarrel? Tell us the truth, as youve sworn on your knighthood. Make your defense.
+</T>
+<T>
+THOMAS MOWBRAY
+My name is Thomas Mowbray, the Duke of Norfolk. Ive come as I had sworn to God forbid a knight breaks his oath! Im here both to defend my loyalty and the truth of my testimony to God, my king, and any children that I might have. With the grace of God and my ability to fight, Ill prove that my opponent, the Duke of Hereford, is a traitor to God, the king, and to me. And may heaven protect me, since I fight with honor!
+</T>
+<T>
+KING RICHARD II
+Marshal, ask that knight who he is and why he is here armed for war. Make him formally testify as to the reason he is here to fight, as our law requires.
+</T>
+<T>
+LORD MARSHAL
+What is your name, and why do you come here in front of King Richard? Who is your opponent? What is your quarrel? Speak like a true knight!
+</T>
+<T>
+HENRY BOLINGBROKE
+I am Harry of Hereford, Lancaster, and Derby. I am ready to prove with my weapons, with Gods grace, and with my strength that Thomas Mowbray, Duke of Norfolk, is a foul traitor, dangerous to King Richard and to me. May heaven defend me, since I fight for truth!
+</T>
+<T>
+LORD MARSHAL
+Only the marshal and the appointed officials may direct the proceedings, and any other person foolish enough to enter the field will be put to death.
+</T>
+<T>
+HENRY BOLINGBROKE
+Lord marshal, let me kiss the kings hand and go on my knee before him. Mowbray and I are about to undertake a challenge similar to a long and difficult journey, so we should say a formal goodbye to our friends.
+</T>
+<T>
+LORD MARSHAL
+The accuser greets your highness and asks to kiss your hand and say goodbye.
+</T>
+<T>
+KING RICHARD II
+Ill step down and embrace him. Cousin of Hereford, insofar as your cause is just, I wish you luck in this fight. Goodbye, my cousin. If you die in this fight, I will grieve, but I wont take revenge.
+</T>
+<T>
+HENRY BOLINGBROKE
+If I am pierced by Mowbrays lance, dont misuse your tears for me. Im as confident as the hawk is when he hunts the sparrow. My loving king, goodbye, and goodbye my cousin, Lord Aumerle. Im healthy, young, and alive now, even if Im close to death. Lastly, Ill say farewell to you, my father, just as at a feast I save the best morsel for the end. Oh my creator, your youthful spirit is reborn in me and energizes me to reach for victory. Give strength to my armor with your prayers, and harden my lance with your blessing, so it will pierce Mowbrays coat of armor. May my brave deeds bring new honor to the name of John of Gaunt.
+</T>
+<T>
+JOHN OF GAUNT
+May God give you success in your good cause! Strike as quick as lightning, and let your blows fall like thunder on the helmet of your enemy. Be courageous and fierce, and stay alive.
+</T>
+<T>
+HENRY BOLINGBROKE
+My innocence and Saint George will protect me!
+</T>
+<T>
+THOMAS MOWBRAY
+Whatever God or fate has in store for me, I will live or die as a loyal, just, and honest gentleman. I joyfully celebrate this battle against my enemy, as much as any slave celebrates who takes off his chains and becomes free. Most powerful king and my friends, I wish you all happiness in the years to come. I go to fight as happily as I would join in a celebration, because knowing that I have truth on my side makes me feel calm.
+</T>
+<T>
+KING RICHARD II
+Goodbye, my lord. I see both virtue and courage in you. Marshal, lets begin.
+</T>
+<T>
+LORD MARSHAL
+Henry of Hereford, Lancaster, and Derby, take your lance. May God defend the right man!
+</T>
+<T>
+HENRY BOLINGBROKE
+With strength and hope, I say, Amen.
+</T>
+<T>
+LORD MARSHAL
+Take this lance to Thomas, Duke of Norfolk.
+</T>
+<T>
+FIRST HERALD
+At the risk of being proved false, here stands Henry of Hereford, Lancaster, and Derby to demonstrate that the Duke of Norfolk, Thomas Mowbray, is a traitor to his God, his king, and to him. He dares him to step forward and fight.
+</T>
+<T>
+SECOND HERALD
+At the risk of being proved false, here stands Thomas Mowbray, Duke of Norfolk, to defend himself and to prove that Henry of Hereford is disloyal to God, his king, and to him. By his own free will and with courage, he waits for the signal to begin.
+</T>
+<T>
+LORD MARSHAL
+Trumpets, play. Step forward, combatants.
+</T>
+<T>
+Stop, the king has thrown down his baton.
+</T>
+<T>
+KING RICHARD II
+Tell them to take off their helmets, lay down their spears, and come back to their chairs by me. Tell the trumpets to play until I deliver my decree to these men.
+</T>
+<T>
+Draw near, and listen to what I have devised with my council. Our kingdom, where you both grew up, should not be soiled with your blood, and I hate the spectacle of settling such quarrels with swords. I think that pride, ambition, and envy have caused you to disturb the sweet peace of this country. Once that peace is broken by war drums and the clash of weapons, relatives will be killing each other. Therefore, Im sending you out into distant territories. You, my cousin Hereford, at the threat of execution if you return, are banished for ten years.
+</T>
+<T>
+HENRY BOLINGBROKE
+I will do as you command. My comfort in my banishment will be the thought that the same sun that shines on you will shine on me wherever I am.
+</T>
+<T>
+KING RICHARD II
+Norfolk, I reluctantly must give you a harsher sentence. Your absence wont be marked by a certain number of hours. I must banish you for life.
+</T>
+<T>
+THOMAS MOWBRAY
+Its a heavy sentence, my lord, and I didnt expect to hear you say that. I deserved to be rewarded, not punished so harshly with exile. Ill have to abandon my native English language, which Ive spoken for forty years. My tongue will be of as little use as a broken violin. Youve imprisoned it, and ignorance will be my jailer. Im too old to learn anything new. Youve sentenced me to die in silence.
+</T>
+<T>
+KING RICHARD II
+It doesnt help to despair, and once my sentence is handed out it is too late to lament.
+</T>
+<T>
+THOMAS MOWBRAY
+Then Ill turn away from the light of this country and resign myself to darkness.
+</T>
+<T>
+KING RICHARD II
+Come back, and take an oath. Put your hands on my sword and swear this by your duty to Godsince your duty to me will end with your banishmentthat you will never greet each other in exile, or write to each other, or make up with each other, and that you wont plot any foul deed against me, my country, my subjects, or any of my land.
+</T>
+<T>
+HENRY BOLINGBROKE
+I swear.
+</T>
+<T>
+THOMAS MOWBRAY
+So do I.
+</T>
+<T>
+HENRY OF BOLINGBROKE
+If the king had allowed us to fight, Norfolk my enemy, one of us would be dead by now. One of our souls would have been banished from its body, just as our bodies are now banished from this country. Confess your treason before you go. Dont take the cumbersome burden of those sins with you.
+</T>
+<T>
+THOMAS MOWBRAY
+No, Bolingbroke. If I were ever a traitor, may I die and be forbidden from heaven! But you and I and God all know what you are, and I fear that the king will find out all too soonto his sorrow. Goodbye, my lord. Now Im unable to lose my way, since my way is anywhere in the world other than England.
+</T>
+<T>
+KING RICHARD II
+Uncle, I can see in your eyes how much you are grieving. Since you are so sad, Ill reduce your sons exile by four years.
+</T>
+<T>
+After six years, you will be welcome to come home.
+</T>
+<T>
+HENRY BOLINGBROKE
+How much time is kept in a word! Four slow winters and four lush springs taken away in a word. Thats the power of a king.
+</T>
+<T>
+JOHN OF GAUNT
+Thank you, my lord, for shortening my sons exile for my sake. But I wont gain much by it. By the time six years have passed I will be dead and wont be able to see my son.
+</T>
+<T>
+KING RICHARD II
+Why, uncle, you have many years left to live.
+</T>
+<T>
+JOHN OF GAUNT
+But you cant give me an extra minute of life. You can shorten my days by adding this sorrow, but you cant add any time. You can cause me to furrow my brow, but you cant stop a wrinkle from forming. You can order my death with a word, but once Im dead, nothing can be done to give me another breath.
+</T>
+<T>
+KING RICHARD II
+Banishing your son was a good solution, and you agreed to it. Why now do you look so gloomy at my justice?
+</T>
+<T>
+JOHN OF GAUNT
+Sometimes a thing that tastes sweet later makes you feel sick. You asked me to be a judge, but I would rather have argued as a father. If it had been a stranger rather than my son, I would have been milder. I wanted to avoid seeming soft, and, in the process, destroyed myself. Alas, I expected someone to say I was too strict in banishing my own son, but you let me agree to this terrible decision.
+</T>
+<T>
+KING RICHARD II
+Cousin, farewell. Uncle, say goodbye, too. Ive banished him for six years, and he must go.
+</T>
+<T>
+DUKE OF AUMERLE
+Cousin, goodbye. Send me a letter telling me where you are, since I wont be able to hear it from you in person.
+</T>
+<T>
+LORD MARSHAL
+My lord, I wont say goodbye. Ill ride with you as far as I can.
+</T>
+<T>
+JOHN OF GAUNT
+Why are you remaining silent? Wont you say goodbye to your friends?
+</T>
+<T>
+HENRY BOLINGBROKE
+I should be able to tell you in several ways how sad I feel, but I have no words to express how sad I feel in saying goodbye to you.
+</T>
+<T>
+JOHN OF GAUNT
+Your grief is just that youll be absent for a time.
+</T>
+<T>
+HENRY BOLINGBROKE
+With joy gone, grief will take up that whole time.
+</T>
+<T>
+JOHN OF GAUNT
+Six years will go by quickly.
+</T>
+<T>
+HENRY BOLINGBROKE
+To a happy man they would pass quickly, but with sorrow one hour feels like ten.
+</T>
+<T>
+JOHN OF GAUNT
+Think of it as a pleasure trip.
+</T>
+<T>
+HENRY BOLINGBROKE
+To pretend it is a vacation will only make it worse.
+</T>
+<T>
+JOHN OF GAUNT
+Think of these sorrowful years as a way to make your return home even happier.
+</T>
+<T>
+HENRY BOLINGBROKE
+No, every step I take away will only remind me how far I am from what I love. Ill be serving so many long years in a foreign land, and, other than my freedom, Ill have nothing to show for it at the end.
+</T>
+<T>
+JOHN OF GAUNT
+A wise man knows that anywhere heaven looks down upon is a refuge. Force yourself to think this way, because you have to. Dont think that the king banished you but rather that you are the king. Sorrow weighs heaviest on those who bear it timidly. Pretend I sent you to go prove yourself, not that the king banished you. Or pretend that there is a plague here and that you are seeking a healthier place. Imagine that what you want the most can be found in the direction you are going, not the direction youre coming from. Pretend the birds are musicians, and the flowers along your path are fair ladies, and your steps are a dance. Sorrow has no power to hurt the man who makes fun of it and who keeps a sense of humor.
+</T>
+<T>
+HENRY BOLINGBROKE
+Who can hold a flame by pretending that it is ice? Or satisfy hunger just by thinking about a feast? Or roll in the snow naked by imagining the heat of summer? Oh, no! Imagining the best only makes the worst harder to bear. Sorrow hurts most when you treat the pain it creates without curing the cause.
+</T>
+<T>
+JOHN OF GAUNT
+Come, come, my son, Ill put you on your way. If I were young enough, I wouldnt remain here.
+</T>
+<T>
+HENRY BOLINGBROKE
+Then goodbye, Englands earth. Goodbye, sweet soil, my motherland. Wherever I go, I can boast that I am a true Englishman, even if I am banished.
+</T>
+<T>
+KING RICHARD II
+How far did you escort proud Hereford?
+</T>
+<T>
+DUKE OF AUMERLE
+I took proud Hereford, if you want to call him that, just to the next highway and left him there.
+</T>
+<T>
+KING RICHARD II
+And how many tears were shed?
+</T>
+<T>
+DUKE OF AUMERLE
+Honestly, none on my part. Although the wind was blowing bitterly against our faces, making our eyes water. I suppose by chance that made me shed some tears.
+</T>
+<T>
+KING RICHARD II
+What did my cousin say when you left him?
+</T>
+<T>
+DUKE OF AUMERLE
+Goodbye. But I didnt say it back, because that word has always been a way to disguise my grief when leaving someone, and I certainly didnt have any grief to disguise this time. In fact, if saying goodbye would have made hours longer and added years to his banishment, I would have given him many goodbyes. But I knew that it wouldnt, so I gave him none.
+</T>
+<T>
+KING RICHARD II
+He is our cousin, cousin. But I doubt that hell come see his relatives when he returns home from his exile. Bushy, Bagot, Green, and I watched how he courts the common people, and he seems to endear himself to them with humble courtesy. He wasted reverence on slaves and courted poor craftsman with smiles and a patient acceptance of his fate, as though he were hoping to take their affection with him into exile. He took off his hat to a woman selling oysters. Several oxen drivers blessed his journey, and he went on one knee and told them, Thanks, my countrymen, my loving friends. It was as though my England were his and my subjects were placing their hope in him.
+</T>
+<T>
+GREEN
+Well, he is gone, and any thoughts like that go with him. Now we must make an urgent plan to deal with the rebels in Ireland, my lord, before giving them time to act gives them an advantage and puts you at a loss.
+</T>
+<T>
+KING RICHARD II
+lease out our right to tax the people. The revenue from that will keep the country running. If that doesnt bring in enough, then my deputies here will have authority to make the rich lords turn over however much of their gold we choose to supply what we need. Ill leave for Ireland at once.
+</T>
+<T>
+Bushy, what is the news?
+</T>
+<T>
+BUSHY
+Old John of Gaunt is suddenly very ill, my lord. He sent word asking that your majesty visit him as soon as possible.
+</T>
+<T>
+KING RICHARD II
+Where is he?
+</T>
+<T>
+BUSHY
+At Ely House.
+</T>
+<T>
+KING RICHARD II
+God, let the physician help him die quickly! His fortune will pay for the soldiers coats in this Irish war. Come, gentleman, lets go visit him. Lets hurry, but pray we still arrive too late!
+</T>
+<T>
+ALL
+Amen.
+</T>
+<T>
+JOHN OF GAUNT
+Is the young, wild king going to come visit me so I can give him my last words of advice before I die?
+</T>
+<T>
+DUKE OF YORK
+Dont waste the little strength you have worrying about that. Even if he did come, the king doesnt listen to advice.
+</T>
+<T>
+JOHN OF GAUNT
+Also, in general, people pay more attention at the end of somebodys life. Its just like the last bite of dessertits the sweetest part, the part you try to make last, and the part you remember most. So, even though King Richard ignored me throughout my life, maybe hell listen to me now that I am dying.
+</T>
+<T>
+DUKE OF YORK
+No, he wont listenhis ears are stuffed with all the sounds that make him happy, like the flattery and praise he receives, which wise men know to be wary of. He also likes raunchy poems, which immature young people always listen to. And he listens to the fashion reports from Italy, which England is always copying and always shamefully trying to catch up to. As long as it is new, no matter how awful it is, it instantly grabs Richards attention. His desire for all of these things doesnt allow him to listen to good advice. Dont give him direction, because he chooses his own course. Youll just be wasting your precious breath.
+</T>
+<T>
+JOHN OF GAUNT
+As I lie here dying, I think that God is suddenly letting me see the kings future. The king cant go on living a wasteful lifestyle forever, in the same way that a raging fire will eventually burn itself out. Little rainstorms often go on for a long time, but big, violent thunderstorms come and go quickly. The person who starts off too fast will soon tire out, and the person who eats too fast will choke on his food. The hungry bird that cant get enough to eat will soon eat itself. This kingdom, this majestic Earth, this paradise, this fortress that Nature built to protect herself against disease and war, this lucky race of people, this little world, this precious jewel of an island sitting in the seawhich protects it like a wall or a moat against the evil intentions of less fortunate countriesthis blessed land, this England, this fertile mother of kings who are feared and famous for their Christian actions throughout the world, this land of such good people, this wonderful, wonderful landit is now rented out, and Im going to have to die watching it happen. England is surrounded by an ocean whose rocky shore has always pushed back the raging waters. Now, though, England is bound in shame by legal papers, made of rotting parchment and covered in inky blots, that were signed to rent it out. England, which is used to conquering other countries, has now shamefully conquered itself. Oh, how I wish this scandal would die and go away, just like Im about to die. How happy my death would be then!
+</T>
+<T>
+DUKE OF YORK
+(to John of Guant) The king is here. Go easy with him. He is young and easy to make angry, and if you give him a hard time, youre likely to do nothing but make him angrier.
+</T>
+<T>
+QUEEN
+How are you, John of Gaunt?
+</T>
+<T>
+KING RICHARD II
+Yes, John of Gaunt, tell us how you are.
+</T>
+<T>
+JOHN OF GAUNT
+My name is Gaunt, and I feel gaunt. I am gaunt because of my old age. And who can go without food and not be gaunt? I have stayed awake and watched England crumble for a long time, and from all the lack of sleep Ive grown gaunt. Fathers receive nourishment from seeing their children, and since I cant see my child it has made me gaunt. Im ready for my grave, and when Im laid in it Ill be nothing but bones.
+</T>
+<T>
+KING RICHARD II
+Can men who are really sick play so subtly with their names?
+</T>
+<T>
+JOHN OF GAUNT
+Misery likes to make fun of itself. And I thought you might enjoy listening to me make fun of my name since you are banishing my son, who, of course, shares my name.
+</T>
+<T>
+KING RICHARD II
+Should dying men try to amuse the living?
+</T>
+<T>
+JOHN OF GAUNT
+No, no, the living should try to amuse the dying.
+</T>
+<T>
+KING RICHARD II
+You, who are dying, tell me that youre trying to please me.
+</T>
+<T>
+JOHN OF GAUNT
+Oh no! Youre the one dying, even though Im sicker.
+</T>
+<T>
+KING RICHARD II
+Im in good health. Im breathing fine, and I can see that you are the one who is sick.
+</T>
+<T>
+JOHN OF GAUNT
+God knows that I can see the sickness in you. You dont realize it, but your deathbed is actually the country that youve been destroying. And youre too stupid to realize that the people you think will cure you are actually the ones making you sickthose flatterers and yes-men you surround yourself with. You dont even see that your subjects are turning on you. You have laid waste to all of England. If your grandfather had been able to see how you were going to destroy this country, he wouldve reached into the future and stopped you. My brother, it is an utter shame to lease parts of England out to others. You arent the king of England anymore. You are simply the landlord of England, and you
+</T>
+<T>
+KING RICHARD II
+You idiot, taking advantage of your illness as an opportunity to criticize me. How dare you anger and embarrass me so much that my face has gone pale. If you werent my unclethat is, the uncle to the King of Englandthat wild tongue of yours would fall from the head that sits on your disobedient shoulders.
+</T>
+<T>
+JOHN OF GAUNT
+Dont do me any favors because Im your uncle. You have never before hesitated to spill our familys royal blood. My good and simple brother Gloucester, who had royal blood and is happily in heaven now, is someone you werent afraid to kill. Like a dead flower, your wicked behavior must be plucked immediately. You have lived a bad life, but you must change your ways before you die. May my words torment you always! (to his assistants) Take me to my bed, and then let me die. Let only those who are honorable and loving live happily.
+</T>
+<T>
+KING RICHARD II
+And let those who are old and gloomy die, and you, John of Gaunt, are both.
+</T>
+<T>
+DUKE OF YORK
+I beg you, your majesty, blame his words on his age and his sickness. I swear that he loves you and holds you as close to his heart as he does Harry Duke of Hereford.
+</T>
+<T>
+KING RICHARD II
+Right, what you say is true. Just as Harry holds me close to his heart, John of Gaunt must hold me also. And, in turn, I love both of them. Thats how it is.
+</T>
+<T>
+NORTHUMBERLAND
+My lord, Gaunt sends his regards to you.
+</T>
+<T>
+KING RICHARD II
+What did he say?
+</T>
+<T>
+NORTHUMBERLAND
+Actually, he didnt say anything. He cant talk. He has died.
+</T>
+<T>
+DUKE OF YORK
+I hope that I will be the next to die! Death is terrible, but at least it stops the pain of living.
+</T>
+<T>
+KING RICHARD II
+Gaunt is the first to die, just like the ripest fruit is always the first to fall off the tree. Well, thats over with. Now, about the war in Ireland. We must get rid of those shaggy-haired Irish soldiers who live there. Lets seize all of Gaunts money and property to help pay for the war.
+</T>
+<T>
+DUKE OF YORK
+How long can I hold out? How long will my obligation to the king make me suffer these wrongs against Gaunt? Nothing has ever made me show my frustrationsnot Gloucesters death, nor Herefords banishment, nor Gaunts criticisms, nor the kings bad treatment of England, nor the kings refusal to let Bolingbroke marryRichard rejected Bolingbrokes request to marry the King of Frances cousin.kings refusal to let Bolingbroke marry, nor my own ill treatment. I am the last of Edwards sons. Your father, the Prince of Wales, was the first. There was never anyone more fierce in wartime and more gentle in peacetime than the Prince of Wales. You look just like him when he was your age. When he got upset, it was against the French, not against his allies. He spent only what hed earned, and he never spent anything that his father had won. He never did anything wrong to his countrymen, but he punished his enemies. Richard, I am too upset, or I would never make these comparisons.
+</T>
+<T>
+KING RICHARD II
+Why, uncle, whats the matter?
+</T>
+<T>
+DUKE OF YORK
+Oh, my lord, forgive me, please. If you wont Ill understand. Do you really want to seize all of Gaunts property? He might be dead, but isnt his son still alive? Wasnt Gaunt a good man, and isnt Harry good, too? Doesnt Gaunt deserve to have an heir? And isnt Harry a deserving heir? If you take away Harrys right to inherit his fathers belongings, then you are going against tradition. It would be like taking away Times authority and rights and preventing tomorrow from following today. Remember, you yourself are a king because you inherited the position. Now, I swear before God, if you do this, you will bring all sorts of danger to yourself and turn a thousand people against you. You will force me to lose my patience, and Ill think about doing things to you that, because I still honor and obey you, I cannot even think about.
+</T>
+<T>
+KING RICHARD II
+Think whatever you want, but were going to seize his money and all of his property.
+</T>
+<T>
+DUKE OF YORK
+I wont stand here and watch. Goodbye, my lord. What will happen now, nobody can say. But no good outcome can result from bad decisions like this.
+</T>
+<T>
+KING RICHARD II
+Bushy, go straight to the Earl of Wiltshire and tell him to come to Ely House to help us. Tomorrow morning well go to Ireland. I believe its time. Ill make my uncle York the Lord Governor of England while Im away. He is fair and has always loved me very much. Come, my queen, we must leave tomorrow. Be well.
+</T>
+<T>
+NORTHUMBERLAND
+Well, lords, the Duke of Lancaster is dead.
+</T>
+<T>
+LORD ROSS
+But he also kind of lives because his son is now a duke.
+</T>
+<T>
+LORD WILLOUGHBY
+His son might have the title of duke, but he doesnt have the income of one.
+</T>
+<T>
+NORTHUMBERLAND
+If there were justice in the world then he would both have the title and the income.
+</T>
+<T>
+LORD ROSS
+I have a lot of troubles on my mind. But I must keep silent about them for now.
+</T>
+<T>
+NORTHUMBERLAND
+Speak your mind. And if anyone uses what you say against you, let that person never speak again!
+</T>
+<T>
+LORD WILLOUGHBY
+Are you going to say something about the Duke of Hereford? If so, say it, man! I am always eager to hear good things about him.
+</T>
+<T>
+LORD ROSS
+I cant do him any good, unless its good to pity him, since hes now deprived of his inheritance.
+</T>
+<T>
+NORTHUMBERLAND
+With God as my witness, I say its a shame that such wrongs have been done to him and to others of royal blood in this crumbling land. The king is not acting like himself. Hes being deceived by his group of flatterers. Purely out of hatred they make accusations against us, leading the king to persecute us and our children.
+</T>
+<T>
+LORD ROSS
+Hes taxed the common people heavily, and theyve turned against him. Hes also fined the nobles for old grudges and turned them against him, as well.
+</T>
+<T>
+LORD WILLOUGHBY
+Every day he devises new ways of forcing people to pay, like mandatory loans and I dont know what else. What, in Gods name, is he doing with all of this money?
+</T>
+<T>
+NORTHUMBERLAND
+He hasnt spent the money on wars because he hasnt waged any wars. He has shamefully compromised with our enemies and given away what our ancestors won in battle. Hes spent more in peacetime than they did in wartime.
+</T>
+<T>
+LORD ROSS
+The Earl of Wiltshire has rented out the land.
+</T>
+<T>
+LORD WILLOUGHBY
+The king is bankrupt.
+</T>
+<T>
+NORTHUMBERLAND
+He is disgraced.
+</T>
+<T>
+LORD ROSS
+The only way he can afford to fight the war in Ireland, even with all the money that hes collected from these new taxes, is by stealing everything from the Duke of Hereford.
+</T>
+<T>
+NORTHUMBERLAND
+Friends, we see this storm coming, and yet we dont seek any shelter to avoid it! We see the wind blowing fiercely upon our sails, and yet we dont lower the sails but recklessly perish.
+</T>
+<T>
+LORD ROSS
+We see the shipwreck coming, but the danger is unavoidable now because we sat by and allowed all this to happen.
+</T>
+<T>
+NORTHUMBERLAND
+Thats not true. Even though we are close to ruin, I can see a way out. But Im not going to say how near the news of our rescue is.
+</T>
+<T>
+LORD WILLOUGHBY
+Please tell us your thoughts, as we have told you ours.
+</T>
+<T>
+LORD ROSS
+Have the confidence to speak, Northumberland. The three of us are just like you. If you speak, youll most likely say what were already thinking. Be bold.
+</T>
+<T>
+NORTHUMBERLAND
+Then here it is: I have learned that the Duke of Bretagne, in Brittany, has given eight large ships to Harry Duke of Hereford as well as Rainold Lord Cobhmanwho recently broke his alliance with the Duke of Exeterhis brother, the former Archbishop of Canterbury, Sir Thomas Erpingham, Sir John Ramston, Sir John Norbery, Sir Robert Waterton, and Francis Quoint. These men sailed the ships with three thousand soldiers from Port le Blanc, and right now they are racing to England. They left as soon as the king departed for Ireland. If you want to be free of your slavery to the king, help our country to rise again, and restore the honor of our royalty, then come with me right now to Ravenspurgh. If youre afraid to do so, then wait here while I go myself.
+</T>
+<T>
+LORD ROSS
+To our horses! Encourage anyone who is scared.
+</T>
+<T>
+LORD WILLOUGHBY
+If my horse holds up, Ill be the first one there.
+</T>
+<T>
+BUSHY
+Madam, you are too sad. When we left the king, you promised to stop worrying so much and to try to act more cheerfully.
+</T>
+<T>
+QUEEN
+I promised that to make the king happy, but for myself I cannot do it. I dont know why I should be so sad, except that I had to say goodbye to my sweet Richard. But I also think that something bad is going to happen to me and Im inwardly grieving. Its making me more sad than the kings leaving does.
+</T>
+<T>
+BUSHY
+When youre already sad it seems like everything is awful and your grief is multiplied. But, in reality, thats not the case. Because youre sad, things dont appear to you as they actually are, so in your husbands departure you see many things to grieve. Those are just shadows. So dont cry for anything but your husbands leaving. Any other causes of grief are just imaginary.
+</T>
+<T>
+QUEEN
+That may be true, but my instinct tells me otherwise. Whatever the case, I feel nothing but grief. In fact, I feel so sad that even when Im not thinking about anything at all I feel woefully faint and weak.
+</T>
+<T>
+BUSHY
+Thats nothing but your imagination, my queen.
+</T>
+<T>
+QUEEN
+Far from it. Imaginary feelings of grief are always the result of some real, prior grief. But thats not my situation, as nothing has happened to me to cause my grief. My grief is reversed: I feel a grief whose cause I havent experienced yet. But I dont know what that is. I cant name it. All I know is that its a nameless sadness.
+</T>
+<T>
+GREEN
+God save the queen! And good to see you, too, gentlemen. I hope the king hasnt left yet for Ireland.
+</T>
+<T>
+QUEEN
+Why do you hope that? Its better if he has since his plans require that he act quickly, so why do you hope he hasnt sailed?
+</T>
+<T>
+GREEN
+Our hope is that he might have brought his forces back from Ireland and caused our enemy, Bolingbroke, to give up. Even though he is exiled he has returned to England. He and a strong army have arrived safely to Ravenspurgh ready to fight.
+</T>
+<T>
+QUEEN
+God, no!
+</T>
+<T>
+GREEN
+Madam, its true, and whats worse is that Lord Northumberland, his young son Henry Percy, the Lord of Ross, the Lord of Beaumond, and the Lord of Willoughby, along with their powerful friends, have all gone to join him.
+</T>
+<T>
+BUSHY
+Why havent you proclaimed Northumberland and the others traitors?
+</T>
+<T>
+GREEN
+We did, and thats when the Earl of Worcester broke his staff, resigned his jobA staff is a rod of office and would have been carried by the Earl of Worcester, as the steward of the kings household.staff, resigned his job, and, along with the kings servants, fled to join Bolingbroke.
+</T>
+<T>
+QUEEN
+So, Green, you have helped me to give birth: I was pregnant with sorrow, Bolingbroke is the newborn child, and I am like a gasping mother who has just delivered her baby.
+</T>
+<T>
+BUSHY
+Madam, do not despair.
+</T>
+<T>
+QUEEN
+Whos going to stop me? I will despair, and I will not put up with any false hopes. False hope flatters and feeds on us, draws out our pain, and withholds death, which would be gentle otherwise.
+</T>
+<T>
+GREEN
+Here comes the Duke of York.
+</T>
+<T>
+QUEEN
+His old neck shows signs of war. Oh, his face is full of anxiety! Uncle, for Gods sake, give us good news.
+</T>
+<T>
+DUKE OF YORK
+If I were to give you good news, I would be hiding my real thoughts. Good news is in heaven, and we are on earth, where nothing lives but trials, anxieties, and sorrow. Your husband has gone to protect his rule in Ireland, while others have come here to take it from him in England. Here I am, too old to support myself, left to prop up his country. The bad times that we thought his overindulgent ways would bring have arrived. Now his friends will be tested.
+</T>
+<T>
+SERVANT
+My lord, your son was gone before I arrived.
+</T>
+<T>
+DUKE OF YORK
+The nobles have fled, the commoners arent concerned, and they will likely fight on Herefords side. Sir, get thee to Plashy, to my sister-in-law Gloucester. Tell her to send me one thousand pounds right away. Wait, take my ringTo prove the servant comes from the Duke of York.ring.
+</T>
+<T>
+SERVANT
+My lord, I forgot to tell you, I went by her house today. But it will upset you if I tell you the rest.
+</T>
+<T>
+DUKE OF YORK
+What is it, boy?
+</T>
+<T>
+SERVANT
+An hour before I got there, your sister-in-law died.
+</T>
+<T>
+DUKE OF YORK
+God have mercy! What a tide of troubles comes rushing over this land all at once! I dont know what to do. I wish to God that the king had cut off my head when he cut off my brothers. Has no one sent any messengers to Ireland yet? How are we going to pay for these wars? Come, sisteror I should say, cousin. Excuse me. (to the servant) Go home, fellow, and find some carts and bring the armor thats there.
+</T>
+<T>
+Gentlemen, will you go round up some men? I dont know what I should do now. Both Richard and Bolingbroke are my kinsmen. One is my king, to whom Ive pledged allegiance and have a duty to defend. The other is my kinsman, whom the king has mistreated. My conscience and my family bonds tell me to right those wrongs. Well, weve got to do something. (to the queen) Come, cousin, Ill make arrangements for you. Gentlemen, go and round up some men and meet me at Berkeley Castle. I should go to Plashy, too, but there isnt enough time. Everything is in chaos.
+</T>
+<T>
+BUSHY
+The message has probably reached Ireland, but no news has come back yet. Its impossible for us to find enough soldiers to match the enemys force.
+</T>
+<T>
+GREEN
+Besides, our closeness to the king means we are hated by those who hate the king.
+</T>
+<T>
+BAGOT
+And thats how the common folk must be. Their love depends on who gives them money, and they hate those who take their money away.
+</T>
+<T>
+BUSHY
+Thats why almost all the common folk hate the king.
+</T>
+<T>
+BAGOT
+If theyre to be the judges, then our fate is in their hands, because weve always been on the side of the king.
+</T>
+<T>
+GREEN
+Well, Im going straight to Bristol Castle to take refuge. The Earl of Wiltshire is already there.
+</T>
+<T>
+BUSHY
+Ill go with you. The hateful common folk wont help us at all but will act like dogs and tear us to pieces. Will you come with us?
+</T>
+<T>
+BAGOT
+No. Ill go to the king in Ireland. Goodbye. If my instinct is correct, the three of us here will never meet again.
+</T>
+<T>
+BUSHY
+That depends on whether York can defeat Bolingbroke.
+</T>
+<T>
+GREEN
+Oh, poor duke! The task he must begin is as hard as counting the sand in a desert or drinking all the water in the ocean. For every person who fights with him, there will be thousands who will not. Goodbye immediately and forever.
+</T>
+<T>
+BUSHY
+Well, we might meet again.
+</T>
+<T>
+BAGOT
+I fear that we wont.
+</T>
+<T>
+HENRY BOLINGBROKE
+How much farther is it to Berkeley, my lord?
+</T>
+<T>
+NORTHUMBERLAND
+Believe me, my noble lord, Im a stranger to these parts. These high and wild hills go on for miles and are tiring. And yet your good conversation has been like sugar, making the difficult journey sweeter. But I think it will be a long and hard journey from Ravenspurgh to Cotswold for Ross and Willoughby since they wont have your company, which has made my trip easier. But their trip will be made more enjoyable by the expectation that youll go with them next time. In this way, the journey for those tired lords will seem shorter. Thats what has happened to me. My journey has seemed shorter because youve been with me.
+</T>
+<T>
+HENRY BOLINGBROKE
+My companionship isnt nearly as valuable as your kind words. Whos coming?
+</T>
+<T>
+NORTHUMBERLAND
+Its my son, young Harry Percy. He was sent by my brother Worcester, wherever he may be. Harry, how is your uncle Worcester?
+</T>
+<T>
+HENRY PERCY
+I was thinking, my lord, that you would tell me that.
+</T>
+<T>
+NORTHUMBERLAND
+Is he not with the queen?
+</T>
+<T>
+HENRY PERCY
+No, my good lord. He has abandoned the court. He broke his staff and let the kings servants go.
+</T>
+<T>
+NORTHUMBERLAND
+What was his reason? The last time we were together he hadnt decided to do that.
+</T>
+<T>
+HENRY PERCY
+He did it because you were proclaimed a traitor. But, my lord, hes gone now to Ravenspurgh, to help the Duke of Hereford, and he sent me to Berkeley to discover how large an army the Duke of York had there. Then he gave me orders to go on to Ravenspurgh.
+</T>
+<T>
+NORTHUMBERLAND
+Have you forgotten who the Duke of Hereford is, boy?
+</T>
+<T>
+HENRY PERCY
+No, my good lord, because I cant forget something I never remembered. I dont think Ive ever seen him in my life.
+</T>
+<T>
+NORTHUMBERLAND
+Then meet him now. This is the duke.
+</T>
+<T>
+HENRY PERCY
+My gracious lord, I am in your service. I am young, but as I get older, I will demonstrate more impressive abilities.
+</T>
+<T>
+HENRY BOLINGBROKE
+Thank you, kind Percy. I count myself happiest when remembering my good friends. I know that the reward for your love will be to witness how it helps me find greater success. My heart makes this promise to you, and this handshake seals that promise.
+</T>
+<T>
+NORTHUMBERLAND
+How far is it to Berkeley? And what events keep good old York there with his soldiers?
+</T>
+<T>
+HENRY PERCY
+Theres the castle, over by that group of trees. Ive heard that its protected by three hundred men, and that the Lord of York, the Lord of Berkeley, and the Lord of Seymour are there. Theres no one else of title and noble reputation inside.
+</T>
+<T>
+NORTHUMBERLAND
+Here come the Lord of Ross and the Lord of Willoughby. They are bloody from sticking their spurs so hard into their horses, and their faces are red from riding here so fast.
+</T>
+<T>
+HENRY BOLINGBROKE
+Welcome, my lords. I know that youve followed me here out of love for me. Right now I can only pay you with my thanks, but once I have money Ill repay your love and hard work.
+</T>
+<T>
+LORD ROSS
+We are rich enough from just being here with you here, most noble lord.
+</T>
+<T>
+LORD WILLOUGHBY
+And that richness is much more than anything we could earn by working.
+</T>
+<T>
+HENRY BOLINGBROKE
+The poor earn their wealth in the form of gratitude. Until my young fortune matures, that gratitude will have to take the place of riches. But whos coming now?
+</T>
+<T>
+NORTHUMBERLAND
+I think its the Lord of Berkeley.
+</T>
+<T>
+LORD BERKELEY
+Lord of Hereford, I have a message for you.
+</T>
+<T>
+HENRY BOLINGBROKE
+My lord, I will answer only to my proper name, the Duke of Lancaster. And I have come to claim that name here in England. I must hear you call me that title before I respond to anything else you say.
+</T>
+<T>
+LORD BERKELEY
+Dont misunderstand, my lord. Its not my intention to deny you your title. Ive come to you, my lordwhatever title you want me to usefrom the most gracious regent in this land, that is the Duke of York. I need to know what has led you to exploit the absence of our king and jeopardize the peace in this land with your armies.
+</T>
+<T>
+HENRY BOLINGBROKE
+(to Lord Berkeley) I wont have to pass my message through you. Here comes his grace in person. (to the Duke of York) My noble uncle!
+</T>
+<T>
+DUKE OF YORK
+I dont want to see you kneeling. I know you dont really honor me.
+</T>
+<T>
+HENRY BOLINGBROKE
+My gracious uncle
+</T>
+<T>
+DUKE OF YORK
+Tsk, tsk! Dont call me grace, and dont call me uncle. I am not the uncle of a traitor, and its obscene to use that word grace when everybody knows youre ungracious. You were banished, so why have you come back to England? Why have you and your army marched miles across peaceful England, scaring villagers with threats of war and displays of hateful weapons? Have you come now because the king is away? Why, you foolish boy, dont you know that the king has put me in charge while hes away and that I am loyal to him? If I were still the strong young man who, with your father, John of Gaunt, rescued the kings father from thousands of French soldiers, I would quickly smack you. But my arm is too weak and shaky to administer punishment in that way.
+</T>
+<T>
+HENRY BOLINGBROKE
+My gracious uncle, why dont you tell me exactly what Ive done wrong?
+</T>
+<T>
+DUKE OF YORK
+Youve done the worst that you can: rebellion and treason. You are banished from this country and now youve returned before you are allowed to do so. And youve brought an army to fight against your king.
+</T>
+<T>
+HENRY BOLINGBROKE
+I was banished as Hereford, but I return as Lancaster. And, noble uncle, I beg that you look at my missteps impartially. I think I see my father in you. Oh, then, my father, are you going to force me to be a wandering drifter forever, while what is rightfully mine is taken away by force and given to wasteful social climbers? Why was I born? If my cousin is allowed to be the King of England, then I must be allowed to be the Duke of Lancaster. You have a son, Aumerle, who is my noble cousin. Lets say that you died, and he had been treated this way. His uncle Gaunt would have acted as a father to him and fought to correct the wrongs done against him. Im not allowed to claim my inheritance, though Im legally entitled to do so. My fathers possessions have all been wrongfully confiscated and sold. What do you think I should do? I am a subject of the King of England, arent I? I claim what is lawfully mine. Since Im not allowed to have attorneys, I must claim my inheritance myself.
+</T>
+<T>
+NORTHUMBERLAND
+The noble duke has been abused very much.
+</T>
+<T>
+LORD ROSS
+You owe it to him to treat him well.
+</T>
+<T>
+LORD WILLOUGHBY
+His money and property are making lowly men rich.
+</T>
+<T>
+DUKE OF YORK
+Listen, lords of England: Ive known about the injustices done to my cousin, and I have done everything I could to correct them. But because of the way hes returned to England, with an army and all these weapons, theres nothing I can do. And you who are helping him are just lowly rebels.
+</T>
+<T>
+NORTHUMBERLAND
+The noble duke has sworn he has come back to England only for his own sake and not for any other reason. We have all sworn to help him, and I hope anyone who breaks that promise never feels joy again.
+</T>
+<T>
+DUKE OF YORK
+Well, well, I see how this is going to go. I admit I cant change it, because my army is weak. But if God would let me, Id arrest you all and make you stoop down before our king. But since I cant, Im going to remain neutral. So, good luck to you. Or do you want to come sleep in the castle tonight?
+</T>
+<T>
+HENRY BOLINGBROKE
+Yes, uncle, we do. But first we must convince you to go with us to Bristol Castle, which Ive heard is being held by Bushy, Bagot, and their accomplices. They are devouring the kingdom like caterpillars, and Ive sworn to eliminate them.
+</T>
+<T>
+DUKE OF YORK
+I might go with you, but let me think about it first. I hate to break our countrys laws. I look at you neither as a friend nor a foe, and I dont care about peoples past misdeeds that cant be fixed now.
+</T>
+<T>
+CAPTAIN
+My lord of Salisbury, weve waited here for ten days and have had difficulty keeping our countrymen together. Since weve heard nothing from the king, were going to leave. Goodbye.
+</T>
+<T>
+EARL OF SALISBURY
+My trusty Welshman, please stay one more day. The king has placed all his confidence in you.
+</T>
+<T>
+CAPTAIN
+Its believed that the king is dead, and were not going to stay. The trees in our country are all withered, and there are meteors flashing in the sky and scaring the stars. The moon has turned red, and the fortunetellers say that bad things are going to happen. Rich men suddenly look sad because theyre afraid theyre going to lose their possessions. And criminals are dancing because they know theyre going to steal those possessions violently. All of these signs point to the death, or at least the fall, of kings. Goodbye. My countrymen have already fled, as they know that King Richard II is dead.
+</T>
+<T>
+EARL OF SALISBURY
+Ah, Richard, I can see that your glory, like a shooting star, is falling from the sky to the ground, and the thought is weighing heavily on my mind. Your sun is setting in the west and its crying, which tells me that storms of grief and chaos are coming. All of your friends have left you and pledged allegiance to your enemies, and fortune works against you.
+</T>
+<T>
+HENRY BOLINGBROKE
+Bring these men to me. Bushy and Green, I wont torment your souls with too much talk of your wicked lives since your souls will soon leave your bodies. But so no one may claim your execution was murder, I will explain with these men as witnesses why you are legally sentenced to death. You have deceived a king, a man who was happy and attractive until you came along and changed him. Through your evil ways, you have driven a wedge between the king and the queen. Youve interfered with their happy marriage and caused the queen suffering. I, by the luck of my birth, am a prince. I am closely related to the king, and until you changed his feelings toward me, he loved me. Because of your actions, Ive had to live in exile in a foreign country, and meanwhile you lived off my wealth and property here, leasing my hunting grounds to others and cutting down my forests. You tore my familys coat of arms out of the windows of my house and destroyed all signs of my familys existence. If not for mens opinions and the fact that Im still alive, no one would ever know that the property was mine and that I am a member of the nobility. These crimes and at least twice as many more condemn you to death.
+</T>
+<T>
+Make sure they are executed soon.
+</T>
+<T>
+BUSHY
+I welcome death more than England welcomes the return of Bolingbroke. Lords, goodbye.
+</T>
+<T>
+GREEN
+I am comforted knowing that our souls will go to heaven and that heaven will give hell to Bolingbroke, who committed this injustice.
+</T>
+<T>
+HENRY BOLINGBROKE
+My lord Northumberland, see that they are killed.
+</T>
+<T>
+Uncle, you said that the queen is at your house. For Gods sake, let her be treated courteously. Give her my best, and make sure to deliver my greeting.
+</T>
+<T>
+DUKE OF YORK
+Ive sent a gentleman to her with the message.
+</T>
+<T>
+HENRY BOLINGBROKE
+Thanks, kind uncle. Come, lords, lets leave. Weve got to fight Glendower and his accomplices. First, well work, and then well be able to rest.
+</T>
+<T>
+KING RICHARD II
+Do they call this castle Barkloughly castle?
+</T>
+<T>
+DUKE OF AUMERLE
+Yes, my lord. How do you like it here, after youve been tossing about on the open seas?
+</T>
+<T>
+KING RICHARD II
+Of course I like it here. Standing here on my kingdom again makes me cry with joy. Dear earth, I salute you, even though insurgents are wounding you by riding their horses over you. Like a mother who has been away from her child for a long time, I cry and smile and greet you. Please, gentle earth, provide no nourishment or shelter for my enemies. Instead, let your venomous spiders and your toads get in their way. Put stinging nettlesA plant with jagged leaves covered with hairs that sting.nettles in their path. And when they pick a flower from the ground, let a poisonous snake bite and kill them. Lords, dont make fun of me for asking this. The earth will have feelings, and these stones will turn into armed soldiers, before I, Englands legitimate king, let these terrible rebels defeat us.
+</T>
+<T>
+BISHOP OF CARLISLE
+Dont worry, my lord, the power that made you king is the same power that will keep you king in spite of all these troubles. We must embrace the opportunities that God gives us and not neglect them. Otherwise, were rejecting both Gods protection from these problems as well as his solution for them.
+</T>
+<T>
+DUKE OF AUMERLE
+What he means, my lord, is that were being neglectful because of overconfidence, while Bolingbroke is growing stronger.
+</T>
+<T>
+KING RICHARD II
+You are so discouraging, cousin! Dont you know that at nighttime, when the sun has set, thieves roam the earth unseen, boldly committing murder and other crimes? But when the sun comes up and lights the treetops and every dark hole, then those same criminals stand trembling with no way to hide. So when this thief, this traitor Bolingbroke, who has been committing all these crimes during the nighttime, sees us coming up with the sun, hell be ashamed and will tremble at the light of day. All the water in an ocean cant wash away a kings right to the throne. Mere mortals cant get rid of someone who has been appointed by God. For every solider Bolingbroke has enlisted to fight against me, God has given me an angel. And when angels fight, the weak men fall, since heaven always guards those who are right.
+</T>
+<T>
+Welcome, my lord. How far away is your army?
+</T>
+<T>
+EARL OF SALISBURY
+My army consists only of me, and I am too upset to talk of anything but despair. We are one day too late and have lost our chance of seeing happy times again. Oh, I wish it were still yesterday. If we could go back in time, wed have twelve thousand men ready to fight on our side! Today, todayit is an unhappy day. Today has taken away any chance for joy, friends, wealth, and power. All the Welshmen heard that you were dead, and theyve all joined Bolingbrokes army.
+</T>
+<T>
+DUKE OF AUMERLE
+Cheer up, my lord. Why are you so pale?
+</T>
+<T>
+KING RICHARD II
+Only a moment ago, I had twenty thousand men fighting for me, and now theyve all fled. Until they return, arent I allowed to look as pale as if I were dead? Anyone who wants to be safe flees from me, as recent events have tarnished my reputation.
+</T>
+<T>
+DUKE OF AUMERLE
+Cheer up, my lord. Dont forget that youre the king.
+</T>
+<T>
+KING RICHARD II
+I forgot. Im the king, arent I? Awake, you cowardly king. Youre sleeping. Isnt being the king worth as much as twenty thousand men? Prepare for action, my name! A young and weak subject is trying to damage your glory. Dont hang your head low. You favorite men of the kingarent we high above them all? Then we should aim high as well: I know my uncle York has enough troops for our needs. But whos coming now?
+</T>
+<T>
+SIR STEPHEN SCROOP
+I hope more health and happiness come to you, my lord, than my grief-stricken tongue can offer.
+</T>
+<T>
+KING RICHARD II
+My ears are open, and my heart is ready. The worst you can tell me about are losses for me here on earth. So, did I lose my kingdom? It was my problem, and what loss is it to be rid of a problem? Is Bolingbroke still trying to overthrow me? If he serves God, we will serve God, too, and then the two of us will be merely equals. Are our subjects revolting? We cant fix that. They break their faith with God as well as with us. Though you may cry out about woe, destruction, ruin, and decay, death is the worst fate of all, and the time for death will come.
+</T>
+<T>
+SIR STEPHEN SCROOP
+Im glad that your highness is prepared for the worst. Bolingbroke is bursting with rage and his army is attacking all across England. Its like an unexpected flood that makes it seem like the world is crying. Even old men with white beards have joined forces against your majesty, and young boys who still speak in high-pitched voices. The men whom we paid to pray for us are also now on their side, and women are fighting against you as well. Everything is going far worse for you than I can possibly describe.
+</T>
+<T>
+KING RICHARD II
+You are describing these horrible things too vividly. Where is the Earl of Wiltshire? Where is Bagot? What happened to Bushy? Where is Green? They didnt let the dangerous enemy cross over our territories without any opposition, did they? If we win, theyll pay for their failures with their heads. Ill bet theyve made peace with Bolingbroke.
+</T>
+<T>
+SIR STEPHEN SCROOP
+Oh, yes, theyve made peace, my lord.
+</T>
+<T>
+KING RICHARD II
+Oh, they are villains and vipers, damned without any hope for redemption! Theyre like dogs that will suck up to anyone! Theyre three JudasesThe disciple who betrayed Christ to Jewish authorities in return for thirty pieces of silver.Judases, but each three times worse than Judas! I hope their guilt-stained souls are punished terribly for what theyve done!
+</T>
+<T>
+SIR STEPHEN SCROOP
+I see how your love turns into the deadliest of hatred. Please, take back your curses. Their peace wasnt made by joining forces with Bolingbroke. It was made with God, when they were executed. They are all in their graves now.
+</T>
+<T>
+DUKE OF AUMERLE
+Are Bushy, Green, and the Earl of Wiltshire dead?
+</T>
+<T>
+SIR STEPHEN SCROOP
+Yes, they were all beheaded at Bristol.
+</T>
+<T>
+DUKE OF AUMERLE
+Where is my father with his army?
+</T>
+<T>
+KING RICHARD II
+It doesnt matter where he is. Lets not try to cheer ourselves up. We must talk about graves and worms and epitaphsAn inscription on a tombstone.epitaphs. Well make the dust our paper and use our tears to write a message of sorrow on the earth. Lets choose our executorsA person appointed by another to carry out the terms of his or her will.executors and talk of wills. And, yet, what can we bequeath to anyone other than leaving our rotting bodies to the ground? Our lands and our lives now belong to Bolingbroke, and we can call nothing our own except for our deaths and that little patch of earth that will cover our buried bodies. For Gods sake, lets sit on the ground and tell sad stories of the death of kings, how some were overthrown and others killed in war. Some were haunted by the ghosts of the kings they had overthrown. Still others were poisoned by their wives, while others were killed in their sleep. All of them, however, were murdered. There is always death around kings, and theres no way to escape it. Death laughs at the kings reign and mocks his great ceremonies, allowing him to live a little while and play the monarch. Death fills him with pride as if the kings body were immortal, and at the end death comes and with little effort kills the body. Then goodbye, king! So stop treating me so respectfully. Theres no need to pretend that I am any different than you. Youve been wrong about me all this time. I feel all the same things that you do. I have desires and feel sad and need friends, just like you. How, then, can you say that Im a king?
+</T>
+<T>
+BISHOP OF CARLISLE
+My lord, wise men never sit and feel sorry for themselves but try to fix the causes of their sorrow. Since fear weakens you, fearing your enemy only works against you and helps your enemy. If youre scared, youll die. Thats the worst that can happen in battle. But fighting and dying is a way of beating death, because then you die nobly. But being scared and dying gives death the victory.
+</T>
+<T>
+DUKE OF AUMERLE
+My father has soldiers. Lets figure out where he is and make an army out of the men he has.
+</T>
+<T>
+KING RICHARD II
+Your scolding does me good. Proud Bolingbroke, Ill exchange blows with you on our day of destiny. My fit of fear has passed. It should be easy to get our men together. Scroop, where is my uncle with his men? Tell me good news, man, even though you look bad.
+</T>
+<T>
+SIR STEPHEN SCROOP
+Men often determine what the day is going to be like by looking at the sky, so you should know by my dull and gloomy eyes that Im about to deliver bad news. Im acting like a torturer, drawing out the pain of what I have to say. Your uncle York has joined forces with Bolingbroke. They have possession of all your northern castles now, and all your men of rank in the south are fighting for them, too.
+</T>
+<T>
+KING RICHARD II
+You have said enough.
+</T>
+<T>
+I curse you, cousin, for convincing me not to be sad anymore. What do you have to say now? What comforts us now? I swear to God, I will forever hate the man who tells me not to despair now. Go to Flint Castle. Thats where I will wait. I am a king, but I am a slave of sorrow, and I will follow sorrows orders. Tell my army that they may leave and go work for some cause that has hope, since I have none. I dont want to hear anyone trying to change my mind. Any advice is pointless.
+</T>
+<T>
+DUKE OF AUMERLE
+My lord, may I have a word.
+</T>
+<T>
+KING RICHARD II
+The person who tries to convince me again not to despair will become the second person to treat me poorly. Let my army go. England will be Bolingbrokes very soon.
+</T>
+<T>
+HENRY BOLINGBROKE
+So we know from this latest news that the Welshmen have left the battlefield and that the king has landed with some of his friends on the coast, where Salisbury has gone to meet him.
+</T>
+<T>
+NORTHUMBERLAND
+Its good news, my lord. Richard is hiding not very far from here.
+</T>
+<T>
+DUKE OF YORK
+It would be better for Lord Northumberland to call him King Richard. We should mourn the day that a king has to hide.
+</T>
+<T>
+NORTHUMBERLAND
+Your grace misunderstands me. I only left off his title for the sake of brevity.
+</T>
+<T>
+DUKE OF YORK
+There was a time when, if youd been so brief in his presence, he would have made you even briefer, by chopping off your head.
+</T>
+<T>
+HENRY BOLINGBROKE
+Uncle, dont take this misunderstanding too far.
+</T>
+<T>
+DUKE OF YORK
+Good cousin, dont take more than you should, or you may forget heaven rules over us.
+</T>
+<T>
+HENRY BOLINGBROKE
+I know it, uncle, and wont oppose the will of heaven. But who is coming?
+</T>
+<T>
+Welcome, Harry. What, wont this castle give in?
+</T>
+<T>
+HENRY PERCY
+The castle is guarded by royal soldiers, my lord, and they wont let you enter.
+</T>
+<T>
+HENRY BOLINGBROKE
+Royal! But theres no king here, is there?
+</T>
+<T>
+HENRY PERCY
+Yes, my lord, there is a king here. King Richard is inside, along with Lord Aumerle, Lord Salisbury, Sir Stephen Scroop, as well a holy clergyman whom I dont know.
+</T>
+<T>
+NORTHUMBERLAND
+Its probably the Bishop of Carlisle.
+</T>
+<T>
+HENRY BOLINGBROKE
+Noble lords, approach the crude walls of this old castle and let the trumpets sound a signal to the king that we want to meet. Deliver this message: Henry Bolingbroke kneels before King Richard, kisses his hand, and offers his loyalty and true faith of heart. I come to lay my weapons and my power at his feet, as long as he repeals my banishment and freely gives back all my lands. If he wont, Ill use my power to rain his Englishmens blood on the summers dust. By kneeling submissively before him Ill show how little I desire to drench his green lands in this way. Go, tell him, and meanwhile well march here on the plain. Lets march without the drums so that they can clearly see our excellent military equipment from the castles ruined roof. I think King Richard and I should meet in the same way that lightning and rain mix in the sky, producing thunder that rips it apart. If hes the lightning, Ill be the rain. He can rage, while I will yield and pour my waters on the earth. But only on the earth, not on him. March along, and notice how King Richard looks.
+</T>
+<T>
+See, King Richard himself appears, just as the sun rises unhappily in the east when it sees the clouds covering the sky and trying to hide his rays.
+</T>
+<T>
+DUKE OF YORK
+He still looks like a king. Look, his eye is as bright as an eagles and commands authority. It would be a shame to harm his fair appearance!
+</T>
+<T>
+KING RICHARD II
+I am astonished that Ive stood here waiting so long and you havent yet kneeled,
+</T>
+<T>
+since I thought I was still your lawful king. And if I am, how dare you not kneel in my presence? If I am not, prove to me that God has dismissed me from my position. No mortal man, after all, can take away my scepter, unless he steals it or usurps it against the will of God. Even if you think that, like you, everyone has put their souls in danger by turning away from me, and that I have no friends, you should know that God, my master, is gathering disease and agony in his clouds on my behalf. They will strike the unborn children of anyone who raises their hands against me and the glory of my crown. Tell Bolingbrokefor I think hes standing over therethat every step he takes on my land is a dangerous act of treason. He has come to wage war against me. But ten thousand sons will die, faithful Englishmans blood will stain the pastures, and peace will turn to anger before he ever gets the crown he seeks.
+</T>
+<T>
+NORTHUMBERLAND
+God forbid that anyone would attack the king! Your noble cousin Harry Bolingbroke kisses your hand. He swears by your grandfathers grave, by the royal blood you share, by the buried hand of his father Gaunt, and by his own honor that he has no intention of doing anything but kneeling down and asking for his land and money back. Once youve given him that, hell commit to never use his weapons, to put his warhorses in stables, and to dedicate himself to your faithful service. He swears that this is fair to him as a prince. I, as a gentleman, believe him.
+</T>
+<T>
+KING RICHARD II
+Cousin, arent I dishonoring myself by looking so wretched and speaking so kindly? Should I call back Northumberland and tell him to send only words of defiance to the traitorand in doing so ensure that Bolingbrokes army will kill me?
+</T>
+<T>
+DUKE OF AUMERLE
+No, my good lord. Lets do battle with gentle words until weve had time to gather our friends and their weapons.
+</T>
+<T>
+KING RICHARD II
+Oh, God! Its unbelievable that after sentencing that proud man to banishment, I would now lift his punishment with soothing words! I wish that I were as great as I am a sad, or that I werent a king. I wish I could forget that Ive been a king, and that I must act like a king now. Is my heart beating faster? Ill let it beat faster, since my enemies have the ability to beat both my heart and me.
+</T>
+<T>
+DUKE OF AUMERLE
+Northumberland is coming back from speaking to Bolingbroke.
+</T>
+<T>
+KING RICHARD II
+What must the king do now? Must the king surrender? He will do it. Must the king be overthrown? He will be happy. Must the king no longer be called king? In Gods name, hell renounce it. Ill trade my jewels for a rosary, my gorgeous palace for a hermits dwelling, my nice clothes for a beggars shirt, my ornamented cups for a wooden dish, my scepter for a pilgrims cane, my subjects for a pair of carved saints, and trade my kingdom for a small and unmarked grave. Or bury me in a busy highway, where my subjects can trample my head constantly, since they are trampling my heart now while Im still alive. Once Im buried, why not trample on my head? Aumerle, my softhearted cousin, you are crying. Well use our tears to create violent storms, and with our sighs they will beat down the crops and cause famine in this rebellious land. Or shall we play with our woes and devise some clever game with our tears? We could keep them falling continually in one spot until theyve carved us a pair of graves in the earth. Wed lie in the graves, and the tombstone would say There lie two relatives who dug their graves with tears. Wouldnt that be a good game to play? Well, well, I speak foolishly, and you are laughing at me. My lord Northumberland, mighty prince, what does King Bolingbroke say? Will his majesty allow me to live until I die? You bow, and Bolingbroke decides.
+</T>
+<T>
+NORTHUMBERLAND
+My lord, he waits in the outer court below to speak with you. Will you come down?
+</T>
+<T>
+KING RICHARD II
+Im coming down, like shining PhaetonSon of Helios, the sun god, in Greek myth. Helios allowed him to drive the chariot of the sun, but Phaeton was unable to control the horses pulling the chariot. They veered too close to the earth, burning it, until Zeus struck Phaeton down with a thunderbolt.Phaeton unable to control unruly horses. In the bottom court? The bottom court, where kings become common enough to obey a traitors summons and bow to them. In the bottom court? Come down? The bottom court! And now the king is on the bottom! Everything is backward, and night owls shriek when mounting larks should be singing.
+</T>
+<T>
+HENRY BOLINGBROKE
+What does the king say?
+</T>
+<T>
+NORTHUMBERLAND
+His sorrow makes him speak foolishly, like a mad man. But hes coming.
+</T>
+<T>
+HENRY BOLINGBROKE
+Stand apart, and show your duty to the king.
+</T>
+<T>
+My gracious lord.
+</T>
+<T>
+KING RICHARD II
+Fair cousin, you insult your princely knee by touching it to the lowly earth. Id rather my heart feel your love than my eyes see your fake courtesy. Get up, cousin. Your heart is proud, I know, even if your knee is humbled.
+</T>
+<T>
+HENRY BOLINGBROKE
+My gracious lord, Im only here to reclaim my own property.
+</T>
+<T>
+KING RICHARD II
+Your property is yours, and I am your king.
+</T>
+<T>
+HENRY BOLINGBROKE
+My dreaded lord, you are my king only if I deserve your love.
+</T>
+<T>
+KING RICHARD II
+Uncle, give me your hands. No, dry your eyes. Tears show love, but do nothing to fix their cause. Cousin, I am too young to be your father, even though you are old enough to inherit my kingdom. Ill willingly give you what you want, because youve forced me to do it. So now youll go to London, cousin?
+</T>
+<T>
+HENRY BOLINGBROKE
+Yes, my good lord.
+</T>
+<T>
+KING RICHARD II
+Then I cant say no.
+</T>
+<T>
+QUEEN
+What game should we play here in the garden to distract us from our worries?
+</T>
+<T>
+LADY
+Madam, lets play bowlsA game played by rolling slightly asymmetrical balls as close as possible to a white ball, known as a jack.bowls.
+</T>
+<T>
+QUEEN
+It will make me think the world is full of obstacles, and that my fortune sends me the wrong way.
+</T>
+<T>
+LADY
+Madam, well dance.
+</T>
+<T>
+QUEEN
+My legs cant move with delight when my heart is so full of grief. Therefore, no dancing, girl. Lets find some other sport.
+</T>
+<T>
+LADY
+Madam, well tell stories.
+</T>
+<T>
+QUEEN
+Sad ones or happy ones?
+</T>
+<T>
+LADY
+Either, madam.
+</T>
+<T>
+QUEEN
+Neither, girl. Since I have no happiness, happy stories only remind me of sorrow. Since I am full of grief, sad stories only add more sorrow to my lack of happiness. I dont need to add on to what I already have, and it does no good to complain about what I want.
+</T>
+<T>
+LADY
+Madam, Ill sing.
+</T>
+<T>
+QUEEN
+Its wonderful that you are happy enough to sing, but it would make me happier if you wept.
+</T>
+<T>
+LADY
+If it would do you any good, madam, I could weep.
+</T>
+<T>
+QUEEN
+And if weeping would do me any good, I would do it enough that Id be able to sing.
+</T>
+<T>
+But stop, here come the gardeners. Lets move into the shadows of these trees. Id only bet my most worthless possessions that they wont talk about politics, since thats what everyone does in anticipation of a change. Sorrow is always announced with sorrow.
+</T>
+<T>
+GARDENER
+Go, gather up those dangling apricots. The tree is bending under their excessive weight, like a father oppressed by his unruly children. Give the twigs some support. Cut off the branches that are growing too fast and high in our country. Everything must be equal. While youre doing that, Ill go dig up those harmful weeds that are stealing all the nutrients in the soil from the flowers.
+</T>
+<T>
+SERVANT
+Why should we make this garden look like a model of beauty and order when the whole country is in disarray? If England were a garden, it would be full of weeds, with the most beautiful flowers choked to death. All the fruit trees would be torn out of the ground, the hedges would be ruined, the carefully designed flowerbeds would be a mess, and the herbs would be covered in caterpillars.
+</T>
+<T>
+GARDENER
+Be quiet. The one who allowed this disordered mess to grow is now withering like a tree in autumn. The weeds that he sheltered with his leaves, and that seemed to prop him up while simultaneously destroying him, have been ripped up by Bolingbroke. Im talking about the Earl of Wiltshire, Bushy, and Green.
+</T>
+<T>
+SERVANT
+What, they are dead?
+</T>
+<T>
+GARDENER
+They are, and Bolingbroke has taken the wasteful king into custody. Oh, its too bad that the king didnt take care of his land as carefully as we tend this garden! At this time of year we pierce the bark, so that the fruit trees arent spoiled by too much of their own rich sap. If he had done the same thing to his men, who were spoiling from too much wealth and power, they might have served him better, and he would have profited. We cut the unnecessary branches off the trees, so that the ones that bear fruit will live. If he had done the same and cut away the unnecessary men in his service, he would still have the crown. But he wasted his time and lost it.
+</T>
+<T>
+SERVANT
+What, do you think the king will be dethroned?
+</T>
+<T>
+GARDENER
+Hes already been brought low, and its feared hell be dethroned. A dear friend of the Duke of York received letters last night with bad news.
+</T>
+<T>
+QUEEN
+Oh, not saying anything is killing me!
+</T>
+<T>
+You, gardener, how dare you say such awful things? What snake has tempted you to invent a second fall of man? Why do you say that King Richard is deposed? Do you dare predict his downfall when you are as low as the dirt? Tell me where, when, and how you heard these terrible things. Speak, you wretch.
+</T>
+<T>
+GARDENER
+Forgive me, madam. Im not happy to say it, but its true. Bolingbroke has captured King Richard. Their fortunes are being weighed out. Your lord has only himself and his vanity, which makes him lighter. Great Bolingbroke has all the English peers with him, and that gives him greater weight than King Richard. If you hurry to London, youll see. Im only saying what everyone knows.
+</T>
+<T>
+QUEEN
+Why am I the last to hear this bad news that concerns me? Ill feel the sorrow the longest and yet Im the last to know. Come, ladies, lets go. We must go to London to see the king in his sorrow. Was this why I was born, to show my sad face while great Bolingbroke triumphs? Gardener, for telling me this awful news, I pray that your plants never grow.
+</T>
+<T>
+GARDENER
+Poor queen! I wish her curse would strike my skill if it would help her. Her tear fell right here. Ill plant rue there, since it is a bitter and sad herb. If only out of pity, rue will soon grow here in remembrance of a weeping queen.
+</T>
+<T>
+HENRY BOLINGBROKE
+Call forward Bagot. Now, Bagot, speak freely. What do you know about noble Gloucesters death? Who conspired with the king to do it, and who actually killed him?
+</T>
+<T>
+BAGOT
+Bring Lord Aumerle forward.
+</T>
+<T>
+HENRY BOLINGBROKE
+Cousin, stand in front and look at that man.
+</T>
+<T>
+BAGOT
+My Lord Aumerle, I know youre too brave to deny what youve already said. While Gloucesters death was being plotted, I heard you say, Isnt my arm long enough to reach from the peaceful English court to Calais, to strike at my uncles head? At that same time, I heard you say, among other things, that you would rather refuse a hundred thousand crowns than have Bolingbroke return to England. And you added that the country would be blessed if Bolingbroke, your cousin, died.
+</T>
+<T>
+DUKE OF AUMERLE
+Princes and noble lords, how should I respond to this lowly man? Should I dishonor my rank as a noble by chastising him on equal terms? I guess I must, or let him ruin my honor with this slanderous accusation. There is my glove, the symbol of your death. I say you lie, and Ill confirm in combat that what you said is a lie, though I wont stain my knightly sword with your common blood.
+</T>
+<T>
+HENRY BOLINGBROKE
+Bagot, restrain yourself. You will not retaliate.
+</T>
+<T>
+DUKE OF AUMERLE
+Except for Bolingbroke, I wish Bagot were the most noble person here to have angered me like this.
+</T>
+<T>
+LORD FITZWATER
+If your courage depends on rank, there is my glove, Aumerle, to match your glove. I swear by the sun that shows me where you are that I heard you boast that you caused Gloucesters death. Even if you deny it twenty times, you lie, and Ill put that lie back in your heart, where it came from, with my sword.
+</T>
+<T>
+DUKE OF AUMERLE
+Coward, you wouldnt dare do it.
+</T>
+<T>
+LORD FITZWATER
+By my soul, I wish I could do it right now.
+</T>
+<T>
+DUKE OF AUMERLE
+Fitzwater, youll be damned to hell for this.
+</T>
+<T>
+HENRY PERCY
+Aumerle, you lie. His accusation is as true as your denial is false. And Ill prove that you lie by throwing down my glove. Take it up, if you dare.
+</T>
+<T>
+DUKE OF AUMERLE
+If I dont, may my hands rot away and never again lift my sword over the helmet of my enemy!
+</T>
+<T>
+LORD
+Ill throw down my glove to you, too, lying Aumerle. And Ill accuse you of lying right in your ear, from sunrise to sunset. Theres my pledge of honor. Pick it up, if you dare.
+</T>
+<T>
+DUKE OF AUMERLE
+Who else challenges me? By heaven, Ill throw my glove at you all. My breast holds a thousand spirits that can outmatch twenty thousand like you.
+</T>
+<T>
+DUKE OF SURREY
+My lord Fitzwater, I remember very well when you and Aumerle spoke.
+</T>
+<T>
+LORD FITZWATER
+Thats true, you were there. And you can be my witness that this is true.
+</T>
+<T>
+DUKE OF SURREY
+Its as false as heaven is true.
+</T>
+<T>
+LORD FITZWATER
+Surrey, you lie.
+</T>
+<T>
+DUKE OF SURREY
+Dishonorable boy! Your lie will give such weight to my sword that it will attack you in revenge until youre lying in the grave as quiet as your dead father. As proof, theres my glove. Take it up, if you dare.
+</T>
+<T>
+LORD FITZWATER
+You taunt me so foolishly! As easily as I dare to eat or drink or breathe or live, I dare to meet Surrey in a wild place and spit on him, all the while declaring that he lies. There is my response, so that you cant run away from it. I intend to do well in this new kingdom, and Aumerle is guilty. Besides, I heard the banished Duke of Norfolk, Thomas Mowbray, say that you, Aumerle, sent two of your men to kill the noble duke at Calais.
+</T>
+<T>
+DUKE OF AUMERLE
+Someone lend me a glove so I can prove that Mowbray lies. Here, I throw down this, so that I may test his honor if hes ever brought back.
+</T>
+<T>
+HENRY BOLINGBROKE
+All these quarrels will be put on hold until Mowbray is recalled from exile, as he will be. Even though he is my enemy, hell be given back his land and titles. And when he comes back, well have his trial against Aumerle.
+</T>
+<T>
+BISHOP OF CARLISLE
+That day will never happen. Many times did Mowbray fight for Jesus Christ in battle and raised the Christian cross against the black pagans, Turks, and Saracens. Exhausted by war, he retired to Italy. He gave his body to its soil in Venice and gave his pure soul to Christ, under whose banner he fought for so long.
+</T>
+<T>
+HENRY BOLINGBROKE
+Why, bishop, is Mowbray dead?
+</T>
+<T>
+BISHOP OF CARLISLE
+As surely as I am alive, my lord.
+</T>
+<T>
+HENRY BOLINGBROKE
+May peace take his sweet soul to Abraham! Lords, well keep all these challenges until we can set days for your trials.
+</T>
+<T>
+DUKE OF YORK
+Great Duke of Lancaster, I come to you from humbled Richard, who is willing to make you his heir and yields his royal scepter to your hands. Take his throne from him, and long live Henry, the fourth king with that name!
+</T>
+<T>
+HENRY BOLINGBROKE
+In Gods name, Ill take the royal throne.
+</T>
+<T>
+BISHOP OF CARLISLE
+God forbid! Im the least worthy to speak in this noble company, but its fitting that I, a clergyman, speak the truth. If only one of the nobles here were noble enough to judge Richard! Then he would restrain himself from committing such a wrong. What subject can pass judgment on his king? And who here isnt Richards subject? Even thieves arent judged unless theyre present, even when theyre obviously guilty. Shall the image of Gods majesty, who is His chosen deputy and caretaker and has been so for many years, be judged by his inferiors without even being present? Oh, God, dont allow such refined souls in a Christian land to be so obscene. Im speaking to subjects as a subject, because Ive been moved by God to speak boldly for his king. You might call my Lord of Hereford here king, but he is a traitor to his king. If you give him the crown, I predict that the blood of the English will soak the soil, and future generations will regret this act. Peace will leave England and go to the Turks and infidels, while we will have terrible wars that will pit families against each other. Disorder, fear, mutiny, and horror will live here, and it will be known as a place of terror and skulls. If you pit your family against hisThat is, Lancaster against York.family against his, it will prove to be the worst division ever to take place on earth. Prevent it from happening. Dont let it be so, or your children and your grandchildren will lament your actions!
+</T>
+<T>
+NORTHUMBERLAND
+Youve argued well, and in return were arresting you for capital treason. My Lord of Westminster, its your responsibility to keep him safe until he goes on trial. My lords, please grant the commons suit.
+</T>
+<T>
+HENRY OF BOLINGBROKE
+Bring Richard here, so that he can surrender in public. That way I can proceed without suspicion.
+</T>
+<T>
+DUKE OF YORK
+Ill escort him.
+</T>
+<T>
+HENRY BOLINGBROKE
+You lords who are here under arrest, arrange for someone to pledge that youll be here for your trial. I dont owe you anything, and I dont expect to receive any love from you.
+</T>
+<T>
+KING RICHARD II
+Alas, why does the king call for me when Ive only just resigned myself to give up the throne? Ive hardly had time to learn to act like a subject, who has to indulge the king and bow to him. Give me some time with my sorrow so that I can learn how to submit to another. I still remember how these men used to serve me. Didnt they once cry out, All hail! to me? But then so did Judas to Christ once. But Christ had eleven honest followers out of twelve. I dont have one out of twelve thousand. God save the king! Wont anyone say amen? Do I have to both give the blessing and affirm it? Well then, amen. God save the king! Even though I am not the king. And yet, Ill say amen in case heaven still considers me the king. Why have you sent for me?
+</T>
+<T>
+DUKE OF YORK
+You have to give up your country and your crown to Henry Bolingbroke of your own free will, even though youve already given it over through your defeat.
+</T>
+<T>
+KING RICHARD II
+Give me the crown. Here, cousin, take the crown. Here cousin. Ill put my hand on this side of it, and you put yours on the other. Now this golden crown looks like a well that has two buckets, and raising one causes the other to drop and fill up. One is empty and dances up in the air, while the other is down in the well and full of water. Im the bucket at the bottom, full of tears, and you are the one risen to the top.
+</T>
+<T>
+HENRY BOLINGBROKE
+I thought you were willing to give up the crown.
+</T>
+<T>
+KING RICHARD II
+Im willing to give up my crown, but my sadness is still mine. You can take my glory and my royal status, but I still rule over my grief.
+</T>
+<T>
+HENRY BOLINGBROKE
+Youll lose some of those worries when you give the crown to me.
+</T>
+<T>
+KING RICHARD II
+Just because you gain those worries doesnt mean I lose them. Im worried by their loss and by what has happened. Your concern is the new responsibilities you are taking on. Ill keep my worries even if I give away their cause, the crown.
+</T>
+<T>
+HENRY BOLINGBROKE
+Are you willing to give up the crown?
+</T>
+<T>
+KING RICHARD II
+Yes and no. No and yes, since I must not be anything. So, no, no, because I give it up to you. Now look, Ill make myself nothing. Ill give you this heavy crown from my head, and this scepter from my hand. Ill take the pride of being king out of my heart. My own tears will wash away the oil that made me king. My own hands will give away the crown. My own tongue will deny my sacred right to be king. My own breath will give up all oaths of allegiance made to me. I give up all the ritual and ceremony, all my homes, my income, and reject all the laws I enacted. May God pardon everyone who breaks his oath to me! May God keep them from breaking their oath to you! Let me grieve for nothing since I have nothing, and let you be pleased with everything since you have everything! May you live long in my place, and let me be buried soon! God save King Harry, former King Richard says, and let him have many happy days! What else is left?
+</T>
+<T>
+NORTHUMBERLAND
+Nothing but for you to read aloud all the accusations and crimes that you and your followers committed against the wellbeing and prosperity of this country. Once youve confessed, everyone can agree that youve been justly dethroned.
+</T>
+<T>
+KING RICHARD II
+Do I have to? Do I have to list out these charges? Dear Northumberland, if all your crimes were listed out, wouldnt you be ashamed to read them in front of such a distinguished group? If you did, youd find on the list the terrible crime of deposing a king and breaking an oath, crimes condemned by heaven. All of you who are watching me act out my miserable fate here pretend like PilateThe Roman governor of Judea who ordered the crucifixion of Jesus. He washed his hands to signify that the execution took place at the request of the Jews and he took no responsibility.Pilate that youve done nothing wrong and look at me with pity. But youve all played a part in bringing me to this state, and you cant deny your sin.
+</T>
+<T>
+NORTHUMBERLAND
+My lord, get on with it. Read the charges.
+</T>
+<T>
+KING RICHARD II
+My eyes are full of tears and I cant see. But even so, I can see a group of traitors in front of me. And if I look at myself, I see just as great a traitor. Ive agreed to give up my royal garments, made nobility common, and made a master a slave. Ive made a king a subject and made the richest the poorest.
+</T>
+<T>
+NORTHUMBERLAND
+My lord
+</T>
+<T>
+KING RICHARD II
+Im not your lord, you haughty, insulting man. Im no mans lord. I dont have a name or a title. The name I was baptized with is no longer mine. How sad it is that I am so old and I dont know what to call myself! If only I were a snowman, I could stand in front of the sun of Bolingbroke and let myself be melted! Good king, great king, but not a very good man. If my commands still have value in England, let me command someone to bring me a mirror, so I may see what I look like without any of my noble majesty.
+</T>
+<T>
+HENRY BOLINGBROKE
+Someone go and get a mirror.
+</T>
+<T>
+NORTHUMBERLAND
+Read this paper until the mirror arrives.
+</T>
+<T>
+KING RICHARD II
+Fiend, you are torturing me before I even get to hell!
+</T>
+<T>
+HENRY BOLINGBROKE
+Lord Northumberland, stop asking him to read it.
+</T>
+<T>
+NORTHUMBERLAND
+The House of Commons wont be satisfied.
+</T>
+<T>
+KING RICHARD II
+Theyll get what they want. Ill read it when I can look at my face and see the sins that appear there.
+</T>
+<T>
+Give me the mirror, and Ill read whats on my face. No deeper wrinkles yet? Could I endure so many sorrows without them appearing on my face? Oh flattering mirror, you are lying to me just like my followers did during happier times. Was this the same man who once kept ten thousand men in his employ? Was this the face that made men lower their gaze, as if they were looking into the sun? Was this the same face that endured so many challenges until it was defeated by Bolingbroke? Theres a fragile glory in this face, and its a face as fragile as glory.
+</T>
+<T>
+Look, there it is in a hundred pieces. Pay attention, king, to what this means. Sorrow has so quickly destroyed my face.
+</T>
+<T>
+HENRY BOLINGBROKE
+Its only the outward gloom of your sorrow that has destroyed the appearance of your face.
+</T>
+<T>
+KING RICHARD II
+Say that again. The outward gloom of my sorrow! Ha! Lets see. Its true that my grief is inside me and that anything I say or do to indicate my grief is just the outward reflection of whats inside. Thank you, king, for being so kind as to not only give me reason to grieve but also to teach me how to show my grief. Ill beg one favor, and then Ill go away and no longer bother you. Will you give it to me?
+</T>
+<T>
+HENRY BOLINGBROKE
+Whatever you want, fair cousin.
+</T>
+<T>
+KING RICHARD II
+Fair cousin? I must be mightier than a king, since when I was a king subjects flattered me, but now that Im a subject the king flatters me. Since Im so mighty, I dont need to beg.
+</T>
+<T>
+HENRY BOLINGBROKE
+Ask anyway.
+</T>
+<T>
+KING RICHARD II
+And will I have it?
+</T>
+<T>
+HENRY BOLINGBROKE
+You will.
+</T>
+<T>
+KING RICHARD II
+Then give me permission to go.
+</T>
+<T>
+HENRY BOLINGBROKE
+Where?
+</T>
+<T>
+KING RICHARD II
+Wherever you want, as long as it is away from you.
+</T>
+<T>
+HENRY BOLINGBROKE
+Go, some of you take him to the tower.
+</T>
+<T>
+KING RICHARD II
+Oh good! Take me? Youre all takers whove risen so mightily by my downfall.
+</T>
+<T>
+HENRY BOLINGBROKE
+Next Wednesday, Ill be crowned. Lords, prepare for it.
+</T>
+<T>
+ABBOT
+This is a sad scene weve witnessed.
+</T>
+<T>
+BISHOP OF CARLISLE
+The sadness is yet to come. Children who arent even born yet will feel the effects of this day like a thorn in their side.
+</T>
+<T>
+DUKE OF AUMERLE
+You holy men, isnt there a way we can get rid of this terrible ruler?
+</T>
+<T>
+ABBOT
+My lord, before I speak freely, you must swear to keep this a secret and also to promise that whatever plan I come up with is carried out. I see how unhappy you are. Come home with me for supper. Ill put forward a plot that will make us all happy.
+</T>
+<T>
+QUEEN
+The king will come this way as he is taken to the tower, where proud Bolingbroke condemned him to be held a prisoner. Lets rest here, if there is anywhere on this rebellious earth where I can rest.
+</T>
+<T>
+But wait, but look, or rather dont look or you will wither. No, but look up, and let pity wash over you and your tears of love bathe him. Ah, you, fallen in greatness like TroyThe city besieged and destroyed by the Greeks in the Trojan War.Troy, the epitome of honor. You look like a shell of King Richard and not King Richard himself. Oh, why should grief live in you, who are so honorable and royal, while triumph lives within Bolingbroke, a commoner?
+</T>
+<T>
+KING RICHARD II
+Fair lady, dont grieve as if I were already dead. Think of our past as a happy dream and that we have simply awoken to reality. Ive had to bow to necessity, and Ill stay that way until I die. Go quickly to France and join a convent. Our only hope is to become holy and be crowned in heaven, since our lives here have ended in such ruin.
+</T>
+<T>
+QUEEN
+What, has my Richard been changed and weakened in both body and mind? Has Bolingbroke overthrown your mind? Has he turned your heart? The dying lion claws at the earth, if nothing else, in his rage at being defeated. Will you act like a rebuked student and take your punishment meekly, kiss the cane that beats you, and return rage with humility, when you are a lion and king of beasts?
+</T>
+<T>
+KING RICHARD II
+A king of beasts, indeed. If only they werent beasts, I would still be a happy king of men. Good former queen, get ready to go to France. Think of me as dead, and say goodbye to me now as if I were on my deathbed. Through long winter nights sit by the fire with good people and let them tell you stories of sad times long ago. And before you say good night, tell them my sadder story and send them weeping to their beds. Even the firewood will sympathize and cry out their fires. And some will be so unhappy at the story of the overthrow of a rightful king that they will cover themselves in ashes.
+</T>
+<T>
+NORTHUMBERLAND
+My lord, Bolingbroke has changed his mind. You must go to PomfretA castle in Yorkshire.Pomfret instead of the tower. And madam, hes made arrangements for you to go to France as quickly as possible.
+</T>
+<T>
+KING RICHARD II
+Northumberland, Bolingbroke is mounting my throne on your ladder, but it wont take very long until you turn against each other. Youll think that even though he gives you half the kingdom, its not enough, since you helped him get it all. And hell think that you, who knows how to put undeserving kings in the throne, will know how to remove him from the stolen throne. Wicked mens love soon turns to fear, then to hate, and from there one or both of them will become dangerous and die a violent death.
+</T>
+<T>
+NORTHUMBERLAND
+My guilt is on my own headAn allusion to the Jews who said at Jesus trial, His death be upon our heads, and the heads of our children.guilt is on my own head, and thats an end to it. Say goodbye and separate, for you must depart shortly.
+</T>
+<T>
+KING RICHARD II
+Twice divorced! You force me to divorce my crown and now my wife. I cant undo with a kiss the vows that bound us together, because they were sealed with a kiss. Separate us, Northumberland. Ill go to the north, where cold and sickness afflict the region. And my wife goes to France, from where she came with celebration like the spring, and now is sent back like the dead of winter.
+</T>
+<T>
+QUEEN
+And do we have to be separated?
+</T>
+<T>
+KING RICHARD II
+Yes, my love, our hands and our hearts must be divided.
+</T>
+<T>
+QUEEN
+Banish us both, and send the king with me.
+</T>
+<T>
+NORTHUMBERLAND
+That might be an act of love, but its not a smart policy.
+</T>
+<T>
+QUEEN
+Then wherever he goes, let me follow him.
+</T>
+<T>
+KING RICHARD II
+So the two of us together will make one big sorrow. Weep for me in France, and Ill weep for you here. Its better for us to be far away than near, and never near each other again. Go measure the distance in sighs, and Ill do the same with groans.
+</T>
+<T>
+QUEEN
+So the farther I go, the longer I will moan.
+</T>
+<T>
+KING RICHARD II
+Since my way is shorter, Ill groan twice for every step I take and make the way longer with a sad heart. Come, lets cut short this talk of grief, because well have long enough to live with it. Lets kiss once and quiet our mouths and part without any more words. I give you my heart and take yours with me.
+</T>
+<T>
+QUEEN
+Give me my heart back. It will only kill your heart if I take it. So now that I have my own heart back, go, so I can try to kill my own with mourning.
+</T>
+<T>
+KING RICHARD II
+Were only encouraging sorrow with this delay. Once more, goodbye. My grief will say the rest.
+</T>
+<T>
+DUCHESS OF YORK
+My lord, you told me you would tell the rest of the story about our two relatives coming to London, until weeping made you stop.
+</T>
+<T>
+DUKE OF YORK
+Where did I stop the story?
+</T>
+<T>
+DUCHESS OF YORK
+At the sad place, my lord, when rude hands were throwing dust and rubbish on King Richards head from the upper windows.
+</T>
+<T>
+DUKE OF YORK
+Then, as I said, the duke, great Bolingbroke, got on a magnificent horse that seemed to know it was him and kept going in a slow and stately way. All around, people were calling, God save you, Bolingbroke! You would have thought the windows themselves were talking. Both old and young people were looking out on him with happy desire, and on the painted walls all around was written, Jesus protect you! Welcome, Bolingbroke! Meanwhile, he was turning his head, bare of any helmet and not even as tall as his horses neck, and said, I thank you, countrymen. And he continued along saying this as he went.
+</T>
+<T>
+DUCHESS OF YORK
+Alas, poor Richard? Where was he riding then?
+</T>
+<T>
+DUKE OF YORK
+People looked at him with the dissatisfaction they might have for a supporting actor who comes on stage after the star has left. They stared at him with contempt, and no one cried out, God save him! No one welcomed him back. Instead, they threw dust on his sacred head. He shook it off with gentle sorrow, while he both cried and smiled as he wrestled with grief and patience. For some reason God must have hardened everyones hearts, otherwise they would have melted so that even a barbarian would have pitied him. But heaven has ordered all this, and we must follow its will. We are Bolingbrokes subjects now, and I must forever acknowledge his rule and honor.
+</T>
+<T>
+DUCHESS OF YORK
+Here comes my son Aumerle.
+</T>
+<T>
+DUKE OF YORK
+He was Duke of Aumerle, but because he was Richards friend, he has lost his title. You must call him RutlandHe retains the title of Earl of Rutland.Rutland now. Ive sworn in Parliament that he will honor and obey our new king.
+</T>
+<T>
+DUCHESS OF YORK
+Welcome, my son. Who are the new favorites of the king?
+</T>
+<T>
+DUKE OF AUMERLE
+Madam, I dont know and I dont care. God knows I prefer just as much not to be one.
+</T>
+<T>
+DUKE OF YORK
+Well, hold yourself upright in this new regime, or youll die before your time. Whats the news from Oxford? Are the jousts and festivities happening?
+</T>
+<T>
+DUKE OF AUMERLE
+For all I know they are.
+</T>
+<T>
+DUKE OF YORK
+You will be there, I know.
+</T>
+<T>
+DUKE OF AUMERLE
+I mean to, unless God prevents it.
+</T>
+<T>
+DUKE OF YORK
+What is the note that I see in your shirt? Youve just gone white. Let me see what it says.
+</T>
+<T>
+DUKE OF AUMERLE
+My lord, its nothing.
+</T>
+<T>
+DUKE OF YORK
+Then it doesnt matter who sees it. I want to see it, and I will.
+</T>
+<T>
+DUKE OF AUMERLE
+I beg you to forgive me. Its a small matter, but one that I dont want to share for certain reasons.
+</T>
+<T>
+DUKE OF YORK
+I want to see it because of those reasons. I fear
+</T>
+<T>
+DUCHESS OF YORK
+What should you fear? Its just a bill for some festive clothing for the celebration.
+</T>
+<T>
+DUKE OF YORK
+A bill that hes wearing so close to himself! Wife, you are a fool. Boy, let me see what it says.
+</T>
+<T>
+DUKE OF AUMERLE
+I beg you, forgive me. I cant show you.
+</T>
+<T>
+DUKE OF YORK
+I will see it.
+</T>
+<T>
+Treason! Foul treason! Villain! Traitor! Slave!
+</T>
+<T>
+DUCHESS OF YORK
+What is the matter, my lord?
+</T>
+<T>
+DUKE OF YORK
+Hey, who is inside?
+</T>
+<T>
+Saddle my horse. God have mercy, what treachery is this!
+</T>
+<T>
+DUCHESS OF YORK
+Why, what is it, my lord?
+</T>
+<T>
+DUKE OF YORK
+Give me my boots and saddle my horse. Now, by my honor, my life, and my vow, I will accuse the villain.
+</T>
+<T>
+DUCHESS OF YORK
+Whats the matter?
+</T>
+<T>
+DUKE OF YORK
+Be quiet, foolish woman.
+</T>
+<T>
+DUCHESS OF YORK
+I wont be quiet. What is the matter, Aumerle?
+</T>
+<T>
+DUKE OF AUMERLE
+Good mother, dont worry. It is something that I have to answer with my own life.
+</T>
+<T>
+DUCHESS OF YORK
+Answer with your life!
+</T>
+<T>
+DUKE OF YORK
+Bring me my boots. I must go to the king.
+</T>
+<T>
+DUCHESS OF YORK
+Hit himShes instructing her son to hit the servant.him, Aumerle! Poor boy, you are distraught. Go away, villain! Dont come back.
+</T>
+<T>
+DUKE OF YORK
+Give me my boots, I say.
+</T>
+<T>
+DUCHESS OF YORK
+Why, York, what are you going to do? Wont you hide the crime of your own child? Do we have any other sons? Are we likely to have more? Arent I too old to have children? And are you going to take away my son in my old age, so I can no longer call myself a mother? Doesnt he look like you? Isnt he your son?
+</T>
+<T>
+DUKE OF YORK
+Foolish madwoman, will you try to cover up this terrible conspiracy? A dozen have sworn and signed here that theyll kill the king at Oxford.
+</T>
+<T>
+DUCHESS OF YORK
+He wont be one of them. Well keep him here, and then what will this affair have to do with him?
+</T>
+<T>
+DUKE OF YORK
+Get away, foolish woman! Even if he were my son twenty times over, I would accuse him.
+</T>
+<T>
+DUCHESS OF YORK
+If you had gone through labor with him as I had, you would be more sorrowful. But now I know what you think. You think that Ive cheated on you, and that hes a bastard and not your son. Sweet York, my sweet husband, dont think that way. He looks as much like you as anyone could. He doesnt look anything like me, or like anyone in my family, but I still love him.
+</T>
+<T>
+DUKE OF YORK
+Make way, you wild woman!
+</T>
+<T>
+DUCHESS OF YORK
+Go after him, Aumerle! Take his horse, get to the king before him, and beg forgiveness before he can even accuse you. Ill be right behind. Though I am old, I can ride as fast as York. Ill prostrate myself before the king until he has forgiven you. Go on!
+</T>
+<T>
+HENRY BOLINGBROKE
+Cant anyone tell me about my irresponsible son? Its been three months since I last saw him. Hes the only trouble in my life. I want him found. Ask in London, around the bars there. They say he goes to them every day with immoral friends, the kind of people who ambush passersby in the street and beat and rob the guards. My pleasure-seeking son thinks its a badge of honor to support such an awful crowd.
+</T>
+<T>
+HENRY PERCY
+My lord, two days ago I saw the prince and told him about the celebration at Oxford.
+</T>
+<T>
+HENRY BOLINGBROKE
+And what did he say?
+</T>
+<T>
+HENRY PERCY
+He said that he would go to the whorehouse and get a glove from the most promiscuous whore there to wear as a favor. And then he would win in the jousts.
+</T>
+<T>
+HENRY BOLINGBROKE
+Even if he is immoral and reckless, I still see some hope that his better qualities will emerge as he gets older. But who is approaching?
+</T>
+<T>
+DUKE OF AUMERLE
+Where is the king?
+</T>
+<T>
+HENRY BOLINGBROKE
+Why does my cousin stare and look about him so wildly?
+</T>
+<T>
+DUKE OF AUMERLE
+God save your grace! I beg to speak to you alone.
+</T>
+<T>
+HENRY BOLINGBROKE
+Go away, and leave us here alone.
+</T>
+<T>
+What is the matter with you now?
+</T>
+<T>
+DUKE OF AUMERLE
+May my knees remain on the ground and my tongue stay silent until you give me your forgiveness.
+</T>
+<T>
+HENRY BOLINGBROKE
+Is it an offense that you have committed or that you planned to commit? If it was planned only, no matter how terrible it is, Ill forgive you in order to win your love.
+</T>
+<T>
+DUKE OF AUMERLE
+Then let me lock the door so no one else can come in until Im finished telling you.
+</T>
+<T>
+HENRY BOLINGBROKE
+Go ahead.
+</T>
+<T>
+DUKE OF YORK
+(speaking from off-stage) My lord, beware. Watch yourself. You have a traitor with you.
+</T>
+<T>
+HENRY BOLINGBROKE
+Villain, Ill render you harmless.
+</T>
+<T>
+DUKE OF AUMERLE
+Hold off from your revenge. You dont have any reason to be afraid.
+</T>
+<T>
+DUKE OF YORK
+(speaking from off-stage) Open the door, my foolish king. Should I harshly criticize you out of love for you? Open the door, or Ill break it down.
+</T>
+<T>
+HENRY BOLINGBROKE
+What is the matter, uncle? Tell me. Catch your breath. Tell me how close the danger is so that I can prepare for it.
+</T>
+<T>
+DUKE OF YORK
+Read this, and youll know what treason made me hurry so fast that I can hardly speak.
+</T>
+<T>
+DUKE OF AUMERLE
+Remember, as you read, what you just promised. I already regret it. Dont read my name there. My heart doesnt match what my hand wrote.
+</T>
+<T>
+DUKE OF YORK
+Villain, your heart believed it before your hand wrote it. I took the paper from the traitor, king. He regrets it out of fear, not out of love for you. Dont pity him, because that pity will come back to harm you.
+</T>
+<T>
+HENRY BOLINGBROKE
+Oh, what a terrible and bold conspiracy! Oh, loyal father of a treacherous son! Your pure goodness overwhelms the wrongdoing of your foul son. Because you have proven yourself so loyal, Ill forgive your sons damnable crime.
+</T>
+<T>
+DUKE OF YORK
+So my virtue will pay for his vice, and as some bad sons spend all their fathers money, hell spend all my honor with his shame. My honor can only live if his dishonor dies, otherwise I will live in shame. By forgiving him you are killing me. If he lives, so does a traitor, and the loyal man is put to death.
+</T>
+<T>
+DUCHESS OF YORK
+(speaking from off-stage) Hello, my lord! For Gods sake, let me in.
+</T>
+<T>
+HENRY BOLINGBROKE
+What screeching beggar is there?
+</T>
+<T>
+DUCHESS OF YORK
+A woman and your aunt, great king. Its me. Please pity me. Open the door and talk to me. I, who have never begged before, am now a beggar.
+</T>
+<T>
+HENRY BOLINGBROKE
+Suddenly the scene has changed from something serious to The Beggar and the King.An old English ballad that was popular in Shakespeares time.The Beggar and the King. My dangerous cousin, let your mother in. I know that shes come to beg forgiveness for your terrible crime.
+</T>
+<T>
+DUKE OF YORK
+No matter who prays, if you forgive this crime, only more will follow. By cutting off this infected limb youll keep the rest of the body healthy. Its the only way to keep this sickness from spreading.
+</T>
+<T>
+DUCHESS OF YORK
+Oh, king, dont believe this hardhearted man! If he cant love his son, he is incapable of loving anyone.
+</T>
+<T>
+DUKE OF YORK
+You crazy woman, what are you doing here? Are you going to nurse another traitor with your old breasts?
+</T>
+<T>
+DUCHESS OF YORK
+Sweet York, be patient. Gentle king, listen to me.
+</T>
+<T>
+HENRY BOLINGBROKE
+Get up, good aunt.
+</T>
+<T>
+DUCHESS OF YORK
+Not yet, I beg you. Ill stay on my knees and never look up again until you give me joy by forgiving Rutland, my wayward son.
+</T>
+<T>
+DUKE OF AUMERLE
+Ill kneel, too, in support of my mothers prayers.
+</T>
+<T>
+DUKE OF YORK
+Ill kneel to oppose them. If you forgive him, youll only nurture more bad deeds.
+</T>
+<T>
+DUCHESS OF YORK
+Is he serious? Look at his face. Hes not crying. His prayers are a joke. His words come from his mouth, but ours come from our hearts. He prays softly, hoping to be denied. We pray with heart and soul and all our bodies. I know his old and tired knees would like to straighten up. Well stay kneeling till our knees grow roots in the ground. His prayers are hypocritical, while ours are full of true desire and integrity. Our prayers are more prayer-like than his, so let our prayers be rewarded as they ought to be, with mercy.
+</T>
+<T>
+HENRY BOLINGBROKE
+Good aunt, stand up.
+</T>
+<T>
+DUCHESS OF YORK
+No, dont say, Stand up. First say, I forgive, and then you can tell me to stand up. If I were your nanny, the first word I would teach you would be pardon. Ive never wanted to hear a word so badly. Say pardon, king. Let pity teach you how. The word is short and sweeter than it is short. Its the most fitting word for a king to say.
+</T>
+<T>
+DUKE OF YORK
+Say it in French, king. Say, Pardonne moi.Excuse me.Pardonne moi.
+</T>
+<T>
+DUCHESS OF YORK
+Do you try to destroy forgiveness by teaching that pardon? Oh, my sour husband, my hardhearted lord, youd make that word the opposite of what it means. Say pardon in English. We dont understand French. I can see it in your eyes, so let your tongue say it. Listen to the pity in your heart with your ears, which our laments and prayers pierce, so that pity may move you to say pardon.
+</T>
+<T>
+HENRY BOLINGBROKE
+Good aunt, stand up.
+</T>
+<T>
+DUCHESS OF YORK
+Im not begging to stand. All I want is a pardon.
+</T>
+<T>
+HENRY OF BOLINGBROKE
+I pardon him, as God will one day pardon me.
+</T>
+<T>
+DUCHESS OF YORK
+Oh, the happy view from a bended knee! But Im still fearful. Say it again. Saying it twice doesnt divide your pardon and weaken it but makes the one pardon stronger.
+</T>
+<T>
+HENRY BOLINGBROKE
+With all my heart, I pardon him.
+</T>
+<T>
+DUCHESS OF YORK
+You are a god on earth.
+</T>
+<T>
+HENRY BOLINGBROKE
+But my trusted brother-in-law, the abbot, and all the rest of that group of conspirators must be destroyed. Good uncle, send several men to Oxford or wherever these traitors are hiding. I swear that as long as they are alive, I will find them and capture them. Uncle, goodbye, and goodbye cousin, too. Your mother has prayed well and proved your loyalty.
+</T>
+<T>
+DUCHESS OF YORK
+Come, my son. Ill pray that God forces you to reform.
+</T>
+<T>
+EXTON
+Didnt you notice the king and hear what he said? Dont I have any friends who will rid me of this constant fear? Didnt he say that?
+</T>
+<T>
+SERVANT
+Those were his exact words.
+</T>
+<T>
+EXTON
+Twice he said, Dont I have any friends? didnt he?
+</T>
+<T>
+SERVANT
+He did.
+</T>
+<T>
+EXTON
+And when he said it, he looked at me intently, as if he were saying, I wish you were the man who would take this fear away from me. He means the king at Pomfret. Come, lets go. I am the kings friend, and Ill get rid him of his enemy.
+</T>
+<T>
+KING RICHARD II
+I have been thinking about how I might compare this prison I live in to the world. But because the world is full of people and Im the only one here, I cannot do it. Yet Ill work it out. My brain and my soul will produce enough thoughts to fill this little world, like people in the outside world and just as discontented. The better kind of thought, like the thought of divine things, is mixed with doubts and compares passages from scripture, like Come, little ones and It is as hard for a rich man to enter heaven as for a camel to pass through a needles eye.Both passages involve the easeor difficultyof reaching heaven.Come, little ones and It is as hard for a rich man to enter heaven as for a camel to pass through a needles eye. Ambitious thoughts plot unlikely miracles, such as digging through the walls of my cell by hand, and these thoughts die in their prime because they are futile. Contented thoughts tell themselves that they arent the first to be a slave to fortune, and they wont be the last. Theyre like beggars in the stocks who take comfort in the fact that others have already sat there and more will sit there. So I host many people inside my own head, and none are content. Sometimes Im king, and then some treason makes me wish I was a beggar, and so then I am a beggar. Then terrible poverty persuades me that I was better off as king, so then I am king again. And then I think that I have been dethroned by Bolingbroke, and suddenly Im nothing. But whatever I am, just like all men, Ill never be happy until I am dead and nothing at all. Do I hear music?
+</T>
+<T>
+Ha! Keep time. How awful music is when they dont keep time and the notes proportions are ruined. Its the same thing in mens lives. And here I can chastise the poor time kept on an out-of-tune instrument, when in the harmony of my government and life I couldnt hear my own time breaking. I wasted time then, and now time wastes me. Time has made me his clock: my thoughts have become minutes that turn the clock hands in my eyes, and my finger is the dial that wipes away my tears. Now, sir, my groans are like the sounds that toll the hours, and theyre made by striking my heart, which is the bell. Thus my sighs, tears, and groans signify minutes and hours. Meanwhile, my time speeds on as Bolingbroke has his joy, and Im left here playing the clock for him. This music makes me crazy. Let it stop. It might make madmen sane, but for me, it makes a wise man mad. Yet bless the heart that plays it for me! Its a sign of love, and I am seldom given love in this hateful world.
+</T>
+<T>
+GROOM
+Hello, royal prince!
+</T>
+<T>
+KING RICHARD II
+Thanks, my noble peer. You overvalue me, for we are equals and worth the same. Who are you, and how have you come here? My only visitor is that man who keeps my misfortune alive by bringing me food.
+</T>
+<T>
+GROOM
+I was a poor groom in your stable, king, when you were king. I was traveling toward York, and after a great deal of trouble I got permission to see my former masters face. Oh, how it saddened me when I saw Bolingbroke ride into London that coronation day on Barbary, the horse youve ridden so often and which Id so often made ready for you!
+</T>
+<T>
+KING RICHARD II
+Did he ride on Barbary? Tell me, dear friend, how did the horse do?
+</T>
+<T>
+GROOM
+He pranced as proudly as if he scorned the earth.
+</T>
+<T>
+KING RICHARD II
+So proud to have Bolingbroke on his back! He had eaten bread from my hand, and I made him proud by patting his neck. Shouldnt he stumble? Shouldnt he fall down and break the neck of the man that stole my throne? I forgive you, horse! Why should I curse you, since you were created to fear man and carry him. I was not made like a horse, but I carry a burden like a donkey, and Im kicked and exhausted from carrying rough-riding Bolingbroke.
+</T>
+<T>
+KEEPER
+Fellow, go away. You cant stay any longer.
+</T>
+<T>
+KING RICHARD II
+If you love me, you should go.
+</T>
+<T>
+GROOM
+I dont dare say what my heart feels.
+</T>
+<T>
+KEEPER
+My lord, will you eat?
+</T>
+<T>
+KING RICHARD II
+Taste it first, as you usually do.
+</T>
+<T>
+KEEPER
+My lord, I dont dare. Sir Pierce of Exton, who just arrived from the king, ordered me not to.
+</T>
+<T>
+KING RICHARD II
+May the devil take Henry of Lancaster and you! I am tired of being patient.
+</T>
+<T>
+KEEPER
+Help, help, help!
+</T>
+<T>
+KING RICHARD II
+Do you mean to kill me in this despicable assault? Villain, Ill kill you with your own weapon.
+</T>
+<T>
+Go to hell.
+</T>
+<T>
+Youll burn in hell forever for killing me. Exton, youve stained the kings land with the kings own blood. Arise my soul! Your place is in heaven, while my body sinks down and dies.
+</T>
+<T>
+EXTON
+He is as full of courage as of royal blood, which Ive spilled here. I wish the deed were good! The devil, who told me that I did well, tells me now that Ill go to hell. Ill take this dead king to the living king and bury the others here.
+</T>
+<T>
+HENRY BOLINGBROKE
+Kind uncle York, the last news I heard is that the rebels have burned down the town of Cirencester in Gloucestershire. But I havent heard if theyve been captured or killed.
+</T>
+<T>
+Welcome, my lord. Whats the news?
+</T>
+<T>
+NORTHUMBERLAND
+First, I wish you happiness. Next, Ive sent the heads of Oxford, Salisbury, Blunt, and Kent to London. This paper tells how they were taken.
+</T>
+<T>
+HENRY BOLINGBROKE
+I thank you, gentle Percy, for your effort. Ill reward you well, as you deserve.
+</T>
+<T>
+LORD FITZWATER
+My lord, Ive sent the heads of Brocas and Sir Bennet Seely from Oxford to London. They were two of the traitors who wanted to overthrow you at Oxford.
+</T>
+<T>
+HENRY BOLINGBROKE
+I wont forget your efforts, Fitzwater. I know that you deserve your noble title.
+</T>
+<T>
+HENRY PERCY
+The Abbot of Westminster, who conspired against you, has died. But here is Carlisle, alive, to hear your judgment on him.
+</T>
+<T>
+HENRY BOLINGBROKE
+Carlisle, here is your sentence: pick some secret place where you can live out your life in peace and die without violence. Even though youve always been my enemy, Ive seen that you are a man of great honor.
+</T>
+<T>
+EXTON
+Great king, here is your greatest fear now buried inside this coffin. In it lies without breathing your greatest enemy, Richard of Bordeaux, brought here by me.
+</T>
+<T>
+HENRY BOLINGBROKE
+Exton, I dont thank you. By killing him, youve done a disgrace to my name and to our country.
+</T>
+<T>
+EXTON
+I did this on your own command.
+</T>
+<T>
+HENRY BOLINGBROKE
+Those who need to poison someone still dont love poison. Even though I wanted him dead, I hate the man who murdered him, and now I love the man who has been murdered. You can take your guilty conscience as payment. I wont give you any praise or royal favors. Go wander the night like CainIn the Book of Genesis, Cain kills his brother, Abel, and, as punishment, God orders him to wander the earth for the rest of his life. Cain is considered the worlds first murderer.Cain, and dont show your face here again.
+</T>
+<T>
+Lords, I protest. My soul is full of sorrow that blood has been shed to make me more secure. Come, mourn with me and dress yourselves in black immediately. Ill travel to the Holy Land to wash away this blood from my guilty hands. March sadly behind me, and weep for this untimely death.
+</T>

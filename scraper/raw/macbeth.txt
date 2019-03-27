@@ -1,0 +1,2754 @@
+<T>
+FIRST WITCH
+When should the three of us meet again? Will it be in thunder, lightning, or rain?
+</T>
+<T>
+SECOND WITCH
+Well meet when the noise of the battle is over, when one side has won and the other side has lost.
+</T>
+<T>
+THIRD WITCH
+That will happen before sunset.
+</T>
+<T>
+FIRST WITCH
+Where should we meet?
+</T>
+<T>
+SECOND WITCH
+Lets do it in the open field.
+</T>
+<T>
+THIRD WITCH
+Well meet Macbeth there.
+</T>
+<T>
+FIRST WITCH
+(calling to her cat) Im coming, Graymalkin!
+</T>
+<T>
+SECOND WITCH
+My toad, Paddock, calls me.
+</T>
+<T>
+THIRD WITCH
+(to her spirit) Ill be right here!
+</T>
+<T>
+ALL
+Fair is foul, and foul is fair. Lets fly away through the fog and filthy air.
+</T>
+<T>
+DUNCAN
+Who is this bloody man? Judging from his appearance, I bet he can tell us the latest news about the revolt.
+</T>
+<T>
+MALCOLM
+This is the brave sergeant who fought to keep me from being captured. Hail, brave friend! Tell the king what was happening in the battle when you left it.
+</T>
+<T>
+CAPTAIN
+For a while you couldnt tell who would win. The armies were like two exhausted swimmers clinging to each other and struggling in the water, unable to move. The villainous rebel Macdonwald was supported by foot soldiers and horsemen from Ireland and the Hebrides, and Lady Luck was with him, smiling cruelly at his enemies as if she were his whore. But Luck and Macdonwald together werent strong enough. Brave Macbeth, laughing at Luck, chopped his way through to Macdonwald, who didnt even have time to say good-bye or shake hands before Macbeth split him open from his navel to his jawbone and stuck his head on our castle walls.
+</T>
+<T>
+DUNCAN
+My brave relative! What a worthy man!
+</T>
+<T>
+CAPTAIN
+But in the same way that violent storms always come just as spring appears, our success against Macdonwald created new problems for us. Listen to this, King: as soon as we sent those Irish soldiers running for cover, the Norwegian king saw his chance to attack us with fresh troops and shiny weapons.
+</T>
+<T>
+DUNCAN
+Didnt this frighten our captains, Macbeth and Banquo?
+</T>
+<T>
+CAPTAIN
+The new challenge scared them about as much as sparrows frighten eagles, or rabbits frighten a lion. To tell you the truth, they fought the new enemy with twice as much force as before; they were like cannons loaded with double ammunition. Maybe they wanted to take a bath in their enemies' blood, or make that battlefield as infamous as Golgotha, where Christ was crucified, I dont know. But I feel weak. My wounds must be tended to.
+</T>
+<T>
+DUNCAN
+Your words, like your wounds, bring you honor. Take him to the surgeons.
+</T>
+<T>
+Who is this?
+</T>
+<T>
+MALCOLM
+The worthy ThaneThane is a Scottish title of nobility.Thane of Ross.
+</T>
+<T>
+LENNOX
+His eyes seem frantic! He looks like someone with a strange tale to tell.
+</T>
+<T>
+ROSS
+God save the king!
+</T>
+<T>
+DUNCAN
+Where have you come from, worthy thane?
+</T>
+<T>
+ROSS
+Great king, Ive come from Fife, where the Norwegian flag flies, mocking our country and frightening our people. Leading an enormous army and assisted by that disloyal traitor, the thane of Cawdor, the king of Norway began a bloody battle. But outfitted in his battle-weathered armor, Macbeth met the Norwegian attacks shot for shot, as if he were the goddess of wars husband. Finally he broke the enemys spirit, and we were victorious.
+</T>
+<T>
+DUNCAN
+Great happiness!
+</T>
+<T>
+ROSS
+So now Sweno, the Norwegian king, wants a treaty. We told him we wouldnt even let him bury his men until he retreated to Saint Colmes Inch and paid us ten thousand dollars.
+</T>
+<T>
+DUNCAN
+The thane of Cawdor will never again betray me. Go announce that he will be executed, and tell Macbeth that Cawdors titles will be given to him.
+</T>
+<T>
+ROSS
+Ill get it done right away.
+</T>
+<T>
+DUNCAN
+The thane of Cawdor has lost what the noble Macbeth has won.
+</T>
+<T>
+FIRST WITCH
+Where have you been, sister?
+</T>
+<T>
+SECOND WITCH
+Killing pigs.
+</T>
+<T>
+THIRD WITCH
+And you, sister?
+</T>
+<T>
+FIRST WITCH
+A sailors wife had chestnuts in her lap and munched away at them. Give me one, I said. Get away from me, witch! the fat woman cried. Her husband has sailed off to Aleppo as master of a ship called the Tiger. Ill sail there in a kitchen strainer, turn myself into a tailless rat, and do things to him
+</T>
+<T>
+SECOND WITCH
+Ill give you some wind to sail there.
+</T>
+<T>
+FIRST WITCH
+How nice of you!
+</T>
+<T>
+THIRD WITCH
+And I will give you some more.
+</T>
+<T>
+FIRST WITCH
+I already have control of all the other winds, along with the ports from which they blow and every direction on the sailors compass in which they can go. Ill drain the life out of him. He wont catch a wink of sleep, either at night or during the day. He will live as a cursed man. For eighty-one weeks he will waste away in agony.
+</T>
+<T>
+Although I cant make his ship disappear, I can still make his journey miserable. Look what I have here.
+</T>
+<T>
+SECOND WITCH
+Show me, show me.
+</T>
+<T>
+FIRST WITCH
+Here I have the thumb of a pilot who was drowned while trying to return home.
+</T>
+<T>
+THIRD WITCH
+A drum, a drum! Macbeth has come.
+</T>
+<T>
+ALL
+(dancing together in a circle) We weird sisters, hand in hand, swift travelers over the sea and land, dance around and around like so. Three times to yours, and three times to mine, and three times again, to add up to nine. Enough! The charm is ready.
+</T>
+<T>
+MACBETH
+(to BANQUO) I have never seen a day that was so good and bad at the same time.
+</T>
+<T>
+BANQUO
+How far is it supposed to be to Forres? (he sees the WITCHES) What are these creatures? Theyre so withered-looking and crazily dressed. They dont look like they belong on this planet, but I see them standing here on Earth. (to the WITCHES) Are you alive? Can you answer questions? You seem to understand me, because each of you has put a gruesome finger to her skinny lips. You look like women, but your beards keep me from believing that you really are.
+</T>
+<T>
+MACBETH
+Speak, if you can. What kind of creatures are you?
+</T>
+<T>
+FIRST WITCH
+All hail, Macbeth! Hail to you, thane of Glamis!
+</T>
+<T>
+SECOND WITCH
+All hail, Macbeth! Hail to you, thane of Cawdor!
+</T>
+<T>
+THIRD WITCH
+All hail, Macbeth, the future king!
+</T>
+<T>
+BANQUO
+My dear Macbeth, why do you look so startled and afraid of these nice things theyre saying? (to the WITCHES) Tell me honestly, are you illusions, or are you really what you seem to be? Youve greeted my noble friend with honors and talk of a future so glorious that youve made him speechless. But you dont say anything to me. If you can see the future and say how things will turn out, tell me. I dont want your favors and Im not afraid of your hatred.
+</T>
+<T>
+FIRST WITCH
+Hail!
+</T>
+<T>
+SECOND WITCH
+Hail!
+</T>
+<T>
+THIRD WITCH
+Hail!
+</T>
+<T>
+FIRST WITCH
+You are lesser than Macbeth but also greater.
+</T>
+<T>
+SECOND WITCH
+You are not as happy as Macbeth, yet much happier.
+</T>
+<T>
+THIRD WITCH
+Your descendants will be kings, even though you will not be one. So all hail, Macbeth and Banquo!
+</T>
+<T>
+FIRST WITCH
+Banquo and Macbeth, all hail!
+</T>
+<T>
+MACBETH
+Wait! You only told me part of what I want to know. Stay and tell me more. I already know I am the thane of Glamis because I inherited the position when my father, Sinel, died. But how can you call me the thane of Cawdor? The thane of Cawdor is alive, and hes a rich and powerful man. And for me to be the king is completely impossible, just as its impossible for me to be thane of Cawdor. Tell me where you learned these strange things, and why you stop us at this desolate place with this prophetic greeting? Speak, I command you.
+</T>
+<T>
+BANQUO
+The earth has bubbles, just like the water, and these creatures must have come from a bubble in the earth. Where did they disappear to?
+</T>
+<T>
+MACBETH
+Into thin air. Their bodies melted like breath in the wind. I wish they had stayed!
+</T>
+<T>
+BANQUO
+Were these things were talking about really here? Or are we both on drugs?
+</T>
+<T>
+MACBETH
+Your children will be kings.
+</T>
+<T>
+BANQUO
+You will be the king.
+</T>
+<T>
+MACBETH
+And thane of Cawdor too. Isnt that what they said?
+</T>
+<T>
+BANQUO
+Thats exactly what they said. Whos this?
+</T>
+<T>
+ROSS
+The king was happy to hear of your success, Macbeth. Whenever he hears the story of your exploits in the fight against the rebels, he becomes so amazed it makes him speechless. He was also shocked to learn that on the same day you fought the rebels you also fought against the army of Norway, and that you werent the least bit afraid of death, even as you killed everyone around you. Messenger after messenger delivered news of your bravery to the king with praise for how you defended his country.
+</T>
+<T>
+ANGUS
+The king sent us to give you his thanks and to bring you to him. Your real reward wont come from us.
+</T>
+<T>
+ROSS
+And to give you a taste of whats in store for you, he told me to call you the thane of Cawdor. So hail, thane of Cawdor! That title belongs to you now.
+</T>
+<T>
+BANQUO
+(shocked) Can the devil tell the truth?
+</T>
+<T>
+MACBETH
+The thane of Cawdor is still alive. Why are you giving me his title?
+</T>
+<T>
+ANGUS
+The man who was the thane of Cawdor is still alive, but hes been sentenced to death, and he deserves to die. I dont know whether he fought on Norways side, or if he secretly aided the rebels, or if he fought with both of our enemies. But his treason, which has been proven, and to which hes confessed, means hes finished.
+</T>
+<T>
+MACBETH
+(to himself) Its just like they saidnow Im the thane of Glamis and the thane of Cawdor. And the best part of what they predicted is still to come. (to ROSS and ANGUS) Thank you for the news. (speaking so that only BANQUO can hear) Arent you beginning to hope your children will be kings? After all, the witches who said I was thane of Cawdor promised them nothing less.
+</T>
+<T>
+BANQUO
+If you trust what they say, you might be on your way to becoming king, as well as thane of Cawdor. But this whole thing is strange. The agents of evil often tell us part of the truth in order to lead us to our destruction. They earn our trust by telling us the truth about little things, but then they betray us when it will damage us the most. (to ROSS and ANGUS) Gentlemen, Id like to have a word with you, please.
+</T>
+<T>
+MACBETH
+(to himself) So far the witches have told me two things that came true, so it seems like this will culminate in my becoming king. (to ROSS and ANGUS) Thank you, gentlemen. (to himself) This supernatural temptation doesnt seem like it can be a bad thing, but it cant be good either. If its a bad thing, why was I promised a promotion that turned out to be true? Now Im the thane of Cawdor, just like they said I would be. But if this is a good thing, why do I find myself thinking about murdering King Duncan, a thought so horrifying that it makes my hair stand on end and my heart pound inside my chest? The dangers that actually threaten me here and now frighten me less than the horrible things Im imagining.
+</T>
+<T>
+Even though its just a fantasy so far, the mere thought of committing murder shakes me up so much that I hardly know who I am anymore. My ability to act is stifled by my thoughts and speculations, and the only things that matter to me are things that dont really exist.
+</T>
+<T>
+BANQUO
+Look at Macbethhes in a daze.
+</T>
+<T>
+MACBETH
+(to himself) If fate wants me to be king, perhaps fate will just make it happen and I wont have to do anything.
+</T>
+<T>
+BANQUO
+(to ROSS and ANGUS) Macbeth is not used to his new titles. Theyre like new clothes: they dont fit until you break them in over time.
+</T>
+<T>
+MACBETH
+(to himself) One way or another, whats going to happen is going to happen.
+</T>
+<T>
+BANQUO
+Good Macbeth, were ready when you are.
+</T>
+<T>
+MACBETH
+I beg your pardon; I was distracted. Kind gentlemen, I wont forget the trouble youve taken for me whenever I think of this day. Lets go to the king. (speaking so that only BANQUO can hear) Think about what happened today, and when weve both had time to consider things, lets talk.
+</T>
+<T>
+BANQUO
+Absolutely.
+</T>
+<T>
+MACBETH
+Until then, weve said enough. (to ROSS and ANGUS) Lets go, my friends.
+</T>
+<T>
+DUNCAN
+Has the former thane of Cawdor been executed yet? Havent the people in charge of that come back?
+</T>
+<T>
+MALCOLM
+My king, they havent come back yet. But I spoke with someone who saw Cawdor die, and he said that Cawdor openly confessed his treasons, begged your highnesss forgiveness, and repented deeply. He never did anything in his whole life that looked as good as the way he died. He died like someone who had practiced how to toss away his most cherished possession as if it were a worthless a piece of garbage.
+</T>
+<T>
+DUNCAN
+Theres no way to read a mans mind by looking at his face. I trusted Cawdor completely.
+</T>
+<T>
+(to MACBETH) My worthiest kinsman! Just this moment I was feeling guilty for not having thanked you enough. You have done so much for me so fast that it has been impossible to reward you properly. If you deserved less, then perhaps my payment would have matched your deeds! All I can say is that I owe you more than I can ever repay.
+</T>
+<T>
+MACBETH
+The opportunity to serve you is its own reward. Your only duty, your highness, is to accept what we owe you. Our duty to you and your state is like the duty of children to their father or servants to their master. By doing everything we can to protect you, were only doing what we should.
+</T>
+<T>
+DUNCAN
+You are welcome here. By making you thane of Cawdor, I have planted the seeds of a great career for you, and I will make sure they grow. (to BANQUO) Noble Banquo, you deserve no less than Macbeth, and everyone should know it. Let me bring you close to me and give you the benefit of my love and good will.
+</T>
+<T>
+BANQUO
+Then if I accomplish anything great, it will be a credit to you.
+</T>
+<T>
+DUNCAN
+My joy is so overwhelming it brings tears to my eyes. My sons, relatives, lords, and all those closest to me, I want you to witness that I will bestow my kingdom on my eldest son, Malcolm. Today I name him the prince of Cumberland. But Malcolm isnt going to be alone in receiving honorstitles of nobility will shine like stars on all of you who deserve them. (to MACBETH) And now, lets go to your castle at Inverness, where I will become even more obliged to you because of your hospitality.
+</T>
+<T>
+MACBETH
+Im not happy unless I can be working for you. I will go ahead and bring my wife the good news that you are coming. With that, Ill be off.
+</T>
+<T>
+DUNCAN
+My worthy Cawdor!
+</T>
+<T>
+MACBETH
+(to himself) Malcolm is now the prince of Cumberland! To become king myself, Im either going to have to step over him or give up, because hes in my way. Stars, hide your light so no one can see the terrible desires within me. I wont let my eye look at what my hand is doing, but in the end Im still going to do that thing Id be horrified to see.
+</T>
+<T>
+DUNCAN
+(to BANQUO, in the middle of a conversation we havent heard) Youre right, Banquo. Macbeth is every bit as valiant as you say, and I am satisfied with these praises of him. Lets follow after him, now that he has gone ahead to prepare our welcome. He is a man without equal.
+</T>
+<T>
+LADY MACBETH
+The witches met me on the day of my victory in battle, and I have since learned that they have supernatural knowledge. When I tried desperately to question them further, they vanished into thin air. While I stood spellbound, messengers from the king arrived and greeted me as the thane of Cawdor, which is precisely how the weird sisters had saluted me before calling me the future king!' I thought I should tell you this news, my dearest partner in greatness, so that you could rejoice along with me about the greatness that is promised to us. Keep it secret, and farewell.
+</T>
+<T>
+(she looks up from the letter) You are thane of Glamis and Cawdor, and youre going to be king, just like you were promised. But I worry about whether or not you have what it takes to seize the crown. You are too full of the milk of human kindness to strike aggressively at your first opportunity. You want to be powerful, and you dont lack ambition, but you dont have the mean streak that these things call for. The things you want to do, you want to do like a good man. You dont want to cheat, yet you want what doesnt belong to you. Theres something you want, but youre afraid to do what you need to do to get it. You want it to be done for you. Hurry home so I can persuade you and talk you out of whatevers keeping you from going after the crown. After all, fate and witchcraft both seem to want you to be king.
+</T>
+<T>
+What news do you bring?
+</T>
+<T>
+SERVANT
+The king is coming here tonight.
+</T>
+<T>
+LADY MACBETH
+You must be crazy to say that! Isnt Macbeth with the king, and wouldnt Macbeth have told me in advance so I could prepare, if the king were really coming?
+</T>
+<T>
+SERVANT
+Im sorry, but its the truth. Macbeth is coming. He sent a messenger ahead of him who arrived here so out of breath that he could barely speak his message.
+</T>
+<T>
+LADY MACBETH
+Take good care of him. He brings great news.
+</T>
+<T>
+So the messenger is short of breath, like a hoarse raven, as he announces Duncans entrance into my fortress, where he will die. Come, you spirits that asist murderous thoughts, make me less like a woman and more like a man, and fill me from head to toe with deadly cruelty! Thicken my blood and clog up my veins so I wont feel remorse, so that no human compassion can stop my evil plan or prevent me from accomplishing it! Come to my female breast and turn my mothers milk into poisonous acid, you murdering demons, wherever you hide, invisible and waiting to do evil! Come, thick night, and cover the world in the darkest smoke of hell, so that my sharp knife cant see the wound it cuts open, and so heaven cant peep through the darkness and cry, No! Stop!
+</T>
+<T>
+Great thane of Glamis! Worthy thane of Cawdor! Youll soon be greater than both those titles, once you become king! Your letter has transported me from the present moment, when who knows what will happen, and has made me feel like the future is already here.
+</T>
+<T>
+MACBETH
+My dearest love, Duncan is coming here tonight.
+</T>
+<T>
+LADY MACBETH
+And when is he leaving?
+</T>
+<T>
+MACBETH
+He plans to leave tomorrow.
+</T>
+<T>
+LADY MACBETH
+That day will never come. Your face betrays strange feelings, my lord, and people will be able to read it like a book. In order to deceive them, you must appear the way they expect you to look. Greet the king with a welcoming expression in your eyes, your hands, and your words. You should look like an innocent flower, but be like the snake that hides underneath the flower. The king is coming, and hes got to be taken care of. Let me handle tonights preparations, because tonight will change every night and day for the rest of our lives.
+</T>
+<T>
+MACBETH
+We will speak about this further.
+</T>
+<T>
+LADY MACBETH
+You should project a peaceful mood, because if you look troubled, you will arouse suspicion. Leave all the rest to me.
+</T>
+<T>
+DUNCAN
+This castle is in a pleasant place. The air is sweet and appeals to my refined senses.
+</T>
+<T>
+BANQUO
+The fact that this summer bird, the house martin, builds his nests here proves how inviting the breezes are. There isnt a single protrusion in the castle walls where these birds havent built their hanging nests to sleep and breed. Ive noticed that they always like to settle and mate where the air is the nicest.
+</T>
+<T>
+DUNCAN
+Look, here comes our honored hostess! Sometimes the love my subjects bring me is inconvenient, but I still accept it as love. In doing so, Im teaching you to thank me for the incovenience Im causing you by being here, because it comes from my love to you.
+</T>
+<T>
+LADY MACBETH
+Everything were doing for you, even if it were doubled and then doubled again, is nothing compared to the honors you have brought to our family. We gladly welcome you as our guests, with gratitude for both the honors youve given us before and the new honors youve just given us.
+</T>
+<T>
+DUNCAN
+Where is Macbeth, the thane of Cawdor? We followed closely after him. I hoped to arrive here before him, but he rides swiftly. And his great love, which is as sharp as his spur, helped him beat us here. Fair and noble hostess, we are your guests tonight.
+</T>
+<T>
+LADY MACBETH
+We are your servants, your highness, and as always our house and everything in it is at your disposal, for after all, we keep it in your trust and were glad to give you back whats yours.
+</T>
+<T>
+DUNCAN
+Give me your hand. Bring me to my host, Macbeth. I love him dearly, and I shall continue to favor him. Whenever youre ready, hostess.
+</T>
+<T>
+MACBETH
+If this business would really be finished when I did the deed, then it would be best to get it over with quickly. If the assassination of the king could work like a net, sweeping up everything and preventing any consequences, then the murder would be the be-all and end-all of the whole affair, and I would gladly put my soul and the afterlife at risk to do it. But for crimes like these there are still punishments in this world. By committing violent crimes we only teach other people to commit violence, and the violence of our students will come back to plague us teachers. Justice, being equal to everyone, forces us to drink from the poisoned cup that we serve to others. The king trusts me in two ways. First of all, I am his kinsman and his subject, so I should always try to protect him. Second, I am his host, so I should be closing the door in his murderers face, not trying to murder him myself. Besides, Duncan has been such a humble leader, so free of corruption, that his virtuous legacy will speak for him when he dies, as if angels were playing trumpets against the injustice of his murder. Pity, like an innocent newborn baby, will ride the wind with winged angels on invisible horses through the air to spread news of the horrible deed to everyone everywhere. People will shed a flood of tears that will drown the wind like a horrible downpour of rain. I cant spur myself to action. The only thing motivating me is ambition, which makes people rush ahead of themselves toward disaster.
+</T>
+<T>
+What news do you have?
+</T>
+<T>
+LADY MACBETH
+He has almost finished dinner. Why did you leave the dining room?
+</T>
+<T>
+MACBETH
+Has he asked for me?
+</T>
+<T>
+LADY MACBETH
+Dont you know he has?
+</T>
+<T>
+MACBETH
+We cant go on with this plan. The king has just honored me, and I have earned the good opinion of all sorts of people. I want to enjoy these honors while the feeling is fresh and not throw them away so soon.
+</T>
+<T>
+LADY MACBETH
+Were you drunk when you seemed so hopeful before? Have you gone to sleep and woken up green and pale in fear of this idea? From now on this is what Ill think of your love. Are you afraid to act the way you desire? Will you take the crown you want so badly, or will you live as a coward, always saying I cant after you say I want to? Youre like the poor cat in the old story.
+</T>
+<T>
+MACBETH
+Please, stop! I dare to do only what is proper for a man to do. He who dares to do more is not a man at all.
+</T>
+<T>
+LADY MACBETH
+If you werent a man, then what kind of animal were you when you first told me you wanted to do this? When you dared to do it, thats when you were a man. And if you go one step further by doing what you dared to do before, youll be that much more the man. The time and place werent right before, but you would have gone ahead with the murder anyhow. Now the time and place are just right, but theyre almost too good for you. I have suckled a baby, and I know how sweet it is to love the baby at my breast. But even as the baby was smiling up at me, I would have plucked my nipple out of its mouth and smashed its brains out against a wall if I had sworn to do that the same way you have sworn to do this.
+</T>
+<T>
+MACBETH
+But if we fail
+</T>
+<T>
+LADY MACBETH
+We, fail? If you get your courage up, we cant fail. When Duncan is asleepthe days hard journey has definitely made him tiredIll get his two servants so drunk that their memory will go up in smoke through the chimneys of their brains. When they lie asleep like pigs, so drunk theyll be dead to the world, what wont you and I be able to do to the unguarded Duncan? And whatever we do, we can lay all the blame on the drunken servants.
+</T>
+<T>
+MACBETH
+May you only give birth to male children, because your fearless spirit should create nothing that isnt masculine. Once we have covered the two servants with blood, and used their daggers to kill, wont people believe that they were the culprits?
+</T>
+<T>
+LADY MACBETH
+Who could think it happened any other way? Well be grieving loudly when we hear that Duncan has died.
+</T>
+<T>
+MACBETH
+Now Im decided, and I will exert every muscle in my body to commit this crime. Go now, and pretend to be a friendly hostess. Hide with a false pleasant face what you know in your false, evil heart.
+</T>
+<T>
+BANQUO
+Hows the night going, boy?
+</T>
+<T>
+FLEANCE
+The moon has set. The clock hasnt struck yet.
+</T>
+<T>
+BANQUO
+The moon sets at twelve, right?
+</T>
+<T>
+FLEANCE
+I think its later than that, sir.
+</T>
+<T>
+BANQUO
+Here, take my sword. The heavens are being stingy with their light. Take this, too. Im tired and feeling heavy, but I cant sleep. Merciful powers, keep away the nightmares that plague me when I rest!
+</T>
+<T>
+Give me my sword. Whos there?
+</T>
+<T>
+MACBETH
+A friend.
+</T>
+<T>
+BANQUO
+Youre not asleep yet, sir? The kings in bed. Hes been in an unusually good mood and has granted many gifts to your household and servants. This diamond is a present from him to your wife for her boundless hospitality. (he hands MACBETH a diamond)
+</T>
+<T>
+MACBETH
+Because we were unprepared for the kings visit, wewerent able to entertain him as well as we would have wanted to.
+</T>
+<T>
+BANQUO
+Everythings OK. I had a dream last night about the three witches. At least part of what they said about you was true.
+</T>
+<T>
+MACBETH
+I dont think about them now. But when we have an hour to spare we can talk more about it, if youre willing.
+</T>
+<T>
+BANQUO
+Whenever you like.
+</T>
+<T>
+MACBETH
+If you stick with me, when the time comes, there will be something in it for you.
+</T>
+<T>
+BANQUO
+Ill do whatever you say, as long as I can do it with a clear conscience.
+</T>
+<T>
+MACBETH
+Rest easy in the meantime.
+</T>
+<T>
+BANQUO
+Thank you, sir. You do the same.
+</T>
+<T>
+MACBETH
+(to the SERVANT) Go and tell your mistress to strike the bell when my drink is ready. Get yourself to bed.
+</T>
+<T>
+
+Is this a dagger I see in front of me, with its handle pointing toward my hand? (to the dagger) Come, let me hold you. (he grabs at the air in front of him without touching anything) I dont have you but I can still see you. Fateful apparition, isnt it possible to touch you as well as see you? Or are you nothing more than a dagger created by the mind, a hallucination from my fevered brain? I can still see you, and you look as real as this other dagger that Im pulling out now. (he draws a dagger) Youre leading me toward the place I was going already, and I was planning to use a weapon just like you. My eyesight must either be the one sense thats not working, or else its the only one thats working right. I can still see you, and I see blood splotches on your blade and handle that werent there before. (to himself) Theres no dagger here. Its the murder Im about to do thats making me think I see one. Now half the world is asleep and being deceived by evil nightmares. Witches are offering sacrifices to their goddess Hecate. Old man murder, having been roused by the howls of his wolf, walks silently to his destination, moving like TarquinTarquin was a Roman prince who sneaked into a Roman wifes bedroom in the middle of the night and raped her.Tarquin, as quiet as a ghost. (speaking to the ground) Hard ground, dont listen to the direction of my steps. I dont want you to echo back where I am and break the terrible stillness of this moment, a silence that is so appropriate for what Im about to do. While I stay here talking, Duncan lives. The more I talk, the more my courage cools.
+
+</T>
+<T>
+Im going now. The murder is as good as done. The bell is telling me to do it. Dont listen to the bell, Duncan, because it summons you either to heaven or to hell.
+</T>
+<T>
+LADY MACBETH
+The alcohol that got the servants drunk has made me bold. The same liquor that quenched their thirst has fired me up. Listen! Quiet! That was the owl that shrieked, with a scary good night like the bells they ring before they execute people. Macbeth must be killing the king right now. The doors to Duncans chamber are open, and the drunk servants make a mockery of their jobs by snoring instead of protecting the king. I put so many drugs in their drinks that you cant tell if theyre alive or dead.
+</T>
+<T>
+MACBETH
+(from offstage) Whos there? What is it?
+</T>
+<T>
+LADY MACBETH
+Oh no, Im afraid the servants woke up, and the murder didnt happen. For us to attempt murder and not succeed would ruin us. (She hears a noise.) Listen to that! I put the servants' daggers where Macbeth would find them. He couldnt have missed them. If Duncan hadnt reminded me of my father when I saw him sleeping, I would have killed him myself.
+</T>
+<T>
+My husband!
+</T>
+<T>
+MACBETH
+I have done the deed. Did you hear a noise?
+</T>
+<T>
+LADY MACBETH
+I heard the owl scream and the crickets cry. Didnt you say something?
+</T>
+<T>
+MACBETH
+When?
+</T>
+<T>
+LADY MACBETH
+Just now.
+</T>
+<T>
+MACBETH
+As I came down?
+</T>
+<T>
+LADY MACBETH
+Yes.
+</T>
+<T>
+MACBETH
+Listen! Whos sleeping in the second chamber?
+</T>
+<T>
+LADY MACBETH
+Donalbain.
+</T>
+<T>
+MACBETH
+(looking at his bloody hands) This is a sorry sight.
+</T>
+<T>
+LADY MACBETH
+Thats a stupid thing to say.
+</T>
+<T>
+MACBETH
+One of the servants laughed in his sleep, and one cried, Murder! and they woke each other up. I stood and listened to them, but then they said their prayers and went back to sleep.
+</T>
+<T>
+LADY MACBETH
+Malcolm and Donalbain are asleep in the same room.
+</T>
+<T>
+MACBETH
+One servant cried, God bless us! and the other replied, Amen, as if they had seen my bloody hands. Listening to their frightened voices, I couldnt reply Amen when they said God bless us!
+</T>
+<T>
+LADY MACBETH
+Dont think about it so much.
+</T>
+<T>
+MACBETH
+But why couldnt I say Amen? I desperately needed Gods blessing, but the word Amen stuck in my throat.
+</T>
+<T>
+LADY MACBETH
+We cant think that way about what we did. If we do, itll drive us crazy.
+</T>
+<T>
+MACBETH
+I thought I heard a voice cry, Sleep no more! Macbeth is murdering sleep. Innocent sleep. Sleep that soothes away all our worries. Sleep that puts each day to rest. Sleep that relieves the weary laborer and heals hurt minds. Sleep, the main course in lifes feast, and the most nourishing.
+</T>
+<T>
+LADY MACBETH
+What are you talking about?
+</T>
+<T>
+MACBETH
+The voice kept crying, Sleep no more! to everyone in the house. Macbeth has murdered sleep, and therefore Macbeth will sleep no more.
+</T>
+<T>
+LADY MACBETH
+Who said that? Why, my worthy lord, you let yourself become weak when you think about things in this cowardly way. Go get some water and wash this bloody evidence from your hands. Why did you carry these daggers out of the room? They have to stay there. Go take them back and smear the sleeping guards with the blood.
+</T>
+<T>
+MACBETH
+I cant go back. Im afraid even to think about what Ive done. I cant stand to look at it again.
+</T>
+<T>
+LADY MACBETH
+Coward! Give me the daggers. Dead and sleeping people cant hurt you any more than pictures can. Only children are afraid of scary pictures. If Duncan bleeds Ill paint the servants' faces with his blood. We must make it seem like theyre guilty.
+</T>
+<T>
+MACBETH
+Where is that knocking coming from? Whats happening to me, that Im frightened of every noise? (looking at his hands) Whose hands are these? Ha! Theyre plucking out my eyes. Will all the water in the ocean wash this blood from my hands? No, instead my hands will stain the seas scarlet, turning the green waters red.
+</T>
+<T>
+LADY MACBETH
+My hands are as red as yours, but I would be ashamed if my heart were as pale and weak.
+</T>
+<T>
+I hear someone knocking at the south entry. Lets go back to our bedroom. A little water will wash away the evidence of our guilt. Its so simple! Youve lost your resolve.
+</T>
+<T>
+Listen! Theres more knocking. Put on your nightgown, in case someone comes and sees that were awake. Snap out of your daze.
+</T>
+<T>
+MACBETH
+Rather than have to think about my crime, Id prefer to be completely unconscious.
+</T>
+<T>
+Wake Duncan with your knocking. I wish you could!
+</T>
+<T>
+PORTER
+This is a lot of knocking! Come to think of it, if a man were in charge of opening the gates of hell to let people in, he would have to turn the key a lot.
+</T>
+<T>
+Knock, knock, knock! (pretending hes the gatekeeper in hell) Whos there, in the devils name? Maybe its a farmer who killed himself because grain was cheap. (talking to the imaginary farmer) Youre here just in time! I hope you brought some handkerchiefs; youre going to sweat a lot here.
+</T>
+<T>
+Knock, knock! Whos there, in the other devils name? Maybe its some slick, two-faced con man who lied under oath. But he found out that you cant lie to God, and now hes going to hell for perjury. Come on in, con man.
+</T>
+<T>
+Knock, knock, knock! Whos there? Maybe its an English tailor who liked to skimp on the fabric for peoples clothes. But now that tight pants are in fashion he cant get away with it. Come on in, tailor. You can heat your iron up in here.
+</T>
+<T>
+Knock, knock! Never a moment of peace! Who are you? Ah, this place is too cold to be hell. I wont pretend to be the devils porter anymore. I was going to let someone from every profession into hell.
+</T>
+<T>
+Im coming, Im coming! Please, dont forget to leave me a tip.
+</T>
+<T>
+MACDUFF
+Did you go to bed so late, my friend, that youre having a hard time getting up now?
+</T>
+<T>
+PORTER
+Thats right sir, we were drinking until 3 A.M., and drink, sir, makes a man do three things.
+</T>
+<T>
+MACDUFF
+What three things does drink make a man do?
+</T>
+<T>
+PORTER
+Drinking turns your nose red, it puts you to sleep, and it makes you urinate. Lust it turns on but also turns off. What I mean is, drinking stimulates desire but hinders performance. Therefore, too much drink is like a con artist when it comes to your sex drive. It sets you up for a fall. It gets you up but it keeps you from getting off. It persuades you and discourages you. It gives you an erection but doesnt let you keep it, if you see what Im saying. It makes you dream about erotic experiences, but then it leaves you asleep and needing to pee.
+</T>
+<T>
+MACDUFF
+I believe drink did all of this to you last night.
+</T>
+<T>
+PORTER
+It did, sir. It got me right in the throat. But I got even with drink. I was too strong for it. Although it weakened my legs and made me unsteady, I managed to vomit it out and laid it flat on the ground.
+</T>
+<T>
+MACDUFF
+Is your master awake?
+</T>
+<T>
+Our knocking woke him up. Here he comes.
+</T>
+<T>
+LENNOX
+Good morning, noble sir.
+</T>
+<T>
+MACBETH
+Good morning to both of you.
+</T>
+<T>
+MACDUFF
+Is the king awake, worthy thane?
+</T>
+<T>
+MACBETH
+Not yet.
+</T>
+<T>
+MACDUFF
+He commanded me to wake him up early. Ive almost missed the time he requested.
+</T>
+<T>
+MACBETH
+Ill bring you to him.
+</T>
+<T>
+MACDUFF
+I know the burden of hosting him is both an honor and a trouble, but that doesnt mean its not a trouble just the same.
+</T>
+<T>
+MACBETH
+The work we enjoy is not really work. This is the door.
+</T>
+<T>
+MACDUFF
+Ill wake him, because thats my job.
+</T>
+<T>
+LENNOX
+Is the king leaving here today?
+</T>
+<T>
+MACBETH
+He is. He told us to arrange it.
+</T>
+<T>
+LENNOX
+The night has been chaotic. The wind blew down through the chimneys where we were sleeping. People are saying they heard cries of grief in the air, strange screams of death, and terrible voices predicting catastrophes that will usher in a woeful new age. The owl made noise all night. Some people say that the earth shook as if it had a fever.
+</T>
+<T>
+MACBETH
+It was a rough night.
+</T>
+<T>
+LENNOX
+Im too young to remember anything like it.
+</T>
+<T>
+MACDUFF
+Oh, horror, horror, horror! This is beyond words and beyond belief!
+</T>
+<T>
+MACBETH & LENNOX
+Whats the matter?
+</T>
+<T>
+MACDUFF
+The worst thing imaginable has happened. A murderer has broken into Gods templeMacduff compares Duncans corpse to a church that has been broken into, which confuses his listeners.Gods temple and stolen the life out of it.
+</T>
+<T>
+MACBETH
+What are you talking about? The life?
+</T>
+<T>
+LENNOX
+Do you mean the king?
+</T>
+<T>
+MACDUFF
+Go into the bedroom and see for yourself. Whats in there will make you freeze with horror. Dont ask me to talk about it. Go look and then do the talking yourselves.
+</T>
+<T>
+Wake up, wake up! Ring the alarm bell. Murder and treason! Banquo and Donalbain, Malcolm! Wake up! Shake off sleep, which looks like death, and look at death itself! Get up, get up, and look at this image of doomsday! Malcolm! Banquo! Get up from your beds as if you were rising out of your own graves, and walk like ghosts to come witness this horror. Ring the bell.
+</T>
+<T>
+LADY MACBETH
+Whats going on? Why is that terrifying trumpet calling together everyone whos sleeping in the house? Speak up and tell me!
+</T>
+<T>
+MACDUFF
+Oh gentle lady, my news isnt fit for your ears. If I repeated it to you, it would kill you as soon as you heard it.
+</T>
+<T>
+Oh Banquo, Banquo, the king has been murdered!
+</T>
+<T>
+LADY MACBETH
+How horrible! What, in our own house?
+</T>
+<T>
+BANQUO
+It would be a terrible event no matter where it happened. Dear Macduff, I beg you, tell us you were lying and say it isnt so.
+</T>
+<T>
+MACBETH
+If I had only died an hour before this event I could say I had lived a blessed life. Because from this moment on, there is nothing worth living for. Everything is a sick joke. The graceful and renowned king is dead. The wine of life has been poured out, and only the dregs remain.
+</T>
+<T>
+DONALBAIN
+Whats wrong?
+</T>
+<T>
+MACBETH
+You are, but you dont know it yet. The source from which your royal blood comes has been stopped.
+</T>
+<T>
+MACDUFF
+Your royal father is murdered.
+</T>
+<T>
+MALCOLM
+Who did it?
+</T>
+<T>
+LENNOX
+It seems that the guards who were supposed to be protecting his chamber did it. Their hands and faces were all covered with blood. So were their daggers, which we found on their pillows, unwiped. They stared at us in confusion. No ones life should have been entrusted to them.
+</T>
+<T>
+MACBETH
+And yet I still regret the anger that drove me to kill them.
+</T>
+<T>
+MACDUFF
+What did you do that for?
+</T>
+<T>
+MACBETH
+Is it possible to be wise, bewildered, calm, furious, loyal, and neutral all at once? Nobody can do that. The violent rage inspired by my love for Duncan caused me to act before I could think rationally and tell myself to pause. There was Duncan, his white skin all splattered with his precious blood. The gashes where the knives had cut him looked like wounds to nature itself. Then right next to him I saw the murderers, dripping with blood, their daggers rudely covered in gore. Who could have restrained himself, who loved Duncan and had the courage to act on it?
+</T>
+<T>
+LADY MACBETH
+Help me out of here, quickly!
+</T>
+<T>
+MACDUFF
+Take care of the lady.
+</T>
+<T>
+MALCOLM
+(speaking so that only DONALBAIN can hear) Why are we keeping quiet? The two of us have the most to say in this matter.
+</T>
+<T>
+DONALBAIN
+(speaking so that only MALCOLM can hear) What are we going to say here, where danger may be waiting to strike at us from anywhere? Lets get out of here. We havent even begun to weep yetbut there will be time for that later.
+</T>
+<T>
+MALCOLM
+(speaking so that only DONALBAIN can hear) And the time hasnt come yet for us to turn our deep grief into action.
+</T>
+<T>
+BANQUO
+Take care of the lady.
+</T>
+<T>
+When were properly dressed for the cold, lets meet and discuss this bloody crime to see if we can figure anything out. Right now were shaken up by fears and doubts. Im putting myself in Gods hands, and with his help I plan to fight against the secret plot that caused this treasonous murder.
+</T>
+<T>
+MACDUFF
+So will I.
+</T>
+<T>
+ALL
+So will we all.
+</T>
+<T>
+MACBETH
+Lets get dressed quickly and then meet in the hall.
+</T>
+<T>
+ALL
+Agreed.
+</T>
+<T>
+MALCOLM
+What are you going to do? Lets not stay here with them. Its easy for a liar to pretend to feel sorrow when he actually feels none. Im going to England.
+</T>
+<T>
+DONALBAIN
+Ill go to Ireland. Well both be safer if we go separate ways. Wherever we go, men will smile at us while hiding daggers. Our closest relatives are the ones most likely to murder us.
+</T>
+<T>
+MALCOLM
+We havent yet encountered that danger, and the best thing to do is avoid it entirely. With that in mind, lets get on our horses. Wed better not worry about saying polite good-byes; we should just get away quickly. Theres good reason to escape when theres no mercy to be found anymore.
+</T>
+<T>
+OLD MAN
+I can remember the past seventy years pretty well, and in all that time I have seen dreadful hours and strange things. But last nights horrors make everything that came before seem like a joke.
+</T>
+<T>
+ROSS
+Ah yes, old man. You can see the skies. They look like theyre upset about what mankind has been doing, and theyre threatening the Earth with storms. The clock says its daytime, but dark night is strangling the sun. Is it because night is so strong, or because day is so weak, that darkness covers the earth when its supposed to be light?
+</T>
+<T>
+OLD MAN
+Its unnatural, just like the murder that has been committed. Last Tuesday a falcon was circling high in the sky, and it was caught and killed by an ordinary owl that usually goes after mice.
+</T>
+<T>
+ROSS
+And something else strange happened. Duncans horses, which are beautiful and swift and the best of their breed, suddenly turned wild and broke out of their stalls. Refusing to be obedient as usual, they acted like they were at war with mankind.
+</T>
+<T>
+OLD MAN
+They say the horses ate each other.
+</T>
+<T>
+ROSS
+I saw it with my own eyes. It was an amazing sight. Here comes the good Macduff.
+</T>
+<T>
+How are things going now?
+</T>
+<T>
+MACDUFF
+Cant you see for yourself?
+</T>
+<T>
+ROSS
+Does anyone know who committed this horrible crime?
+</T>
+<T>
+MACDUFF
+The servants Macbeth killed.
+</T>
+<T>
+ROSS
+Its too bad he killed them. What good would it have done those men to kill Duncan?
+</T>
+<T>
+MACDUFF
+They were paid to betray their master. Malcolm and Donalbain, the kings two sons, have run away and fled, which makes them the prime suspects.
+</T>
+<T>
+ROSS
+Everything about this is unnatural! What a stupid ambition, causing a son to kill the father who supports him. Then it looks like Macbeth will become king.
+</T>
+<T>
+MACDUFF
+He has already been named king and has left for Scone to be crowned.
+</T>
+<T>
+ROSS
+Where is Duncans body?
+</T>
+<T>
+MACDUFF
+It was carried to Colmekill to be placed in the tomb of his ancestors, where their bones are kept safe.
+</T>
+<T>
+ROSS
+Are you going to Scone?
+</T>
+<T>
+MACDUFF
+No, cousin, Im going to Fife.
+</T>
+<T>
+ROSS
+Well, Ill go to Scone.
+</T>
+<T>
+MACDUFF
+I hope things go well there. Good-bye! And lets hope things dont get worse.
+</T>
+<T>
+ROSS
+Farewell, old man.
+</T>
+<T>
+OLD MAN
+May Gods blessing go with you and with all who turn bad into good, and enemies into friends!
+</T>
+<T>
+BANQUO
+Now you have it all: youre the king, the thane of Cawdor, and the thane of Glamis, just like the weird women promised you. And I suspect you cheated to win these titles. But it was also prophesied that the crown would not go to your descendants, and that my sons and grandsons would be kings instead. If the witches tell the truthwhich they did about youmaybe what they said about me will come true too. But shhh! Ill shut up now.
+</T>
+<T>
+MACBETH
+(indicating BANQUO) Heres our most important guest.
+</T>
+<T>
+LADY MACBETH
+If we forgot him, our big celebration wouldnt be complete, and that wouldnt be any good.
+</T>
+<T>
+MACBETH
+(to BANQUO) Tonight were having a ceremonial banquet, and I want you to be there.
+</T>
+<T>
+BANQUO
+Whatever your highness commands me to do, it is always my duty to do it.
+</T>
+<T>
+MACBETH
+Are you going riding this afternoon?
+</T>
+<T>
+BANQUO
+Yes, my good lord.
+</T>
+<T>
+MACBETH
+We would have liked to have heard your good advice, which has always been serious and helpful, at the council today, but well wait until tomorrow. Are you riding far?
+</T>
+<T>
+BANQUO
+Im going far enough that Ill be riding from now until dinner. Unless my horse goes faster than expected, I will be back an hour or two after sunset.
+</T>
+<T>
+MACBETH
+Dont miss our feast.
+</T>
+<T>
+BANQUO
+My lord, I wont miss it.
+</T>
+<T>
+MACBETH
+We hear that the princes, those murderers, have hidden in England and Ireland. They havent confessed to cruelly murdering their own father, and theyve been making up strange lies to tell their hosts. But we can talk more about that tomorrow, when well discuss matters of state that concern us both. Hurry up and get to your horse. Good-bye, until you return tonight. Is Fleance going with you?
+</T>
+<T>
+BANQUO
+Yes, my good lord. Its time we hit the road.
+</T>
+<T>
+MACBETH
+I hope your horses are fast and surefooted. And with that, I send you to them. Farewell.
+</T>
+<T>
+Everybody may do as they please until seven o'clock tonight. In order to make your company even more enjoyable, Im going to keep to myself until suppertime. Until then, God be with you!
+</T>
+<T>
+(to the SERVANT) You there, let me have a word with you. Are those men waiting for me?
+</T>
+<T>
+SERVANT
+Theyre waiting outside the palace gate, my lord.
+</T>
+<T>
+MACBETH
+Bring them to me.
+</T>
+<T>
+To be the king is nothing if Im not safe as the king. Im very afraid of Banquo. Theres something noble about him that makes me fear him. Hes willing to take risks, and his mind never stops working. He has the wisdom to act bravely but also safely. Im not afraid of anyone but him. Around him, my guardian angel is frightened, just as Mark Antonys angel supposedly feared Octavius Caesar. Banquo chided the witches when they first called me king, asking them to tell him his own future. Then, like prophets, they named him the father to a line of kings. They gave me a crown and a scepter that I cant pass on. Someone outside my family will take these things away from me, since no son of mine will take my place as king. If this is true, then Ive tortured my conscience and murdered the gracious Duncan for Banquos sons. Ive ruined my own peace for their benefit. Ive handed over my everlasting soul to the devil so that they could be kings. Banquos sons, kings! Instead of watching that happen, I will challenge fate to battle and fight to the death. Whos there!
+</T>
+<T>
+Now go to the door and stay there until I call for you.
+</T>
+<T>
+Wasnt it just yesterday that we spoke to each other?
+</T>
+<T>
+FIRST MURDERER
+It was yesterday, your highness.
+</T>
+<T>
+MACBETH
+Well, did you think about what I said? You should know that it was Banquo who made your lives hell for so long, which you always thought was my fault. But I was innocent. I showed you the proof at our last meeting. I explained how you were deceived, how you were thwarted, the things that were used against you, who was working against you, and a lot of other things that would convince even a half-wit or a crazy person to say, Banquo did it!
+</T>
+<T>
+FIRST MURDERER
+You explained it all.
+</T>
+<T>
+MACBETH
+I did that and more, which brings me to the point of this second meeting. Are you so patient and forgiving that youre going to let him off the hook? Are you so pious that you would pray for this man and his children, a man who has pushed you toward an early grave and put your family in poverty forever?
+</T>
+<T>
+FIRST MURDERER
+We are men, my lord.
+</T>
+<T>
+MACBETH
+Yes, youre part of the species called men. Just as hounds and greyhounds, mongrels, spaniels, mutts, shaggy lapdogs, swimming dogs, and wolf-dog crossbreeds are all dogs. But if you list the different kinds of dogs according to their qualities, you can distinguish which breeds are fast or slow, which ones are clever, which ones are watchdogs, and which ones hunters. You can classify each dog according to the natural gifts that separate it from all other dogs. Its the same with men. Now, if you occupy some place in the list of men that isnt down at the very bottom, tell me. Because if thats the case, I will tell you a plan that will get rid of your enemy and bring you closer to me. As long as Banquo lives, I am sick. Ill be healthy when he is dead.
+</T>
+<T>
+SECOND MURDERER
+My lord, Ive been so kicked around by the world, and Im so angry, that I dont even care what I do.
+</T>
+<T>
+FIRST MURDERER
+Im the same. Im so sick of bad luck and trouble that Id risk my life on any bet, as long as it would either fix my life or end it once and for all.
+</T>
+<T>
+MACBETH
+You both know Banquo was your enemy.
+</T>
+<T>
+BOTH MURDERERS
+Its true, my lord.
+</T>
+<T>
+MACBETH
+Hes my enemy too, and I hate him so much that every minute hes alive it eats away at my heart. Since Im king, I could simply use my power to get rid of him. But I cant do that, because he and I have friends in common whom I need, so I have to be able to moan and cry over his death in public even though Ill be the one who had him killed. Thats why I need your help right now. I have to hide my real plans from the public eye for many important reasons.
+</T>
+<T>
+SECOND MURDERER
+Well do what you want us to, my lord.
+</T>
+<T>
+FIRST MURDERER
+Though our lives
+</T>
+<T>
+MACBETH
+(interrupts him) I can see the determination in your eyes. Within the next hour Ill tell you where to go and exactly when to strike. It must be done tonight, away from the palace. Always remember that I must be free from suspicion. For the plan to work perfectly, you must kill both Banquo and his son, Fleance, who keeps him company. Getting rid of Fleance is as important to me as knocking off Banquo. Each of you should make up your own mind about whether youre going to do this. Ill come to you soon.
+</T>
+<T>
+BOTH MURDERERS
+We have decided, my lord. Were in.
+</T>
+<T>
+MACBETH
+Ill call for you soon. Stay inside.
+</T>
+<T>
+The deal is closed. Banquo, if your soul is going to make it to heaven, tonights the night.
+</T>
+<T>
+LADY MACBETH
+Has Banquo left the court?
+</T>
+<T>
+SERVANT
+Yes, madam, but hell be back tonight.
+</T>
+<T>
+LADY MACBETH
+Go tell the king I want to talk to him for a few minutes.
+</T>
+<T>
+SERVANT
+No problem, madam.
+</T>
+<T>
+LADY MACBETH
+If you get what you want and youre still not happy, youve spent everything and gained nothing. Its better to be the person who gets murdered than to be the killer and be tormented with anxiety.
+</T>
+<T>
+Whats going on, my lord? Why are you keeping to yourself, with only your sad thoughts to keep you company? Those thoughts should have died when you killed the men youre thinking about. If you cant fix it, you shouldnt give it a second thought. Whats done is done.
+</T>
+<T>
+MACBETH
+We have slashed the snake but not killed it. It will heal and be as good as new, and well be threatened by its fangs once again. But the universe can fall apart, and heaven and earth crumble, before Ill eat my meals in fear and spend my nights tossing and turning with these nightmares Ive been having. Id rather be dead than endure this endless mental torture and harrowing sleep deprivation. We killed those men and sent them to rest in peace so that we could gain our own peace. Duncan lies in his grave, through with lifes troubles, and hes sleeping well. We have already done the worst we can do to him with our treason. After that, nothing can hurt him furthernot weapons, poison, rebellion, invasion, or anything else.
+</T>
+<T>
+LADY MACBETH
+Come on, relax, dear. Put on a happy face and look cheerful and agreeable for your guests tonight.
+</T>
+<T>
+MACBETH
+Thats exactly what Ill do, my love, and I hope youll do the same. Give Banquo your special attention. Talk to him and look at him in a way that will make him feel important. Were in a dangerous situation, where we have to flatter him and hide our true feelings.
+</T>
+<T>
+LADY MACBETH
+You have to stop talking like this.
+</T>
+<T>
+MACBETH
+Argh! I feel like my mind is full of scorpions, my dear wife. You know that Banquo and his son Fleance are still alive.
+</T>
+<T>
+LADY MACBETH
+But they cant live forever.
+</T>
+<T>
+MACBETH
+Thats comforting. They can be killed, its true. So be cheerful. Before the bat flies through the castle, and before the dung beetle makes his little humming noise to tell us its nighttime, a dreadful deed will be done.
+</T>
+<T>
+LADY MACBETH
+What are you going to do?
+</T>
+<T>
+MACBETH
+Its better you dont know about it until after its done, when you can applaud it. (to the night) Come, night, and blindfold the kindhearted day. Use your bloody and invisible hand to tear up Banquos lease on life, which keeps me in fear. (to himself) The skys getting dark, and the crow is returning home to the woods. The gentle creatures of the day are falling asleep, while nights predators are waking up to look for their prey. (to LADY MACBETH) You seem surprised at my words, but dont question me yet. Bad deeds force you to commit more bad deeds. So please, come with me.
+</T>
+<T>
+FIRST MURDERER
+But who told you to come here and join us?
+</T>
+<T>
+THIRD MURDERER
+Macbeth.
+</T>
+<T>
+SECOND MURDERER
+We can trust this guy. He was given exactly the same orders we were.
+</T>
+<T>
+FIRST MURDERER
+Then stay with us. Theres still a bit of daylight in the sky. Now all the late travellers are hurrying to reach their inns. Banquo is almost here.
+</T>
+<T>
+THIRD MURDERER
+Listen! I hear horses.
+</T>
+<T>
+BANQUO
+(from offstage) Hey, give us some light here!
+</T>
+<T>
+SECOND MURDERER
+That must be him. The rest of the kings guests are already inside.
+</T>
+<T>
+FIRST MURDERER
+You can hear his horses moving around as the servants take them to the stables.
+</T>
+<T>
+THIRD MURDERER
+Its almost a mile to the palace gate, but Banquo, like everybody else, usually walks from here to the palace.
+</T>
+<T>
+SECOND MURDERER
+Here comes a light! Here comes a light!
+</T>
+<T>
+THIRD MURDERER
+Thats him.
+</T>
+<T>
+FIRST MURDERER
+Prepare yourselves.
+</T>
+<T>
+BANQUO
+It will rain tonight.
+</T>
+<T>
+FIRST MURDERER
+Then let the rain come down.
+</T>
+<T>
+BANQUO
+Oh, this is treachery! Get out of here, good Fleance, run, run, run! Someday you can get revenge.Oh, you bastard!
+</T>
+<T>
+THIRD MURDERER
+Who put out the light?
+</T>
+<T>
+FIRST MURDERER
+Wasnt that the best thing to do?
+</T>
+<T>
+THIRD MURDERER
+Theres only one body here. The son ran away.
+</T>
+<T>
+SECOND MURDERER
+We failed in half of our mission.
+</T>
+<T>
+FIRST MURDERER
+Well, lets get out of here and tell Macbeth what we did accomplish.
+</T>
+<T>
+MACBETH
+You know your own ranks, so you know where to sit. Sit down. From the highest to the lowest of you, I bid you a hearty welcome.
+</T>
+<T>
+LORDS
+Thanks to your majesty.
+</T>
+<T>
+MACBETH
+I will walk around and mingle with all of you, playing the humble host. My wife will stay in her royal chair, but at the appropriate time I will have her welcome you all.
+</T>
+<T>
+LADY MACBETH
+Say welcome to all of our friends for me, sir, for in my heart they are all welcome.
+</T>
+<T>
+MACBETH
+And they respond to you with their hearts as well. The table is full on both sides. I will sit here in the middle. Be free and happy. Soon we will toast around the table.
+</T>
+<T>
+(approaching the door and speaking to the MURDERER) Theres blood on your face.
+</T>
+<T>
+FIRST MURDERER
+Then it must be Banquos.
+</T>
+<T>
+MACBETH
+Id rather see his blood splattered on your face than flowing through his veins. Did you finish him off?
+</T>
+<T>
+FIRST MURDERER
+My lord, his throat is cut. I did that to him.
+</T>
+<T>
+MACBETH
+You are the best of the cutthroats. But whoever did the same to Fleance must also be good. If you cut both their throats, then you are the absolute best.
+</T>
+<T>
+FIRST MURDERER
+Most royal sir, Fleance has escaped.
+</T>
+<T>
+MACBETH
+Now Im scared again. Otherwise I would have been perfect, as solid as a piece of marble, as firm as a rock, as free as the air itself. But now Im all tangled up with doubts and fears. But Banquos been taken care of?
+</T>
+<T>
+FIRST MURDERER
+Yes, my good lord. Hes lying dead in a ditch, with twenty deep gashes in his head, any one of which would have been enough to kill him.
+</T>
+<T>
+MACBETH
+Thanks for that. The adult snake lies in the ditch. The young snake that escaped will in time become poisonous and threatening, but for now he has no fangs. Get out of here. Ill talk to you again tomorrow.
+</T>
+<T>
+LADY MACBETH
+My royal lord, youre not entertaining the guests. If you dont make your guests know theyre welcome, theyll feel like theyre paying for their meal. When you just want to eat, its better to do that at home. When youre eating out with people, you need to have a little more ceremony. Otherwise dinner parties would be boring.
+</T>
+<T>
+MACBETH
+Its nice of you to remind me. (raising a glass to toast his guests) Since good digestion requires a good appetite, and good health requires both of those, heres to good appetites, good digestion, and good health!
+</T>
+<T>
+LENNOX
+Why dont you have a seat, your highness?
+</T>
+<T>
+MACBETH
+We would have all the nobility of Scotland gathered under one roof, if only Banquo were here. I hope it turns out that hes late out of rudeness, and not because something bad has happened to him.
+</T>
+<T>
+ROSS
+His absence means hes broken his promise, sir. If it pleases you, your highness, why dont you sit with us and grace us with your royal company?
+</T>
+<T>
+MACBETH
+The tables full.
+</T>
+<T>
+LENNOX
+Heres an empty seat, sir.
+</T>
+<T>
+MACBETH
+Where?
+</T>
+<T>
+LENNOX
+(pointing to where the GHOST sits) Here, my good lord. Whats wrong, your highness?
+</T>
+<T>
+MACBETH
+(seeing the GHOST) Which one of you did this?
+</T>
+<T>
+LORDS
+What, my good lord?
+</T>
+<T>
+MACBETH
+(to the GHOST) You cant say I did it. Dont shake your bloody head at me.
+</T>
+<T>
+ROSS
+Gentlemen, stand up. His highness is not well.
+</T>
+<T>
+LADY MACBETH
+Sit down, worthy friends. My husband is often like this, and he has been since he was a child. Please stay seated. This is just a brief fit. In a moment hell be well again. If you pay too much attention to him youll make him angry, and that will make his convulsions go on longer. Eat your dinner and pay no attention to him. (speaking so that only MACBETH can hear) Are you a man?
+</T>
+<T>
+MACBETH
+Yes, and a brave one, who dares to look at something that would frighten the devil.
+</T>
+<T>
+LADY MACBETH
+Oh, thats nonsense! This is just another one of the hallucinations you always get when youre afraid. This is like that floating dagger you said was leading you toward Duncan. These outbursts of yours dont even look like real fear. Theyre more like how you would act if you were a woman telling a scary story by the fireside in front of her grandmother. Shame on you! Why are you making these faces? When the vision passes, youll see that youre just looking at a stool.
+</T>
+<T>
+MACBETH
+Please, just look over there. Look! Look! See! (to the GHOST) What do you have to say? What do I care? If you can nod, then speak too. If the dead are going to return from their graves, then theres nothing to stop the birds from eating the bodies. So theres no point in our burying people.
+</T>
+<T>
+LADY MACBETH
+What, has your foolishness paralyzed you completely?
+</T>
+<T>
+MACBETH
+As sure as Im standing here, I saw him.
+</T>
+<T>
+LADY MACBETH
+Nonsense!
+</T>
+<T>
+MACBETH
+In ancient times, before there were laws to make the land safe and peaceful, a lot of blood was spilled. Yes, and since then murders have been committed that are too awful to talk about. It used to be that when you knocked a mans brains out he would just die, and that would be it. But now they rise from the dead with twenty fatal head wounds and push us off our stools. This haunting business is even stranger than murder.
+</T>
+<T>
+LADY MACBETH
+My worthy lord, your noble friends miss your company.
+</T>
+<T>
+MACBETH
+I forgot about them. (to the guests) Dont be alarmed on my account, my most worthy friends. I have a strange disorder, which no longer shocks those who know me well. (raising his glass to toast the company) Come, lets drink a toast: love and health to you all. Now Ill sit down. Give me some wine. Fill up my cup.
+</T>
+<T>
+I drink to the happiness of everyone at the table, and to our dear friend Banquo, whom we miss. I wish he were here! Lets drink to everyone here, and to Banquo. Now, everybody, drink
+</T>
+<T>
+LORDS
+Hear, hear.
+</T>
+<T>
+MACBETH
+(to the GHOST) Go! And get out of my sight! Stay in your grave. Theres no marrow in your bones, and your blood is cold. Youre staring at me with eyes that have no power to see.
+</T>
+<T>
+LADY MACBETH
+Good friends, think of this as nothing more than a strange habit. Its nothing else. Too bad its spoiling our pleasure tonight.
+</T>
+<T>
+MACBETH
+I am as brave as any other man. Come at me in the form of a rugged Russian bear, an armor-plated rhinoceros, or a tiger from Iran. Take any shape other than the one you have now and I will never tremble in fear. Or come back to life again and challenge me to a duel in some deserted place. If I tremble then, you can call me a little girl. Get out of here, you horrible ghost, you hallucination. Get out!
+</T>
+<T>
+I am a man again. Pray you sit still.
+</T>
+<T>
+Look, now that its gone, Im a man again. Please, remain seated.
+</T>
+<T>
+LADY MACBETH
+You have ruined our good cheer and disrupted the gathering by making a spectacle of yourself.
+</T>
+<T>
+MACBETH
+(to the guests) Can things like this happen so suddenly without making us all astonished? You make me feel like I dont know myself, when I see you looking at these terrible things and keeping a straight face, while my face has gone white with fear.
+</T>
+<T>
+ROSS
+What things, my lord?
+</T>
+<T>
+LADY MACBETH
+Please, dont speak to him. Hes getting worse and worse. Talk makes him crazy. Everybody, please leave right now. Dont bother exiting in the order of your rank, but just leave right away.
+</T>
+<T>
+LENNOX
+Good night. I hope the king recovers soon!
+</T>
+<T>
+LADY MACBETH
+A kind good night to all!
+</T>
+<T>
+MACBETH
+Theres an old saying: the dead will have their revenge. Gravestones have been known to move, and trees to speak, to bring guilty men to justice. The craftiest murderers have been exposed by the mystical signs made by crows and magpies. How late at night is it?
+</T>
+<T>
+LADY MACBETH
+Its almost morning. You cant tell whether its day or night.
+</T>
+<T>
+MACBETH
+What do you think about the fact that Macduff refuses to come to me when I command him?
+</T>
+<T>
+LADY MACBETH
+Did you send for him, sir?
+</T>
+<T>
+MACBETH
+Ive heard about this indirectly, but I will send for him. In every one of the lords' households I have a servant paid to spy for me. Tomorrow, while its still early, I will go see the witches. They will tell me more, because Im determined to know the worst about whats going to happen. My own safety is the only important thing now. I have walked so far into this river of blood that even if I stopped now, it would be as hard to go back to being good as it is to keep killing people. I have some schemes in my head that Im planning to put into action. I have to do these things before I have a chance to think about them.
+</T>
+<T>
+LADY MACBETH
+You havent slept.
+</T>
+<T>
+MACBETH
+Yes, lets go to sleep. My strange self-delusions just come from inexperience. Were still just beginners when it comes to crime.
+</T>
+<T>
+FIRST WITCH
+Whats wrong, Hecate? You look angry.
+</T>
+<T>
+HECATE
+Dont I have a reason to be angry, you disobedient hags? How dare you give Macbeth riddles and prophecies about his future without telling me? I am your boss and the source of your powers. I am the one who secretly decides what evil things happen, but you never called me to join in and show off my own powers. And whats worse, youve done all this for a man who behaves like a spoiled brat, angry and hateful. Like all spoiled sons, he chases after what he wants and doesnt care about you. But you can make it up to me. Go away now and in the morning meet me in the pit by the river in hell. Macbeth will go there to learn his destiny. You bring your cauldrons, your spells, your charms, and everything else. Im about to fly away. Ill spend tonight working to make something horrible happen. I have a lot to do before noon. An important droplet is hanging from the corner of the moon. Ill catch it before it falls to the ground. When I work it over with magic spells, the drop will produce magical spirits that will trick Macbeth with illusions.
+</T>
+<T>
+He will be fooled into thinking he is greater than fate, he will mock death, and he will think he is above wisdom, grace, and fear. As you all know, overconfidence is mans greatest enemy.
+</T>
+<T>
+Listen! Im being called. Look, my little spirit is sitting in a foggy cloud waiting for me.
+</T>
+<T>
+FIRST WITCH
+Come on, lets hurry. Shell be back again soon.
+</T>
+<T>
+LENNOX
+What Ive already said shows you we think alike, so you can draw your own conclusions. All Im saying is that strange things have been going on. Macbeth pitied Duncanafter Duncan was dead. And Banquo went out walking too late at night. If you like, we can say that Fleance must have killed him, because Fleance fled the scene of the crime. Clearly, men should not go out walking too late! And who can help thinking how monstrous it was for Malcolm and Donalbain to kill their gracious father? Such a heinous crimehow it saddened MacbethLennox speaks sarcastically throughout this speech, making it clear that he thinks Macbeth is guilty of the murders.Macbeth! Wasnt it loyal of him to kill those two servants right away, while they were still drunk and asleep? That was the right thing to do, wasnt it? Yes, and it was the wise thing, too, because we all would have been outraged to hear those two deny their crime. Considering all this, I think Macbeth has handled things well. If he had Duncans sons in prisonwhich I hope wont happenthey would find out how awful the punishment is for those who kill their fathers, and so would Fleance. But enough of that. I hear that Macduff is out of favor with the king because he speaks his mind too plainly, and because he failed to show up at Macbeths feast. Can you tell me where hes hiding himself?
+</T>
+<T>
+LORD
+Duncans son Malcolm, whose birthright and throne Macbeth has stolen, lives in the English court. There, the saintly King Edward treats Malcolm so well that despite Malcolms misfortunes, hes not deprived of respect. Macduff went there to ask King Edward for help. He wants Edward to help him form an alliance with the people of Northumberland and their lord, Siward. Macduff hopes that with their helpand with the help of God abovehe may once again put food on our tables, bring peace back to our nights, free our feasts and banquets from violent murders, allow us to pay proper homage to our king, and receive honors freely. Those are the things we pine for now. Macbeth has heard this news and he is so angry that hes preparing for war.
+</T>
+<T>
+LENNOX
+Did he tell Macduff to return to Scotland?
+</T>
+<T>
+LORD
+He did, but Macduff told the messenger, No way. The messenger scowled and rudely turned his back on Macduff, as if to say, Youll regret the day you gave me this answer.
+</T>
+<T>
+LENNOX
+That might well keep Macduff away from Scotland. Some holy angel should go to the court of England and give Macduff a message. He should return quickly to free our country, which is suffering under a tyrant!
+</T>
+<T>
+LORD
+Ill send my prayers with him.
+</T>
+<T>
+FIRST WITCH
+The tawny cat has meowed three times.
+</T>
+<T>
+SECOND WITCH
+Three times. And the hedgehog has whined once.
+</T>
+<T>
+THIRD WITCH
+My spirit friend, Harpier, is yelling, Its time, its time!
+</T>
+<T>
+FIRST WITCH
+Dance around the cauldron and throw in the poisoned entrails. (holding up a toad) Youll go in firsta toad that sat under a cold rock for a month, oozing poison from its pores.
+</T>
+<T>
+ALL
+Double, double toil and trouble,
+Fire burn, and cauldron bubble.
+</T>
+<T>
+SECOND WITCH
+(holding something up) Well boil you in the cauldron nexta slice of swamp snake. All the rest of you in too: a newts eye, a frogs tongue, fur from a bat, a dogs tongue, the forked tongue of an adder, the stinger of a burrowing worm, a lizards leg, an owls wing. (speaking to the ingredients) Make a charm to cause powerful trouble, and boil and bubble like a broth of hell.
+</T>
+<T>
+ALL
+Double, double toil and trouble,
+Fire burn and cauldron bubble.
+</T>
+<T>
+THIRD WITCH
+Here come some more ingredients: the scale of a dragon, a wolfs tooth, a witchs mummified flesh, the gullet and stomach of a ravenous shark, a root of hemlock that was dug up in the dark, a Jews liver, a goats bile, some twigs of yew that were broken off during a lunar eclipse, a Turks nose, a Tartars lips, the finger of a baby that was strangled as a prostitute gave birth to it in a ditch. (to the ingredients) Make this potion thick and gluey. (to the other WITCHES) Now lets add a tigers entrails to the mix.
+</T>
+<T>
+ALL
+Double, double toil and trouble,
+Fire burn and cauldron bubble.
+</T>
+<T>
+SECOND WITCH
+Well cool the mixture with baboon blood. After that the charm is finished.
+</T>
+<T>
+HECATE
+Well done! I admire your efforts, and all of you will share the rewards. Now come sing around the cauldron like a ring of elves and fairies, enchanting everything you put in.
+</T>
+<T>
+SECOND WITCH
+I can tell that something wicked is coming by the tingling in my thumbs. Doors, open up for whoever is knocking!
+</T>
+<T>
+MACBETH
+Whats going on here, you secret, evil, midnight hags? What are you doing?
+</T>
+<T>
+ALL
+Something there isnt a word for.
+</T>
+<T>
+MACBETH
+I dont know how you know the things you do, but I insist that you answer my questions. I command you in the name of whatever dark powers you serve. I dont care if you unleash violent winds that tear down churches, make the foamy waves overwhelm ships and send sailors to their deaths, flatten crops and trees, make castles fall down on their inhabitants' heads, make palaces and pyramids collapse, and mix up everything in nature. Tell me what I want to know.
+</T>
+<T>
+FIRST WITCH
+Speak.
+</T>
+<T>
+SECOND WITCH
+Demand.
+</T>
+<T>
+THIRD WITCH
+Well answer.
+</T>
+<T>
+FIRST WITCH
+Would you rather hear these things from our mouths or from our masters?
+</T>
+<T>
+MACBETH
+Call them. Let me see them.
+</T>
+<T>
+FIRST WITCH
+Pour in the blood of a sow who has eaten her nine offspring. Take the sweat of a murderer on the gallows and throw it into the flame.
+</T>
+<T>
+ALL
+Come, high or low spirits. Show yourself and what you do.
+</T>
+<T>
+MACBETH
+Tell me, you unknown power
+</T>
+<T>
+FIRST WITCH
+He can read your thoughts. Listen, but dont speak.
+</T>
+<T>
+FIRST APPARITION
+Macbeth! Macbeth! Macbeth! Beware Macduff. Beware the thane of Fife. Let me go. Enough.
+</T>
+<T>
+MACBETH
+Whatever you are, thanks for your advice. You have guessed exactly what I feared. But one word more
+</T>
+<T>
+FIRST WITCH
+He will not be commanded by you. Heres another, stronger than the first.
+</T>
+<T>
+SECOND APPARITION
+Macbeth! Macbeth! Macbeth!
+</T>
+<T>
+MACBETH
+If I had three ears Id listen with all three.
+</T>
+<T>
+SECOND APPARITION
+Be violent, bold, and firm. Laugh at the power of other men, because nobody born from a woman will ever harm Macbeth.
+</T>
+<T>
+The SECOND APPARITION descends.
+</T>
+<T>
+MACBETH
+Then I dont need to kill Macduff. I have no reason to fear him. But even so, Ill make doubly sure. Ill guarantee my own fate by having you killed, Macduff. That way I can conquer my own fear and sleep easy at night.
+</T>
+<T>
+What is this spirit that looks like the son of a king and wears a crown on his young head?
+</T>
+<T>
+ALL
+Listen but dont speak to it.
+</T>
+<T>
+THIRD APPARITION
+Be brave like the lion and proud. Dont even worry about who hates you, who resents you, and who conspires against you. Macbeth will never be defeated until Birnam Wood marches to fight you at Dunsinane Hill.
+</T>
+<T>
+MACBETH
+That will never happen. Who can command the forest and make the trees pull their roots out of the earth? These were sweet omens! Good! My murders will never come back to threaten me until the forest of Birnam gets up and moves, and I will be king for my entire natural life. But my heart is still throbbing to know one thing. Tell me, if your dark powers can see this far: will Banquos sons ever reign in this kingdom?
+</T>
+<T>
+ALL
+Dont try to find out more.
+</T>
+<T>
+MACBETH
+I demand to be satisfied. If you refuse, let an eternal curse fall on you. Let me know. Why is that cauldron sinking? And what is that music?
+</T>
+<T>
+FIRST WITCH
+Show.
+</T>
+<T>
+SECOND WITCH
+Show.
+</T>
+<T>
+THIRD WITCH
+Show.
+</T>
+<T>
+ALL
+Show him and make him grieve. Come like shadows and depart in the same way!
+</T>
+<T>
+MACBETH
+You look too much like the ghost of Banquo. Go away!(to the first) Your crown hurts my eyes. (to the second) Your blond hair, which looks like another crown underneath the one youre wearing, looks just like the first kings hair. Now I see a third king who looks just like the second. Filthy hags! Why are you showing me this? A fourth! My eyes are bulging out of their sockets! Will this line stretch on forever? Another one! And a seventh! I dont want to see any more. And yet an eighth appears, holding a mirror in which I see many more men. And some are carrying double balls and triple scepters, meaning theyre kings of more than one country! Horrible sight! Now I see it is true, they are Banquos descendants. Banquo, with his blood-clotted hair, is smiling at me and pointing to them as his.
+</T>
+<T>
+What? Is this true?
+</T>
+<T>
+FIRST WITCH
+Yes, this is true, but why do you stand there so dumbfounded? Come, sisters, lets cheer him up and show him our talents. I will charm the air to produce music while you all dance around like crazy, so this king will say we did our duty and entertained him.
+</T>
+<T>
+MACBETH
+Where are they? Gone? Let this evil hour be marked forever in the calendar as cursed. (calls to someone offstage) You outside, come in!
+</T>
+<T>
+LENNOX
+What does your grace want?
+</T>
+<T>
+MACBETH
+Did you see the weird sisters?
+</T>
+<T>
+LENNOX
+No, my lord.
+</T>
+<T>
+MACBETH
+Didnt they pass by you?
+</T>
+<T>
+LENNOX
+No, indeed, my lord.
+</T>
+<T>
+MACBETH
+The air on which they ride is infected. Damn all those who trust them! I heard the galloping of horses. Who was it that came here?
+</T>
+<T>
+LENNOX
+Two or three men, my lord, who brought the messagethat Macduff has fled to England.
+</T>
+<T>
+MACBETH
+Fled to England?
+</T>
+<T>
+LENNOX
+Yes, my good lord.
+</T>
+<T>
+MACBETH
+Time, you thwart my dreadful plans. Unless a person does something the second he thinks of it, hell never get a chance to do it. From now on, as soon as I decide to do something Im going to act immediately. In fact, Ill start following up my thoughts with actions right now. Ill raid Macduffs castle, seize the town of Fife, and kill his wife, his children, and anyone else unfortunate enough to stand in line for his inheritance. No more foolish talk. I will do this deed before I lose my sense of purpose. But no more spooky visions!Where are the messengers? Come, bring me to them.
+</T>
+<T>
+LADY MACDUFF
+What did he do that made him flee this land?
+</T>
+<T>
+ROSS
+You have to be patient, madam.
+</T>
+<T>
+LADY MACDUFF
+He had no patience. He was crazy to run away. Even if youre not a traitor, youre going to look like one if you run away.
+</T>
+<T>
+ROSS
+You dont know whether it was wisdom or fear that made him flee.
+</T>
+<T>
+LADY MACDUFF
+How could it be wisdom! To leave his wife, his children, his house, and his titles in a place so unsafe that he himself flees it! He doesnt love us. He lacks the natural instinct to protect his family. Even the fragile wren, the smallest of birds, will fight against the owl when it threatens her young ones in the nest. His running away has everything to do with fear and nothing to do with love. And since its so unreasonable for him to run away, it has nothing to do with wisdom either.
+</T>
+<T>
+ROSS
+My dearest relative, Im begging you, pull yourself together. As for your husband, he is noble, wise, and judicious, and he understands what the times require. Its not safe for me to say much more than this, but times are bad when people get denounced as traitors and dont even know why. In times like these, we believe frightening rumors but we dont even know what were afraid of. Its like being tossed around on the ocean in every direction, and finally getting nowhere. Ill say good-bye now. It wont be long before Im back. When things are at their worst they have to stop, or else improve to the way things were before. My young cousin, I put my blessing upon you.
+</T>
+<T>
+LADY MACDUFF
+He has a father, and yet he is fatherless.
+</T>
+<T>
+ROSS
+I have to go. If I stay longer, Ill embarrass you and disgrace myself by crying. Im leaving now.
+</T>
+<T>
+LADY MACDUFF
+Young man, your fathers dead. What are you going to do now? How are you going to live?
+</T>
+<T>
+SON
+I will live the way birds do, Mother.
+</T>
+<T>
+LADY MACDUFF
+What? Are you going to start eating worms and flies?
+</T>
+<T>
+SON
+I mean I will live on whatever I get, like birds do.
+</T>
+<T>
+LADY MACDUFF
+Youd be a pitiful bird. You wouldnt know enough to be afraid of traps.
+</T>
+<T>
+SON
+Why should I be afraid of them, Mother? If Im a pitiful bird, like you say, hunters wont want me. No matter what you say, my father is not dead.
+</T>
+<T>
+LADY MACDUFF
+Yes, he is dead. What are you going to do for a father?
+</T>
+<T>
+SON
+Maybe you should ask, what will you do for a husband?
+</T>
+<T>
+LADY MACDUFF
+Oh, I can buy twenty husbands at any market.
+</T>
+<T>
+SON
+If so, youd be buying them to sell again.
+</T>
+<T>
+LADY MACDUFF
+You talk like a child, but youre very smart anyway.
+</T>
+<T>
+SON
+Was my father a traitor, Mother?
+</T>
+<T>
+LADY MACDUFF
+Yes, he was.
+</T>
+<T>
+SON
+What is a traitor?
+</T>
+<T>
+LADY MACDUFF
+Someone who makes a promise and breaks it.
+</T>
+<T>
+SON
+And is everyone who swears and lies a traitor?
+</T>
+<T>
+LADY MACDUFF
+Everyone who does so is a traitor and should be hanged.
+</T>
+<T>
+SON
+And should everyone who makes promises and breaks them be hanged?
+</T>
+<T>
+LADY MACDUFF
+Everyone.
+</T>
+<T>
+SON
+Who should hang them?
+</T>
+<T>
+LADY MACDUFF
+The honest men.
+</T>
+<T>
+SON
+Then the liars are fools, for there are enough liars in the world to beat up the honest men and hang them.
+</T>
+<T>
+LADY MACDUFF
+(laughing) Heaven help you for saying that, boy! (sad again) But what will you do without a father?
+</T>
+<T>
+SON
+If he were dead, youd be weeping for him. If you arent weeping, its a good sign that Ill soon have a new father.
+</T>
+<T>
+LADY MACDUFF
+Silly babbler, how you talk!
+</T>
+<T>
+MESSENGER
+Bless you, fair lady! You dont know me, but I know youre an important person. Im afraid something dangerous is coming toward you. If youll take a simple mans advice, dont be here when it arrives. Go away and take your children. I feel bad for scaring you like this, but it would be much worse for me to let you come to harm. And harm is getting close! Heaven keep you safe!
+</T>
+<T>
+LADY MACDUFF
+Where should I go? I havent done anything wrong. But I have to remember that Im here on Earth, where doing evil is often praised, and doing good is sometimes a stupid and dangerous mistake. So then why should I offer this womanish defense that Im innocent?
+</T>
+<T>
+Who are these men?
+</T>
+<T>
+FIRST MURDERER
+Where is your husband?
+</T>
+<T>
+LADY MACDUFF
+I hope hes not anywhere so disreputable that thugs like you can find him.
+</T>
+<T>
+FIRST MURDERER
+Hes a traitor.
+</T>
+<T>
+SON
+Youre lying, you shaggy-haired villain!
+</T>
+<T>
+FIRST MURDERER
+Whats that, you runt? (stabbing him) Young son of a traitor!
+</T>
+<T>
+SON
+He has killed me, Mother. Run away, I beg you!
+</T>
+<T>
+MALCOLM
+Lets seek out some shady place where we can sit down alone and cry our hearts out.
+</T>
+<T>
+MACDUFF
+Instead of crying, lets keep hold of our swords and defend our fallen homeland like honorable men. Each day new widows howl, new orphans cry, and new sorrows slap heaven in the face, until it sounds like heaven itself feels Scotlands anguish and screams in pain.
+</T>
+<T>
+MALCOLM
+I will avenge whatever I believe is wrong. And Ill believe whatever Im sure is true. And Ill put right whatever I can when the time comes. What you just said may perhaps be true. This tyrant, whose mere name is so awful it hurts us to say it, was once considered an honest man. You were one of his favorites. He hasnt done anything to harm you yet. Im inexperienced, but maybe youre planning to win Macbeths favor by betraying me to him. It would be smart to offer someone poor and innocent like me as a sacrificial lamb to satisfy an angry god like Macbeth.
+</T>
+<T>
+MACDUFF
+I am not treacherous.
+</T>
+<T>
+MALCOLM
+But Macbeth is. Even someone with a good and virtuous nature might give way to a royal command. But I beg your pardon. My fears cant actually make you evil. Angels are still bright even though Lucifer, the brightest angel, fell from heaven. Even though everything evil wants to look good, good still has to look good too.
+</T>
+<T>
+MACDUFF
+I have lost my hope of convincing you to fight against Macbeth.
+</T>
+<T>
+MALCOLM
+Maybe you lost your hopes about me where I found my doubts about you. Why did you leave your wife and child vulnerablethe most precious things in your life, those strong bonds of love? How could you leave them behind? But I beg you, dont interpret my suspicions as slander against you. You must understand that I want to protect myself. You may really be honest, no matter what I think.
+</T>
+<T>
+MACDUFF
+Bleed, bleed, poor country! Great tyrant, go ahead and build yourself up, because good people are afraid to stand up to you. Enjoy everything you stole, because your title is safe! Farewell, lord. I wouldnt be the villain you think I am even if I were offered all of Macbeths kingdom and the riches of the East too.
+</T>
+<T>
+MALCOLM
+Dont be offended. I dont completely distrust you. I do think Scotland is sinking under Macbeths oppression. Our country weeps, it bleeds, and each day a fresh cut is added to her wounds. I also think there would be many people willing to fight for me. The English have promised me thousands of troops. But even so, when I have Macbeths head under my foot, or stuck on the end of my sword, then my poor country will be plagued by worse evil than it was before. It will suffer worse and in more ways than ever under the reign of the king who follows Macbeth.
+</T>
+<T>
+MACDUFF
+Who are you talking about?
+</T>
+<T>
+MALCOLM
+Im talking about myself. I know I have so many vices that when people see all of them exposed, evil Macbeth will seem as pure as snow in comparison, and poor Scotland will call him a sweet lamb when they compare him to me and my infinite evils.
+</T>
+<T>
+MACDUFF
+Even in hell you couldnt find a devil worse than Macbeth.
+</T>
+<T>
+MALCOLM
+I admit that hes murderous, lecherous, greedy, lying, deceitful, violent, malicious, and guilty of every sin that has a name. But there is no end, absolutely none, to my sexual desires. Your wives, your daughters, your old women, and your young maids together could not satisfy my lust. My desire would overpower all restraints and anyone who stood in my way. It would be better for Macbeth to rule than someone like me.
+</T>
+<T>
+MACDUFF
+Endless greed and lust in a mans nature is a kind of tyranny. It has caused the downfall of many kings. But dont be afraid to take the crown that belongs to you. You can find a way to satisfy your desires in secret, while still appearing virtuous. You can deceive everyone. There are more than enough willing women around. Your lust cant possibly be so strong that youd use up all the women willing to give themselves to the king once they find out he wants them.
+</T>
+<T>
+MALCOLM
+Along with being full of lust, Im also incredibly greedy. If I became king, I would steal the nobles' lands, taking jewels from one guy and houses from another. The more I had, the greedier I would grow, until Id invent false quarrels with my good and loyal subjects, destroying them so I could get my hands on their wealth.
+</T>
+<T>
+MACDUFF
+The greed youre talking about is worse than lust because you wont outgrow it. Greed has been the downfall of many kings. But dont be afraid. Scotland has enough treasures to satisfy you out of your own royal coffers. These bad qualities are bearable when balanced against your good sides.
+</T>
+<T>
+MALCOLM
+But I dont have any good sides. I dont have a trace of the qualities a king needs, such as justice, truth, moderation, stability, generosity, perseverance, mercy, humility, devotion, patience, courage, and bravery. Instead, I overflow with every variation of all the different vices. No, if I had power I would take world peace and throw it down to hell.
+</T>
+<T>
+MACDUFF
+Oh Scotland, Scotland!
+</T>
+<T>
+MALCOLM
+If someone like me is fit to be king, let me know. I really am exactly as I have described myself to you.
+</T>
+<T>
+MACDUFF
+(to MALCOLM) Fit to be king? Youre not fit to live!Oh miserable nation, ruled by a usurping, murderous tyrant, when will you see peaceful days again? The man who has a legal right to the throne is, by his own admission, a cursed man and a disgrace to the royal family.Your royal father Duncan was a virtuous king. Your mother spent more time on her knees in prayer than she did standing up, and she lived a life of absolute piety. Good-bye. The evils you have described inside yourself have driven me out of Scotland forever. Oh my heart, your hope is dead!
+</T>
+<T>
+MALCOLM
+Macduff, this passionate outburst, which proves your integrity, has removed my doubts about you and made me realize that you really are trustworthy and honorable. That devil Macbeth has tried many times to trick me and lure me into his power, and prudence prevents me from believing people too quickly. But with God as my witness, I will let myself be guided by you, and I take back my confession. I take back all the bad things I said about myself, because none of those flaws are really part of my character. Im still a virgin. I have never told a lie. I barely care about what I already own, let alone feel jealous of anothers possessions. I have never broken a promise. I wouldnt betray the devil himself. I love truth as much as I love life. The lies I told about my character are actually the first false words I have ever spoken. The person who I really am is ready to serve you and our poor country.
+</T>
+<T>
+Indeed, before you arrived here, old Siward, with ten thousand soldiers already prepared for battle, was making his way here. Now we will fight Macbeth together, and may the chances of our success be as great as the justice of our cause! Why are you silent?
+</T>
+<T>
+MACDUFF
+Its hard to make sense of such different stories.
+</T>
+<T>
+MALCOLM
+Well, well speak more soon. (to the DOCTOR) Is King Edward coming out?
+</T>
+<T>
+DOCTOR
+Yes, sir. A crowd of sick people is waiting for him to heal them. Their illness confounds the most advanced techniques of modern medicine, but when he touches them, they heal immediately because of the power granted to him by heaven.
+</T>
+<T>
+MALCOLM
+Thank you, doctor.
+</T>
+<T>
+MACDUFF
+What disease is he talking about?
+</T>
+<T>
+MALCOLM
+Its called the evil. Edwards healing touch is a miracle that I have seen him perform many times during my stay in England. How he receives these gifts from heaven, only he can say. But he cures people with strange conditionsall swollen, plagued by ulcers, and pitiful to look at, patients who are beyond the help of surgeryby placing a gold coin around their necks and saying holy prayers over them.
+</T>
+<T>
+They say that he bequeaths this ability to heal to his royal descendants. Along with this strange power, he also has the gift of prophecy and various other abilities. All of these signs mark him as a man graced by God.
+</T>
+<T>
+MACDUFF
+Whos that coming over here?
+</T>
+<T>
+MALCOLM
+By his dress I can tell hes my countryman, but I dont recognize him.
+</T>
+<T>
+MACDUFF
+My noble kinsman, welcome.
+</T>
+<T>
+MALCOLM
+I recognize him now. May God alter the circumstances that keep us apart!
+</T>
+<T>
+ROSS
+Hello, sir.
+</T>
+<T>
+MACDUFF
+Is Scotland the same as when I left it?
+</T>
+<T>
+ROSS
+Alas, our poor country! Its too frightened to look at itself. Scotland is no longer the land where we were born; its the land where well die. Where no one ever smiles except for the fool who knows nothing. Where sighs, groans, and shrieks rip through the air but no one notices. Where violent sorrow is a common emotion. When the funeral bells ring, people no longer ask who died. Good men die before the flowers in their caps wilt. They die before they even fall sick.
+</T>
+<T>
+MACDUFF
+Oh, your report is too poetic, but it sounds so true!
+</T>
+<T>
+MALCOLM
+What is the most recent news?
+</T>
+<T>
+ROSS
+Even news an hour old is old news. Every minute another awful thing happens.
+</T>
+<T>
+MACDUFF
+How is my wife?
+</T>
+<T>
+ROSS
+Shes well.
+</T>
+<T>
+MACDUFF
+And all my children?
+</T>
+<T>
+ROSS
+Theyre well too.
+</T>
+<T>
+MACDUFF
+Macbeth hasnt attacked them?
+</T>
+<T>
+ROSS
+They were at peaceLady Macduff and the children are well and at peace in the sense that theyre dead.at peace when I left them.
+</T>
+<T>
+MACDUFF
+Dont be stingy with your words. Whats the news?
+</T>
+<T>
+ROSS
+While I was coming here to tell you my sad news, I heard rumors that many good men are arming themselves to rebel against Macbeth. When I saw Macbeths army on the move, I knew the rumors must be true. Now is the time when we need your help. Your presence in Scotland would inspire people to fight. Even the women would fight to rid themselves of Macbeths oppression.
+</T>
+<T>
+MALCOLM
+Let them be comfortedIm returning to Scotland. Gracious King Edward has sent us noble Siward and ten thousand soldiers. There is no soldier more experienced or successful than Siward in the entire Christian world.
+</T>
+<T>
+ROSS
+I wish I could repay this happy news with good news of my own. But I have some news that should be howled in a barren desert where nobody can hear it.
+</T>
+<T>
+MACDUFF
+What is this news about? Does it affect all of us? Or just one of us?
+</T>
+<T>
+ROSS
+No decent man can keep from sharing in the sorrow, but my news affects you alone.
+</T>
+<T>
+MACDUFF
+If its for me, dont keep it from me. Let me have it now.
+</T>
+<T>
+ROSS
+I hope you wont hate me forever after I say these things, because I will soon fill your ears with the most dreadful news you have ever heard.
+</T>
+<T>
+MACDUFF
+I think I can guess what youre about to say.
+</T>
+<T>
+ROSS
+Your castle was attacked. Your wife and children were savagely slaughtered. If I told you how they were killed, it would cause you so much pain that it would kill you too, and add your body to the pile of murdered corpses.
+</T>
+<T>
+MALCOLM
+Merciful heaven! (to MACDUFF) Come on, man, dont keep your grief hidden. Put your sorrow into words. The grief you keep inside you will whisper in your heart until it breaks.
+</T>
+<T>
+MACDUFF
+They killed my children too?
+</T>
+<T>
+ROSS
+They killed your wife, your children, your servants, anyone they could find.
+</T>
+<T>
+MACDUFF
+And I had to be away! My wife was killed too?
+</T>
+<T>
+ROSS
+I said she was.
+</T>
+<T>
+MALCOLM
+Take comfort. Lets cure this awful grief by taking revenge on Macbeth.
+</T>
+<T>
+MACDUFF
+He doesnt have children. All my pretty little children? Did you say all? Oh, that bird from hell! All of them? What, all my children and their mother dead in one fell swoop?
+</T>
+<T>
+MALCOLM
+Fight it like a man.
+</T>
+<T>
+MACDUFF
+I will. But I also have to feel it like a man. I cant help remembering the things that were most precious to me. Did heaven watch the slaughter and not send down any help? Sinful Macduff, they were killed because of you! As wicked as I am, they were slaughtered because of me, not because of anything they did. May God give their souls rest.
+</T>
+<T>
+MALCOLM
+Let this anger sharpen your sword. Transform your grief into anger. Dont block the feelings in your heart; let them loose as rage.
+</T>
+<T>
+MACDUFF
+I could go on weeping like a woman and bragging about how I will avenge them! But gentle heavens, dont keep me waiting. Bring me face to face with Macbeth, that devil of Scotland. Put him within the reach of my sword, and if he escapes, may heaven forgive him as well!
+</T>
+<T>
+MALCOLM
+Now you sound like a man. Come on, lets go see King Edward. The army is ready. All we have to do now is say goodbye to the king. Macbeth is ripe for the picking. Well be acting as Gods agents. Cheer up as much as you can. A new day will come at last.
+</T>
+<T>
+DOCTOR
+Ive stayed up with you for two nights now, and I havent seen any evidence of what you were talking about. When was the last time you saw her sleepwalking?
+</T>
+<T>
+GENTLEWOMAN
+Since Macbeth went to war, I have seen her rise from her bed, put on her nightgown, unlock her closet, take out some paper, fold it, write on it, read it, seal it up, and then return to bed, remaining asleep the entire time.
+</T>
+<T>
+DOCTOR
+Its unnatural to be asleep and act as if youre awake. When she is like this, besides walking and performing various activities, have you heard her say anything?
+</T>
+<T>
+GENTLEWOMAN
+She says something, sir, but I will not repeat it to you.
+</T>
+<T>
+DOCTOR
+You can tell me. You really should.
+</T>
+<T>
+GENTLEWOMAN
+I will not confess it to you nor to anyone else, because there was no one else to witness her speech.
+</T>
+<T>
+Look, here she comes! This is exactly how she always looks, andI swear itshe is fast asleep. Watch her. Keep hidden.
+</T>
+<T>
+DOCTOR
+How did she get that candle?
+</T>
+<T>
+GENTLEWOMAN
+It stands by her bedside. She always has to have a light next to her. Those are her orders.
+</T>
+<T>
+DOCTOR
+You see, her eyes are open.
+</T>
+<T>
+GENTLEWOMAN
+Yes, but they dont see anything.
+</T>
+<T>
+DOCTOR
+Whats she doing now? Look how she rubs her hands.
+</T>
+<T>
+GENTLEWOMAN
+She often does that. She looks like shes washing her hands. Ive seen her do that before for as long as fifteen minutes.
+</T>
+<T>
+LADY MACBETH
+Theres still a spot here.
+</T>
+<T>
+DOCTOR
+Listen! Shes talking. Ill write down what she says, so Ill remember it better.
+</T>
+<T>
+LADY MACBETH
+(rubbing her hands) Come out, damned spot! Out, I command you! One, two. OK, its time to do it now.Hell is murky!Nonsense, my lord, nonsense! You are a soldier, and yet you are afraid? Why should we be scared, when no one can lay the guilt upon us?But who would have thought the old man would have had so much blood in him?
+</T>
+<T>
+DOCTOR
+Did you hear that?
+</T>
+<T>
+LADY MACBETH
+The thane of Fife had a wife. Where is she now?What, will my hands never be clean?No more of that, my lord, no more of that. Youll ruin everything by acting startled like this.
+</T>
+<T>
+DOCTOR
+Now look what youve done. Youve heard something you shouldnt have.
+</T>
+<T>
+GENTLEWOMAN
+She said something she shouldnt have said, Im sure of that. Heaven knows what secrets shes keeping.
+</T>
+<T>
+LADY MACBETH
+I still have the smell of blood on my hand. All the perfumes of Arabia couldnt make my little hand smell better. Oh, oh, oh!
+</T>
+<T>
+DOCTOR
+What a heavy sigh! Her heart is carrying a heavy weight.
+</T>
+<T>
+GENTLEWOMAN
+I wouldnt want a heart like hers even if you made me queen.
+</T>
+<T>
+DOCTOR
+Well, well, well.
+</T>
+<T>
+GENTLEWOMAN
+I hope what shes saying is well, sir!
+</T>
+<T>
+DOCTOR
+This disease is beyond my medical skills. But I have known people who sleepwalked and werent guilty of anything.
+</T>
+<T>
+LADY MACBETH
+Wash your hands. Put on your nightgown. Dont look so frightened. I tell you again, Banquo is buried. He cannot come out of his grave.
+</T>
+<T>
+DOCTOR
+Is this true?
+</T>
+<T>
+LADY MACBETH
+To bed, to bed! Theres a knocking at the gate. Come, come, come, come, give me your hand. Whats done cannot be undone. To bed, to bed, to bed!
+</T>
+<T>
+DOCTOR
+Will she go to bed now?
+</T>
+<T>
+GENTLEWOMAN
+Yes, right away.
+</T>
+<T>
+DOCTOR
+Evil rumors are going around. Unnatural acts will cause supernaturalSleepwalking and sleeptalking were considered supernatural events in Shakespeares time.supernatural things to happen. People with guilty and deranged minds will confess their secrets to their pillows as they sleep. This woman needs a priest more than a doctor. God forgive us all! (to the waiting- GENTLEWOMAN) Look after her. Remove anything she might hurt herself with. Watch her constantly. And now, good-night. She has bewildered my mind and amazed my eyes. I have an opinion, but I dont dare to say it out loud.
+</T>
+<T>
+GENTLEWOMAN
+Good night, good doctor.
+</T>
+<T>
+MENTEITH
+The English army is near, led by Malcolm, his uncle Siward, and the good Macduff. They burn for revenge. The wrongs they have suffered would make dead men rise up and fight.
+</T>
+<T>
+ANGUS
+Well meet them near Birnam Wood. They are coming that way.
+</T>
+<T>
+CAITHNESS
+Does anyone know if Donalbain is with his brother?
+</T>
+<T>
+LENNOX
+He is definitely not there, sir. I have a list of all the important men. Siwards son is there, as well as many boys too young to have beards who will become men by joining in this battle.
+</T>
+<T>
+MENTEITH
+What is the tyrant Macbeth doing?
+</T>
+<T>
+CAITHNESS
+He is fortifying his castle at Dunsinane with heavy defenses. Some say hes insane. Those who hate him less call it brave anger. One thing is certain: hes out of control.
+</T>
+<T>
+ANGUS
+Now Macbeth feels the blood of his murdered enemies sticking to his hands. Now, rebel armies punish him every minute for his treachery. The soldiers he commands are only following orders. They dont fight because they love Macbeth. Now he seems too small to be a great king, like a midget trying to wear the robes of a giant.
+</T>
+<T>
+MENTEITH
+Who can blame him for acting crazy, when inside he condemns himself for everything hes done?
+</T>
+<T>
+CAITHNESS
+Well, lets keep marching and give our loyalty to someone who truly deserves it. Were going to meet Malcolm, the doctor who will cure our sick country. Well pour out our own blood to help him.
+</T>
+<T>
+LENNOX
+However much blood we need to give to water the royal flower and drown the weedsto make Malcolm king and get rid of Macbeth. Lets proceed on our march to Birnam.
+</T>
+<T>
+MACBETH
+Dont bring me any more reports. I dont care if all the thanes desert me. Until Birnam Wood gets up and moves to Dunsinane, I wont be affected by fear. Whats the boy Malcolm? Wasnt he born from a woman? The spirits that know the future have told me this: Dont be afraid, Macbeth. No man born from a woman will ever defeat you. So get out of here, disloyal thanes, and join the weak and decadent English! My mind and courage will never falter with doubt or shake with fear.
+</T>
+<T>
+May the devil turn you black, you white-faced fool! Why do you look like a frightened goose?
+</T>
+<T>
+SERVANT
+There are ten thousand
+</T>
+<T>
+MACBETH
+Geese, you idiot?
+</T>
+<T>
+SERVANT
+Soldiers, sir.
+</T>
+<T>
+MACBETH
+Go pinch your cheeks and bring some color back into your face, you cowardly boy. What soldiers, fool? Curse you! That pale face of yours will frighten the others as well. What soldiers, milk-face?
+</T>
+<T>
+SERVANT
+The English army, sir.
+</T>
+<T>
+MACBETH
+Get out of my sight.
+</T>
+<T>
+Seyton!Im sick at heart when I seeSeyton, come here!This battle will either secure my reign forever or else topple me from the throne. I have lived long enough. The course of my life is beginning to wither and fall away, like a yellowing leaf in autumn. The things that should go along with old age, like honor, love, obedience, and loyal friends, I cannot hope to have. Instead, I have passionate but quietly whispered curses, people who honor me with their words but not in their hearts, and lingering life, which my heart would gladly end, though I cant bring myself to do it. Seyton!
+</T>
+<T>
+SEYTON
+What do you want?
+</T>
+<T>
+MACBETH
+Is there more news?
+</T>
+<T>
+SEYTON
+All the rumors have been confirmed.
+</T>
+<T>
+MACBETH
+Ill fight until they hack the flesh off my bones. Give me my armor.
+</T>
+<T>
+SEYTON
+You dont need it yet.
+</T>
+<T>
+MACBETH
+Ill put it on anyway. Send out more cavalry. Scour the whole country and hang anyone spreading fear. Give me my armor. (to the DOCTOR) How is my wife, doctor?
+</T>
+<T>
+DOCTOR
+She is not sick, my lord, but she is troubled with endless visions that keep her from sleeping.
+</T>
+<T>
+MACBETH
+Cure her of that. Cant you treat a diseased mind? Take away her memory of sorrow? Use some drug to erase the troubling thoughts from her brain and ease her heart?
+</T>
+<T>
+DOCTOR
+For that kind of relief, the patient must heal herself.
+</T>
+<T>
+MACBETH
+Medicine is for the dogs. I wont have anything to do with it. (to SEYTON) Come, put my armor on me. Give me my lance. Seyton, send out the soldiers. (to the DOCTOR) Doctor, the thanes are running away from me. (to SEYTON) Come on, sir, hurry. (to the DOCTOR) Can you figure out whats wrong with my country? If you can diagnose its disease by examining its urine, and bring it back to health, I will praise you to the ends of the Earth, where the sound will echo back so you can hear the applause again.(to SEYTON) Pull it off, I tell you. (to the DOCTOR) What drug would purge the English from this country? Have you heard of any?
+</T>
+<T>
+DOCTOR
+Yes, my good lord. Your preparation for war sounds like something.
+</T>
+<T>
+MACBETH
+(to SEYTON) Bring the armor and follow me. I will not be afraid of death and destruction until Birnam forest picks itself up and moves to Dunsinane.
+</T>
+<T>
+DOCTOR
+(to himself) I wish I were far away from Dunsinane. You couldnt pay me to come back here.
+</T>
+<T>
+MALCOLM
+Kinsmen, I hope the time is coming when people will be safe in their own bedrooms.
+</T>
+<T>
+MENTEITH
+We dont doubt it.
+</T>
+<T>
+SIWARD
+Whats the name of this forest behind us?
+</T>
+<T>
+MENTEITH
+Birnam Wood.
+</T>
+<T>
+MALCOLM
+Tell every soldier to break off a branch and hold it in front of him. That way we can conceal how many of us there are, and Macbeths spies will give him inaccurate reports.
+</T>
+<T>
+SOLDIERS
+Well do it.
+</T>
+<T>
+SIWARD
+We have no news except that the overconfident Macbeth is still in Dunsinane and will allow us to lay siege to the castle.
+</T>
+<T>
+MALCOLM
+He wants us to lay siege. Wherever his soldiers have an opportunity to leave him, they do, whatever rank they are. No one fights with him except men who are forced to, and their hearts arent in it.
+</T>
+<T>
+MACDUFF
+We shouldnt make any judgments until we achieve our goal. Lets go fight like hardworking soldiers.
+</T>
+<T>
+SIWARD
+Soon well find out whats really ours and what isnt. Its easy for us to get our hopes up just sitting around thinking about it, but the only way this is really going to be settled is by violence. So lets move our armies forward.
+</T>
+<T>
+MACBETH
+Hang our flags on the outer walls. Everyone keeps yelling, Here they come! Our castle is strong enough to laugh off their seige. They can sit out there until they die of hunger and disease. If it werent for the fact that so many of our soldiers revolted and joined them, we could have met them out in front of the castle, man to man, and beaten them back to England.
+</T>
+<T>
+Whats that noise?
+</T>
+<T>
+SEYTON
+Its women crying, my good lord.
+</T>
+<T>
+MACBETH
+Ive almost forgotten what fear feels like. There was a time when I would have been terrified by a shriek in the night, and the hair on my skin would have stood up when I heard a ghost story. But now Ive had my fill of real horrors. Horrible things are so familiar that they cant startle me.
+</T>
+<T>
+What was that cry for?
+</T>
+<T>
+SEYTON
+The queen is dead, my lord.
+</T>
+<T>
+MACBETH
+She would have died later anyway. That news was bound to come someday. Tomorrow, and tomorrow, and tomorrow. The days creep slowly along until the end of time. And every day thats already happened has taken fools that much closer to their deaths. Out, out, brief candle. Life is nothing more than an illusion. Its like a poor actor who struts and worries for his hour on the stage and then is never heard from again. Life is a story told by an idiot, full of noise and emotional disturbance but devoid of meaning.
+</T>
+<T>
+Youve come to tell me something. Tell me quickly.
+</T>
+<T>
+MESSENGER
+My gracious lord, I should tell you what I saw, but I dont know how to say it.
+</T>
+<T>
+MACBETH
+Just say it.
+</T>
+<T>
+MESSENGER
+As I was standing watch on the hill, I looked toward Birnam, and I thought I saw the forest begin to move.
+</T>
+<T>
+MACBETH
+Liar and slave!
+</T>
+<T>
+MESSENGER
+Punish me if its not true. Three miles from here you can see it coming, a moving forest.
+</T>
+<T>
+MACBETH
+If youre lying, Ill hang you alive from the nearest tree until you die of hunger. If what you say is true, you can do the same to me. (to himself) My confidence is failing. Im starting to doubt the lies the devil told me, which sounded like truth. Dont worry until Birnam Wood comes to Dunsinane. And now a wood is coming to Dunsinane. Prepare for battle, and go! If what this messenger says is true, its no use running away or staying here. Im starting to grow tired of living, and Id like to see the world plunged into chaos. Ring the alarms! Blow, wind! Come, ruin! At least well die with our armor on.
+</T>
+<T>
+MALCOLM
+Were close enough now. Throw down these branches and show them who you really are. Uncle Siward, you and your son will lead the first battle. Brave Macduff and I will do the rest, according to our battle plan.
+</T>
+<T>
+SIWARD
+Good luck. If we meet Macbeths army tonight, let us be beaten if we cannot fight.
+</T>
+<T>
+MACDUFF
+Blow all the trumpets. They loudly announce the news of blood and death.
+</T>
+<T>
+MACBETH
+They have me tied to a stake. I cant run away. I have to stand and fight, like a bearIn Shakespeares time, bears were tied to stakes and attacked by dogs for the amusement of audiences.bear.Wheres the man who wasnt born from a woman? Hes the only one Im afraid of, nobody else.
+</T>
+<T>
+YOUNG SIWARD
+Whats your name?
+</T>
+<T>
+MACBETH
+Youll be afraid to hear it.
+</T>
+<T>
+YOUNG SIWARD
+No I wont, even if you were one of the worst demons in hell.
+</T>
+<T>
+MACBETH
+My names Macbeth.
+</T>
+<T>
+YOUNG SIWARD
+The devil himself couldnt say a name I hate more.
+</T>
+<T>
+MACBETH
+No, nor could the devils name be more frightening.
+</T>
+<T>
+YOUNG SIWARD
+You lie, you disgusting tyrant. Ill prove with my sword that Im not scared of you.
+</T>
+<T>
+MACBETH
+You were born from a woman. Swords dont frighten me. I laugh at any weapon used by a man who was born from a woman.
+</T>
+<T>
+MACDUFF
+The noise is coming from over there. Tyrant, show your face! If someone other than me kills you, the ghosts of my wife and children will haunt me forever. I cant be bothered to fight these lame soldiers who only fight for money. Ill either fight you, Macbeth, or else Ill put down my sword unused. You must be over there. By the great noise, it sounds like one of the highest-ranking men is being announced. I hope I find him! I ask for nothing more than that.
+</T>
+<T>
+SIWARD
+Come this way, my lord. The castle has been surrendered without a fight. Macbeths soldiers are fighting on both sides. Our noblemen are battling bravely. The victory is almost yours, and it seems like theres not much left to do.
+</T>
+<T>
+MALCOLM
+Our enemies fight as if theyre trying not to hurt us.
+</T>
+<T>
+SIWARD
+Sir, enter the castle.
+</T>
+<T>
+MACBETH
+Why should I commit suicide like one of the ancient Romans? As long as I see enemies of mine alive, I would rather see my sword wound them than me.
+</T>
+<T>
+MACDUFF
+Turn around, you dog from hell, turn around!
+</T>
+<T>
+MACBETH
+You are the only man I have avoided. But go away now. Im already guilty of killing your whole family.
+</T>
+<T>
+MACDUFF
+I have nothing to say to you. My sword will talk for me. You are too evil for words!
+</T>
+<T>
+MACBETH
+Youre wasting your time trying to wound me. You might as well try to stab the air with your sword. Go fight someone who can be harmed. I lead a charmed life, which cant be ended by anyone born from a woman.
+</T>
+<T>
+MACDUFF
+You can forget about your charm. The evil spirit you serve can tell you that I was not born. They cut me out of my mothers womb before she could bear me naturally.
+</T>
+<T>
+MACBETH
+Curse you for telling me this. Youve fightened away my courage. I dont believe those evil creatures anymore. They tricked me with their wordgames, raising my hopes and then destroying them. I wont fight you.
+</T>
+<T>
+MACDUFF
+Then surrender, coward, and well put you in a freakshow, just like they do with deformed animals. Well put a picture of you on a sign, right above the words Come see the tyrant!
+</T>
+<T>
+MACBETH
+Im not going to surrender and have to kiss the ground in front of Malcolm, or be taunted by the common people. Even though Birnam Wood really did come to Dunsinane, and Im fighting a man not of woman born, Ill fight to the end. Ill put up my shield and battle you. Come on, lets go at it, Macduff, and damn the first man who cries, 'Stop! Enough!'
+</T>
+<T>
+MALCOLM
+I wish all of our friends could have survived this battle.
+</T>
+<T>
+SIWARD
+In every battle, some people will always be killed, but judging from the men I see around us, our great victory didnt cost us very much.
+</T>
+<T>
+MALCOLM
+Macduff is missing, and so is your noble son.
+</T>
+<T>
+ROSS
+My lord, your son has paid the soldiers price: death. He only lived long enough to become a man, and as soon as he proved that he was a man by fighting like one, he died.
+</T>
+<T>
+SIWARD
+So hes dead?
+</T>
+<T>
+ROSS
+Yes, and hes been carried off the field. Your grief should not be equal to his worth, because then your sorrow would never end.
+</T>
+<T>
+SIWARD
+Were his wounds on his front side?
+</T>
+<T>
+ROSS
+Yes, on his front.
+</T>
+<T>
+SIWARD
+Well then, hes Gods soldier now! If I had as many sons as I have hairs on my head, I couldnt hope that any of them would die more honorably than he did. And thats all there is to it.
+</T>
+<T>
+MALCOLM
+He is worth more mourning than that, and I will mourn for him.
+</T>
+<T>
+SIWARD
+He is worth no more than that. They tell me he died well, and settled his scores. With that, I hope God is with him! Here comes better news.
+</T>
+<T>
+MACDUFF
+Hail, king! Because thats what you are now. Look, here I have Macbeths cursed head. We are free from his tyranny. I see that you have the kingdoms noblemen around you, and theyre thinking the same thing as me. I want them to join me in this loud cheer, Hail, King of Scotland!
+</T>
+<T>
+ALL
+Hail, King of Scotland!
+</T>
+<T>
+MALCOLM
+It wont be long before I reward each of you as he deserves. My thanes and kinsmen, I name you all earls, the first earls that Scotland has ever had. We have a lot to do at the dawn of this new era. We must call home all of our exiled friends who fled from the grip of Macbeths tyranny, and we must bring to justice all the evil ministers of this dead butcher and his demon-like queen, who, rumor has it, committed suicide. This, and whatever else we are called to do by God, we will do at the right time and in the right place. So I thank you all, and I invite each and every one of you to come watch me be crowned king of Scotland at Scone.
+</T>
