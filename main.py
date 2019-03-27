@@ -20,7 +20,7 @@ neo4jUser = 'neo4j'
 neo4jPassword = 'password'
 neo4jUri = 'bolt://localhost:7687'
 
-postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
+postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/modern/'
 
 outputFile = 'triples.txt'
 
