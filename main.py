@@ -20,7 +20,9 @@ neo4jUser = 'neo4j'
 neo4jPassword = 'password'
 neo4jUri = 'bolt://localhost:7687'
 
-postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/modern/'
+postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
+
+play = 'hamlet'
 
 outputFile = 'triples.txt'
 
@@ -29,12 +31,14 @@ def retrieveText(url: str) -> List[Tuple[str, str]]:
     playText = eval(response.read())
     return playText
 
-def retrievePlayCharacters(playName: str) -> List[Tuple[str, str]]:
-    url = urllib.parse.urljoin(postGresBaseURL, playName + '/characters')
+def retrievePlayCharacters() -> List[Tuple[str, str]]:
+    global play
+    url = urllib.parse.urljoin(postGresBaseURL, play + '/characters')
     return retrieveText(url)
 
-def retrievePlayText(playName: str) -> List[Tuple[str, str]]:
-    url = urllib.parse.urljoin(postGresBaseURL, playName)
+def retrievePlayText() -> List[Tuple[str, str]]:
+    global play
+    url = urllib.parse.urljoin(postGresBaseURL + 'modern/', play)
     return retrieveText(url)
 
 def preprocessText(playText: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
@@ -249,9 +253,15 @@ def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> Li
     if verbose:
         print('POST PROCESSING RELATIONS')
         print('%d triples before removing dominated relations' % len(triples))
-
-    # Compare every relation to every other relation
+    characters = retrievePlayCharacters()
     triplesToRemove = set()
+    # Remove if [0] does not include a character, if [0] and [2] have the same character, or if [1] has a character.
+    for i in range(len(triples)):
+        if all(character[0] not in triples[i][0] for character in characters) or \
+        any(character[0] in triples[i][0] and character[0] in triples[i][2] for character in characters) or \
+        len(triples[i][0].split(' ')) > 1 or any(character[0] in triples[i][1] for character in characters):
+            triplesToRemove.add(i)
+    # Compare every relation to every other relation
     for i in range(len(triples)):
         for j in range(i+1, len(triples)):
             # If both triples are already being removed we don't need to check
@@ -333,6 +343,7 @@ def writeToFile(triples: List[Tuple[str, str, str]], verbose: bool = False) -> N
             f.write('%s, %s, %s\n' % (t))
 
 def main():
+    
     # Raw first few lines of Hamlet
     # playText = [["(stage directions)", "Enter two Sentinels-[first,] Francisco, [who paces up and down at his post; then] Bernardo, [who approaches him]."], ["Bernardo", "Who's there?"], ["Francisco", "Nay, answer me. Stand and unfold yourself."], ["Bernardo", "Long live the King!"], ["Francisco", "Bernardo?"], ["Bernardo", "He."], ["Francisco", "You come most carefully upon your hour."], ["Bernardo", "'Tis now struck twelve. Get thee to bed, Francisco."], ["Francisco", "For this relief much thanks. 'Tis bitter cold, And I am sick at heart."], ["Bernardo", "Have you had quiet guard?"], ["Francisco", "Not a mouse stirring."], ["Bernardo", "Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste."], ["(stage directions)", " Enter Horatio and Marcellus. "], ["Francisco", "I think I hear them. Stand, ho! Who is there?"], ["Horatio", "Friends to this ground."], ["Marcellus", "And liegemen to the Dane."], ["Francisco", "Give you good night."], ["Marcellus", "O, farewell, honest soldier. Who hath reliev'd you?"], ["Francisco", "Bernardo hath my place. Give you good night. Exit."], ["Marcellus", "Holla, Bernardo!"], ["Bernardo", "Say- What, is Horatio there ?"], ["Horatio", "A piece of him."], ["Bernardo", "Welcome, Horatio. Welcome, good Marcellus."], ["Marcellus", "What, has this thing appear'd again to-night?"], ["Bernardo", "I have seen nothing."], ["Marcellus", "Horatio says 'tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us. Therefore I have entreated him along, With us to watch the minutes of this night, That, if again this apparition come, He may approve our eyes and speak to it."], ["Horatio", "Tush, tush, 'twill not appear."], ["Bernardo", "Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."], ["Horatio", "Well, sit we down, And let us hear Bernardo speak of this."]]
     # Plot overview in modern english
@@ -342,7 +353,7 @@ def main():
     # Dummy sample text
     # playText = [("line one", "John ate a sandwich. He is full. Sally ate soup. He is not hungry. She is hungry."), ("line two", "The music is too loud for it to be enjoyed. If they are angry about it, the neighbors will call the cops.")]
     # Retrieve play text from postgres
-    playText = retrievePlayText('hamlet')
+    playText = retrievePlayText()
     print('Retrieved text')
     playText = substitutePronouns(playText, verbose=False)
     print('Substituted pronouns')
