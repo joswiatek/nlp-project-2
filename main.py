@@ -5,6 +5,7 @@ import json
 import functools
 import spacy
 import os
+import time
 from spacy.symbols import PRON
 import string
 from neo4j import GraphDatabase
@@ -24,8 +25,9 @@ neo4jUri = 'bolt://localhost:7687'
 postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
 
 play = 'hamlet'
+modernPlays = ['12night','antonycleo','asyoulikeit','hamlet','juliuscaesar','kinglear','macbeth','measure','merchantvenice','midsummer','othello','richard2','richard3','romeojuliet','tempest','twogents','winterstale']
 
-outputFile = 'triples.txt'
+outputFile = play + '-triples.txt'
 
 def retrieveText(url: str) -> List[Tuple[str, str]]:
     response = urllib.request.urlopen(url)
@@ -229,14 +231,6 @@ def extractRelationships(playText: List[Tuple[str, str]], verbose: bool = False)
             for result in sentence['openie']:
                 relations.append((result['subject'], result['relation'], result['object']))
 
-    # Unwrapped list comprehension is shown below
-    # relations = [(result['subject'], result['relation'], result['object']) for sentence in annotations['sentences'] for result in sentence['openie']]
-    """
-    for sentence in annotations['sentences']:
-        for result in sentence['openie']:
-            relation = (result['subject'], result['relation'], result['object'])
-            relations.append(relation)
-    """
     return relations
 
 def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> List[Tuple[str, str, str]]:
@@ -344,7 +338,7 @@ def writeToFile(triples: List[Tuple[str, str, str]], verbose: bool = False) -> N
             f.write('%s, %s, %s\n' % (t))
 
 def main():
-    
+
     # Raw first few lines of Hamlet
     # playText = [["(stage directions)", "Enter two Sentinels-[first,] Francisco, [who paces up and down at his post; then] Bernardo, [who approaches him]."], ["Bernardo", "Who's there?"], ["Francisco", "Nay, answer me. Stand and unfold yourself."], ["Bernardo", "Long live the King!"], ["Francisco", "Bernardo?"], ["Bernardo", "He."], ["Francisco", "You come most carefully upon your hour."], ["Bernardo", "'Tis now struck twelve. Get thee to bed, Francisco."], ["Francisco", "For this relief much thanks. 'Tis bitter cold, And I am sick at heart."], ["Bernardo", "Have you had quiet guard?"], ["Francisco", "Not a mouse stirring."], ["Bernardo", "Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste."], ["(stage directions)", " Enter Horatio and Marcellus. "], ["Francisco", "I think I hear them. Stand, ho! Who is there?"], ["Horatio", "Friends to this ground."], ["Marcellus", "And liegemen to the Dane."], ["Francisco", "Give you good night."], ["Marcellus", "O, farewell, honest soldier. Who hath reliev'd you?"], ["Francisco", "Bernardo hath my place. Give you good night. Exit."], ["Marcellus", "Holla, Bernardo!"], ["Bernardo", "Say- What, is Horatio there ?"], ["Horatio", "A piece of him."], ["Bernardo", "Welcome, Horatio. Welcome, good Marcellus."], ["Marcellus", "What, has this thing appear'd again to-night?"], ["Bernardo", "I have seen nothing."], ["Marcellus", "Horatio says 'tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us. Therefore I have entreated him along, With us to watch the minutes of this night, That, if again this apparition come, He may approve our eyes and speak to it."], ["Horatio", "Tush, tush, 'twill not appear."], ["Bernardo", "Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."], ["Horatio", "Well, sit we down, And let us hear Bernardo speak of this."]]
     # Plot overview in modern english
@@ -354,22 +348,31 @@ def main():
     # Dummy sample text
     # playText = [("line one", "John ate a sandwich. He is full. Sally ate soup. He is not hungry. She is hungry."), ("line two", "The music is too loud for it to be enjoyed. If they are angry about it, the neighbors will call the cops.")]
     # Retrieve play text from postgres
-    playText = retrievePlayText()
-    print('Retrieved text')
-    playText = substitutePronouns(playText, verbose=False)
-    print('Substituted pronouns')
-    playText = coreferenceResolve(playText, verbose=False)
-    print('Coreferences resolved')
-    playText = spacy(playText, verbose=False)
-    print('Dependencies parsed')
-    relations = extractRelationships(playText, verbose=False)
-    print('Relationships extracted')
-    relations = postProcess(relations, verbose=False)
-    print('Triples post processed')
-    writeToDB(relations, verbose=False)
-    print('Relations written to DB')
-    writeToFile(relations, verbose=False)
-    print('Relations written to file')
+
+    for play in modernPlays:
+        startTime = time.time()
+        print('Retrieving text for play: %s' % play)
+        playText = retrievePlayText()
+        print('Retrieved text, substituting pronouns')
+        playText = substitutePronouns(playText, verbose=False)
+        print('Substituted pronouns, resolving coreferences')
+        playText = coreferenceResolve(playText, verbose=False)
+        print('Coreferences resolved, parsing dependencies')
+        playText = spacy(playText, verbose=False)
+        print('Dependencies parsed, extracting relationships')
+        relations = extractRelationships(playText, verbose=False)
+        print('Relationships extracted, post processing triples')
+        relations = postProcess(relations, verbose=False)
+        print('Triples post processed, writing to DB')
+        writeToDB(relations, verbose=False)
+        print('Relations written to DB, writing relations to file')
+        writeToFile(relations, verbose=False)
+        print('Relations written to file: %s' % outputFile)
+        endTime = time.time()
+        totalSeconds = endTime - startTime
+        m, s = divmod(totalSeconds, 60)
+        h, m = divmod(m, 60)
+        print('Done with %s, full pipeline took %d hours, %02d minutes, %02d seconds' % (play, h, m, s))
     return
 
 main()
