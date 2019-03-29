@@ -27,7 +27,7 @@ postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
 play = 'hamlet'
 modernPlays = ['12night','antonycleo','asyoulikeit','hamlet','juliuscaesar','kinglear','macbeth','measure','merchantvenice','midsummer','othello','richard2','richard3','romeojuliet','tempest','twogents','winterstale']
 
-outputFile = play + '-triples.txt'
+outputFile = '-triples.txt'
 
 def retrieveText(url: str) -> List[Tuple[str, str]]:
     response = urllib.request.urlopen(url)
@@ -323,7 +323,7 @@ def strToRelationName(str) -> str:
     """This function converts a string to a valid Neo4j node name."""
     return str.replace(' ', '_').replace("'", '').replace('-', '_').replace('.', '')
 
-def writeToFile(triples: List[Tuple[str, str, str]], verbose: bool = False) -> None:
+def writeToFile(triples: List[Tuple[str, str, str]], fileName: str, verbose: bool = False) -> None:
     """
     This function accepts relations as triples and writes those triples to a file.
     Args:
@@ -333,7 +333,7 @@ def writeToFile(triples: List[Tuple[str, str, str]], verbose: bool = False) -> N
         A boolean of whether the operation was successful
     """
 
-    with open(outputFile, 'w') as f:
+    with open(fileName, 'w') as f:
         for t in triples:
             f.write('%s, %s, %s\n' % (t))
 
@@ -366,7 +366,7 @@ def main():
         print('Triples post processed, writing to DB')
         writeToDB(relations, verbose=False)
         print('Relations written to DB, writing relations to file')
-        writeToFile(relations, verbose=False)
+        writeToFile(relations, play + outputFile, verbose=False)
         print('Relations written to file: %s' % outputFile)
         endTime = time.time()
         totalSeconds = endTime - startTime
