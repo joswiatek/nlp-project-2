@@ -1,4 +1,5 @@
 from typing import Tuple, List
+import contractions
 import stanfordnlp
 import json
 import functools
@@ -62,7 +63,7 @@ def substitutePronouns(playText: List[Tuple[str, str]], verbose: bool = False) -
 
     for i, (character, dialogue) in enumerate(playText):
         currchar = string.capwords(character)
-        doc = parser(dialogue)
+        doc = parser(contractions.fix(dialogue))
         subs = ''
         for j, word in enumerate(doc):
             if word.pos == PRON and word.lower_ in ['i', 'me']:
