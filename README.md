@@ -1,4 +1,4 @@
-# NLP-Project-2.
+# NLP-Project-2
 
 ## Overview
 This project is for the Information Extraction project of Bruce
@@ -21,4 +21,5 @@ have neo4j running locally it will upload the triples, and it will always write
 the triples to text files.
 
 ## Data
-Final triple data and neo4j exports can be found [here](https://drive.google.com/drive/folders/1-3G1IvRMhPkRkBF80Nk0xV2Gax1ntGrk?usp=sharing).
+Final triple data and neo4j exports can be found
+[here](https://drive.google.com/drive/folders/1-3G1IvRMhPkRkBF80Nk0xV2Gax1ntGrk?usp=sharing).
