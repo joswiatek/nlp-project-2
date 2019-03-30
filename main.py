@@ -24,8 +24,7 @@ neo4jUri = 'bolt://localhost:7687'
 
 postGresBaseURL = 'http://ec2-3-84-24-105.compute-1.amazonaws.com/play/'
 
-play = 'hamlet'
-modernPlays = ['12night','antonycleo','asyoulikeit','hamlet','juliuscaesar','kinglear','macbeth','measure','merchantvenice','midsummer','othello','richard2','richard3','romeojuliet','tempest','twogents','winterstale']
+modernPlays = ['12night','antonycleo','asyoulikeit','hamlet','juliuscaesar','kinglear','macbeth','measure','merchantvenice','midsummer','othello','richard2','richard3','romeojuliet','tempest','winterstale']
 
 outputFile = '-triples.txt'
 
@@ -34,15 +33,23 @@ def retrieveText(url: str) -> List[Tuple[str, str]]:
     playText = eval(response.read())
     return playText
 
-def retrievePlayCharacters() -> List[Tuple[str, str]]:
-    global play
+def retrievePlayCharacters(play: str) -> List[Tuple[str, str]]:
     url = urllib.parse.urljoin(postGresBaseURL, play + '/characters')
     return retrieveText(url)
 
-def retrievePlayText() -> List[Tuple[str, str]]:
-    global play
+def retrievePlayText(play: str) -> List[Tuple[str, str]]:
     url = urllib.parse.urljoin(postGresBaseURL + 'modern/', play)
     return retrieveText(url)
+
+def loadRelationsFromFile(play: str) -> List[Tuple[str, str, str]]:
+    relations = []
+    with open('final-triples/' + play + outputFile, 'r') as f:
+        for line in f:
+            relation = line.split(',')
+            for i in range(len(relation)):
+                relation[i] = relation[i].strip()
+            relations.append(tuple(relation))
+    return relations
 
 def preprocessText(playText: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
     return playText
@@ -233,7 +240,7 @@ def extractRelationships(playText: List[Tuple[str, str]], verbose: bool = False)
 
     return relations
 
-def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> List[Tuple[str, str, str]]:
+def postProcess(triples: List[Tuple[str, str, str]], play: str, verbose: bool = True) -> List[Tuple[str, str, str]]:
     """
     This function performs some simple post-processing of the triples by
     removing triples that are proper subsets of others. We are removing
@@ -248,7 +255,7 @@ def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> Li
     if verbose:
         print('POST PROCESSING RELATIONS')
         print('%d triples before removing dominated relations' % len(triples))
-    characters = retrievePlayCharacters()
+    characters = retrievePlayCharacters(play)
     triplesToRemove = set()
     # Remove if [0] does not include a character, if [0] and [2] have the same character, or if [1] has a character.
     for i in range(len(triples)):
@@ -279,7 +286,7 @@ def postProcess(triples: List[Tuple[str, str, str]], verbose: bool = True) -> Li
     triples = list(map(lambda i: i[1], filter(lambda v: v[0] not in triplesToRemove, enumerate(triples))))
     return triples
 
-def writeToDB(triples: List[Tuple[str, str, str]], verbose: bool = False) -> None:
+def writeToDB(triples: List[Tuple[str, str, str]], playName: str, verbose: bool = False) -> None:
     """
     This function accepts relations as triples and writes those triples into Neo4j.
     Args:
@@ -297,11 +304,11 @@ def writeToDB(triples: List[Tuple[str, str, str]], verbose: bool = False) -> Non
                 with neo4jDriver.session() as session:
                     # Create the subject and object if they don't exist
                     createStatments = [
-                        "MERGE (%s1:node {name: \"%s\"})" % (strToNodeName(relation[0]), relation[0]),
-                        "MERGE (%s2:node {name: \"%s\"})" % (strToNodeName(relation[2]), relation[2]),
+                        "MERGE (%s1:node {name: \"%s\", play:\"%s\"})" % (strToNodeName(relation[0]), relation[0], playName),
+                        "MERGE (%s2:node {name: \"%s\", play:\"%s\"})" % (strToNodeName(relation[2]), relation[2], playName),
                         ]
                     # Connect the two with the relation if the relation isn't already there
-                    relationStatement = "MERGE (%s1)-[:%s {r:\"%s\"}]->(%s2)" % (strToNodeName(relation[0]), strToRelationName(relation[1]), relation[1], strToNodeName(relation[2]))
+                    relationStatement = "MERGE (%s1)-[:relation {action:\"%s\", play:\"%s\"}]->(%s2)" % (strToNodeName(relation[0]), relation[1], playName, strToNodeName(relation[2]))
                     fullStatement = '\n'.join(createStatments + [relationStatement])
                     if verbose:
                         print('Processing triple: %s' % str(relation))
@@ -338,21 +345,11 @@ def writeToFile(triples: List[Tuple[str, str, str]], fileName: str, verbose: boo
             f.write('%s, %s, %s\n' % (t))
 
 def main():
-
-    # Raw first few lines of Hamlet
-    # playText = [["(stage directions)", "Enter two Sentinels-[first,] Francisco, [who paces up and down at his post; then] Bernardo, [who approaches him]."], ["Bernardo", "Who's there?"], ["Francisco", "Nay, answer me. Stand and unfold yourself."], ["Bernardo", "Long live the King!"], ["Francisco", "Bernardo?"], ["Bernardo", "He."], ["Francisco", "You come most carefully upon your hour."], ["Bernardo", "'Tis now struck twelve. Get thee to bed, Francisco."], ["Francisco", "For this relief much thanks. 'Tis bitter cold, And I am sick at heart."], ["Bernardo", "Have you had quiet guard?"], ["Francisco", "Not a mouse stirring."], ["Bernardo", "Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste."], ["(stage directions)", " Enter Horatio and Marcellus. "], ["Francisco", "I think I hear them. Stand, ho! Who is there?"], ["Horatio", "Friends to this ground."], ["Marcellus", "And liegemen to the Dane."], ["Francisco", "Give you good night."], ["Marcellus", "O, farewell, honest soldier. Who hath reliev'd you?"], ["Francisco", "Bernardo hath my place. Give you good night. Exit."], ["Marcellus", "Holla, Bernardo!"], ["Bernardo", "Say- What, is Horatio there ?"], ["Horatio", "A piece of him."], ["Bernardo", "Welcome, Horatio. Welcome, good Marcellus."], ["Marcellus", "What, has this thing appear'd again to-night?"], ["Bernardo", "I have seen nothing."], ["Marcellus", "Horatio says 'tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us. Therefore I have entreated him along, With us to watch the minutes of this night, That, if again this apparition come, He may approve our eyes and speak to it."], ["Horatio", "Tush, tush, 'twill not appear."], ["Bernardo", "Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."], ["Horatio", "Well, sit we down, And let us hear Bernardo speak of this."]]
-    # Plot overview in modern english
-    # playText = [('line', 'On a dark winter night, a ghost walks the ramparts of Elsinore Castle in Denmark.'), ('line', 'Discovered first by a pair of watchmen, then by the scholar Horatio, the ghost resembles the recently deceased King Hamlet, whose brother Claudius has inherited the throne and married the king’s widow, Queen Gertrude.'), ('line', 'When Horatio and the watchmen bring Prince Hamlet, the son of Gertrude and the dead king, to see the ghost, it speaks to him, declaring ominously that it is indeed his father’s spirit, and that he was murdered by none other than Claudius.'), ('line', 'Ordering Hamlet to seek revenge on the man who usurped his throne and married his wife, the ghost disappears with the dawn.'), ('line', 'Prince Hamlet devotes himself to avenging his father’s death, but, because he is contemplative and thoughtful by nature, he delays, entering into a deep melancholy and even apparent madness.'), ('line', 'Claudius and Gertrude worry about the prince’s erratic behavior and attempt to discover its cause.'), ('line', 'They employ a pair of Hamlet’s friends, Rosencrantz and Guildenstern, to watch him.'), ('line', 'When Polonius, the pompous Lord Chamberlain, suggests that Hamlet may be mad with love for his daughter, Ophelia, Claudius agrees to spy on Hamlet in conversation with the girl.'), ('line', 'But though Hamlet certainly seems mad, he does not seem to love Ophelia: he orders her to enter a nunnery and declares that he wishes to ban marriages'), ('line', 'A group of traveling actors comes to Elsinore, and Hamlet seizes upon an idea to test his uncle’s guilt.'), ('line', 'He will have the players perform a scene closely resembling the sequence by which Hamlet imagines his uncle to have murdered his father, so that if Claudius is guilty, he will surely react.'), ('line', 'When the moment of the murder arrives in the theater, Claudius leaps up and leaves the room.'), ('line', 'Hamlet and Horatio agree that this proves his guilt.'), ('line', 'Hamlet goes to kill Claudius but finds him praying.'), ('line', 'Since he believes that killing Claudius while in prayer would send Claudius’s soul to heaven, Hamlet considers that it would be an inadequate revenge and decides to wait.'), ('line', 'Claudius, now frightened of Hamlet’s madness and fearing for his own safety, orders that Hamlet be sent to England at once.'), ('line', 'Hamlet goes to confront his mother, in whose bedchamber Polonius has hidden behind a tapestry.'), ('line', 'Hearing a noise from behind the tapestry, Hamlet believes the king is hiding there.'), ('line', 'He draws his sword and stabs through the fabric, killing Polonius.'), ('line', 'For this crime, he is immediately dispatched to England with Rosencrantz and Guildenstern.'), ('line', 'However, Claudius’s plan for Hamlet includes more than banishment, as he has given Rosencrantz and Guildenstern sealed orders for the King of England demanding that Hamlet be put to death.'), ('line', 'In the aftermath of her father’s death, Ophelia goes mad with grief and drowns in the river.'), ('line', 'Polonius’s son, Laertes, who has been staying in France, returns to Denmark in a rage.'), ('line', 'Claudius convinces him that Hamlet is to blame for his father’s and sister’s deaths.'), ('line', 'When Horatio and the king receive letters from Hamlet indicating that the prince has returned to Denmark after pirates attacked his ship en route to England, Claudius concocts a plan to use Laertes’ desire for revenge to secure Hamlet’s death.'), ('line', 'Laertes will fence with Hamlet in innocent sport, but Claudius will poison Laertes’ blade so that if he draws blood, Hamlet will die.'), ('line', 'As a backup plan, the king decides to poison a goblet, which he will give Hamlet to drink should Hamlet score the first or second hits of the match.'), ('line', 'Hamlet returns to the vicinity of Elsinore just as Ophelia’s funeral is taking place.'), ('line', 'Stricken with grief, he attacks Laertes and declares that he had in fact always loved Ophelia.'), ('line', 'Back at the castle, he tells Horatio that he believes one must be prepared to die, since death can come at any moment.'), ('line', 'A foolish courtier named Osric arrives on Claudius’s orders to arrange the fencing match between Hamlet and Laertes.'), ('line', 'The sword-fighting begins.'), ('line', 'Hamlet scores the first hit, but declines to drink from the king’s proffered goblet.'), ('line', 'Instead, Gertrude takes a drink from it and is swiftly killed by the poison.'), ('line', 'Laertes succeeds in wounding Hamlet, though Hamlet does not die of the poison immediately.'), ('line', 'First, Laertes is cut by his own sword’s blade, and, after revealing to Hamlet that Claudius is responsible for the queen’s death, he dies from the blade’s poison.'), ('line', 'Hamlet then stabs Claudius through with the poisoned sword and forces him to drink down the rest of the poisoned wine.'), ('line', 'Claudius dies, and Hamlet dies immediately after achieving his revenge.'), ('line', 'At this moment, a Norwegian prince named Fortinbras, who has led an army to Denmark and attacked Poland earlier in the play, enters with ambassadors from England, who report that Rosencrantz and Guildenstern are dead.'), ('line', 'Fortinbras is stunned by the gruesome sight of the entire royal family lying sprawled on the floor dead.'), ('line', 'He moves to take power of the kingdom.'), ('line', 'Horatio, fulfilling Hamlet’s last request, tells him Hamlet’s tragic story.'), ('line', 'Fortinbras orders that Hamlet be carried away in a manner befitting a fallen soldier.')]
-    # Load playText list from a file
-    # playText = eval(open('hamlet-modern.txt', 'r').read())
-    # Dummy sample text
-    # playText = [("line one", "John ate a sandwich. He is full. Sally ate soup. He is not hungry. She is hungry."), ("line two", "The music is too loud for it to be enjoyed. If they are angry about it, the neighbors will call the cops.")]
-    # Retrieve play text from postgres
-
     for play in modernPlays:
         startTime = time.time()
+
         print('Retrieving text for play: %s' % play)
-        playText = retrievePlayText()
+        playText = retrievePlayText(play)
         print('Retrieved text, substituting pronouns')
         playText = substitutePronouns(playText, verbose=False)
         print('Substituted pronouns, resolving coreferences')
@@ -362,16 +359,18 @@ def main():
         print('Dependencies parsed, extracting relationships')
         relations = extractRelationships(playText, verbose=False)
         print('Relationships extracted, post processing triples')
-        relations = postProcess(relations, verbose=False)
+        relations = postProcess(relations, play, verbose=False)
         print('Triples post processed, writing to DB')
-        writeToDB(relations, verbose=False)
+        writeToDB(relations, play, verbose=False)
         print('Relations written to DB, writing relations to file')
         writeToFile(relations, play + outputFile, verbose=False)
-        print('Relations written to file: %s' % outputFile)
+        print('Relations written to file: %s' % play + outputFile)
+
         endTime = time.time()
         totalSeconds = endTime - startTime
         m, s = divmod(totalSeconds, 60)
         h, m = divmod(m, 60)
+
         print('Done with %s, full pipeline took %d hours, %02d minutes, %02d seconds' % (play, h, m, s))
     return
 
